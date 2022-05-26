@@ -1,0 +1,84 @@
+﻿yearID,franchID,Team,W,D,L,Cwin,CRU,NWSL_Shield
+2013,BOS,Boston Breakers,8,6,8,N,N,N
+2013,CHI,Chicago Red Stars,8,6,8,N,N,N
+2013,KAN,FC Kansas City,11,5,6,N,N,N
+2013,NYF,New York Flash,10,8,4,N,Y,Y
+2013,NYG,Sky Blue FC,10,6,6,N,N,N
+2013,POR,Portland Thorns FC,11,5,6,Y,N,N
+2013,SEA,Seattle Reign FC,5,3,14,N,N,N
+2013,WAS,Washington Spirit,3,5,14,N,N,N
+2014,BOS,Boston Breakers,6,2,16,N,N,N
+2014,CHI,Chicago Red Stars,9,8,7,N,N,N
+2014,HOU,Houston Dash,5,3,16,N,N,N
+2014,KAN,FC Kansas City,12,5,7,Y,N,N
+2014,NYF,Western New York Flash,8,4,12,N,N,N
+2014,NYG,Sky Blue FC,9,7,8,N,N,N
+2014,POR,Portland Thorns FC,10,6,8,N,N,N
+2014,SEA,Seattle Reign FC,16,6,2,N,Y,Y
+2014,WAS,Washington Spirit,10,5,9,N,N,N
+2015,BOS,Boston Breakers,4,3,13,N,N,N
+2015,CHI,Chicago Red Stars,8,9,3,N,N,N
+2015,HOU,Houston Dash,6,6,8,N,N,N
+2015,KAN,FC Kansas City,9,5,6,Y,N,N
+2015,NYF,Western New York Flash,6,5,9,N,N,N
+2015,NYG,Sky Blue FC,5,7,8,N,N,N
+2015,POR,Portland Thorns FC,6,5,9,N,N,N
+2015,SEA,Seattle Reign FC,13,4,3,N,Y,Y
+2015,WAS,Washington Spirit,8,6,6,N,N,N
+2016,BOS,Boston Breakers,3,2,15,N,N,N
+2016,CHI,Chicago Red Stars,9,6,5,N,N,N
+2016,HOU,Houston Dash,6,4,10,N,N,N
+2016,KAN,FC Kansas City,7,5,6,N,N,N
+2016,NYF,Western New York Flash,9,5,6,Y,N,N
+2016,NYG,Sky Blue FC,7,5,8,N,N,N
+2016,ORL,Orlando Pride,6,1,13,N,N,N
+2016,POR,Portland Thorns FC,12,5,3,N,N,Y
+2016,SEA,Seattle Reign FC,8,6,6,N,N,N
+2016,WAS,Washington Spirit,12,3,5,N,Y,N
+2017,BOS,Boston Breakers,4,7,13,N,N,N
+2017,CHI,Chicago Red Stars,11,6,7,N,N,N
+2017,HOU,Houston Dash,7,3,14,N,N,N
+2017,KAN,FC Kansas City,8,7,9,N,N,N
+2017,NYF,North Carolina Courage,16,1,7,N,Y,Y
+2017,NYG,Sky Blue FC,10,3,11,N,N,N
+2017,ORL,Orlando Pride,11,7,6,N,N,N
+2017,POR,Portland Thorns FC,14,5,5,Y,N,N
+2017,SEA,Seattle Reign FC,9,7,8,N,N,N
+2017,WAS,Washington Spirit,5,4,15,N,N,N
+2018,CHI,Chicago Red Stars,9,10,5,N,N,N
+2018,HOU,Houston Dash,9,5,10,N,N,N
+2018,NYF,North Carolina Courage,17,6,1,Y,N,Y
+2018,NYG,Sky Blue FC,1,6,17,N,N,N
+2018,ORL,Orlando Pride,8,6,10,N,N,N
+2018,POR,Portland Thorns FC,12,6,6,N,Y,N
+2018,SEA,Seattle Reign FC,11,8,5,N,N,N
+2018,UTE,Utah Royals FC,9,8,7,N,N,N
+2018,WAS,Washington Spirit,2,5,17,N,N,N
+2019,CHI,Chicago Red Stars,14,2,8,N,Y,N
+2019,HOU,Houston Dash,7,5,12,N,N,N
+2019,NYF,North Carolina Courage,15,4,5,Y,N,Y
+2019,NYG,Sky Blue FC,5,5,14,N,N,N
+2019,ORL,Orlando Pride,4,4,16,N,N,N
+2019,POR,Portland Thorns FC,11,7,6,N,N,N
+2019,SEA,Reign FC,10,8,6,N,N,N
+2019,UTE,Utah Royals FC,10,4,10,N,N,N
+2019,WAS,Washington Spirit,9,7,8,N,N,N
+2020,CHI,Chicago Red Stars,1,1,2,N,Y,N
+2020,HOU,Houston Dash,3,0,1,Y,N,N
+2020,NYF,North Carolina Courage,1,2,1,N,N,N
+2020,NYG,Sky Blue FC,2,0,2,N,N,N
+2020,ORL,Orlando Pride,0,2,2,N,N,N
+2020,POR,Portland Thorns FC,3,1,0,N,N,Y
+2020,SEA,OL Reign,1,1,2,N,N,N
+2020,UTE,Utah Royals FC,0,2,2,N,N,N
+2020,WAS,Washington Spirit,2,1,1,N,N,N
+2021,CHI,Chicago Red Stars,11,5,8,N,Y,N
+2021,HOU,Houston Dash,9,5,10,N,N,N
+2021,KCC,Kansas City Current,3,7,14,N,N,N
+2021,LOU,Racing Louisville FC,5,7,12,N,N,N
+2021,NYF,North Carolina Courage,9,6,9,N,N,N
+2021,NYG,NJ/NY Gotham FC,8,11,5,N,N,N
+2021,ORL,Orlando Pride,7,7,10,N,N,N
+2021,POR,Portland Thorns FC,13,5,6,N,N,Y
+2021,SEA,OL Reign,13,3,8,N,N,N
+2021,WAS,Washington Spirit,11,6,7,Y,N,N

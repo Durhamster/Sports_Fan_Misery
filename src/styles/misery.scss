@@ -1,0 +1,174 @@
+@import "main";
+/* ---------------------------------------------------
+  Misery Calculator/Index.html
+--------------------------------------------------- */
+@mixin main_mix {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+#main_app {
+  @include main_mix();
+  margin-top: 60px;
+}
+
+/* Results/Error Messages & misery calc div */
+#misery_calc,
+#misery_inputs {
+  @include main_mix();
+}
+
+select {
+  font-weight: bold;
+  border: 0;
+  font-size: 14px;
+  margin-bottom: 1.5em;
+  margin-right: 1em;
+  &:focus option:first-of-type {
+    display: none;
+  }
+}
+
+#sports_input,
+#submit_btn {
+  margin-bottom: 1.5em;
+  background-color: $green;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 18px;
+  &:hover {
+    background-color: $dark_green;
+    cursor: pointer;
+  }
+}
+
+#birth_year {
+  margin-bottom: 1.5em;
+  display: none;
+}
+
+#submit_btn {
+  display: none;
+  margin-left: 0.5em;
+}
+
+#error_result1,
+#error_result2 {
+  display: none;
+}
+
+#misery_result {
+  opacity: 0;
+}
+
+/* Fade in/out effect */
+.show {
+  opacity: 1;
+  transition: opacity 700ms;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity 700ms;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+#back_link {
+  display: none;
+  text-align: center;
+  font-size: large;
+}
+
+#misery_level {
+  margin-bottom: 2.5em;
+}
+
+/* ---------------------------------------------------
+  Sports Selection Check Boxes
+--------------------------------------------------- */
+#sports_selection_error {
+  color: $white;
+}
+
+.sports_checkbox {
+  display: none;
+}
+
+#sports_selection {
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  input[type="checkbox"][id^="cb"] {
+    display: none;
+  }
+
+  label {
+    border: 1px solid #fff;
+    padding: 10px;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  label::before {
+    background-color: white;
+    color: white;
+    content: " ";
+    display: block;
+    border-radius: 50%;
+    border: 1px solid grey;
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 28px;
+    transition-duration: 0.4s;
+    transform: scale(0);
+  }
+
+  label img {
+    height: 150px;
+    width: 200px;
+    margin-right: 2.5em;
+    transition-duration: 0.2s;
+    transform-origin: 50% 50%;
+    border: 2px solid rgb(158, 158, 158);
+    border-radius: 20px;
+  }
+
+  :checked + label::before {
+    content: "✓";
+    background-color: $green;
+    transform: scale(1);
+  }
+
+  :checked + label img {
+    transform: scale(0.9);
+    box-shadow: 0 0 15px $green;
+    border: 2px solid $green;
+    z-index: -1;
+  }
+}

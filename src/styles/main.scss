@@ -1,0 +1,92 @@
+/* ---------------------------------------------------
+  Styles Used By All Pages
+--------------------------------------------------- */
+
+/* Color Vars */
+$crimson: #dc143c;
+$dark: #1b222c;
+$green: #4caf50;
+$dark_green: #428a44;
+$grey: #28313b;
+$grey_blue: #2c3e50;
+$white: #ffffff;
+$link-color: #4756df;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+body {
+  color: $grey_blue;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  &::-webkit-scrollbar {
+    width: 0.5rem !important;
+  }
+  &::-webkit-scrollbar-track {
+    background: $white !important;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: $dark !important;
+  }
+}
+
+#footer {
+  #footer_divider {
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 0.5em;
+  color: white;
+}
+  text-align: center;
+  p {
+    color: grey;
+    margin-top: 0em;
+    margin-bottom: 0.25em;
+  }
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    color: $link-color;
+  }
+}
+
+/* Page Loading Animation */
+.loading {
+  animation: fadeInAnimation ease 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  transition: margin-left 0.5s;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

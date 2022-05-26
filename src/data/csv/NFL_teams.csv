@@ -1,0 +1,2095 @@
+﻿yearID,franchID,Lg,Tm,W,L,T,Div. Finish,Playoffs,ch_sb_win,ch_sb_app
+2021,ARZ,NFL,Arizona Cardinals,11,6,0,2nd of 4,Lost WC,N,N
+2020,ARZ,NFL,Arizona Cardinals,8,8,0,3rd of 4,,N,N
+2019,ARZ,NFL,Arizona Cardinals,5,10,1,4th of 4,,N,N
+2018,ARZ,NFL,Arizona Cardinals,3,13,0,4th of 4,,N,N
+2017,ARZ,NFL,Arizona Cardinals,8,8,0,3rd of 4,,N,N
+2016,ARZ,NFL,Arizona Cardinals,7,8,1,2nd of 4,,N,N
+2015,ARZ,NFL,Arizona Cardinals,13,3,0,1st of 4,Lost Conf,N,N
+2014,ARZ,NFL,Arizona Cardinals,11,5,0,2nd of 4,Lost WC,N,N
+2013,ARZ,NFL,Arizona Cardinals,10,6,0,3rd of 4,,N,N
+2012,ARZ,NFL,Arizona Cardinals,5,11,0,4th of 4,,N,N
+2011,ARZ,NFL,Arizona Cardinals,8,8,0,2nd of 4,,N,N
+2010,ARZ,NFL,Arizona Cardinals,5,11,0,4th of 4,,N,N
+2009,ARZ,NFL,Arizona Cardinals,10,6,0,1st of 4,Lost Div,N,N
+2008,ARZ,NFL,Arizona Cardinals,9,7,0,1st of 4,Lost SB,N,Y
+2007,ARZ,NFL,Arizona Cardinals,8,8,0,2nd of 4,,N,N
+2006,ARZ,NFL,Arizona Cardinals,5,11,0,4th of 4,,N,N
+2005,ARZ,NFL,Arizona Cardinals,5,11,0,3rd of 4,,N,N
+2004,ARZ,NFL,Arizona Cardinals,6,10,0,3rd of 4,,N,N
+2003,ARZ,NFL,Arizona Cardinals,4,12,0,4th of 4,,N,N
+2002,ARZ,NFL,Arizona Cardinals,5,11,0,4th of 4,,N,N
+2001,ARZ,NFL,Arizona Cardinals,7,9,0,4th of 5,,N,N
+2000,ARZ,NFL,Arizona Cardinals,3,13,0,5th of 5,,N,N
+1999,ARZ,NFL,Arizona Cardinals,6,10,0,4th of 5,,N,N
+1998,ARZ,NFL,Arizona Cardinals,9,7,0,2nd of 5,Lost Div,N,N
+1997,ARZ,NFL,Arizona Cardinals,4,12,0,5th of 5,,N,N
+1996,ARZ,NFL,Arizona Cardinals,7,9,0,4th of 5,,N,N
+1995,ARZ,NFL,Arizona Cardinals,4,12,0,5th of 5,,N,N
+1994,ARZ,NFL,Arizona Cardinals,8,8,0,3rd of 5,,N,N
+1993,ARZ,NFL,Phoenix Cardinals,7,9,0,4th of 5,,N,N
+1992,ARZ,NFL,Phoenix Cardinals,4,12,0,5th of 5,,N,N
+1991,ARZ,NFL,Phoenix Cardinals,4,12,0,5th of 5,,N,N
+1990,ARZ,NFL,Phoenix Cardinals,5,11,0,5th of 5,,N,N
+1989,ARZ,NFL,Phoenix Cardinals,5,11,0,4th of 5,,N,N
+1988,ARZ,NFL,Phoenix Cardinals,7,9,0,4th of 5,,N,N
+1987,ARZ,NFL,St. Louis Cardinals,7,8,0,3rd of 5,,N,N
+1986,ARZ,NFL,St. Louis Cardinals,4,11,1,5th of 5,,N,N
+1985,ARZ,NFL,St. Louis Cardinals,5,11,0,5th of 5,,N,N
+1984,ARZ,NFL,St. Louis Cardinals,9,7,0,3rd of 5,,N,N
+1983,ARZ,NFL,St. Louis Cardinals,8,7,1,3rd of 5,,N,N
+1982,ARZ,NFL,St. Louis Cardinals,5,4,0,3rd of 5,Lost WC,N,N
+1981,ARZ,NFL,St. Louis Cardinals,7,9,0,5th of 5,,N,N
+1980,ARZ,NFL,St. Louis Cardinals,5,11,0,4th of 5,,N,N
+1979,ARZ,NFL,St. Louis Cardinals,5,11,0,5th of 5,,N,N
+1978,ARZ,NFL,St. Louis Cardinals,6,10,0,4th of 5,,N,N
+1977,ARZ,NFL,St. Louis Cardinals,7,7,0,3rd of 5,,N,N
+1976,ARZ,NFL,St. Louis Cardinals,10,4,0,3rd of 5,,N,N
+1975,ARZ,NFL,St. Louis Cardinals,11,3,0,1st of 5,Lost Div,N,N
+1974,ARZ,NFL,St. Louis Cardinals,10,4,0,1st of 5,Lost Div,N,N
+1973,ARZ,NFL,St. Louis Cardinals,4,9,1,4th of 5,,N,N
+1972,ARZ,NFL,St. Louis Cardinals,4,9,1,4th of 5,,N,N
+1971,ARZ,NFL,St. Louis Cardinals,4,9,1,4th of 5,,N,N
+1970,ARZ,NFL,St. Louis Cardinals,8,5,1,3rd of 5,,N,N
+1969,ARZ,NFL,St. Louis Cardinals,4,9,1,3rd of 4,,N,N
+1968,ARZ,NFL,St. Louis Cardinals,9,4,1,2nd of 4,,N,N
+1967,ARZ,NFL,St. Louis Cardinals,6,7,1,3rd of 4,,N,N
+1966,ARZ,NFL,St. Louis Cardinals,8,5,1,4th of 8,,N,N
+1965,ARZ,NFL,St. Louis Cardinals,5,9,0,5th of 7,,N,N
+1964,ARZ,NFL,St. Louis Cardinals,9,3,2,2nd of 7,,N,N
+1963,ARZ,NFL,St. Louis Cardinals,9,5,0,3rd of 7,,N,N
+1962,ARZ,NFL,St. Louis Cardinals,4,9,1,6th of 7,,N,N
+1961,ARZ,NFL,St. Louis Cardinals,7,7,0,4th of 7,,N,N
+1960,ARZ,NFL,St. Louis Cardinals,6,5,1,4th of 6,,N,N
+1959,ARZ,NFL,Chicago Cardinals,2,10,0,6th of 6,,N,N
+1958,ARZ,NFL,Chicago Cardinals,2,9,1,5th of 6,,N,N
+1957,ARZ,NFL,Chicago Cardinals,3,9,0,6th of 6,,N,N
+1956,ARZ,NFL,Chicago Cardinals,7,5,0,2nd of 6,,N,N
+1955,ARZ,NFL,Chicago Cardinals,4,7,1,4th of 6,,N,N
+1954,ARZ,NFL,Chicago Cardinals,2,10,0,6th of 6,,N,N
+1953,ARZ,NFL,Chicago Cardinals,1,10,1,6th of 6,,N,N
+1952,ARZ,NFL,Chicago Cardinals,4,8,0,5th of 6,,N,N
+1951,ARZ,NFL,Chicago Cardinals,3,9,0,6th of 6,,N,N
+1950,ARZ,NFL,Chicago Cardinals,5,7,0,5th of 6,,N,N
+1949,ARZ,NFL,Chicago Cardinals,6,5,1,3rd of 5,,N,N
+1948,ARZ,NFL,Chicago Cardinals,11,1,0,1st of 5,Lost Champ,N,Y
+1947,ARZ,NFL,Chicago Cardinals,9,3,0,1st of 5,Won Champ,Y,Y
+1946,ARZ,NFL,Chicago Cardinals,6,5,0,3rd of 5,,N,N
+1945,ARZ,NFL,Chicago Cardinals,1,9,0,5th of 5,,N,N
+1944,ARZ,NFL,Chi/Pit Cards/Steelers,0,10,0,5th of 5,,N,N
+1943,ARZ,NFL,Chicago Cardinals,0,10,0,4th of 4,,N,N
+1942,ARZ,NFL,Chicago Cardinals,3,8,0,4th of 5,,N,N
+1941,ARZ,NFL,Chicago Cardinals,3,7,1,4th of 5,,N,N
+1940,ARZ,NFL,Chicago Cardinals,2,7,2,5th of 5,,N,N
+1939,ARZ,NFL,Chicago Cardinals,1,10,0,5th of 5,,N,N
+1938,ARZ,NFL,Chicago Cardinals,2,9,0,5th of 5,,N,N
+1937,ARZ,NFL,Chicago Cardinals,5,5,1,4th of 5,,N,N
+1936,ARZ,NFL,Chicago Cardinals,3,8,1,4th of 4,,N,N
+1935,ARZ,NFL,Chicago Cardinals,6,4,2,3rd of 4,,N,N
+1934,ARZ,NFL,Chicago Cardinals,5,6,0,4th of 6,,N,N
+1933,ARZ,NFL,Chicago Cardinals,1,9,1,5th of 5,,N,N
+1932,ARZ,NFL,Chicago Cardinals,2,6,2,6th of 8,,N,N
+1931,ARZ,NFL,Chicago Cardinals,5,4,0,4th of 10,,N,N
+1930,ARZ,NFL,Chicago Cardinals,5,6,2,7th of 11,,N,N
+1929,ARZ,NFL,Chicago Cardinals,6,6,1,4th of 12,,N,N
+1928,ARZ,NFL,Chicago Cardinals,1,5,0,9th of 10,,N,N
+1927,ARZ,NFL,Chicago Cardinals,3,7,1,9th of 12,,N,N
+1926,ARZ,NFL,Chicago Cardinals,5,6,1,10th of 22,,N,N
+1925,ARZ,NFL,Chicago Cardinals,11,2,1,1st of 20,Won Champ,Y,Y
+1924,ARZ,NFL,Chicago Cardinals,5,4,1,8th of 18,,N,N
+1923,ARZ,NFL,Chicago Cardinals,8,4,0,6th of 20,,N,N
+1922,ARZ,NFL,Chicago Cardinals,8,3,0,3rd of 18,,N,N
+1921,ARZ,APFA,Chicago Cardinals,3,3,2,8th of 21,,N,N
+1920,ARZ,APFA,Chicago Cardinals,6,2,2,4th of 14,,N,N
+2021,ATL,NFL,Atlanta Falcons,7,10,0,3rd of 4,,N,N
+2020,ATL,NFL,Atlanta Falcons,4,12,0,4th of 4,,N,N
+2019,ATL,NFL,Atlanta Falcons,7,9,0,2nd of 4,,N,N
+2018,ATL,NFL,Atlanta Falcons,7,9,0,2nd of 4,,N,N
+2017,ATL,NFL,Atlanta Falcons,10,6,0,3rd of 4,Lost Div,N,N
+2016,ATL,NFL,Atlanta Falcons,11,5,0,1st of 4,Lost SB,N,Y
+2015,ATL,NFL,Atlanta Falcons,8,8,0,2nd of 4,,N,N
+2014,ATL,NFL,Atlanta Falcons,6,10,0,3rd of 4,,N,N
+2013,ATL,NFL,Atlanta Falcons,4,12,0,3rd of 4,,N,N
+2012,ATL,NFL,Atlanta Falcons,13,3,0,1st of 4,Lost Conf,N,N
+2011,ATL,NFL,Atlanta Falcons,10,6,0,2nd of 4,Lost WC,N,N
+2010,ATL,NFL,Atlanta Falcons,13,3,0,1st of 4,Lost Div,N,N
+2009,ATL,NFL,Atlanta Falcons,9,7,0,2nd of 4,,N,N
+2008,ATL,NFL,Atlanta Falcons,11,5,0,2nd of 4,Lost WC,N,N
+2007,ATL,NFL,Atlanta Falcons,4,12,0,4th of 4,,N,N
+2006,ATL,NFL,Atlanta Falcons,7,9,0,3rd of 4,,N,N
+2005,ATL,NFL,Atlanta Falcons,8,8,0,3rd of 4,,N,N
+2004,ATL,NFL,Atlanta Falcons,11,5,0,1st of 4,Lost Conf,N,N
+2003,ATL,NFL,Atlanta Falcons,5,11,0,4th of 4,,N,N
+2002,ATL,NFL,Atlanta Falcons,9,6,1,2nd of 4,Lost Div,N,N
+2001,ATL,NFL,Atlanta Falcons,7,9,0,4th of 5,,N,N
+2000,ATL,NFL,Atlanta Falcons,4,12,0,5th of 5,,N,N
+1999,ATL,NFL,Atlanta Falcons,5,11,0,3rd of 5,,N,N
+1998,ATL,NFL,Atlanta Falcons,14,2,0,1st of 5,Lost SB,N,Y
+1997,ATL,NFL,Atlanta Falcons,7,9,0,3rd of 5,,N,N
+1996,ATL,NFL,Atlanta Falcons,3,13,0,4th of 5,,N,N
+1995,ATL,NFL,Atlanta Falcons,9,7,0,2nd of 5,Lost WC,N,N
+1994,ATL,NFL,Atlanta Falcons,7,9,0,3rd of 4,,N,N
+1993,ATL,NFL,Atlanta Falcons,6,10,0,3rd of 4,,N,N
+1992,ATL,NFL,Atlanta Falcons,6,10,0,3rd of 4,,N,N
+1991,ATL,NFL,Atlanta Falcons,10,6,0,2nd of 4,Lost Div,N,N
+1990,ATL,NFL,Atlanta Falcons,5,11,0,4th of 4,,N,N
+1989,ATL,NFL,Atlanta Falcons,3,13,0,4th of 4,,N,N
+1988,ATL,NFL,Atlanta Falcons,5,11,0,4th of 4,,N,N
+1987,ATL,NFL,Atlanta Falcons,3,12,0,4th of 4,,N,N
+1986,ATL,NFL,Atlanta Falcons,7,8,1,3rd of 4,,N,N
+1985,ATL,NFL,Atlanta Falcons,4,12,0,4th of 4,,N,N
+1984,ATL,NFL,Atlanta Falcons,4,12,0,4th of 4,,N,N
+1983,ATL,NFL,Atlanta Falcons,7,9,0,4th of 4,,N,N
+1982,ATL,NFL,Atlanta Falcons,5,4,0,1st of 4,Lost WC,N,N
+1981,ATL,NFL,Atlanta Falcons,7,9,0,2nd of 4,,N,N
+1980,ATL,NFL,Atlanta Falcons,12,4,0,1st of 4,Lost Div,N,N
+1979,ATL,NFL,Atlanta Falcons,6,10,0,3rd of 4,,N,N
+1978,ATL,NFL,Atlanta Falcons,9,7,0,2nd of 4,Lost Div,N,N
+1977,ATL,NFL,Atlanta Falcons,7,7,0,2nd of 4,,N,N
+1976,ATL,NFL,Atlanta Falcons,4,10,0,3rd of 5,,N,N
+1975,ATL,NFL,Atlanta Falcons,4,10,0,3rd of 4,,N,N
+1974,ATL,NFL,Atlanta Falcons,3,11,0,4th of 4,,N,N
+1973,ATL,NFL,Atlanta Falcons,9,5,0,2nd of 4,,N,N
+1972,ATL,NFL,Atlanta Falcons,7,7,0,2nd of 4,,N,N
+1971,ATL,NFL,Atlanta Falcons,7,6,1,3rd of 4,,N,N
+1970,ATL,NFL,Atlanta Falcons,4,8,2,3rd of 4,,N,N
+1969,ATL,NFL,Atlanta Falcons,6,8,0,3rd of 4,,N,N
+1968,ATL,NFL,Atlanta Falcons,2,12,0,4th of 4,,N,N
+1967,ATL,NFL,Atlanta Falcons,1,12,1,4th of 4,,N,N
+1966,ATL,NFL,Atlanta Falcons,3,11,0,7th of 8,,N,N
+2021,BAL,NFL,Baltimore Ravens,8,9,0,4th of 4,,N,N
+2020,BAL,NFL,Baltimore Ravens,11,5,0,2nd of 4,Lost Div,N,N
+2019,BAL,NFL,Baltimore Ravens,14,2,0,1st of 4,Lost Div,N,N
+2018,BAL,NFL,Baltimore Ravens,10,6,0,1st of 4,Lost WC,N,N
+2017,BAL,NFL,Baltimore Ravens,9,7,0,2nd of 4,,N,N
+2016,BAL,NFL,Baltimore Ravens,8,8,0,2nd of 4,,N,N
+2015,BAL,NFL,Baltimore Ravens,5,11,0,3rd of 4,,N,N
+2014,BAL,NFL,Baltimore Ravens,10,6,0,3rd of 4,Lost Div,N,N
+2013,BAL,NFL,Baltimore Ravens,8,8,0,3rd of 4,,N,N
+2012,BAL,NFL,Baltimore Ravens,10,6,0,1st of 4,Won SB,Y,Y
+2011,BAL,NFL,Baltimore Ravens,12,4,0,1st of 4,Lost Conf,N,N
+2010,BAL,NFL,Baltimore Ravens,12,4,0,2nd of 4,Lost Div,N,N
+2009,BAL,NFL,Baltimore Ravens,9,7,0,2nd of 4,Lost Div,N,N
+2008,BAL,NFL,Baltimore Ravens,11,5,0,2nd of 4,Lost Conf,N,N
+2007,BAL,NFL,Baltimore Ravens,5,11,0,4th of 4,,N,N
+2006,BAL,NFL,Baltimore Ravens,13,3,0,1st of 4,Lost Div,N,N
+2005,BAL,NFL,Baltimore Ravens,6,10,0,3rd of 4,,N,N
+2004,BAL,NFL,Baltimore Ravens,9,7,0,2nd of 4,,N,N
+2003,BAL,NFL,Baltimore Ravens,10,6,0,1st of 4,Lost WC,N,N
+2002,BAL,NFL,Baltimore Ravens,7,9,0,3rd of 4,,N,N
+2001,BAL,NFL,Baltimore Ravens,10,6,0,2nd of 6,Lost Div,N,N
+2000,BAL,NFL,Baltimore Ravens,12,4,0,2nd of 6,Won SB,Y,Y
+1999,BAL,NFL,Baltimore Ravens,8,8,0,3rd of 6,,N,N
+1998,BAL,NFL,Baltimore Ravens,6,10,0,4th of 5,,N,N
+1997,BAL,NFL,Baltimore Ravens,6,9,1,5th of 5,,N,N
+1996,BAL,NFL,Baltimore Ravens,4,12,0,5th of 5,,N,N
+2021,BUF,NFL,Buffalo Bills,11,6,0,1st of 4,Lost Div,N,N
+2020,BUF,NFL,Buffalo Bills,13,3,0,1st of 4,Lost Conf,N,N
+2019,BUF,NFL,Buffalo Bills,10,6,0,2nd of 4,Lost WC,N,N
+2018,BUF,NFL,Buffalo Bills,6,10,0,3rd of 4,,N,N
+2017,BUF,NFL,Buffalo Bills,9,7,0,2nd of 4,Lost WC,N,N
+2016,BUF,NFL,Buffalo Bills,7,9,0,3rd of 4,,N,N
+2015,BUF,NFL,Buffalo Bills,8,8,0,3rd of 4,,N,N
+2014,BUF,NFL,Buffalo Bills,9,7,0,2nd of 4,,N,N
+2013,BUF,NFL,Buffalo Bills,6,10,0,4th of 4,,N,N
+2012,BUF,NFL,Buffalo Bills,6,10,0,4th of 4,,N,N
+2011,BUF,NFL,Buffalo Bills,6,10,0,4th of 4,,N,N
+2010,BUF,NFL,Buffalo Bills,4,12,0,4th of 4,,N,N
+2009,BUF,NFL,Buffalo Bills,6,10,0,4th of 4,,N,N
+2008,BUF,NFL,Buffalo Bills,7,9,0,4th of 4,,N,N
+2007,BUF,NFL,Buffalo Bills,7,9,0,2nd of 4,,N,N
+2006,BUF,NFL,Buffalo Bills,7,9,0,3rd of 4,,N,N
+2005,BUF,NFL,Buffalo Bills,5,11,0,3rd of 4,,N,N
+2004,BUF,NFL,Buffalo Bills,9,7,0,3rd of 4,,N,N
+2003,BUF,NFL,Buffalo Bills,6,10,0,3rd of 4,,N,N
+2002,BUF,NFL,Buffalo Bills,8,8,0,4th of 4,,N,N
+2001,BUF,NFL,Buffalo Bills,3,13,0,5th of 5,,N,N
+2000,BUF,NFL,Buffalo Bills,8,8,0,4th of 5,,N,N
+1999,BUF,NFL,Buffalo Bills,11,5,0,2nd of 5,Lost WC,N,N
+1998,BUF,NFL,Buffalo Bills,10,6,0,3rd of 5,Lost WC,N,N
+1997,BUF,NFL,Buffalo Bills,6,10,0,4th of 5,,N,N
+1996,BUF,NFL,Buffalo Bills,10,6,0,2nd of 5,Lost WC,N,N
+1995,BUF,NFL,Buffalo Bills,10,6,0,1st of 5,Lost Div,N,N
+1994,BUF,NFL,Buffalo Bills,7,9,0,4th of 5,,N,N
+1993,BUF,NFL,Buffalo Bills,12,4,0,1st of 5,Lost SB,N,Y
+1992,BUF,NFL,Buffalo Bills,11,5,0,2nd of 5,Lost SB,N,Y
+1991,BUF,NFL,Buffalo Bills,13,3,0,1st of 5,Lost SB,N,Y
+1990,BUF,NFL,Buffalo Bills,13,3,0,1st of 5,Lost SB,N,Y
+1989,BUF,NFL,Buffalo Bills,9,7,0,1st of 5,Lost Div,N,N
+1988,BUF,NFL,Buffalo Bills,12,4,0,1st of 5,Lost Conf,N,N
+1987,BUF,NFL,Buffalo Bills,7,8,0,4th of 5,,N,N
+1986,BUF,NFL,Buffalo Bills,4,12,0,4th of 5,,N,N
+1985,BUF,NFL,Buffalo Bills,2,14,0,5th of 5,,N,N
+1984,BUF,NFL,Buffalo Bills,2,14,0,5th of 5,,N,N
+1983,BUF,NFL,Buffalo Bills,8,8,0,3rd of 5,,N,N
+1982,BUF,NFL,Buffalo Bills,4,5,0,4th of 5,,N,N
+1981,BUF,NFL,Buffalo Bills,10,6,0,3rd of 5,Lost Div,N,N
+1980,BUF,NFL,Buffalo Bills,11,5,0,1st of 5,Lost Div,N,N
+1979,BUF,NFL,Buffalo Bills,7,9,0,4th of 5,,N,N
+1978,BUF,NFL,Buffalo Bills,5,11,0,4th of 5,,N,N
+1977,BUF,NFL,Buffalo Bills,3,11,0,4th of 5,,N,N
+1976,BUF,NFL,Buffalo Bills,2,12,0,5th of 5,,N,N
+1975,BUF,NFL,Buffalo Bills,8,6,0,3rd of 5,,N,N
+1974,BUF,NFL,Buffalo Bills,9,5,0,2nd of 5,Lost Div,N,N
+1973,BUF,NFL,Buffalo Bills,9,5,0,2nd of 5,,N,N
+1972,BUF,NFL,Buffalo Bills,4,9,1,4th of 5,,N,N
+1971,BUF,NFL,Buffalo Bills,1,13,0,5th of 5,,N,N
+1970,BUF,NFL,Buffalo Bills,3,10,1,4th of 5,,N,N
+1969,BUF,AFL,Buffalo Bills,4,10,0,3rd of 5,,N,N
+1968,BUF,AFL,Buffalo Bills,1,12,1,5th of 5,,N,N
+1967,BUF,AFL,Buffalo Bills,4,10,0,3rd of 5,,N,N
+1966,BUF,AFL,Buffalo Bills,9,4,1,1st of 5,Lost Conf,N,N
+1965,BUF,AFL,Buffalo Bills,10,3,1,1st of 4,Won Champ,Y,Y
+1964,BUF,AFL,Buffalo Bills,12,2,0,1st of 4,Won Champ,Y,Y
+1963,BUF,AFL,Buffalo Bills,7,6,1,1st of 4,Lost Div,N,N
+1962,BUF,AFL,Buffalo Bills,7,6,1,3rd of 4,,N,N
+1961,BUF,AFL,Buffalo Bills,6,8,0,4th of 4,,N,N
+1960,BUF,AFL,Buffalo Bills,5,8,1,3rd of 4,,N,N
+2021,CAR,NFL,Carolina Panthers,5,12,0,4th of 4,,N,N
+2020,CAR,NFL,Carolina Panthers,5,11,0,3rd of 4,,N,N
+2019,CAR,NFL,Carolina Panthers,5,11,0,4th of 4,,N,N
+2018,CAR,NFL,Carolina Panthers,7,9,0,3rd of 4,,N,N
+2017,CAR,NFL,Carolina Panthers,11,5,0,2nd of 4,Lost WC,N,N
+2016,CAR,NFL,Carolina Panthers,6,10,0,4th of 4,,N,N
+2015,CAR,NFL,Carolina Panthers,15,1,0,1st of 4,Lost SB,N,Y
+2014,CAR,NFL,Carolina Panthers,7,8,1,1st of 4,Lost Div,N,N
+2013,CAR,NFL,Carolina Panthers,12,4,0,1st of 4,Lost Div,N,N
+2012,CAR,NFL,Carolina Panthers,7,9,0,2nd of 4,,N,N
+2011,CAR,NFL,Carolina Panthers,6,10,0,3rd of 4,,N,N
+2010,CAR,NFL,Carolina Panthers,2,14,0,4th of 4,,N,N
+2009,CAR,NFL,Carolina Panthers,8,8,0,3rd of 4,,N,N
+2008,CAR,NFL,Carolina Panthers,12,4,0,1st of 4,Lost Div,N,N
+2007,CAR,NFL,Carolina Panthers,7,9,0,2nd of 4,,N,N
+2006,CAR,NFL,Carolina Panthers,8,8,0,2nd of 4,,N,N
+2005,CAR,NFL,Carolina Panthers,11,5,0,2nd of 4,Lost Conf,N,N
+2004,CAR,NFL,Carolina Panthers,7,9,0,3rd of 4,,N,N
+2003,CAR,NFL,Carolina Panthers,11,5,0,1st of 4,Lost SB,N,Y
+2002,CAR,NFL,Carolina Panthers,7,9,0,4th of 4,,N,N
+2001,CAR,NFL,Carolina Panthers,1,15,0,5th of 5,,N,N
+2000,CAR,NFL,Carolina Panthers,7,9,0,3rd of 5,,N,N
+1999,CAR,NFL,Carolina Panthers,8,8,0,2nd of 5,,N,N
+1998,CAR,NFL,Carolina Panthers,4,12,0,4th of 5,,N,N
+1997,CAR,NFL,Carolina Panthers,7,9,0,2nd of 5,,N,N
+1996,CAR,NFL,Carolina Panthers,12,4,0,1st of 5,Lost Conf,N,N
+1995,CAR,NFL,Carolina Panthers,7,9,0,4th of 5,,N,N
+2021,CHI,NFL,Chicago Bears,6,11,0,3rd of 4,,N,N
+2020,CHI,NFL,Chicago Bears,8,8,0,2nd of 4,Lost WC,N,N
+2019,CHI,NFL,Chicago Bears,8,8,0,3rd of 4,,N,N
+2018,CHI,NFL,Chicago Bears,12,4,0,1st of 4,Lost WC,N,N
+2017,CHI,NFL,Chicago Bears,5,11,0,4th of 4,,N,N
+2016,CHI,NFL,Chicago Bears,3,13,0,4th of 4,,N,N
+2015,CHI,NFL,Chicago Bears,6,10,0,4th of 4,,N,N
+2014,CHI,NFL,Chicago Bears,5,11,0,4th of 4,,N,N
+2013,CHI,NFL,Chicago Bears,8,8,0,2nd of 4,,N,N
+2012,CHI,NFL,Chicago Bears,10,6,0,3rd of 4,,N,N
+2011,CHI,NFL,Chicago Bears,8,8,0,3rd of 4,,N,N
+2010,CHI,NFL,Chicago Bears,11,5,0,1st of 4,Lost Conf,N,N
+2009,CHI,NFL,Chicago Bears,7,9,0,3rd of 4,,N,N
+2008,CHI,NFL,Chicago Bears,9,7,0,2nd of 4,,N,N
+2007,CHI,NFL,Chicago Bears,7,9,0,4th of 4,,N,N
+2006,CHI,NFL,Chicago Bears,13,3,0,1st of 4,Lost SB,N,Y
+2005,CHI,NFL,Chicago Bears,11,5,0,1st of 4,Lost Div,N,N
+2004,CHI,NFL,Chicago Bears,5,11,0,4th of 4,,N,N
+2003,CHI,NFL,Chicago Bears,7,9,0,3rd of 4,,N,N
+2002,CHI,NFL,Chicago Bears,4,12,0,3rd of 4,,N,N
+2001,CHI,NFL,Chicago Bears,13,3,0,1st of 5,Lost Div,N,N
+2000,CHI,NFL,Chicago Bears,5,11,0,5th of 5,,N,N
+1999,CHI,NFL,Chicago Bears,6,10,0,5th of 5,,N,N
+1998,CHI,NFL,Chicago Bears,4,12,0,5th of 5,,N,N
+1997,CHI,NFL,Chicago Bears,4,12,0,5th of 5,,N,N
+1996,CHI,NFL,Chicago Bears,7,9,0,3rd of 5,,N,N
+1995,CHI,NFL,Chicago Bears,9,7,0,3rd of 5,,N,N
+1994,CHI,NFL,Chicago Bears,9,7,0,4th of 5,Lost Div,N,N
+1993,CHI,NFL,Chicago Bears,7,9,0,4th of 5,,N,N
+1992,CHI,NFL,Chicago Bears,5,11,0,4th of 5,,N,N
+1991,CHI,NFL,Chicago Bears,11,5,0,2nd of 5,Lost WC,N,N
+1990,CHI,NFL,Chicago Bears,11,5,0,1st of 5,Lost Div,N,N
+1989,CHI,NFL,Chicago Bears,6,10,0,4th of 5,,N,N
+1988,CHI,NFL,Chicago Bears,12,4,0,1st of 5,Lost Conf,N,N
+1987,CHI,NFL,Chicago Bears,11,4,0,1st of 5,Lost Div,N,N
+1986,CHI,NFL,Chicago Bears,14,2,0,1st of 5,Lost Div,N,N
+1985,CHI,NFL,Chicago Bears,15,1,0,1st of 5,Won SB,Y,Y
+1984,CHI,NFL,Chicago Bears,10,6,0,1st of 5,Lost Conf,N,N
+1983,CHI,NFL,Chicago Bears,8,8,0,3rd of 5,,N,N
+1982,CHI,NFL,Chicago Bears,3,6,0,5th of 5,,N,N
+1981,CHI,NFL,Chicago Bears,6,10,0,5th of 5,,N,N
+1980,CHI,NFL,Chicago Bears,7,9,0,3rd of 5,,N,N
+1979,CHI,NFL,Chicago Bears,10,6,0,2nd of 5,Lost WC,N,N
+1978,CHI,NFL,Chicago Bears,7,9,0,4th of 5,,N,N
+1977,CHI,NFL,Chicago Bears,9,5,0,2nd of 5,Lost Div,N,N
+1976,CHI,NFL,Chicago Bears,7,7,0,2nd of 4,,N,N
+1975,CHI,NFL,Chicago Bears,4,10,0,3rd of 4,,N,N
+1974,CHI,NFL,Chicago Bears,4,10,0,4th of 4,,N,N
+1973,CHI,NFL,Chicago Bears,3,11,0,4th of 4,,N,N
+1972,CHI,NFL,Chicago Bears,4,9,1,4th of 4,,N,N
+1971,CHI,NFL,Chicago Bears,6,8,0,3rd of 4,,N,N
+1970,CHI,NFL,Chicago Bears,6,8,0,4th of 4,,N,N
+1969,CHI,NFL,Chicago Bears,1,13,0,4th of 4,,N,N
+1968,CHI,NFL,Chicago Bears,7,7,0,2nd of 4,,N,N
+1967,CHI,NFL,Chicago Bears,7,6,1,2nd of 4,,N,N
+1966,CHI,NFL,Chicago Bears,5,7,2,5th of 7,,N,N
+1965,CHI,NFL,Chicago Bears,9,5,0,3rd of 7,,N,N
+1964,CHI,NFL,Chicago Bears,5,9,0,6th of 7,,N,N
+1963,CHI,NFL,Chicago Bears,11,1,2,1st of 7,Won Champ,Y,Y
+1962,CHI,NFL,Chicago Bears,9,5,0,3rd of 7,,N,N
+1961,CHI,NFL,Chicago Bears,8,6,0,3rd of 7,,N,N
+1960,CHI,NFL,Chicago Bears,5,6,1,5th of 7,,N,N
+1959,CHI,NFL,Chicago Bears,8,4,0,2nd of 6,,N,N
+1958,CHI,NFL,Chicago Bears,8,4,0,2nd of 6,,N,N
+1957,CHI,NFL,Chicago Bears,5,7,0,5th of 6,,N,N
+1956,CHI,NFL,Chicago Bears,9,2,1,1st of 6,Lost Champ,N,Y
+1955,CHI,NFL,Chicago Bears,8,4,0,2nd of 6,,N,N
+1954,CHI,NFL,Chicago Bears,8,4,0,2nd of 6,,N,N
+1953,CHI,NFL,Chicago Bears,3,8,1,4th of 6,,N,N
+1952,CHI,NFL,Chicago Bears,5,7,0,5th of 6,,N,N
+1951,CHI,NFL,Chicago Bears,7,5,0,4th of 6,,N,N
+1950,CHI,NFL,Chicago Bears,9,3,0,1st of 7,Lost Div,N,N
+1949,CHI,NFL,Chicago Bears,9,3,0,2nd of 5,,N,N
+1948,CHI,NFL,Chicago Bears,10,2,0,2nd of 5,,N,N
+1947,CHI,NFL,Chicago Bears,8,4,0,2nd of 5,,N,N
+1946,CHI,NFL,Chicago Bears,8,2,1,1st of 5,Won Champ,Y,Y
+1945,CHI,NFL,Chicago Bears,3,7,0,4th of 5,,N,N
+1944,CHI,NFL,Chicago Bears,6,3,1,2nd of 5,,N,N
+1943,CHI,NFL,Chicago Bears,8,1,1,1st of 4,Won Champ,Y,Y
+1942,CHI,NFL,Chicago Bears,11,0,0,1st of 5,Lost Champ,N,Y
+1941,CHI,NFL,Chicago Bears,10,1,0,1st of 5,Won Champ,Y,Y
+1940,CHI,NFL,Chicago Bears,8,3,0,1st of 5,Won Champ,Y,Y
+1939,CHI,NFL,Chicago Bears,8,3,0,2nd of 5,,N,N
+1938,CHI,NFL,Chicago Bears,6,5,0,3rd of 5,,N,N
+1937,CHI,NFL,Chicago Bears,9,1,1,1st of 5,Lost Champ,N,Y
+1936,CHI,NFL,Chicago Bears,9,3,0,2nd of 4,,N,N
+1935,CHI,NFL,Chicago Bears,6,4,2,3rd of 4,,N,N
+1934,CHI,NFL,Chicago Bears,13,0,0,1st of 6,Lost Champ,N,Y
+1933,CHI,NFL,Chicago Bears,10,2,1,1st of 5,Won Champ,Y,Y
+1932,CHI,NFL,Chicago Bears,7,1,6,1st of 8,Won Champ,Y,Y
+1931,CHI,NFL,Chicago Bears,8,5,0,3rd of 10,,N,N
+1930,CHI,NFL,Chicago Bears,9,4,1,3rd of 11,,N,N
+1929,CHI,NFL,Chicago Bears,4,9,2,9th of 12,,N,N
+1928,CHI,NFL,Chicago Bears,7,5,1,5th of 10,,N,N
+1927,CHI,NFL,Chicago Bears,9,3,2,3rd of 12,,N,N
+1926,CHI,NFL,Chicago Bears,12,1,3,2nd of 22,,N,N
+1925,CHI,NFL,Chicago Bears,9,5,3,7th of 20,,N,N
+1924,CHI,NFL,Chicago Bears,6,1,4,2nd of 18,,N,N
+1923,CHI,NFL,Chicago Bears,9,2,1,2nd of 20,,N,N
+1922,CHI,NFL,Chicago Bears,9,3,0,2nd of 18,,N,N
+1921,CHI,APFA,Chicago Staleys,9,1,1,1st of 21,Won Champ,Y,Y
+1920,CHI,APFA,Decatur Staleys,10,1,2,2nd of 14,,N,N
+2021,CIN,NFL,Cincinnati Bengals,10,7,0,1st of 4,Lost SB,N,Y
+2020,CIN,NFL,Cincinnati Bengals,4,11,1,4th of 4,,N,N
+2019,CIN,NFL,Cincinnati Bengals,2,14,0,4th of 4,,N,N
+2018,CIN,NFL,Cincinnati Bengals,6,10,0,4th of 4,,N,N
+2017,CIN,NFL,Cincinnati Bengals,7,9,0,3rd of 4,,N,N
+2016,CIN,NFL,Cincinnati Bengals,6,9,1,3rd of 4,,N,N
+2015,CIN,NFL,Cincinnati Bengals,12,4,0,1st of 4,Lost WC,N,N
+2014,CIN,NFL,Cincinnati Bengals,10,5,1,2nd of 4,Lost WC,N,N
+2013,CIN,NFL,Cincinnati Bengals,11,5,0,1st of 4,Lost WC,N,N
+2012,CIN,NFL,Cincinnati Bengals,10,6,0,2nd of 4,Lost WC,N,N
+2011,CIN,NFL,Cincinnati Bengals,9,7,0,3rd of 4,Lost WC,N,N
+2010,CIN,NFL,Cincinnati Bengals,4,12,0,4th of 4,,N,N
+2009,CIN,NFL,Cincinnati Bengals,10,6,0,1st of 4,Lost WC,N,N
+2008,CIN,NFL,Cincinnati Bengals,4,11,1,3rd of 4,,N,N
+2007,CIN,NFL,Cincinnati Bengals,7,9,0,3rd of 4,,N,N
+2006,CIN,NFL,Cincinnati Bengals,8,8,0,2nd of 4,,N,N
+2005,CIN,NFL,Cincinnati Bengals,11,5,0,1st of 4,Lost WC,N,N
+2004,CIN,NFL,Cincinnati Bengals,8,8,0,3rd of 4,,N,N
+2003,CIN,NFL,Cincinnati Bengals,8,8,0,2nd of 4,,N,N
+2002,CIN,NFL,Cincinnati Bengals,2,14,0,4th of 4,,N,N
+2001,CIN,NFL,Cincinnati Bengals,6,10,0,6th of 6,,N,N
+2000,CIN,NFL,Cincinnati Bengals,4,12,0,5th of 6,,N,N
+1999,CIN,NFL,Cincinnati Bengals,4,12,0,5th of 6,,N,N
+1998,CIN,NFL,Cincinnati Bengals,3,13,0,5th of 5,,N,N
+1997,CIN,NFL,Cincinnati Bengals,7,9,0,4th of 5,,N,N
+1996,CIN,NFL,Cincinnati Bengals,8,8,0,3rd of 5,,N,N
+1995,CIN,NFL,Cincinnati Bengals,7,9,0,3rd of 5,,N,N
+1994,CIN,NFL,Cincinnati Bengals,3,13,0,3rd of 4,,N,N
+1993,CIN,NFL,Cincinnati Bengals,3,13,0,4th of 4,,N,N
+1992,CIN,NFL,Cincinnati Bengals,5,11,0,4th of 4,,N,N
+1991,CIN,NFL,Cincinnati Bengals,3,13,0,4th of 4,,N,N
+1990,CIN,NFL,Cincinnati Bengals,9,7,0,1st of 4,Lost Div,N,N
+1989,CIN,NFL,Cincinnati Bengals,8,8,0,4th of 4,,N,N
+1988,CIN,NFL,Cincinnati Bengals,12,4,0,1st of 4,Lost SB,N,Y
+1987,CIN,NFL,Cincinnati Bengals,4,11,0,4th of 4,,N,N
+1986,CIN,NFL,Cincinnati Bengals,10,6,0,2nd of 4,,N,N
+1985,CIN,NFL,Cincinnati Bengals,7,9,0,2nd of 4,,N,N
+1984,CIN,NFL,Cincinnati Bengals,8,8,0,2nd of 4,,N,N
+1983,CIN,NFL,Cincinnati Bengals,7,9,0,3rd of 4,,N,N
+1982,CIN,NFL,Cincinnati Bengals,7,2,0,1st of 4,Lost WC,N,N
+1981,CIN,NFL,Cincinnati Bengals,12,4,0,1st of 4,Lost SB,N,Y
+1980,CIN,NFL,Cincinnati Bengals,6,10,0,4th of 4,,N,N
+1979,CIN,NFL,Cincinnati Bengals,4,12,0,4th of 4,,N,N
+1978,CIN,NFL,Cincinnati Bengals,4,12,0,4th of 4,,N,N
+1977,CIN,NFL,Cincinnati Bengals,8,6,0,2nd of 4,,N,N
+1976,CIN,NFL,Cincinnati Bengals,10,4,0,2nd of 4,,N,N
+1975,CIN,NFL,Cincinnati Bengals,11,3,0,2nd of 4,Lost Div,N,N
+1974,CIN,NFL,Cincinnati Bengals,7,7,0,3rd of 4,,N,N
+1973,CIN,NFL,Cincinnati Bengals,10,4,0,1st of 4,Lost Div,N,N
+1972,CIN,NFL,Cincinnati Bengals,8,6,0,3rd of 4,,N,N
+1971,CIN,NFL,Cincinnati Bengals,4,10,0,4th of 4,,N,N
+1970,CIN,NFL,Cincinnati Bengals,8,6,0,1st of 4,Lost Div,N,N
+1969,CIN,AFL,Cincinnati Bengals,4,9,1,5th of 5,,N,N
+1968,CIN,AFL,Cincinnati Bengals,3,11,0,5th of 5,,N,N
+2021,CLE,NFL,Cleveland Browns,8,9,0,3rd of 4,,N,N
+2020,CLE,NFL,Cleveland Browns,11,5,0,3rd of 4,Lost Div,N,N
+2019,CLE,NFL,Cleveland Browns,6,10,0,3rd of 4,,N,N
+2018,CLE,NFL,Cleveland Browns,7,8,1,3rd of 4,,N,N
+2017,CLE,NFL,Cleveland Browns,0,16,0,4th of 4,,N,N
+2016,CLE,NFL,Cleveland Browns,1,15,0,4th of 4,,N,N
+2015,CLE,NFL,Cleveland Browns,3,13,0,4th of 4,,N,N
+2014,CLE,NFL,Cleveland Browns,7,9,0,4th of 4,,N,N
+2013,CLE,NFL,Cleveland Browns,4,12,0,4th of 4,,N,N
+2012,CLE,NFL,Cleveland Browns,5,11,0,4th of 4,,N,N
+2011,CLE,NFL,Cleveland Browns,4,12,0,4th of 4,,N,N
+2010,CLE,NFL,Cleveland Browns,5,11,0,3rd of 4,,N,N
+2009,CLE,NFL,Cleveland Browns,5,11,0,4th of 4,,N,N
+2008,CLE,NFL,Cleveland Browns,4,12,0,4th of 4,,N,N
+2007,CLE,NFL,Cleveland Browns,10,6,0,2nd of 4,,N,N
+2006,CLE,NFL,Cleveland Browns,4,12,0,4th of 4,,N,N
+2005,CLE,NFL,Cleveland Browns,6,10,0,4th of 4,,N,N
+2004,CLE,NFL,Cleveland Browns,4,12,0,4th of 4,,N,N
+2003,CLE,NFL,Cleveland Browns,5,11,0,4th of 4,,N,N
+2002,CLE,NFL,Cleveland Browns,9,7,0,2nd of 4,Lost WC,N,N
+2001,CLE,NFL,Cleveland Browns,7,9,0,3rd of 6,,N,N
+2000,CLE,NFL,Cleveland Browns,3,13,0,6th of 6,,N,N
+1999,CLE,NFL,Cleveland Browns,2,14,0,6th of 6,,N,N
+1995,CLE,NFL,Cleveland Browns,5,11,0,4th of 5,,N,N
+1994,CLE,NFL,Cleveland Browns,11,5,0,2nd of 4,Lost Div,N,N
+1993,CLE,NFL,Cleveland Browns,7,9,0,3rd of 4,,N,N
+1992,CLE,NFL,Cleveland Browns,7,9,0,3rd of 4,,N,N
+1991,CLE,NFL,Cleveland Browns,6,10,0,3rd of 4,,N,N
+1990,CLE,NFL,Cleveland Browns,3,13,0,4th of 4,,N,N
+1989,CLE,NFL,Cleveland Browns,9,6,1,1st of 4,Lost Conf,N,N
+1988,CLE,NFL,Cleveland Browns,10,6,0,2nd of 4,Lost WC,N,N
+1987,CLE,NFL,Cleveland Browns,10,5,0,1st of 4,Lost Conf,N,N
+1986,CLE,NFL,Cleveland Browns,12,4,0,1st of 4,Lost Conf,N,N
+1985,CLE,NFL,Cleveland Browns,8,8,0,1st of 4,Lost Div,N,N
+1984,CLE,NFL,Cleveland Browns,5,11,0,3rd of 4,,N,N
+1983,CLE,NFL,Cleveland Browns,9,7,0,2nd of 4,,N,N
+1982,CLE,NFL,Cleveland Browns,4,5,0,3rd of 4,Lost WC,N,N
+1981,CLE,NFL,Cleveland Browns,5,11,0,4th of 4,,N,N
+1980,CLE,NFL,Cleveland Browns,11,5,0,1st of 4,Lost Div,N,N
+1979,CLE,NFL,Cleveland Browns,9,7,0,3rd of 4,,N,N
+1978,CLE,NFL,Cleveland Browns,8,8,0,3rd of 4,,N,N
+1977,CLE,NFL,Cleveland Browns,6,8,0,4th of 4,,N,N
+1976,CLE,NFL,Cleveland Browns,9,5,0,3rd of 4,,N,N
+1975,CLE,NFL,Cleveland Browns,3,11,0,4th of 4,,N,N
+1974,CLE,NFL,Cleveland Browns,4,10,0,4th of 4,,N,N
+1973,CLE,NFL,Cleveland Browns,7,5,2,3rd of 4,,N,N
+1972,CLE,NFL,Cleveland Browns,10,4,0,2nd of 4,Lost Div,N,N
+1971,CLE,NFL,Cleveland Browns,9,5,0,1st of 4,Lost Div,N,N
+1970,CLE,NFL,Cleveland Browns,7,7,0,2nd of 4,,N,N
+1969,CLE,NFL,Cleveland Browns,10,3,1,1st of 4,Lost Conf,N,N
+1968,CLE,NFL,Cleveland Browns,10,4,0,1st of 4,Lost Conf,N,N
+1967,CLE,NFL,Cleveland Browns,9,5,0,1st of 4,Lost Div,N,N
+1966,CLE,NFL,Cleveland Browns,9,5,0,2nd of 8,,N,N
+1965,CLE,NFL,Cleveland Browns,11,3,0,1st of 7,Lost Champ,N,Y
+1964,CLE,NFL,Cleveland Browns,10,3,1,1st of 7,Won Champ,Y,Y
+1963,CLE,NFL,Cleveland Browns,10,4,0,2nd of 7,,N,N
+1962,CLE,NFL,Cleveland Browns,7,6,1,3rd of 7,,N,N
+1961,CLE,NFL,Cleveland Browns,8,5,1,3rd of 7,,N,N
+1960,CLE,NFL,Cleveland Browns,8,3,1,2nd of 6,,N,N
+1959,CLE,NFL,Cleveland Browns,7,5,0,2nd of 6,,N,N
+1958,CLE,NFL,Cleveland Browns,9,3,0,1st of 6,Lost Div,N,N
+1957,CLE,NFL,Cleveland Browns,9,2,1,1st of 6,Lost Champ,N,Y
+1956,CLE,NFL,Cleveland Browns,5,7,0,4th of 6,,N,N
+1955,CLE,NFL,Cleveland Browns,9,2,1,1st of 6,Won Champ,Y,Y
+1954,CLE,NFL,Cleveland Browns,9,3,0,1st of 6,Won Champ,Y,Y
+1953,CLE,NFL,Cleveland Browns,11,1,0,1st of 6,Lost Champ,N,Y
+1952,CLE,NFL,Cleveland Browns,8,4,0,1st of 6,Lost Champ,N,Y
+1951,CLE,NFL,Cleveland Browns,11,1,0,1st of 6,Lost Champ,N,Y
+1950,CLE,NFL,Cleveland Browns,10,2,0,1st of 6,Won Champ,Y,Y
+1949,CLE,AAFC,Cleveland Browns,9,1,2,1st of 7,Won Champ,Y,Y
+1948,CLE,AAFC,Cleveland Browns,14,0,0,1st of 4,Won Champ,Y,Y
+1947,CLE,AAFC,Cleveland Browns,12,1,1,1st of 4,Won Champ,Y,Y
+1946,CLE,AAFC,Cleveland Browns,12,2,0,1st of 4,Won Champ,Y,Y
+2021,DAL,NFL,Dallas Cowboys,12,5,0,1st of 4,Lost WC,N,N
+2020,DAL,NFL,Dallas Cowboys,6,10,0,3rd of 4,,N,N
+2019,DAL,NFL,Dallas Cowboys,8,8,0,2nd of 4,,N,N
+2018,DAL,NFL,Dallas Cowboys,10,6,0,1st of 4,Lost Div,N,N
+2017,DAL,NFL,Dallas Cowboys,9,7,0,2nd of 4,,N,N
+2016,DAL,NFL,Dallas Cowboys,13,3,0,1st of 4,Lost Div,N,N
+2015,DAL,NFL,Dallas Cowboys,4,12,0,4th of 4,,N,N
+2014,DAL,NFL,Dallas Cowboys,12,4,0,1st of 4,Lost Div,N,N
+2013,DAL,NFL,Dallas Cowboys,8,8,0,2nd of 4,,N,N
+2012,DAL,NFL,Dallas Cowboys,8,8,0,3rd of 4,,N,N
+2011,DAL,NFL,Dallas Cowboys,8,8,0,3rd of 4,,N,N
+2010,DAL,NFL,Dallas Cowboys,6,10,0,3rd of 4,,N,N
+2009,DAL,NFL,Dallas Cowboys,11,5,0,1st of 4,Lost Div,N,N
+2008,DAL,NFL,Dallas Cowboys,9,7,0,3rd of 4,,N,N
+2007,DAL,NFL,Dallas Cowboys,13,3,0,1st of 4,Lost Div,N,N
+2006,DAL,NFL,Dallas Cowboys,9,7,0,2nd of 4,Lost WC,N,N
+2005,DAL,NFL,Dallas Cowboys,9,7,0,3rd of 4,,N,N
+2004,DAL,NFL,Dallas Cowboys,6,10,0,3rd of 4,,N,N
+2003,DAL,NFL,Dallas Cowboys,10,6,0,2nd of 4,Lost WC,N,N
+2002,DAL,NFL,Dallas Cowboys,5,11,0,4th of 4,,N,N
+2001,DAL,NFL,Dallas Cowboys,5,11,0,5th of 5,,N,N
+2000,DAL,NFL,Dallas Cowboys,5,11,0,4th of 5,,N,N
+1999,DAL,NFL,Dallas Cowboys,8,8,0,2nd of 5,Lost WC,N,N
+1998,DAL,NFL,Dallas Cowboys,10,6,0,1st of 5,Lost WC,N,N
+1997,DAL,NFL,Dallas Cowboys,6,10,0,4th of 5,,N,N
+1996,DAL,NFL,Dallas Cowboys,10,6,0,1st of 5,Lost Div,N,N
+1995,DAL,NFL,Dallas Cowboys,12,4,0,1st of 5,Won SB,Y,Y
+1994,DAL,NFL,Dallas Cowboys,12,4,0,1st of 5,Lost Conf,N,N
+1993,DAL,NFL,Dallas Cowboys,12,4,0,1st of 5,Won SB,Y,Y
+1992,DAL,NFL,Dallas Cowboys,13,3,0,1st of 5,Won SB,Y,Y
+1991,DAL,NFL,Dallas Cowboys,11,5,0,2nd of 5,Lost Div,N,N
+1990,DAL,NFL,Dallas Cowboys,7,9,0,4th of 5,,N,N
+1989,DAL,NFL,Dallas Cowboys,1,15,0,5th of 5,,N,N
+1988,DAL,NFL,Dallas Cowboys,3,13,0,5th of 5,,N,N
+1987,DAL,NFL,Dallas Cowboys,7,8,0,2nd of 5,,N,N
+1986,DAL,NFL,Dallas Cowboys,7,9,0,3rd of 5,,N,N
+1985,DAL,NFL,Dallas Cowboys,10,6,0,1st of 5,Lost Div,N,N
+1984,DAL,NFL,Dallas Cowboys,9,7,0,4th of 5,,N,N
+1983,DAL,NFL,Dallas Cowboys,12,4,0,2nd of 5,Lost WC,N,N
+1982,DAL,NFL,Dallas Cowboys,6,3,0,2nd of 5,Lost Conf,N,N
+1981,DAL,NFL,Dallas Cowboys,12,4,0,1st of 5,Lost Conf,N,N
+1980,DAL,NFL,Dallas Cowboys,12,4,0,2nd of 5,Lost Conf,N,N
+1979,DAL,NFL,Dallas Cowboys,11,5,0,1st of 5,Lost Div,N,N
+1978,DAL,NFL,Dallas Cowboys,12,4,0,1st of 5,Lost SB,N,Y
+1977,DAL,NFL,Dallas Cowboys,12,2,0,1st of 5,Won SB,Y,Y
+1976,DAL,NFL,Dallas Cowboys,11,3,0,1st of 5,Lost Div,N,N
+1975,DAL,NFL,Dallas Cowboys,10,4,0,2nd of 5,Lost SB,N,Y
+1974,DAL,NFL,Dallas Cowboys,8,6,0,3rd of 5,,N,N
+1973,DAL,NFL,Dallas Cowboys,10,4,0,1st of 5,Lost Conf,N,N
+1972,DAL,NFL,Dallas Cowboys,10,4,0,2nd of 5,Lost Conf,N,N
+1971,DAL,NFL,Dallas Cowboys,11,3,0,1st of 5,Won SB,Y,Y
+1970,DAL,NFL,Dallas Cowboys,10,4,0,1st of 5,Lost SB,N,Y
+1969,DAL,NFL,Dallas Cowboys,11,2,1,1st of 4,Lost Div,N,N
+1968,DAL,NFL,Dallas Cowboys,12,2,0,1st of 4,Lost Div,N,N
+1967,DAL,NFL,Dallas Cowboys,9,5,0,1st of 4,Lost Conf,N,N
+1966,DAL,NFL,Dallas Cowboys,10,3,1,1st of 8,Lost Conf,N,N
+1965,DAL,NFL,Dallas Cowboys,7,7,0,2nd of 7,,N,N
+1964,DAL,NFL,Dallas Cowboys,5,8,1,5th of 7,,N,N
+1963,DAL,NFL,Dallas Cowboys,4,10,0,5th of 7,,N,N
+1962,DAL,NFL,Dallas Cowboys,5,8,1,5th of 7,,N,N
+1961,DAL,NFL,Dallas Cowboys,4,9,1,6th of 7,,N,N
+1960,DAL,NFL,Dallas Cowboys,0,11,1,7th of 7,,N,N
+2021,DEN,NFL,Denver Broncos,7,10,0,4th of 4,,N,N
+2020,DEN,NFL,Denver Broncos,5,11,0,4th of 4,,N,N
+2019,DEN,NFL,Denver Broncos,7,9,0,2nd of 4,,N,N
+2018,DEN,NFL,Denver Broncos,6,10,0,3rd of 4,,N,N
+2017,DEN,NFL,Denver Broncos,5,11,0,4th of 4,,N,N
+2016,DEN,NFL,Denver Broncos,9,7,0,3rd of 4,,N,N
+2015,DEN,NFL,Denver Broncos,12,4,0,1st of 4,Won SB,Y,Y
+2014,DEN,NFL,Denver Broncos,12,4,0,1st of 4,Lost Div,N,N
+2013,DEN,NFL,Denver Broncos,13,3,0,1st of 4,Lost SB,N,Y
+2012,DEN,NFL,Denver Broncos,13,3,0,1st of 4,Lost Div,N,N
+2011,DEN,NFL,Denver Broncos,8,8,0,1st of 4,Lost Div,N,N
+2010,DEN,NFL,Denver Broncos,4,12,0,4th of 4,,N,N
+2009,DEN,NFL,Denver Broncos,8,8,0,2nd of 4,,N,N
+2008,DEN,NFL,Denver Broncos,8,8,0,2nd of 4,,N,N
+2007,DEN,NFL,Denver Broncos,7,9,0,2nd of 4,,N,N
+2006,DEN,NFL,Denver Broncos,9,7,0,3rd of 4,,N,N
+2005,DEN,NFL,Denver Broncos,13,3,0,1st of 4,Lost Conf,N,N
+2004,DEN,NFL,Denver Broncos,10,6,0,2nd of 4,Lost WC,N,N
+2003,DEN,NFL,Denver Broncos,10,6,0,2nd of 4,Lost WC,N,N
+2002,DEN,NFL,Denver Broncos,9,7,0,2nd of 4,,N,N
+2001,DEN,NFL,Denver Broncos,8,8,0,3rd of 5,,N,N
+2000,DEN,NFL,Denver Broncos,11,5,0,2nd of 5,Lost WC,N,N
+1999,DEN,NFL,Denver Broncos,6,10,0,5th of 5,,N,N
+1998,DEN,NFL,Denver Broncos,14,2,0,1st of 5,Won SB,Y,Y
+1997,DEN,NFL,Denver Broncos,12,4,0,2nd of 5,Won SB,Y,Y
+1996,DEN,NFL,Denver Broncos,13,3,0,1st of 5,Lost Div,N,N
+1995,DEN,NFL,Denver Broncos,8,8,0,4th of 5,,N,N
+1994,DEN,NFL,Denver Broncos,7,9,0,4th of 5,,N,N
+1993,DEN,NFL,Denver Broncos,9,7,0,3rd of 5,Lost WC,N,N
+1992,DEN,NFL,Denver Broncos,8,8,0,3rd of 5,,N,N
+1991,DEN,NFL,Denver Broncos,12,4,0,1st of 5,Lost Conf,N,N
+1990,DEN,NFL,Denver Broncos,5,11,0,5th of 5,,N,N
+1989,DEN,NFL,Denver Broncos,11,5,0,1st of 5,Lost SB,N,Y
+1988,DEN,NFL,Denver Broncos,8,8,0,2nd of 5,,N,N
+1987,DEN,NFL,Denver Broncos,10,4,1,1st of 5,Lost SB,N,Y
+1986,DEN,NFL,Denver Broncos,11,5,0,1st of 5,Lost SB,N,Y
+1985,DEN,NFL,Denver Broncos,11,5,0,2nd of 5,,N,N
+1984,DEN,NFL,Denver Broncos,13,3,0,1st of 5,Lost Div,N,N
+1983,DEN,NFL,Denver Broncos,9,7,0,3rd of 5,Lost WC,N,N
+1982,DEN,NFL,Denver Broncos,2,7,0,5th of 5,,N,N
+1981,DEN,NFL,Denver Broncos,10,6,0,2nd of 5,,N,N
+1980,DEN,NFL,Denver Broncos,8,8,0,4th of 5,,N,N
+1979,DEN,NFL,Denver Broncos,10,6,0,2nd of 5,Lost WC,N,N
+1978,DEN,NFL,Denver Broncos,10,6,0,1st of 5,Lost Div,N,N
+1977,DEN,NFL,Denver Broncos,12,2,0,1st of 5,Lost SB,N,Y
+1976,DEN,NFL,Denver Broncos,9,5,0,2nd of 5,,N,N
+1975,DEN,NFL,Denver Broncos,6,8,0,2nd of 4,,N,N
+1974,DEN,NFL,Denver Broncos,7,6,1,2nd of 4,,N,N
+1973,DEN,NFL,Denver Broncos,7,5,2,3rd of 4,,N,N
+1972,DEN,NFL,Denver Broncos,5,9,0,3rd of 4,,N,N
+1971,DEN,NFL,Denver Broncos,4,9,1,4th of 4,,N,N
+1970,DEN,NFL,Denver Broncos,5,8,1,4th of 4,,N,N
+1969,DEN,AFL,Denver Broncos,5,8,1,4th of 5,,N,N
+1968,DEN,AFL,Denver Broncos,5,9,0,4th of 5,,N,N
+1967,DEN,AFL,Denver Broncos,3,11,0,4th of 4,,N,N
+1966,DEN,AFL,Denver Broncos,4,10,0,4th of 4,,N,N
+1965,DEN,AFL,Denver Broncos,4,10,0,4th of 4,,N,N
+1964,DEN,AFL,Denver Broncos,2,11,1,4th of 4,,N,N
+1963,DEN,AFL,Denver Broncos,2,11,1,4th of 4,,N,N
+1962,DEN,AFL,Denver Broncos,7,7,0,2nd of 4,,N,N
+1961,DEN,AFL,Denver Broncos,3,11,0,3rd of 4,,N,N
+1960,DEN,AFL,Denver Broncos,4,9,1,4th of 4,,N,N
+2021,DET,NFL,Detroit Lions,3,13,1,4th of 4,,N,N
+2020,DET,NFL,Detroit Lions,5,11,0,4th of 4,,N,N
+2019,DET,NFL,Detroit Lions,3,12,1,4th of 4,,N,N
+2018,DET,NFL,Detroit Lions,6,10,0,4th of 4,,N,N
+2017,DET,NFL,Detroit Lions,9,7,0,2nd of 4,,N,N
+2016,DET,NFL,Detroit Lions,9,7,0,2nd of 4,Lost WC,N,N
+2015,DET,NFL,Detroit Lions,7,9,0,3rd of 4,,N,N
+2014,DET,NFL,Detroit Lions,11,5,0,2nd of 4,Lost WC,N,N
+2013,DET,NFL,Detroit Lions,7,9,0,3rd of 4,,N,N
+2012,DET,NFL,Detroit Lions,4,12,0,4th of 4,,N,N
+2011,DET,NFL,Detroit Lions,10,6,0,2nd of 4,Lost WC,N,N
+2010,DET,NFL,Detroit Lions,6,10,0,3rd of 4,,N,N
+2009,DET,NFL,Detroit Lions,2,14,0,4th of 4,,N,N
+2008,DET,NFL,Detroit Lions,0,16,0,4th of 4,,N,N
+2007,DET,NFL,Detroit Lions,7,9,0,3rd of 4,,N,N
+2006,DET,NFL,Detroit Lions,3,13,0,4th of 4,,N,N
+2005,DET,NFL,Detroit Lions,5,11,0,3rd of 4,,N,N
+2004,DET,NFL,Detroit Lions,6,10,0,3rd of 4,,N,N
+2003,DET,NFL,Detroit Lions,5,11,0,4th of 4,,N,N
+2002,DET,NFL,Detroit Lions,3,13,0,4th of 4,,N,N
+2001,DET,NFL,Detroit Lions,2,14,0,5th of 5,,N,N
+2000,DET,NFL,Detroit Lions,9,7,0,4th of 5,,N,N
+1999,DET,NFL,Detroit Lions,8,8,0,3rd of 5,Lost WC,N,N
+1998,DET,NFL,Detroit Lions,5,11,0,4th of 5,,N,N
+1997,DET,NFL,Detroit Lions,9,7,0,3rd of 5,Lost WC,N,N
+1996,DET,NFL,Detroit Lions,5,11,0,5th of 5,,N,N
+1995,DET,NFL,Detroit Lions,10,6,0,2nd of 5,Lost WC,N,N
+1994,DET,NFL,Detroit Lions,9,7,0,3rd of 5,Lost WC,N,N
+1993,DET,NFL,Detroit Lions,10,6,0,1st of 5,Lost WC,N,N
+1992,DET,NFL,Detroit Lions,5,11,0,5th of 5,,N,N
+1991,DET,NFL,Detroit Lions,12,4,0,1st of 5,Lost Conf,N,N
+1990,DET,NFL,Detroit Lions,6,10,0,3rd of 5,,N,N
+1989,DET,NFL,Detroit Lions,7,9,0,3rd of 5,,N,N
+1988,DET,NFL,Detroit Lions,4,12,0,4th of 5,,N,N
+1987,DET,NFL,Detroit Lions,4,11,0,5th of 5,,N,N
+1986,DET,NFL,Detroit Lions,5,11,0,3rd of 5,,N,N
+1985,DET,NFL,Detroit Lions,7,9,0,4th of 5,,N,N
+1984,DET,NFL,Detroit Lions,4,11,1,4th of 5,,N,N
+1983,DET,NFL,Detroit Lions,9,7,0,1st of 5,Lost Div,N,N
+1982,DET,NFL,Detroit Lions,4,5,0,4th of 5,Lost WC,N,N
+1981,DET,NFL,Detroit Lions,8,8,0,2nd of 5,,N,N
+1980,DET,NFL,Detroit Lions,9,7,0,2nd of 5,,N,N
+1979,DET,NFL,Detroit Lions,2,14,0,5th of 5,,N,N
+1978,DET,NFL,Detroit Lions,7,9,0,3rd of 5,,N,N
+1977,DET,NFL,Detroit Lions,6,8,0,3rd of 5,,N,N
+1976,DET,NFL,Detroit Lions,6,8,0,3rd of 4,,N,N
+1975,DET,NFL,Detroit Lions,7,7,0,2nd of 4,,N,N
+1974,DET,NFL,Detroit Lions,7,7,0,2nd of 4,,N,N
+1973,DET,NFL,Detroit Lions,6,7,1,2nd of 4,,N,N
+1972,DET,NFL,Detroit Lions,8,5,1,2nd of 4,,N,N
+1971,DET,NFL,Detroit Lions,7,6,1,2nd of 4,,N,N
+1970,DET,NFL,Detroit Lions,10,4,0,2nd of 4,Lost Div,N,N
+1969,DET,NFL,Detroit Lions,9,4,1,2nd of 4,,N,N
+1968,DET,NFL,Detroit Lions,4,8,2,4th of 4,,N,N
+1967,DET,NFL,Detroit Lions,5,7,2,3rd of 4,,N,N
+1966,DET,NFL,Detroit Lions,4,9,1,6th of 7,,N,N
+1965,DET,NFL,Detroit Lions,6,7,1,6th of 7,,N,N
+1964,DET,NFL,Detroit Lions,7,5,2,4th of 7,,N,N
+1963,DET,NFL,Detroit Lions,5,8,1,4th of 7,,N,N
+1962,DET,NFL,Detroit Lions,11,3,0,2nd of 7,,N,N
+1961,DET,NFL,Detroit Lions,8,5,1,2nd of 7,,N,N
+1960,DET,NFL,Detroit Lions,7,5,0,2nd of 7,,N,N
+1959,DET,NFL,Detroit Lions,3,8,1,5th of 6,,N,N
+1958,DET,NFL,Detroit Lions,4,7,1,5th of 6,,N,N
+1957,DET,NFL,Detroit Lions,8,4,0,1st of 6,Won Champ,Y,Y
+1956,DET,NFL,Detroit Lions,9,3,0,2nd of 6,,N,N
+1955,DET,NFL,Detroit Lions,3,9,0,6th of 6,,N,N
+1954,DET,NFL,Detroit Lions,9,2,1,1st of 6,Lost Champ,N,Y
+1953,DET,NFL,Detroit Lions,10,2,0,1st of 6,Won Champ,Y,Y
+1952,DET,NFL,Detroit Lions,9,3,0,1st of 6,Won Champ,Y,Y
+1951,DET,NFL,Detroit Lions,7,4,1,2nd of 6,,N,N
+1950,DET,NFL,Detroit Lions,6,6,0,4th of 7,,N,N
+1949,DET,NFL,Detroit Lions,4,8,0,4th of 5,,N,N
+1948,DET,NFL,Detroit Lions,2,10,0,5th of 5,,N,N
+1947,DET,NFL,Detroit Lions,3,9,0,5th of 5,,N,N
+1946,DET,NFL,Detroit Lions,1,10,0,5th of 5,,N,N
+1945,DET,NFL,Detroit Lions,7,3,0,2nd of 5,,N,N
+1944,DET,NFL,Detroit Lions,6,3,1,2nd of 5,,N,N
+1943,DET,NFL,Detroit Lions,3,6,1,3rd of 4,,N,N
+1942,DET,NFL,Detroit Lions,0,11,0,5th of 5,,N,N
+1941,DET,NFL,Detroit Lions,4,6,1,3rd of 5,,N,N
+1940,DET,NFL,Detroit Lions,5,5,1,3rd of 5,,N,N
+1939,DET,NFL,Detroit Lions,6,5,0,3rd of 5,,N,N
+1938,DET,NFL,Detroit Lions,7,4,0,2nd of 5,,N,N
+1937,DET,NFL,Detroit Lions,7,4,0,2nd of 5,,N,N
+1936,DET,NFL,Detroit Lions,8,4,0,3rd of 4,,N,N
+1935,DET,NFL,Detroit Lions,7,3,2,1st of 4,Won Champ,Y,Y
+1934,DET,NFL,Detroit Lions,10,3,0,2nd of 6,,N,N
+1933,DET,NFL,Portsmouth Spartans,6,5,0,2nd of 5,,N,N
+1932,DET,NFL,Portsmouth Spartans,6,2,4,3rd of 8,,N,N
+1931,DET,NFL,Portsmouth Spartans,11,3,0,2nd of 10,,N,N
+1930,DET,NFL,Portsmouth Spartans,5,6,3,7th of 11,,N,N
+2021,GBP,NFL,Green Bay Packers,13,4,0,1st of 4,Lost Div,N,N
+2020,GBP,NFL,Green Bay Packers,13,3,0,1st of 4,Lost Conf,N,N
+2019,GBP,NFL,Green Bay Packers,13,3,0,1st of 4,Lost Conf,N,N
+2018,GBP,NFL,Green Bay Packers,6,9,1,3rd of 4,,N,N
+2017,GBP,NFL,Green Bay Packers,7,9,0,3rd of 4,,N,N
+2016,GBP,NFL,Green Bay Packers,10,6,0,1st of 4,Lost Conf,N,N
+2015,GBP,NFL,Green Bay Packers,10,6,0,2nd of 4,Lost Div,N,N
+2014,GBP,NFL,Green Bay Packers,12,4,0,1st of 4,Lost Conf,N,N
+2013,GBP,NFL,Green Bay Packers,8,7,1,1st of 4,Lost WC,N,N
+2012,GBP,NFL,Green Bay Packers,11,5,0,1st of 4,Lost Div,N,N
+2011,GBP,NFL,Green Bay Packers,15,1,0,1st of 4,Lost Div,N,N
+2010,GBP,NFL,Green Bay Packers,10,6,0,2nd of 4,Won SB,Y,Y
+2009,GBP,NFL,Green Bay Packers,11,5,0,2nd of 4,Lost WC,N,N
+2008,GBP,NFL,Green Bay Packers,6,10,0,3rd of 4,,N,N
+2007,GBP,NFL,Green Bay Packers,13,3,0,1st of 4,Lost Conf,N,N
+2006,GBP,NFL,Green Bay Packers,8,8,0,2nd of 4,,N,N
+2005,GBP,NFL,Green Bay Packers,4,12,0,4th of 4,,N,N
+2004,GBP,NFL,Green Bay Packers,10,6,0,1st of 4,Lost WC,N,N
+2003,GBP,NFL,Green Bay Packers,10,6,0,1st of 4,Lost Div,N,N
+2002,GBP,NFL,Green Bay Packers,12,4,0,1st of 4,Lost WC,N,N
+2001,GBP,NFL,Green Bay Packers,12,4,0,2nd of 5,Lost Div,N,N
+2000,GBP,NFL,Green Bay Packers,9,7,0,3rd of 5,,N,N
+1999,GBP,NFL,Green Bay Packers,8,8,0,4th of 5,,N,N
+1998,GBP,NFL,Green Bay Packers,11,5,0,2nd of 5,Lost WC,N,N
+1997,GBP,NFL,Green Bay Packers,13,3,0,1st of 5,Lost SB,N,Y
+1996,GBP,NFL,Green Bay Packers,13,3,0,1st of 5,Won SB,Y,Y
+1995,GBP,NFL,Green Bay Packers,11,5,0,1st of 5,Lost Conf,N,N
+1994,GBP,NFL,Green Bay Packers,9,7,0,2nd of 5,Lost Div,N,N
+1993,GBP,NFL,Green Bay Packers,9,7,0,3rd of 5,Lost Div,N,N
+1992,GBP,NFL,Green Bay Packers,9,7,0,2nd of 5,,N,N
+1991,GBP,NFL,Green Bay Packers,4,12,0,4th of 5,,N,N
+1990,GBP,NFL,Green Bay Packers,6,10,0,4th of 5,,N,N
+1989,GBP,NFL,Green Bay Packers,10,6,0,2nd of 5,,N,N
+1988,GBP,NFL,Green Bay Packers,4,12,0,5th of 5,,N,N
+1987,GBP,NFL,Green Bay Packers,5,9,1,3rd of 5,,N,N
+1986,GBP,NFL,Green Bay Packers,4,12,0,4th of 5,,N,N
+1985,GBP,NFL,Green Bay Packers,8,8,0,2nd of 5,,N,N
+1984,GBP,NFL,Green Bay Packers,8,8,0,2nd of 5,,N,N
+1983,GBP,NFL,Green Bay Packers,8,8,0,2nd of 5,,N,N
+1982,GBP,NFL,Green Bay Packers,5,3,1,1st of 5,Lost Div,N,N
+1981,GBP,NFL,Green Bay Packers,8,8,0,3rd of 5,,N,N
+1980,GBP,NFL,Green Bay Packers,5,10,1,5th of 5,,N,N
+1979,GBP,NFL,Green Bay Packers,5,11,0,4th of 5,,N,N
+1978,GBP,NFL,Green Bay Packers,8,7,1,2nd of 5,,N,N
+1977,GBP,NFL,Green Bay Packers,4,10,0,4th of 5,,N,N
+1976,GBP,NFL,Green Bay Packers,5,9,0,4th of 4,,N,N
+1975,GBP,NFL,Green Bay Packers,4,10,0,4th of 4,,N,N
+1974,GBP,NFL,Green Bay Packers,6,8,0,3rd of 4,,N,N
+1973,GBP,NFL,Green Bay Packers,5,7,2,3rd of 4,,N,N
+1972,GBP,NFL,Green Bay Packers,10,4,0,1st of 4,Lost Div,N,N
+1971,GBP,NFL,Green Bay Packers,4,8,2,4th of 4,,N,N
+1970,GBP,NFL,Green Bay Packers,6,8,0,3rd of 4,,N,N
+1969,GBP,NFL,Green Bay Packers,8,6,0,3rd of 4,,N,N
+1968,GBP,NFL,Green Bay Packers,6,7,1,3rd of 4,,N,N
+1967,GBP,NFL,Green Bay Packers,9,4,1,1st of 4,Won SB,Y,Y
+1966,GBP,NFL,Green Bay Packers,12,2,0,1st of 7,Won SB,Y,Y
+1965,GBP,NFL,Green Bay Packers,10,3,1,1st of 7,Won Champ,Y,Y
+1964,GBP,NFL,Green Bay Packers,8,5,1,2nd of 7,,N,N
+1963,GBP,NFL,Green Bay Packers,11,2,1,2nd of 7,,N,N
+1962,GBP,NFL,Green Bay Packers,13,1,0,1st of 7,Won Champ,Y,Y
+1961,GBP,NFL,Green Bay Packers,11,3,0,1st of 7,Won Champ,Y,Y
+1960,GBP,NFL,Green Bay Packers,8,4,0,1st of 7,Lost Champ,N,Y
+1959,GBP,NFL,Green Bay Packers,7,5,0,3rd of 6,,N,N
+1958,GBP,NFL,Green Bay Packers,1,10,1,6th of 6,,N,N
+1957,GBP,NFL,Green Bay Packers,3,9,0,6th of 6,,N,N
+1956,GBP,NFL,Green Bay Packers,4,8,0,5th of 6,,N,N
+1955,GBP,NFL,Green Bay Packers,6,6,0,3rd of 6,,N,N
+1954,GBP,NFL,Green Bay Packers,4,8,0,5th of 6,,N,N
+1953,GBP,NFL,Green Bay Packers,2,9,1,6th of 6,,N,N
+1952,GBP,NFL,Green Bay Packers,6,6,0,4th of 6,,N,N
+1951,GBP,NFL,Green Bay Packers,3,9,0,5th of 6,,N,N
+1950,GBP,NFL,Green Bay Packers,3,9,0,5th of 7,,N,N
+1949,GBP,NFL,Green Bay Packers,2,10,0,5th of 5,,N,N
+1948,GBP,NFL,Green Bay Packers,3,9,0,4th of 5,,N,N
+1947,GBP,NFL,Green Bay Packers,6,5,1,3rd of 5,,N,N
+1946,GBP,NFL,Green Bay Packers,6,5,0,3rd of 5,,N,N
+1945,GBP,NFL,Green Bay Packers,6,4,0,3rd of 5,,N,N
+1944,GBP,NFL,Green Bay Packers,8,2,0,1st of 5,Won Champ,Y,Y
+1943,GBP,NFL,Green Bay Packers,7,2,1,2nd of 4,,N,N
+1942,GBP,NFL,Green Bay Packers,8,2,1,2nd of 5,,N,N
+1941,GBP,NFL,Green Bay Packers,10,1,0,1st of 5,Lost Div,N,N
+1940,GBP,NFL,Green Bay Packers,6,4,1,2nd of 5,,N,N
+1939,GBP,NFL,Green Bay Packers,9,2,0,1st of 5,Won Champ,Y,Y
+1938,GBP,NFL,Green Bay Packers,8,3,0,1st of 5,Lost Champ,N,Y
+1937,GBP,NFL,Green Bay Packers,7,4,0,2nd of 5,,N,N
+1936,GBP,NFL,Green Bay Packers,10,1,1,1st of 4,Won Champ,Y,Y
+1935,GBP,NFL,Green Bay Packers,8,4,0,2nd of 4,,N,N
+1934,GBP,NFL,Green Bay Packers,7,6,0,3rd of 6,,N,N
+1933,GBP,NFL,Green Bay Packers,5,7,1,3rd of 5,,N,N
+1932,GBP,NFL,Green Bay Packers,10,3,1,2nd of 8,,N,N
+1931,GBP,NFL,Green Bay Packers,12,2,0,1st of 10,Won Champ,Y,Y
+1930,GBP,NFL,Green Bay Packers,10,3,1,1st of 11,Won Champ,Y,Y
+1929,GBP,NFL,Green Bay Packers,12,0,1,1st of 12,Won Champ,Y,Y
+1928,GBP,NFL,Green Bay Packers,6,4,3,4th of 10,,N,N
+1927,GBP,NFL,Green Bay Packers,7,2,1,2nd of 12,,N,N
+1926,GBP,NFL,Green Bay Packers,7,3,3,5th of 22,,N,N
+1925,GBP,NFL,Green Bay Packers,8,5,0,9th of 20,,N,N
+1924,GBP,NFL,Green Bay Packers,7,4,0,6th of 18,,N,N
+1923,GBP,NFL,Green Bay Packers,7,2,1,3rd of 20,,N,N
+1922,GBP,NFL,Green Bay Packers,4,3,3,7th of 18,,N,N
+1921,GBP,APFA,Green Bay Packers,3,2,1,6th of 21,,N,N
+2021,HOU,NFL,Houston Texans,4,13,0,3rd of 4,,N,N
+2020,HOU,NFL,Houston Texans,4,12,0,3rd of 4,,N,N
+2019,HOU,NFL,Houston Texans,10,6,0,1st of 4,Lost Div,N,N
+2018,HOU,NFL,Houston Texans,11,5,0,1st of 4,Lost WC,N,N
+2017,HOU,NFL,Houston Texans,4,12,0,3rd of 4,,N,N
+2016,HOU,NFL,Houston Texans,9,7,0,1st of 4,Lost Div,N,N
+2015,HOU,NFL,Houston Texans,9,7,0,1st of 4,Lost WC,N,N
+2014,HOU,NFL,Houston Texans,9,7,0,2nd of 4,,N,N
+2013,HOU,NFL,Houston Texans,2,14,0,4th of 4,,N,N
+2012,HOU,NFL,Houston Texans,12,4,0,1st of 4,Lost Div,N,N
+2011,HOU,NFL,Houston Texans,10,6,0,1st of 4,Lost Div,N,N
+2010,HOU,NFL,Houston Texans,6,10,0,3rd of 4,,N,N
+2009,HOU,NFL,Houston Texans,9,7,0,2nd of 4,,N,N
+2008,HOU,NFL,Houston Texans,8,8,0,3rd of 4,,N,N
+2007,HOU,NFL,Houston Texans,8,8,0,4th of 4,,N,N
+2006,HOU,NFL,Houston Texans,6,10,0,4th of 4,,N,N
+2005,HOU,NFL,Houston Texans,2,14,0,4th of 4,,N,N
+2004,HOU,NFL,Houston Texans,7,9,0,3rd of 4,,N,N
+2003,HOU,NFL,Houston Texans,5,11,0,4th of 4,,N,N
+2002,HOU,NFL,Houston Texans,4,12,0,4th of 4,,N,N
+2021,IND,NFL,Indianapolis Colts,9,8,0,2nd of 4,,N,N
+2020,IND,NFL,Indianapolis Colts,11,5,0,2nd of 4,Lost WC,N,N
+2019,IND,NFL,Indianapolis Colts,7,9,0,3rd of 4,,N,N
+2018,IND,NFL,Indianapolis Colts,10,6,0,2nd of 4,Lost Div,N,N
+2017,IND,NFL,Indianapolis Colts,4,12,0,3rd of 4,,N,N
+2016,IND,NFL,Indianapolis Colts,8,8,0,3rd of 4,,N,N
+2015,IND,NFL,Indianapolis Colts,8,8,0,2nd of 4,,N,N
+2014,IND,NFL,Indianapolis Colts,11,5,0,1st of 4,Lost Conf,N,N
+2013,IND,NFL,Indianapolis Colts,11,5,0,1st of 4,Lost Div,N,N
+2012,IND,NFL,Indianapolis Colts,11,5,0,2nd of 4,Lost WC,N,N
+2011,IND,NFL,Indianapolis Colts,2,14,0,4th of 4,,N,N
+2010,IND,NFL,Indianapolis Colts,10,6,0,1st of 4,Lost WC,N,N
+2009,IND,NFL,Indianapolis Colts,14,2,0,1st of 4,Lost SB,N,Y
+2008,IND,NFL,Indianapolis Colts,12,4,0,2nd of 4,Lost WC,N,N
+2007,IND,NFL,Indianapolis Colts,13,3,0,1st of 4,Lost Div,N,N
+2006,IND,NFL,Indianapolis Colts,12,4,0,1st of 4,Won SB,Y,Y
+2005,IND,NFL,Indianapolis Colts,14,2,0,1st of 4,Lost Div,N,N
+2004,IND,NFL,Indianapolis Colts,12,4,0,1st of 4,Lost Div,N,N
+2003,IND,NFL,Indianapolis Colts,12,4,0,1st of 4,Lost Conf,N,N
+2002,IND,NFL,Indianapolis Colts,10,6,0,2nd of 4,Lost WC,N,N
+2001,IND,NFL,Indianapolis Colts,6,10,0,4th of 5,,N,N
+2000,IND,NFL,Indianapolis Colts,10,6,0,2nd of 5,Lost WC,N,N
+1999,IND,NFL,Indianapolis Colts,13,3,0,1st of 5,Lost Div,N,N
+1998,IND,NFL,Indianapolis Colts,3,13,0,5th of 5,,N,N
+1997,IND,NFL,Indianapolis Colts,3,13,0,5th of 5,,N,N
+1996,IND,NFL,Indianapolis Colts,9,7,0,3rd of 5,Lost WC,N,N
+1995,IND,NFL,Indianapolis Colts,9,7,0,2nd of 5,Lost Conf,N,N
+1994,IND,NFL,Indianapolis Colts,8,8,0,3rd of 5,,N,N
+1993,IND,NFL,Indianapolis Colts,4,12,0,5th of 5,,N,N
+1992,IND,NFL,Indianapolis Colts,9,7,0,3rd of 5,,N,N
+1991,IND,NFL,Indianapolis Colts,1,15,0,5th of 5,,N,N
+1990,IND,NFL,Indianapolis Colts,7,9,0,3rd of 5,,N,N
+1989,IND,NFL,Indianapolis Colts,8,8,0,2nd of 5,,N,N
+1988,IND,NFL,Indianapolis Colts,9,7,0,2nd of 5,,N,N
+1987,IND,NFL,Indianapolis Colts,9,6,0,1st of 5,Lost Div,N,N
+1986,IND,NFL,Indianapolis Colts,3,13,0,5th of 5,,N,N
+1985,IND,NFL,Indianapolis Colts,5,11,0,4th of 5,,N,N
+1984,IND,NFL,Indianapolis Colts,4,12,0,4th of 5,,N,N
+1983,IND,NFL,Baltimore Colts,7,9,0,4th of 5,,N,N
+1982,IND,NFL,Baltimore Colts,0,8,1,5th of 5,,N,N
+1981,IND,NFL,Baltimore Colts,2,14,0,4th of 5,,N,N
+1980,IND,NFL,Baltimore Colts,7,9,0,4th of 5,,N,N
+1979,IND,NFL,Baltimore Colts,5,11,0,5th of 5,,N,N
+1978,IND,NFL,Baltimore Colts,5,11,0,5th of 5,,N,N
+1977,IND,NFL,Baltimore Colts,10,4,0,1st of 5,Lost Div,N,N
+1976,IND,NFL,Baltimore Colts,11,3,0,1st of 5,Lost Div,N,N
+1975,IND,NFL,Baltimore Colts,10,4,0,1st of 5,Lost Div,N,N
+1974,IND,NFL,Baltimore Colts,2,12,0,5th of 5,,N,N
+1973,IND,NFL,Baltimore Colts,4,10,0,5th of 5,,N,N
+1972,IND,NFL,Baltimore Colts,5,9,0,3rd of 5,,N,N
+1971,IND,NFL,Baltimore Colts,10,4,0,2nd of 5,Lost Conf,N,N
+1970,IND,NFL,Baltimore Colts,11,2,1,1st of 5,Won SB,Y,Y
+1969,IND,NFL,Baltimore Colts,8,5,1,2nd of 4,,N,N
+1968,IND,NFL,Baltimore Colts,13,1,0,1st of 4,Lost SB,N,Y
+1967,IND,NFL,Baltimore Colts,11,1,2,1st of 4,,N,N
+1966,IND,NFL,Baltimore Colts,9,5,0,2nd of 7,,N,N
+1965,IND,NFL,Baltimore Colts,10,3,1,1st of 7,Lost Div,N,N
+1964,IND,NFL,Baltimore Colts,12,2,0,1st of 7,Lost Champ,N,Y
+1963,IND,NFL,Baltimore Colts,8,6,0,3rd of 7,,N,N
+1962,IND,NFL,Baltimore Colts,7,7,0,4th of 7,,N,N
+1961,IND,NFL,Baltimore Colts,8,6,0,3rd of 7,,N,N
+1960,IND,NFL,Baltimore Colts,6,6,0,4th of 7,,N,N
+1959,IND,NFL,Baltimore Colts,9,3,0,1st of 6,Won Champ,Y,Y
+1958,IND,NFL,Baltimore Colts,9,3,0,1st of 6,Won Champ,Y,Y
+1957,IND,NFL,Baltimore Colts,7,5,0,3rd of 6,,N,N
+1956,IND,NFL,Baltimore Colts,5,7,0,4th of 6,,N,N
+1955,IND,NFL,Baltimore Colts,5,6,1,4th of 6,,N,N
+1954,IND,NFL,Baltimore Colts,3,9,0,6th of 6,,N,N
+1953,IND,NFL,Baltimore Colts,3,9,0,5th of 6,,N,N
+2021,JAX,NFL,Jacksonville Jaguars,3,14,0,4th of 4,,N,N
+2020,JAX,NFL,Jacksonville Jaguars,1,15,0,4th of 4,,N,N
+2019,JAX,NFL,Jacksonville Jaguars,6,10,0,4th of 4,,N,N
+2018,JAX,NFL,Jacksonville Jaguars,5,11,0,4th of 4,,N,N
+2017,JAX,NFL,Jacksonville Jaguars,10,6,0,1st of 4,Lost Conf,N,N
+2016,JAX,NFL,Jacksonville Jaguars,3,13,0,4th of 4,,N,N
+2015,JAX,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,,N,N
+2014,JAX,NFL,Jacksonville Jaguars,3,13,0,3rd of 4,,N,N
+2013,JAX,NFL,Jacksonville Jaguars,4,12,0,3rd of 4,,N,N
+2012,JAX,NFL,Jacksonville Jaguars,2,14,0,4th of 4,,N,N
+2011,JAX,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,,N,N
+2010,JAX,NFL,Jacksonville Jaguars,8,8,0,2nd of 4,,N,N
+2009,JAX,NFL,Jacksonville Jaguars,7,9,0,4th of 4,,N,N
+2008,JAX,NFL,Jacksonville Jaguars,5,11,0,4th of 4,,N,N
+2007,JAX,NFL,Jacksonville Jaguars,11,5,0,2nd of 4,Lost Div,N,N
+2006,JAX,NFL,Jacksonville Jaguars,8,8,0,3rd of 4,,N,N
+2005,JAX,NFL,Jacksonville Jaguars,12,4,0,2nd of 4,Lost WC,N,N
+2004,JAX,NFL,Jacksonville Jaguars,9,7,0,2nd of 4,,N,N
+2003,JAX,NFL,Jacksonville Jaguars,5,11,0,3rd of 4,,N,N
+2002,JAX,NFL,Jacksonville Jaguars,6,10,0,3rd of 4,,N,N
+2001,JAX,NFL,Jacksonville Jaguars,6,10,0,5th of 6,,N,N
+2000,JAX,NFL,Jacksonville Jaguars,7,9,0,4th of 6,,N,N
+1999,JAX,NFL,Jacksonville Jaguars,14,2,0,1st of 6,Lost Conf,N,N
+1998,JAX,NFL,Jacksonville Jaguars,11,5,0,1st of 5,Lost Div,N,N
+1997,JAX,NFL,Jacksonville Jaguars,11,5,0,2nd of 5,Lost WC,N,N
+1996,JAX,NFL,Jacksonville Jaguars,9,7,0,2nd of 5,Lost Conf,N,N
+1995,JAX,NFL,Jacksonville Jaguars,4,12,0,5th of 5,,N,N
+2021,KCC,NFL,Kansas City Chiefs,12,5,0,1st of 4,Lost Conf,N,N
+2020,KCC,NFL,Kansas City Chiefs,14,2,0,1st of 4,Lost SB,N,Y
+2019,KCC,NFL,Kansas City Chiefs,12,4,0,1st of 4,Won SB,Y,Y
+2018,KCC,NFL,Kansas City Chiefs,12,4,0,1st of 4,Lost Conf,N,N
+2017,KCC,NFL,Kansas City Chiefs,10,6,0,1st of 4,Lost WC,N,N
+2016,KCC,NFL,Kansas City Chiefs,12,4,0,1st of 4,Lost Div,N,N
+2015,KCC,NFL,Kansas City Chiefs,11,5,0,2nd of 4,Lost Div,N,N
+2014,KCC,NFL,Kansas City Chiefs,9,7,0,2nd of 4,,N,N
+2013,KCC,NFL,Kansas City Chiefs,11,5,0,2nd of 4,Lost WC,N,N
+2012,KCC,NFL,Kansas City Chiefs,2,14,0,4th of 4,,N,N
+2011,KCC,NFL,Kansas City Chiefs,7,9,0,4th of 4,,N,N
+2010,KCC,NFL,Kansas City Chiefs,10,6,0,1st of 4,Lost WC,N,N
+2009,KCC,NFL,Kansas City Chiefs,4,12,0,4th of 4,,N,N
+2008,KCC,NFL,Kansas City Chiefs,2,14,0,4th of 4,,N,N
+2007,KCC,NFL,Kansas City Chiefs,4,12,0,3rd of 4,,N,N
+2006,KCC,NFL,Kansas City Chiefs,9,7,0,2nd of 4,Lost WC,N,N
+2005,KCC,NFL,Kansas City Chiefs,10,6,0,2nd of 4,,N,N
+2004,KCC,NFL,Kansas City Chiefs,7,9,0,3rd of 4,,N,N
+2003,KCC,NFL,Kansas City Chiefs,13,3,0,1st of 4,Lost Div,N,N
+2002,KCC,NFL,Kansas City Chiefs,8,8,0,4th of 4,,N,N
+2001,KCC,NFL,Kansas City Chiefs,6,10,0,4th of 5,,N,N
+2000,KCC,NFL,Kansas City Chiefs,7,9,0,3rd of 5,,N,N
+1999,KCC,NFL,Kansas City Chiefs,9,7,0,2nd of 5,,N,N
+1998,KCC,NFL,Kansas City Chiefs,7,9,0,4th of 5,,N,N
+1997,KCC,NFL,Kansas City Chiefs,13,3,0,1st of 5,Lost Div,N,N
+1996,KCC,NFL,Kansas City Chiefs,9,7,0,2nd of 5,,N,N
+1995,KCC,NFL,Kansas City Chiefs,13,3,0,1st of 5,Lost Div,N,N
+1994,KCC,NFL,Kansas City Chiefs,9,7,0,2nd of 5,Lost WC,N,N
+1993,KCC,NFL,Kansas City Chiefs,11,5,0,1st of 5,Lost Conf,N,N
+1992,KCC,NFL,Kansas City Chiefs,10,6,0,2nd of 5,Lost WC,N,N
+1991,KCC,NFL,Kansas City Chiefs,10,6,0,2nd of 5,Lost Div,N,N
+1990,KCC,NFL,Kansas City Chiefs,11,5,0,2nd of 5,Lost WC,N,N
+1989,KCC,NFL,Kansas City Chiefs,8,7,1,2nd of 5,,N,N
+1988,KCC,NFL,Kansas City Chiefs,4,11,1,5th of 5,,N,N
+1987,KCC,NFL,Kansas City Chiefs,4,11,0,5th of 5,,N,N
+1986,KCC,NFL,Kansas City Chiefs,10,6,0,2nd of 5,Lost WC,N,N
+1985,KCC,NFL,Kansas City Chiefs,6,10,0,5th of 5,,N,N
+1984,KCC,NFL,Kansas City Chiefs,8,8,0,4th of 5,,N,N
+1983,KCC,NFL,Kansas City Chiefs,6,10,0,5th of 5,,N,N
+1982,KCC,NFL,Kansas City Chiefs,3,6,0,4th of 5,,N,N
+1981,KCC,NFL,Kansas City Chiefs,9,7,0,3rd of 5,,N,N
+1980,KCC,NFL,Kansas City Chiefs,8,8,0,3rd of 5,,N,N
+1979,KCC,NFL,Kansas City Chiefs,7,9,0,5th of 5,,N,N
+1978,KCC,NFL,Kansas City Chiefs,4,12,0,5th of 5,,N,N
+1977,KCC,NFL,Kansas City Chiefs,2,12,0,5th of 5,,N,N
+1976,KCC,NFL,Kansas City Chiefs,5,9,0,4th of 5,,N,N
+1975,KCC,NFL,Kansas City Chiefs,5,9,0,3rd of 4,,N,N
+1974,KCC,NFL,Kansas City Chiefs,5,9,0,3rd of 4,,N,N
+1973,KCC,NFL,Kansas City Chiefs,7,5,2,2nd of 4,,N,N
+1972,KCC,NFL,Kansas City Chiefs,8,6,0,2nd of 4,,N,N
+1971,KCC,NFL,Kansas City Chiefs,10,3,1,1st of 4,Lost Div,N,N
+1970,KCC,NFL,Kansas City Chiefs,7,5,2,2nd of 4,,N,N
+1969,KCC,AFL,Kansas City Chiefs,11,3,0,2nd of 5,Won SB,Y,Y
+1968,KCC,AFL,Kansas City Chiefs,12,2,0,1st of 5,Lost Div,N,N
+1967,KCC,AFL,Kansas City Chiefs,9,5,0,2nd of 4,,N,N
+1966,KCC,AFL,Kansas City Chiefs,11,2,1,1st of 4,Lost SB,N,Y
+1965,KCC,AFL,Kansas City Chiefs,7,5,2,3rd of 4,,N,N
+1964,KCC,AFL,Kansas City Chiefs,7,7,0,2nd of 4,,N,N
+1963,KCC,AFL,Kansas City Chiefs,5,7,2,3rd of 4,,N,N
+1962,KCC,AFL,Dallas Texans,11,3,0,1st of 4,Won Champ,Y,Y
+1961,KCC,AFL,Dallas Texans,6,8,0,2nd of 4,,N,N
+1960,KCC,AFL,Dallas Texans,8,6,0,2nd of 4,,N,N
+2021,LVR,NFL,Las Vegas Raiders,10,7,0,2nd of 4,Lost WC,N,N
+2020,LVR,NFL,Las Vegas Raiders,8,8,0,2nd of 4,,N,N
+2019,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
+2018,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2017,LVR,NFL,Oakland Raiders,6,10,0,3rd of 4,,N,N
+2016,LVR,NFL,Oakland Raiders,12,4,0,2nd of 4,Lost WC,N,N
+2015,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
+2014,LVR,NFL,Oakland Raiders,3,13,0,4th of 4,,N,N
+2013,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2012,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
+2011,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
+2010,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
+2009,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
+2008,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
+2007,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2006,LVR,NFL,Oakland Raiders,2,14,0,4th of 4,,N,N
+2005,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2004,LVR,NFL,Oakland Raiders,5,11,0,4th of 4,,N,N
+2003,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
+2002,LVR,NFL,Oakland Raiders,11,5,0,1st of 4,Lost SB,N,Y
+2001,LVR,NFL,Oakland Raiders,10,6,0,1st of 5,Lost Div,N,N
+2000,LVR,NFL,Oakland Raiders,12,4,0,1st of 5,Lost Conf,N,N
+1999,LVR,NFL,Oakland Raiders,8,8,0,4th of 5,,N,N
+1998,LVR,NFL,Oakland Raiders,8,8,0,2nd of 5,,N,N
+1997,LVR,NFL,Oakland Raiders,4,12,0,4th of 5,,N,N
+1996,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
+1995,LVR,NFL,Oakland Raiders,8,8,0,5th of 5,,N,N
+1994,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,,N,N
+1993,LVR,NFL,Los Angeles Raiders,10,6,0,2nd of 5,Lost Div,N,N
+1992,LVR,NFL,Los Angeles Raiders,7,9,0,4th of 5,,N,N
+1991,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,Lost WC,N,N
+1990,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Conf,N,N
+1989,LVR,NFL,Los Angeles Raiders,8,8,0,3rd of 5,,N,N
+1988,LVR,NFL,Los Angeles Raiders,7,9,0,3rd of 5,,N,N
+1987,LVR,NFL,Los Angeles Raiders,5,10,0,4th of 5,,N,N
+1986,LVR,NFL,Los Angeles Raiders,8,8,0,4th of 5,,N,N
+1985,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Div,N,N
+1984,LVR,NFL,Los Angeles Raiders,11,5,0,3rd of 5,Lost WC,N,N
+1983,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Won SB,Y,Y
+1982,LVR,NFL,Los Angeles Raiders,8,1,0,1st of 5,Lost Div,N,N
+1981,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
+1980,LVR,NFL,Oakland Raiders,11,5,0,2nd of 5,Won SB,Y,Y
+1979,LVR,NFL,Oakland Raiders,9,7,0,4th of 5,,N,N
+1978,LVR,NFL,Oakland Raiders,9,7,0,2nd of 5,,N,N
+1977,LVR,NFL,Oakland Raiders,11,3,0,2nd of 5,Lost Conf,N,N
+1976,LVR,NFL,Oakland Raiders,13,1,0,1st of 5,Won SB,Y,Y
+1975,LVR,NFL,Oakland Raiders,11,3,0,1st of 4,Lost Conf,N,N
+1974,LVR,NFL,Oakland Raiders,12,2,0,1st of 4,Lost Conf,N,N
+1973,LVR,NFL,Oakland Raiders,9,4,1,1st of 4,Lost Conf,N,N
+1972,LVR,NFL,Oakland Raiders,10,3,1,1st of 4,Lost Div,N,N
+1971,LVR,NFL,Oakland Raiders,8,4,2,2nd of 4,,N,N
+1970,LVR,NFL,Oakland Raiders,8,4,2,1st of 4,Lost Conf,N,N
+1969,LVR,AFL,Oakland Raiders,12,1,1,1st of 5,Lost Conf,N,N
+1968,LVR,AFL,Oakland Raiders,12,2,0,1st of 5,Lost Conf,N,N
+1967,LVR,AFL,Oakland Raiders,13,1,0,1st of 4,Lost SB,N,Y
+1966,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
+1965,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
+1964,LVR,AFL,Oakland Raiders,5,7,2,3rd of 4,,N,N
+1963,LVR,AFL,Oakland Raiders,10,4,0,2nd of 4,,N,N
+1962,LVR,AFL,Oakland Raiders,1,13,0,4th of 4,,N,N
+1961,LVR,AFL,Oakland Raiders,2,12,0,4th of 4,,N,N
+1960,LVR,AFL,Oakland Raiders,6,8,0,3rd of 4,,N,N
+2021,LAC,NFL,Los Angeles Chargers,9,8,0,3rd of 4,,N,N
+2020,LAC,NFL,Los Angeles Chargers,7,9,0,3rd of 4,,N,N
+2019,LAC,NFL,Los Angeles Chargers,5,11,0,4th of 4,,N,N
+2018,LAC,NFL,Los Angeles Chargers,12,4,0,2nd of 4,Lost Div,N,N
+2017,LAC,NFL,Los Angeles Chargers,9,7,0,2nd of 4,,N,N
+2016,LAC,NFL,San Diego Chargers,5,11,0,4th of 4,,N,N
+2015,LAC,NFL,San Diego Chargers,4,12,0,4th of 4,,N,N
+2014,LAC,NFL,San Diego Chargers,9,7,0,2nd of 4,,N,N
+2013,LAC,NFL,San Diego Chargers,9,7,0,3rd of 4,Lost Div,N,N
+2012,LAC,NFL,San Diego Chargers,7,9,0,2nd of 4,,N,N
+2011,LAC,NFL,San Diego Chargers,8,8,0,2nd of 4,,N,N
+2010,LAC,NFL,San Diego Chargers,9,7,0,2nd of 4,,N,N
+2009,LAC,NFL,San Diego Chargers,13,3,0,1st of 4,Lost Div,N,N
+2008,LAC,NFL,San Diego Chargers,8,8,0,1st of 4,Lost Div,N,N
+2007,LAC,NFL,San Diego Chargers,11,5,0,1st of 4,Lost Conf,N,N
+2006,LAC,NFL,San Diego Chargers,14,2,0,1st of 4,Lost Div,N,N
+2005,LAC,NFL,San Diego Chargers,9,7,0,3rd of 4,,N,N
+2004,LAC,NFL,San Diego Chargers,12,4,0,1st of 4,Lost WC,N,N
+2003,LAC,NFL,San Diego Chargers,4,12,0,4th of 4,,N,N
+2002,LAC,NFL,San Diego Chargers,8,8,0,3rd of 4,,N,N
+2001,LAC,NFL,San Diego Chargers,5,11,0,5th of 5,,N,N
+2000,LAC,NFL,San Diego Chargers,1,15,0,5th of 5,,N,N
+1999,LAC,NFL,San Diego Chargers,8,8,0,3rd of 5,,N,N
+1998,LAC,NFL,San Diego Chargers,5,11,0,5th of 5,,N,N
+1997,LAC,NFL,San Diego Chargers,4,12,0,5th of 5,,N,N
+1996,LAC,NFL,San Diego Chargers,8,8,0,3rd of 5,,N,N
+1995,LAC,NFL,San Diego Chargers,9,7,0,2nd of 5,Lost WC,N,N
+1994,LAC,NFL,San Diego Chargers,11,5,0,1st of 5,Lost SB,N,Y
+1993,LAC,NFL,San Diego Chargers,8,8,0,4th of 5,,N,N
+1992,LAC,NFL,San Diego Chargers,11,5,0,1st of 5,Lost Div,N,N
+1991,LAC,NFL,San Diego Chargers,4,12,0,5th of 5,,N,N
+1990,LAC,NFL,San Diego Chargers,6,10,0,4th of 5,,N,N
+1989,LAC,NFL,San Diego Chargers,6,10,0,5th of 5,,N,N
+1988,LAC,NFL,San Diego Chargers,6,10,0,4th of 5,,N,N
+1987,LAC,NFL,San Diego Chargers,8,7,0,3rd of 5,,N,N
+1986,LAC,NFL,San Diego Chargers,4,12,0,5th of 5,,N,N
+1985,LAC,NFL,San Diego Chargers,8,8,0,4th of 5,,N,N
+1984,LAC,NFL,San Diego Chargers,7,9,0,5th of 5,,N,N
+1983,LAC,NFL,San Diego Chargers,6,10,0,4th of 5,,N,N
+1982,LAC,NFL,San Diego Chargers,6,3,0,2nd of 5,Lost Div,N,N
+1981,LAC,NFL,San Diego Chargers,10,6,0,1st of 5,Lost Conf,N,N
+1980,LAC,NFL,San Diego Chargers,11,5,0,1st of 5,Lost Conf,N,N
+1979,LAC,NFL,San Diego Chargers,12,4,0,1st of 5,Lost Div,N,N
+1978,LAC,NFL,San Diego Chargers,9,7,0,4th of 5,,N,N
+1977,LAC,NFL,San Diego Chargers,7,7,0,3rd of 5,,N,N
+1976,LAC,NFL,San Diego Chargers,6,8,0,3rd of 5,,N,N
+1975,LAC,NFL,San Diego Chargers,2,12,0,4th of 4,,N,N
+1974,LAC,NFL,San Diego Chargers,5,9,0,4th of 4,,N,N
+1973,LAC,NFL,San Diego Chargers,2,11,1,4th of 4,,N,N
+1972,LAC,NFL,San Diego Chargers,4,9,1,4th of 4,,N,N
+1971,LAC,NFL,San Diego Chargers,6,8,0,3rd of 4,,N,N
+1970,LAC,NFL,San Diego Chargers,5,6,3,3rd of 4,,N,N
+1969,LAC,AFL,San Diego Chargers,8,6,0,3rd of 5,,N,N
+1968,LAC,AFL,San Diego Chargers,9,5,0,3rd of 5,,N,N
+1967,LAC,AFL,San Diego Chargers,8,5,1,3rd of 4,,N,N
+1966,LAC,AFL,San Diego Chargers,7,6,1,3rd of 4,,N,N
+1965,LAC,AFL,San Diego Chargers,9,2,3,1st of 4,Lost Champ,N,Y
+1964,LAC,AFL,San Diego Chargers,8,5,1,1st of 4,Lost Champ,N,Y
+1963,LAC,AFL,San Diego Chargers,11,3,0,1st of 4,Won Champ,Y,Y
+1962,LAC,AFL,San Diego Chargers,4,10,0,3rd of 4,,N,N
+1961,LAC,AFL,San Diego Chargers,12,2,0,1st of 4,Lost Champ,N,Y
+1960,LAC,AFL,Los Angeles Chargers,10,4,0,1st of 4,Lost Champ,N,Y
+2021,LAR,NFL,Los Angeles Rams,12,5,0,1st of 4,Won SB,Y,Y
+2020,LAR,NFL,Los Angeles Rams,10,6,0,2nd of 4,Lost Div,N,N
+2019,LAR,NFL,Los Angeles Rams,9,7,0,3rd of 4,,N,N
+2018,LAR,NFL,Los Angeles Rams,13,3,0,1st of 4,Lost SB,N,Y
+2017,LAR,NFL,Los Angeles Rams,11,5,0,1st of 4,Lost WC,N,N
+2016,LAR,NFL,Los Angeles Rams,4,12,0,3rd of 4,,N,N
+2015,LAR,NFL,St. Louis Rams,7,9,0,3rd of 4,,N,N
+2014,LAR,NFL,St. Louis Rams,6,10,0,4th of 4,,N,N
+2013,LAR,NFL,St. Louis Rams,7,9,0,4th of 4,,N,N
+2012,LAR,NFL,St. Louis Rams,7,8,1,3rd of 4,,N,N
+2011,LAR,NFL,St. Louis Rams,2,14,0,4th of 4,,N,N
+2010,LAR,NFL,St. Louis Rams,7,9,0,2nd of 4,,N,N
+2009,LAR,NFL,St. Louis Rams,1,15,0,4th of 4,,N,N
+2008,LAR,NFL,St. Louis Rams,2,14,0,4th of 4,,N,N
+2007,LAR,NFL,St. Louis Rams,3,13,0,4th of 4,,N,N
+2006,LAR,NFL,St. Louis Rams,8,8,0,2nd of 4,,N,N
+2005,LAR,NFL,St. Louis Rams,6,10,0,2nd of 4,,N,N
+2004,LAR,NFL,St. Louis Rams,8,8,0,2nd of 4,Lost Div,N,N
+2003,LAR,NFL,St. Louis Rams,12,4,0,1st of 4,Lost Div,N,N
+2002,LAR,NFL,St. Louis Rams,7,9,0,2nd of 4,,N,N
+2001,LAR,NFL,St. Louis Rams,14,2,0,1st of 5,Lost SB,N,Y
+2000,LAR,NFL,St. Louis Rams,10,6,0,2nd of 5,Lost WC,N,N
+1999,LAR,NFL,St. Louis Rams,13,3,0,1st of 5,Won SB,Y,Y
+1998,LAR,NFL,St. Louis Rams,4,12,0,5th of 5,,N,N
+1997,LAR,NFL,St. Louis Rams,5,11,0,5th of 5,,N,N
+1996,LAR,NFL,St. Louis Rams,6,10,0,3rd of 5,,N,N
+1995,LAR,NFL,St. Louis Rams,7,9,0,3rd of 5,,N,N
+1994,LAR,NFL,Los Angeles Rams,4,12,0,4th of 4,,N,N
+1993,LAR,NFL,Los Angeles Rams,5,11,0,4th of 4,,N,N
+1992,LAR,NFL,Los Angeles Rams,6,10,0,4th of 4,,N,N
+1991,LAR,NFL,Los Angeles Rams,3,13,0,4th of 4,,N,N
+1990,LAR,NFL,Los Angeles Rams,5,11,0,3rd of 4,,N,N
+1989,LAR,NFL,Los Angeles Rams,11,5,0,2nd of 4,Lost Conf,N,N
+1988,LAR,NFL,Los Angeles Rams,10,6,0,2nd of 4,Lost WC,N,N
+1987,LAR,NFL,Los Angeles Rams,6,9,0,3rd of 4,,N,N
+1986,LAR,NFL,Los Angeles Rams,10,6,0,2nd of 4,Lost WC,N,N
+1985,LAR,NFL,Los Angeles Rams,11,5,0,1st of 4,Lost Conf,N,N
+1984,LAR,NFL,Los Angeles Rams,10,6,0,2nd of 4,Lost WC,N,N
+1983,LAR,NFL,Los Angeles Rams,9,7,0,2nd of 4,Lost Div,N,N
+1982,LAR,NFL,Los Angeles Rams,2,7,0,4th of 4,,N,N
+1981,LAR,NFL,Los Angeles Rams,6,10,0,3rd of 4,,N,N
+1980,LAR,NFL,Los Angeles Rams,11,5,0,2nd of 4,Lost WC,N,N
+1979,LAR,NFL,Los Angeles Rams,9,7,0,1st of 4,Lost SB,N,Y
+1978,LAR,NFL,Los Angeles Rams,12,4,0,1st of 4,Lost Conf,N,N
+1977,LAR,NFL,Los Angeles Rams,10,4,0,1st of 4,Lost Div,N,N
+1976,LAR,NFL,Los Angeles Rams,10,3,1,1st of 5,Lost Conf,N,N
+1975,LAR,NFL,Los Angeles Rams,12,2,0,1st of 4,Lost Conf,N,N
+1974,LAR,NFL,Los Angeles Rams,10,4,0,1st of 4,Lost Conf,N,N
+1973,LAR,NFL,Los Angeles Rams,12,2,0,1st of 4,Lost Div,N,N
+1972,LAR,NFL,Los Angeles Rams,6,7,1,3rd of 4,,N,N
+1971,LAR,NFL,Los Angeles Rams,8,5,1,2nd of 4,,N,N
+1970,LAR,NFL,Los Angeles Rams,9,4,1,2nd of 4,,N,N
+1969,LAR,NFL,Los Angeles Rams,11,3,0,1st of 4,Lost Div,N,N
+1968,LAR,NFL,Los Angeles Rams,10,3,1,2nd of 4,,N,N
+1967,LAR,NFL,Los Angeles Rams,11,1,2,1st of 4,Lost Div,N,N
+1966,LAR,NFL,Los Angeles Rams,8,6,0,3rd of 7,,N,N
+1965,LAR,NFL,Los Angeles Rams,4,10,0,7th of 7,,N,N
+1964,LAR,NFL,Los Angeles Rams,5,7,2,5th of 7,,N,N
+1963,LAR,NFL,Los Angeles Rams,5,9,0,6th of 7,,N,N
+1962,LAR,NFL,Los Angeles Rams,1,12,1,7th of 7,,N,N
+1961,LAR,NFL,Los Angeles Rams,4,10,0,6th of 7,,N,N
+1960,LAR,NFL,Los Angeles Rams,4,7,1,6th of 7,,N,N
+1959,LAR,NFL,Los Angeles Rams,2,10,0,6th of 6,,N,N
+1958,LAR,NFL,Los Angeles Rams,8,4,0,2nd of 6,,N,N
+1957,LAR,NFL,Los Angeles Rams,6,6,0,4th of 6,,N,N
+1956,LAR,NFL,Los Angeles Rams,4,8,0,5th of 6,,N,N
+1955,LAR,NFL,Los Angeles Rams,8,3,1,1st of 6,Lost Champ,N,Y
+1954,LAR,NFL,Los Angeles Rams,6,5,1,4th of 6,,N,N
+1953,LAR,NFL,Los Angeles Rams,8,3,1,3rd of 6,,N,N
+1952,LAR,NFL,Los Angeles Rams,9,3,0,2nd of 6,Lost Div,N,N
+1951,LAR,NFL,Los Angeles Rams,8,4,0,1st of 6,Won Champ,Y,Y
+1950,LAR,NFL,Los Angeles Rams,9,3,0,1st of 7,Lost Champ,N,Y
+1949,LAR,NFL,Los Angeles Rams,8,2,2,1st of 5,Lost Champ,N,Y
+1948,LAR,NFL,Los Angeles Rams,6,5,1,3rd of 5,,N,N
+1947,LAR,NFL,Los Angeles Rams,6,6,0,4th of 5,,N,N
+1946,LAR,NFL,Los Angeles Rams,6,4,1,2nd of 5,,N,N
+1945,LAR,NFL,Cleveland Rams,9,1,0,1st of 5,Won Champ,Y,Y
+1944,LAR,NFL,Cleveland Rams,4,6,0,4th of 5,,N,N
+1942,LAR,NFL,Cleveland Rams,5,6,0,3rd of 5,,N,N
+1941,LAR,NFL,Cleveland Rams,2,9,0,5th of 5,,N,N
+1940,LAR,NFL,Cleveland Rams,4,6,1,4th of 5,,N,N
+1939,LAR,NFL,Cleveland Rams,5,5,1,4th of 5,,N,N
+1938,LAR,NFL,Cleveland Rams,4,7,0,4th of 5,,N,N
+1937,LAR,NFL,Cleveland Rams,1,10,0,5th of 5,,N,N
+2021,MIA,NFL,Miami Dolphins,9,8,0,3rd of 4,,N,N
+2020,MIA,NFL,Miami Dolphins,10,6,0,2nd of 4,,N,N
+2019,MIA,NFL,Miami Dolphins,5,11,0,4th of 4,,N,N
+2018,MIA,NFL,Miami Dolphins,7,9,0,2nd of 4,,N,N
+2017,MIA,NFL,Miami Dolphins,6,10,0,3rd of 4,,N,N
+2016,MIA,NFL,Miami Dolphins,10,6,0,2nd of 4,Lost WC,N,N
+2015,MIA,NFL,Miami Dolphins,6,10,0,4th of 4,,N,N
+2014,MIA,NFL,Miami Dolphins,8,8,0,3rd of 4,,N,N
+2013,MIA,NFL,Miami Dolphins,8,8,0,3rd of 4,,N,N
+2012,MIA,NFL,Miami Dolphins,7,9,0,2nd of 4,,N,N
+2011,MIA,NFL,Miami Dolphins,6,10,0,3rd of 4,,N,N
+2010,MIA,NFL,Miami Dolphins,7,9,0,3rd of 4,,N,N
+2009,MIA,NFL,Miami Dolphins,7,9,0,3rd of 4,,N,N
+2008,MIA,NFL,Miami Dolphins,11,5,0,1st of 4,Lost WC,N,N
+2007,MIA,NFL,Miami Dolphins,1,15,0,4th of 4,,N,N
+2006,MIA,NFL,Miami Dolphins,6,10,0,4th of 4,,N,N
+2005,MIA,NFL,Miami Dolphins,9,7,0,2nd of 4,,N,N
+2004,MIA,NFL,Miami Dolphins,4,12,0,4th of 4,,N,N
+2003,MIA,NFL,Miami Dolphins,10,6,0,2nd of 4,,N,N
+2002,MIA,NFL,Miami Dolphins,9,7,0,3rd of 4,,N,N
+2001,MIA,NFL,Miami Dolphins,11,5,0,2nd of 5,Lost WC,N,N
+2000,MIA,NFL,Miami Dolphins,11,5,0,1st of 5,Lost Div,N,N
+1999,MIA,NFL,Miami Dolphins,9,7,0,3rd of 5,Lost Div,N,N
+1998,MIA,NFL,Miami Dolphins,10,6,0,2nd of 5,Lost Div,N,N
+1997,MIA,NFL,Miami Dolphins,9,7,0,2nd of 5,Lost WC,N,N
+1996,MIA,NFL,Miami Dolphins,8,8,0,4th of 5,,N,N
+1995,MIA,NFL,Miami Dolphins,9,7,0,3rd of 5,Lost WC,N,N
+1994,MIA,NFL,Miami Dolphins,10,6,0,1st of 5,Lost Div,N,N
+1993,MIA,NFL,Miami Dolphins,9,7,0,2nd of 5,,N,N
+1992,MIA,NFL,Miami Dolphins,11,5,0,1st of 5,Lost Conf,N,N
+1991,MIA,NFL,Miami Dolphins,8,8,0,3rd of 5,,N,N
+1990,MIA,NFL,Miami Dolphins,12,4,0,2nd of 5,Lost Div,N,N
+1989,MIA,NFL,Miami Dolphins,8,8,0,3rd of 5,,N,N
+1988,MIA,NFL,Miami Dolphins,6,10,0,5th of 5,,N,N
+1987,MIA,NFL,Miami Dolphins,8,7,0,3rd of 5,,N,N
+1986,MIA,NFL,Miami Dolphins,8,8,0,3rd of 5,,N,N
+1985,MIA,NFL,Miami Dolphins,12,4,0,1st of 5,Lost Conf,N,N
+1984,MIA,NFL,Miami Dolphins,14,2,0,1st of 5,Lost SB,N,Y
+1983,MIA,NFL,Miami Dolphins,12,4,0,1st of 5,Lost Div,N,N
+1982,MIA,NFL,Miami Dolphins,7,2,0,1st of 5,Lost SB,N,Y
+1981,MIA,NFL,Miami Dolphins,11,4,1,1st of 5,Lost Div,N,N
+1980,MIA,NFL,Miami Dolphins,8,8,0,3rd of 5,,N,N
+1979,MIA,NFL,Miami Dolphins,10,6,0,1st of 5,Lost Div,N,N
+1978,MIA,NFL,Miami Dolphins,11,5,0,2nd of 5,Lost WC,N,N
+1977,MIA,NFL,Miami Dolphins,10,4,0,2nd of 5,,N,N
+1976,MIA,NFL,Miami Dolphins,6,8,0,3rd of 5,,N,N
+1975,MIA,NFL,Miami Dolphins,10,4,0,2nd of 5,,N,N
+1974,MIA,NFL,Miami Dolphins,11,3,0,1st of 5,Lost Div,N,N
+1973,MIA,NFL,Miami Dolphins,12,2,0,1st of 5,Won SB,Y,Y
+1972,MIA,NFL,Miami Dolphins,14,0,0,1st of 5,Won SB,Y,Y
+1971,MIA,NFL,Miami Dolphins,10,3,1,1st of 5,Lost SB,N,Y
+1970,MIA,NFL,Miami Dolphins,10,4,0,2nd of 5,Lost Div,N,N
+1969,MIA,AFL,Miami Dolphins,3,10,1,5th of 5,,N,N
+1968,MIA,AFL,Miami Dolphins,5,8,1,3rd of 5,,N,N
+1967,MIA,AFL,Miami Dolphins,4,10,0,3rd of 5,,N,N
+1966,MIA,AFL,Miami Dolphins,3,11,0,4th of 5,,N,N
+2021,MIN,NFL,Minnesota Vikings,8,9,0,2nd of 4,,N,N
+2020,MIN,NFL,Minnesota Vikings,7,9,0,3rd of 4,,N,N
+2019,MIN,NFL,Minnesota Vikings,10,6,0,2nd of 4,Lost Div,N,N
+2018,MIN,NFL,Minnesota Vikings,8,7,1,2nd of 4,,N,N
+2017,MIN,NFL,Minnesota Vikings,13,3,0,1st of 4,Lost Conf,N,N
+2016,MIN,NFL,Minnesota Vikings,8,8,0,3rd of 4,,N,N
+2015,MIN,NFL,Minnesota Vikings,11,5,0,1st of 4,Lost WC,N,N
+2014,MIN,NFL,Minnesota Vikings,7,9,0,3rd of 4,,N,N
+2013,MIN,NFL,Minnesota Vikings,5,10,1,4th of 4,,N,N
+2012,MIN,NFL,Minnesota Vikings,10,6,0,2nd of 4,Lost WC,N,N
+2011,MIN,NFL,Minnesota Vikings,3,13,0,4th of 4,,N,N
+2010,MIN,NFL,Minnesota Vikings,6,10,0,4th of 4,,N,N
+2009,MIN,NFL,Minnesota Vikings,12,4,0,1st of 4,Lost Conf,N,N
+2008,MIN,NFL,Minnesota Vikings,10,6,0,1st of 4,Lost WC,N,N
+2007,MIN,NFL,Minnesota Vikings,8,8,0,2nd of 4,,N,N
+2006,MIN,NFL,Minnesota Vikings,6,10,0,3rd of 4,,N,N
+2005,MIN,NFL,Minnesota Vikings,9,7,0,2nd of 4,,N,N
+2004,MIN,NFL,Minnesota Vikings,8,8,0,2nd of 4,Lost Div,N,N
+2003,MIN,NFL,Minnesota Vikings,9,7,0,2nd of 4,,N,N
+2002,MIN,NFL,Minnesota Vikings,6,10,0,2nd of 4,,N,N
+2001,MIN,NFL,Minnesota Vikings,5,11,0,4th of 5,,N,N
+2000,MIN,NFL,Minnesota Vikings,11,5,0,1st of 5,Lost Conf,N,N
+1999,MIN,NFL,Minnesota Vikings,10,6,0,2nd of 5,Lost Div,N,N
+1998,MIN,NFL,Minnesota Vikings,15,1,0,1st of 5,Lost Conf,N,N
+1997,MIN,NFL,Minnesota Vikings,9,7,0,4th of 5,Lost Div,N,N
+1996,MIN,NFL,Minnesota Vikings,9,7,0,2nd of 5,Lost WC,N,N
+1995,MIN,NFL,Minnesota Vikings,8,8,0,4th of 5,,N,N
+1994,MIN,NFL,Minnesota Vikings,10,6,0,1st of 5,Lost WC,N,N
+1993,MIN,NFL,Minnesota Vikings,9,7,0,2nd of 5,Lost WC,N,N
+1992,MIN,NFL,Minnesota Vikings,11,5,0,1st of 5,Lost WC,N,N
+1991,MIN,NFL,Minnesota Vikings,8,8,0,3rd of 5,,N,N
+1990,MIN,NFL,Minnesota Vikings,6,10,0,5th of 5,,N,N
+1989,MIN,NFL,Minnesota Vikings,10,6,0,1st of 5,Lost Div,N,N
+1988,MIN,NFL,Minnesota Vikings,11,5,0,2nd of 5,Lost Div,N,N
+1987,MIN,NFL,Minnesota Vikings,8,7,0,2nd of 5,Lost Conf,N,N
+1986,MIN,NFL,Minnesota Vikings,9,7,0,2nd of 5,,N,N
+1985,MIN,NFL,Minnesota Vikings,7,9,0,3rd of 5,,N,N
+1984,MIN,NFL,Minnesota Vikings,3,13,0,5th of 5,,N,N
+1983,MIN,NFL,Minnesota Vikings,8,8,0,4th of 5,,N,N
+1982,MIN,NFL,Minnesota Vikings,5,4,0,2nd of 5,Lost Div,N,N
+1981,MIN,NFL,Minnesota Vikings,7,9,0,4th of 5,,N,N
+1980,MIN,NFL,Minnesota Vikings,9,7,0,1st of 5,Lost Div,N,N
+1979,MIN,NFL,Minnesota Vikings,7,9,0,3rd of 5,,N,N
+1978,MIN,NFL,Minnesota Vikings,8,7,1,1st of 5,Lost Div,N,N
+1977,MIN,NFL,Minnesota Vikings,9,5,0,1st of 5,Lost Conf,N,N
+1976,MIN,NFL,Minnesota Vikings,11,2,1,1st of 4,Lost SB,N,Y
+1975,MIN,NFL,Minnesota Vikings,12,2,0,1st of 4,Lost Div,N,N
+1974,MIN,NFL,Minnesota Vikings,10,4,0,1st of 4,Lost SB,N,Y
+1973,MIN,NFL,Minnesota Vikings,12,2,0,1st of 4,Lost SB,N,Y
+1972,MIN,NFL,Minnesota Vikings,7,7,0,3rd of 4,,N,N
+1971,MIN,NFL,Minnesota Vikings,11,3,0,1st of 4,Lost Div,N,N
+1970,MIN,NFL,Minnesota Vikings,12,2,0,1st of 4,Lost Div,N,N
+1969,MIN,NFL,Minnesota Vikings,12,2,0,1st of 4,Lost SB,N,Y
+1968,MIN,NFL,Minnesota Vikings,8,6,0,1st of 4,Lost Div,N,N
+1967,MIN,NFL,Minnesota Vikings,3,8,3,4th of 4,,N,N
+1966,MIN,NFL,Minnesota Vikings,4,9,1,6th of 7,,N,N
+1965,MIN,NFL,Minnesota Vikings,7,7,0,5th of 7,,N,N
+1964,MIN,NFL,Minnesota Vikings,8,5,1,2nd of 7,,N,N
+1963,MIN,NFL,Minnesota Vikings,5,8,1,4th of 7,,N,N
+1962,MIN,NFL,Minnesota Vikings,2,11,1,6th of 7,,N,N
+1961,MIN,NFL,Minnesota Vikings,3,11,0,7th of 7,,N,N
+2021,NEP,NFL,New England Patriots,10,7,0,2nd of 4,Lost WC,N,N
+2020,NEP,NFL,New England Patriots,7,9,0,3rd of 4,,N,N
+2019,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost WC,N,N
+2018,NEP,NFL,New England Patriots,11,5,0,1st of 4,Won SB,Y,Y
+2017,NEP,NFL,New England Patriots,13,3,0,1st of 4,Lost SB,N,Y
+2016,NEP,NFL,New England Patriots,14,2,0,1st of 4,Won SB,Y,Y
+2015,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost Conf,N,N
+2014,NEP,NFL,New England Patriots,12,4,0,1st of 4,Won SB,Y,Y
+2013,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost Conf,N,N
+2012,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost Conf,N,N
+2011,NEP,NFL,New England Patriots,13,3,0,1st of 4,Lost SB,N,Y
+2010,NEP,NFL,New England Patriots,14,2,0,1st of 4,Lost Div,N,N
+2009,NEP,NFL,New England Patriots,10,6,0,1st of 4,Lost WC,N,N
+2008,NEP,NFL,New England Patriots,11,5,0,2nd of 4,,N,N
+2007,NEP,NFL,New England Patriots,16,0,0,1st of 4,Lost SB,N,Y
+2006,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost Conf,N,N
+2005,NEP,NFL,New England Patriots,10,6,0,1st of 4,Lost Div,N,N
+2004,NEP,NFL,New England Patriots,14,2,0,1st of 4,Won SB,Y,Y
+2003,NEP,NFL,New England Patriots,14,2,0,1st of 4,Won SB,Y,Y
+2002,NEP,NFL,New England Patriots,9,7,0,2nd of 4,,N,N
+2001,NEP,NFL,New England Patriots,11,5,0,1st of 5,Won SB,Y,Y
+2000,NEP,NFL,New England Patriots,5,11,0,5th of 5,,N,N
+1999,NEP,NFL,New England Patriots,8,8,0,5th of 5,,N,N
+1998,NEP,NFL,New England Patriots,9,7,0,4th of 5,Lost WC,N,N
+1997,NEP,NFL,New England Patriots,10,6,0,1st of 5,Lost Div,N,N
+1996,NEP,NFL,New England Patriots,11,5,0,1st of 5,Lost SB,N,Y
+1995,NEP,NFL,New England Patriots,6,10,0,4th of 5,,N,N
+1994,NEP,NFL,New England Patriots,10,6,0,2nd of 5,Lost WC,N,N
+1993,NEP,NFL,New England Patriots,5,11,0,4th of 5,,N,N
+1992,NEP,NFL,New England Patriots,2,14,0,5th of 5,,N,N
+1991,NEP,NFL,New England Patriots,6,10,0,4th of 5,,N,N
+1990,NEP,NFL,New England Patriots,1,15,0,5th of 5,,N,N
+1989,NEP,NFL,New England Patriots,5,11,0,4th of 5,,N,N
+1988,NEP,NFL,New England Patriots,9,7,0,3rd of 5,,N,N
+1987,NEP,NFL,New England Patriots,8,7,0,2nd of 5,,N,N
+1986,NEP,NFL,New England Patriots,11,5,0,1st of 5,Lost Div,N,N
+1985,NEP,NFL,New England Patriots,11,5,0,3rd of 5,Lost SB,N,Y
+1984,NEP,NFL,New England Patriots,9,7,0,2nd of 5,,N,N
+1983,NEP,NFL,New England Patriots,8,8,0,2nd of 5,,N,N
+1982,NEP,NFL,New England Patriots,5,4,0,3rd of 5,Lost WC,N,N
+1981,NEP,NFL,New England Patriots,2,14,0,5th of 5,,N,N
+1980,NEP,NFL,New England Patriots,10,6,0,2nd of 5,,N,N
+1979,NEP,NFL,New England Patriots,9,7,0,2nd of 5,,N,N
+1978,NEP,NFL,New England Patriots,11,5,0,1st of 5,Lost Div,N,N
+1977,NEP,NFL,New England Patriots,9,5,0,3rd of 5,,N,N
+1976,NEP,NFL,New England Patriots,11,3,0,2nd of 5,Lost Div,N,N
+1975,NEP,NFL,New England Patriots,3,11,0,5th of 5,,N,N
+1974,NEP,NFL,New England Patriots,7,7,0,3rd of 5,,N,N
+1973,NEP,NFL,New England Patriots,5,9,0,3rd of 5,,N,N
+1972,NEP,NFL,New England Patriots,3,11,0,5th of 5,,N,N
+1971,NEP,NFL,New England Patriots,6,8,0,3rd of 5,,N,N
+1970,NEP,NFL,Boston Patriots,2,12,0,5th of 5,,N,N
+1969,NEP,AFL,Boston Patriots,4,10,0,3rd of 5,,N,N
+1968,NEP,AFL,Boston Patriots,4,10,0,4th of 5,,N,N
+1967,NEP,AFL,Boston Patriots,3,10,1,5th of 5,,N,N
+1966,NEP,AFL,Boston Patriots,8,4,2,2nd of 5,,N,N
+1965,NEP,AFL,Boston Patriots,4,8,2,3rd of 4,,N,N
+1964,NEP,AFL,Boston Patriots,10,3,1,2nd of 4,,N,N
+1963,NEP,AFL,Boston Patriots,7,6,1,1st of 4,Lost Champ,N,Y
+1962,NEP,AFL,Boston Patriots,9,4,1,2nd of 4,,N,N
+1961,NEP,AFL,Boston Patriots,9,4,1,2nd of 4,,N,N
+1960,NEP,AFL,Boston Patriots,5,9,0,4th of 4,,N,N
+2021,NOS,NFL,New Orleans Saints,9,8,0,2nd of 4,,N,N
+2020,NOS,NFL,New Orleans Saints,12,4,0,1st of 4,Lost Div,N,N
+2019,NOS,NFL,New Orleans Saints,13,3,0,1st of 4,Lost WC,N,N
+2018,NOS,NFL,New Orleans Saints,13,3,0,1st of 4,Lost Conf,N,N
+2017,NOS,NFL,New Orleans Saints,11,5,0,1st of 4,Lost Div,N,N
+2016,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+2015,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+2014,NOS,NFL,New Orleans Saints,7,9,0,2nd of 4,,N,N
+2013,NOS,NFL,New Orleans Saints,11,5,0,2nd of 4,Lost Div,N,N
+2012,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+2011,NOS,NFL,New Orleans Saints,13,3,0,1st of 4,Lost Div,N,N
+2010,NOS,NFL,New Orleans Saints,11,5,0,2nd of 4,Lost WC,N,N
+2009,NOS,NFL,New Orleans Saints,13,3,0,1st of 4,Won SB,Y,Y
+2008,NOS,NFL,New Orleans Saints,8,8,0,4th of 4,,N,N
+2007,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+2006,NOS,NFL,New Orleans Saints,10,6,0,1st of 4,Lost Conf,N,N
+2005,NOS,NFL,New Orleans Saints,3,13,0,4th of 4,,N,N
+2004,NOS,NFL,New Orleans Saints,8,8,0,2nd of 4,,N,N
+2003,NOS,NFL,New Orleans Saints,8,8,0,2nd of 4,,N,N
+2002,NOS,NFL,New Orleans Saints,9,7,0,3rd of 4,,N,N
+2001,NOS,NFL,New Orleans Saints,7,9,0,3rd of 5,,N,N
+2000,NOS,NFL,New Orleans Saints,10,6,0,1st of 5,Lost Div,N,N
+1999,NOS,NFL,New Orleans Saints,3,13,0,5th of 5,,N,N
+1998,NOS,NFL,New Orleans Saints,6,10,0,3rd of 5,,N,N
+1997,NOS,NFL,New Orleans Saints,6,10,0,4th of 5,,N,N
+1996,NOS,NFL,New Orleans Saints,3,13,0,5th of 5,,N,N
+1995,NOS,NFL,New Orleans Saints,7,9,0,5th of 5,,N,N
+1994,NOS,NFL,New Orleans Saints,7,9,0,2nd of 4,,N,N
+1993,NOS,NFL,New Orleans Saints,8,8,0,2nd of 4,,N,N
+1992,NOS,NFL,New Orleans Saints,12,4,0,2nd of 4,Lost WC,N,N
+1991,NOS,NFL,New Orleans Saints,11,5,0,1st of 4,Lost WC,N,N
+1990,NOS,NFL,New Orleans Saints,8,8,0,2nd of 4,Lost WC,N,N
+1989,NOS,NFL,New Orleans Saints,9,7,0,3rd of 4,,N,N
+1988,NOS,NFL,New Orleans Saints,10,6,0,3rd of 4,,N,N
+1987,NOS,NFL,New Orleans Saints,12,3,0,2nd of 4,Lost WC,N,N
+1986,NOS,NFL,New Orleans Saints,7,9,0,4th of 4,,N,N
+1985,NOS,NFL,New Orleans Saints,5,11,0,3rd of 4,,N,N
+1984,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+1983,NOS,NFL,New Orleans Saints,8,8,0,3rd of 4,,N,N
+1982,NOS,NFL,New Orleans Saints,4,5,0,2nd of 4,,N,N
+1981,NOS,NFL,New Orleans Saints,4,12,0,4th of 4,,N,N
+1980,NOS,NFL,New Orleans Saints,1,15,0,4th of 4,,N,N
+1979,NOS,NFL,New Orleans Saints,8,8,0,2nd of 4,,N,N
+1978,NOS,NFL,New Orleans Saints,7,9,0,3rd of 4,,N,N
+1977,NOS,NFL,New Orleans Saints,3,11,0,4th of 4,,N,N
+1976,NOS,NFL,New Orleans Saints,4,10,0,4th of 5,,N,N
+1975,NOS,NFL,New Orleans Saints,2,12,0,4th of 4,,N,N
+1974,NOS,NFL,New Orleans Saints,5,9,0,3rd of 4,,N,N
+1973,NOS,NFL,New Orleans Saints,5,9,0,4th of 4,,N,N
+1972,NOS,NFL,New Orleans Saints,2,11,1,4th of 4,,N,N
+1971,NOS,NFL,New Orleans Saints,4,8,2,4th of 4,,N,N
+1970,NOS,NFL,New Orleans Saints,2,11,1,4th of 4,,N,N
+1969,NOS,NFL,New Orleans Saints,5,9,0,3rd of 4,,N,N
+1968,NOS,NFL,New Orleans Saints,4,9,1,3rd of 4,,N,N
+1967,NOS,NFL,New Orleans Saints,3,11,0,4th of 4,,N,N
+2021,NYG,NFL,New York Giants,4,13,0,4th of 4,,N,N
+2020,NYG,NFL,New York Giants,6,10,0,2nd of 4,,N,N
+2019,NYG,NFL,New York Giants,4,12,0,3rd of 4,,N,N
+2018,NYG,NFL,New York Giants,5,11,0,4th of 4,,N,N
+2017,NYG,NFL,New York Giants,3,13,0,4th of 4,,N,N
+2016,NYG,NFL,New York Giants,11,5,0,2nd of 4,Lost WC,N,N
+2015,NYG,NFL,New York Giants,6,10,0,3rd of 4,,N,N
+2014,NYG,NFL,New York Giants,6,10,0,3rd of 4,,N,N
+2013,NYG,NFL,New York Giants,7,9,0,3rd of 4,,N,N
+2012,NYG,NFL,New York Giants,9,7,0,2nd of 4,,N,N
+2011,NYG,NFL,New York Giants,9,7,0,1st of 4,Won SB,Y,Y
+2010,NYG,NFL,New York Giants,10,6,0,2nd of 4,,N,N
+2009,NYG,NFL,New York Giants,8,8,0,3rd of 4,,N,N
+2008,NYG,NFL,New York Giants,12,4,0,1st of 4,Lost Div,N,N
+2007,NYG,NFL,New York Giants,10,6,0,2nd of 4,Won SB,Y,Y
+2006,NYG,NFL,New York Giants,8,8,0,3rd of 4,Lost WC,N,N
+2005,NYG,NFL,New York Giants,11,5,0,1st of 4,Lost WC,N,N
+2004,NYG,NFL,New York Giants,6,10,0,2nd of 4,,N,N
+2003,NYG,NFL,New York Giants,4,12,0,4th of 4,,N,N
+2002,NYG,NFL,New York Giants,10,6,0,2nd of 4,Lost WC,N,N
+2001,NYG,NFL,New York Giants,7,9,0,3rd of 5,,N,N
+2000,NYG,NFL,New York Giants,12,4,0,1st of 5,Lost SB,N,Y
+1999,NYG,NFL,New York Giants,7,9,0,3rd of 5,,N,N
+1998,NYG,NFL,New York Giants,8,8,0,3rd of 5,,N,N
+1997,NYG,NFL,New York Giants,10,5,1,1st of 5,Lost WC,N,N
+1996,NYG,NFL,New York Giants,6,10,0,5th of 5,,N,N
+1995,NYG,NFL,New York Giants,5,11,0,4th of 5,,N,N
+1994,NYG,NFL,New York Giants,9,7,0,2nd of 5,,N,N
+1993,NYG,NFL,New York Giants,11,5,0,2nd of 5,Lost Div,N,N
+1992,NYG,NFL,New York Giants,6,10,0,4th of 5,,N,N
+1991,NYG,NFL,New York Giants,8,8,0,4th of 5,,N,N
+1990,NYG,NFL,New York Giants,13,3,0,1st of 5,Won SB,Y,Y
+1989,NYG,NFL,New York Giants,12,4,0,1st of 5,Lost Div,N,N
+1988,NYG,NFL,New York Giants,10,6,0,2nd of 5,,N,N
+1987,NYG,NFL,New York Giants,6,9,0,5th of 5,,N,N
+1986,NYG,NFL,New York Giants,14,2,0,1st of 5,Won SB,Y,Y
+1985,NYG,NFL,New York Giants,10,6,0,2nd of 5,Lost Div,N,N
+1984,NYG,NFL,New York Giants,9,7,0,2nd of 5,Lost Div,N,N
+1983,NYG,NFL,New York Giants,3,12,1,5th of 5,,N,N
+1982,NYG,NFL,New York Giants,4,5,0,4th of 5,,N,N
+1981,NYG,NFL,New York Giants,9,7,0,3rd of 5,Lost Div,N,N
+1980,NYG,NFL,New York Giants,4,12,0,5th of 5,,N,N
+1979,NYG,NFL,New York Giants,6,10,0,4th of 5,,N,N
+1978,NYG,NFL,New York Giants,6,10,0,5th of 5,,N,N
+1977,NYG,NFL,New York Giants,5,9,0,5th of 5,,N,N
+1976,NYG,NFL,New York Giants,3,11,0,5th of 5,,N,N
+1975,NYG,NFL,New York Giants,5,9,0,4th of 5,,N,N
+1974,NYG,NFL,New York Giants,2,12,0,5th of 5,,N,N
+1973,NYG,NFL,New York Giants,2,11,1,5th of 5,,N,N
+1972,NYG,NFL,New York Giants,8,6,0,3rd of 5,,N,N
+1971,NYG,NFL,New York Giants,4,10,0,5th of 5,,N,N
+1970,NYG,NFL,New York Giants,9,5,0,2nd of 5,,N,N
+1969,NYG,NFL,New York Giants,6,8,0,2nd of 4,,N,N
+1968,NYG,NFL,New York Giants,7,7,0,2nd of 4,,N,N
+1967,NYG,NFL,New York Giants,7,7,0,2nd of 4,,N,N
+1966,NYG,NFL,New York Giants,1,12,1,8th of 8,,N,N
+1965,NYG,NFL,New York Giants,7,7,0,2nd of 7,,N,N
+1964,NYG,NFL,New York Giants,2,10,2,7th of 7,,N,N
+1963,NYG,NFL,New York Giants,11,3,0,1st of 7,Lost Champ,N,Y
+1962,NYG,NFL,New York Giants,12,2,0,1st of 7,Lost Champ,N,Y
+1961,NYG,NFL,New York Giants,10,3,1,1st of 7,Lost Champ,N,Y
+1960,NYG,NFL,New York Giants,6,4,2,3rd of 6,,N,N
+1959,NYG,NFL,New York Giants,10,2,0,1st of 6,Lost Champ,N,Y
+1958,NYG,NFL,New York Giants,9,3,0,1st of 6,Lost Champ,N,Y
+1957,NYG,NFL,New York Giants,7,5,0,2nd of 6,,N,N
+1956,NYG,NFL,New York Giants,8,3,1,1st of 6,Won Champ,Y,Y
+1955,NYG,NFL,New York Giants,6,5,1,3rd of 6,,N,N
+1954,NYG,NFL,New York Giants,7,5,0,3rd of 6,,N,N
+1953,NYG,NFL,New York Giants,3,9,0,5th of 6,,N,N
+1952,NYG,NFL,New York Giants,7,5,0,2nd of 6,,N,N
+1951,NYG,NFL,New York Giants,9,2,1,2nd of 6,,N,N
+1950,NYG,NFL,New York Giants,10,2,0,1st of 6,Lost Div,N,N
+1949,NYG,NFL,New York Giants,6,6,0,3rd of 5,,N,N
+1948,NYG,NFL,New York Giants,4,8,0,3rd of 5,,N,N
+1947,NYG,NFL,New York Giants,2,8,2,5th of 5,,N,N
+1946,NYG,NFL,New York Giants,7,3,1,1st of 5,Lost Champ,N,Y
+1945,NYG,NFL,New York Giants,3,6,1,3rd of 5,,N,N
+1944,NYG,NFL,New York Giants,8,1,1,1st of 5,Lost Champ,N,Y
+1943,NYG,NFL,New York Giants,6,3,1,1st of 5,Lost Div,N,N
+1942,NYG,NFL,New York Giants,5,5,1,3rd of 5,,N,N
+1941,NYG,NFL,New York Giants,8,3,0,1st of 5,Lost Champ,N,Y
+1940,NYG,NFL,New York Giants,6,4,1,3rd of 5,,N,N
+1939,NYG,NFL,New York Giants,9,1,1,1st of 5,Lost Champ,N,Y
+1938,NYG,NFL,New York Giants,8,2,1,1st of 5,Won Champ,Y,Y
+1937,NYG,NFL,New York Giants,6,3,2,2nd of 5,,N,N
+1936,NYG,NFL,New York Giants,5,6,1,3rd of 5,,N,N
+1935,NYG,NFL,New York Giants,9,3,0,1st of 5,Lost Champ,N,Y
+1934,NYG,NFL,New York Giants,8,5,0,1st of 5,Won Champ,Y,Y
+1933,NYG,NFL,New York Giants,11,3,0,1st of 5,Lost Champ,N,Y
+1932,NYG,NFL,New York Giants,4,6,2,5th of 8,,N,N
+1931,NYG,NFL,New York Giants,7,6,1,5th of 10,,N,N
+1930,NYG,NFL,New York Giants,13,4,0,2nd of 11,,N,N
+1929,NYG,NFL,New York Giants,13,1,1,2nd of 12,,N,N
+1928,NYG,NFL,New York Giants,4,7,2,6th of 10,,N,N
+1927,NYG,NFL,New York Giants,11,1,1,1st of 12,Won Champ,Y,Y
+1926,NYG,NFL,New York Giants,8,4,1,6th of 22,,N,N
+1925,NYG,NFL,New York Giants,8,4,0,4th of 20,,N,N
+2021,NYJ,NFL,New York Jets,4,13,0,4th of 4,,N,N
+2020,NYJ,NFL,New York Jets,2,14,0,4th of 4,,N,N
+2019,NYJ,NFL,New York Jets,7,9,0,3rd of 4,,N,N
+2018,NYJ,NFL,New York Jets,4,12,0,4th of 4,,N,N
+2017,NYJ,NFL,New York Jets,5,11,0,4th of 4,,N,N
+2016,NYJ,NFL,New York Jets,5,11,0,4th of 4,,N,N
+2015,NYJ,NFL,New York Jets,10,6,0,2nd of 4,,N,N
+2014,NYJ,NFL,New York Jets,4,12,0,4th of 4,,N,N
+2013,NYJ,NFL,New York Jets,8,8,0,2nd of 4,,N,N
+2012,NYJ,NFL,New York Jets,6,10,0,3rd of 4,,N,N
+2011,NYJ,NFL,New York Jets,8,8,0,2nd of 4,,N,N
+2010,NYJ,NFL,New York Jets,11,5,0,2nd of 4,Lost Conf,N,N
+2009,NYJ,NFL,New York Jets,9,7,0,2nd of 4,Lost Conf,N,N
+2008,NYJ,NFL,New York Jets,9,7,0,3rd of 4,,N,N
+2007,NYJ,NFL,New York Jets,4,12,0,3rd of 4,,N,N
+2006,NYJ,NFL,New York Jets,10,6,0,2nd of 4,Lost WC,N,N
+2005,NYJ,NFL,New York Jets,4,12,0,4th of 4,,N,N
+2004,NYJ,NFL,New York Jets,10,6,0,2nd of 4,Lost Div,N,N
+2003,NYJ,NFL,New York Jets,6,10,0,4th of 4,,N,N
+2002,NYJ,NFL,New York Jets,9,7,0,1st of 4,Lost Div,N,N
+2001,NYJ,NFL,New York Jets,10,6,0,3rd of 5,Lost WC,N,N
+2000,NYJ,NFL,New York Jets,9,7,0,3rd of 5,,N,N
+1999,NYJ,NFL,New York Jets,8,8,0,4th of 5,,N,N
+1998,NYJ,NFL,New York Jets,12,4,0,1st of 5,Lost Conf,N,N
+1997,NYJ,NFL,New York Jets,9,7,0,3rd of 5,,N,N
+1996,NYJ,NFL,New York Jets,1,15,0,5th of 5,,N,N
+1995,NYJ,NFL,New York Jets,3,13,0,5th of 5,,N,N
+1994,NYJ,NFL,New York Jets,6,10,0,5th of 5,,N,N
+1993,NYJ,NFL,New York Jets,8,8,0,3rd of 5,,N,N
+1992,NYJ,NFL,New York Jets,4,12,0,4th of 5,,N,N
+1991,NYJ,NFL,New York Jets,8,8,0,2nd of 5,Lost WC,N,N
+1990,NYJ,NFL,New York Jets,6,10,0,4th of 5,,N,N
+1989,NYJ,NFL,New York Jets,4,12,0,5th of 5,,N,N
+1988,NYJ,NFL,New York Jets,8,7,1,4th of 5,,N,N
+1987,NYJ,NFL,New York Jets,6,9,0,5th of 5,,N,N
+1986,NYJ,NFL,New York Jets,10,6,0,2nd of 5,Lost Div,N,N
+1985,NYJ,NFL,New York Jets,11,5,0,2nd of 5,Lost WC,N,N
+1984,NYJ,NFL,New York Jets,7,9,0,3rd of 5,,N,N
+1983,NYJ,NFL,New York Jets,7,9,0,5th of 5,,N,N
+1982,NYJ,NFL,New York Jets,6,3,0,2nd of 5,Lost Conf,N,N
+1981,NYJ,NFL,New York Jets,10,5,1,2nd of 5,Lost WC,N,N
+1980,NYJ,NFL,New York Jets,4,12,0,5th of 5,,N,N
+1979,NYJ,NFL,New York Jets,8,8,0,3rd of 5,,N,N
+1978,NYJ,NFL,New York Jets,8,8,0,3rd of 5,,N,N
+1977,NYJ,NFL,New York Jets,3,11,0,5th of 5,,N,N
+1976,NYJ,NFL,New York Jets,3,11,0,4th of 5,,N,N
+1975,NYJ,NFL,New York Jets,3,11,0,4th of 5,,N,N
+1974,NYJ,NFL,New York Jets,7,7,0,4th of 5,,N,N
+1973,NYJ,NFL,New York Jets,4,10,0,4th of 5,,N,N
+1972,NYJ,NFL,New York Jets,7,7,0,2nd of 5,,N,N
+1971,NYJ,NFL,New York Jets,6,8,0,4th of 5,,N,N
+1970,NYJ,NFL,New York Jets,4,10,0,3rd of 5,,N,N
+1969,NYJ,AFL,New York Jets,10,4,0,1st of 5,Lost Div,N,N
+1968,NYJ,AFL,New York Jets,11,3,0,1st of 5,Won SB,Y,Y
+1967,NYJ,AFL,New York Jets,8,5,1,2nd of 5,,N,N
+1966,NYJ,AFL,New York Jets,6,6,2,3rd of 5,,N,N
+1965,NYJ,AFL,New York Jets,5,8,1,2nd of 4,,N,N
+1964,NYJ,AFL,New York Jets,5,8,1,3rd of 4,,N,N
+1963,NYJ,AFL,New York Jets,5,8,1,4th of 4,,N,N
+1962,NYJ,AFL,New York Titans,5,9,0,4th of 4,,N,N
+1961,NYJ,AFL,New York Titans,7,7,0,3rd of 4,,N,N
+1960,NYJ,AFL,New York Titans,7,7,0,2nd of 4,,N,N
+2021,PHI,NFL,Philadelphia Eagles,9,8,0,2nd of 4,Lost WC,N,N
+2020,PHI,NFL,Philadelphia Eagles,4,11,1,4th of 4,,N,N
+2019,PHI,NFL,Philadelphia Eagles,9,7,0,1st of 4,Lost WC,N,N
+2018,PHI,NFL,Philadelphia Eagles,9,7,0,2nd of 4,Lost Div,N,N
+2017,PHI,NFL,Philadelphia Eagles,13,3,0,1st of 4,Won SB,Y,Y
+2016,PHI,NFL,Philadelphia Eagles,7,9,0,4th of 4,,N,N
+2015,PHI,NFL,Philadelphia Eagles,7,9,0,2nd of 4,,N,N
+2014,PHI,NFL,Philadelphia Eagles,10,6,0,2nd of 4,,N,N
+2013,PHI,NFL,Philadelphia Eagles,10,6,0,1st of 4,Lost WC,N,N
+2012,PHI,NFL,Philadelphia Eagles,4,12,0,4th of 4,,N,N
+2011,PHI,NFL,Philadelphia Eagles,8,8,0,2nd of 4,,N,N
+2010,PHI,NFL,Philadelphia Eagles,10,6,0,1st of 4,Lost WC,N,N
+2009,PHI,NFL,Philadelphia Eagles,11,5,0,2nd of 4,Lost WC,N,N
+2008,PHI,NFL,Philadelphia Eagles,9,6,1,2nd of 4,Lost Conf,N,N
+2007,PHI,NFL,Philadelphia Eagles,8,8,0,4th of 4,,N,N
+2006,PHI,NFL,Philadelphia Eagles,10,6,0,1st of 4,Lost Div,N,N
+2005,PHI,NFL,Philadelphia Eagles,6,10,0,4th of 4,,N,N
+2004,PHI,NFL,Philadelphia Eagles,13,3,0,1st of 4,Lost SB,N,Y
+2003,PHI,NFL,Philadelphia Eagles,12,4,0,1st of 4,Lost Conf,N,N
+2002,PHI,NFL,Philadelphia Eagles,12,4,0,1st of 4,Lost Conf,N,N
+2001,PHI,NFL,Philadelphia Eagles,11,5,0,1st of 5,Lost Conf,N,N
+2000,PHI,NFL,Philadelphia Eagles,11,5,0,2nd of 5,Lost Div,N,N
+1999,PHI,NFL,Philadelphia Eagles,5,11,0,5th of 5,,N,N
+1998,PHI,NFL,Philadelphia Eagles,3,13,0,5th of 5,,N,N
+1997,PHI,NFL,Philadelphia Eagles,6,9,1,3rd of 5,,N,N
+1996,PHI,NFL,Philadelphia Eagles,10,6,0,2nd of 5,Lost WC,N,N
+1995,PHI,NFL,Philadelphia Eagles,10,6,0,2nd of 5,Lost Div,N,N
+1994,PHI,NFL,Philadelphia Eagles,7,9,0,4th of 5,,N,N
+1993,PHI,NFL,Philadelphia Eagles,8,8,0,3rd of 5,,N,N
+1992,PHI,NFL,Philadelphia Eagles,11,5,0,2nd of 5,Lost Div,N,N
+1991,PHI,NFL,Philadelphia Eagles,10,6,0,3rd of 5,,N,N
+1990,PHI,NFL,Philadelphia Eagles,10,6,0,2nd of 5,Lost WC,N,N
+1989,PHI,NFL,Philadelphia Eagles,11,5,0,2nd of 5,Lost WC,N,N
+1988,PHI,NFL,Philadelphia Eagles,10,6,0,1st of 5,Lost Div,N,N
+1987,PHI,NFL,Philadelphia Eagles,7,8,0,4th of 5,,N,N
+1986,PHI,NFL,Philadelphia Eagles,5,10,1,4th of 5,,N,N
+1985,PHI,NFL,Philadelphia Eagles,7,9,0,4th of 5,,N,N
+1984,PHI,NFL,Philadelphia Eagles,6,9,1,5th of 5,,N,N
+1983,PHI,NFL,Philadelphia Eagles,5,11,0,4th of 5,,N,N
+1982,PHI,NFL,Philadelphia Eagles,3,6,0,5th of 5,,N,N
+1981,PHI,NFL,Philadelphia Eagles,10,6,0,2nd of 5,Lost WC,N,N
+1980,PHI,NFL,Philadelphia Eagles,12,4,0,1st of 5,Lost SB,N,Y
+1979,PHI,NFL,Philadelphia Eagles,11,5,0,2nd of 5,Lost Div,N,N
+1978,PHI,NFL,Philadelphia Eagles,9,7,0,2nd of 5,Lost WC,N,N
+1977,PHI,NFL,Philadelphia Eagles,5,9,0,4th of 5,,N,N
+1976,PHI,NFL,Philadelphia Eagles,4,10,0,4th of 5,,N,N
+1975,PHI,NFL,Philadelphia Eagles,4,10,0,5th of 5,,N,N
+1974,PHI,NFL,Philadelphia Eagles,7,7,0,4th of 5,,N,N
+1973,PHI,NFL,Philadelphia Eagles,5,8,1,3rd of 5,,N,N
+1972,PHI,NFL,Philadelphia Eagles,2,11,1,5th of 5,,N,N
+1971,PHI,NFL,Philadelphia Eagles,6,7,1,3rd of 5,,N,N
+1970,PHI,NFL,Philadelphia Eagles,3,10,1,5th of 5,,N,N
+1969,PHI,NFL,Philadelphia Eagles,4,9,1,4th of 4,,N,N
+1968,PHI,NFL,Philadelphia Eagles,2,12,0,4th of 4,,N,N
+1967,PHI,NFL,Philadelphia Eagles,6,7,1,2nd of 4,,N,N
+1966,PHI,NFL,Philadelphia Eagles,9,5,0,2nd of 8,,N,N
+1965,PHI,NFL,Philadelphia Eagles,5,9,0,5th of 7,,N,N
+1964,PHI,NFL,Philadelphia Eagles,6,8,0,3rd of 7,,N,N
+1963,PHI,NFL,Philadelphia Eagles,2,10,2,7th of 7,,N,N
+1962,PHI,NFL,Philadelphia Eagles,3,10,1,7th of 7,,N,N
+1961,PHI,NFL,Philadelphia Eagles,10,4,0,2nd of 7,,N,N
+1960,PHI,NFL,Philadelphia Eagles,10,2,0,1st of 6,Won Champ,Y,Y
+1959,PHI,NFL,Philadelphia Eagles,7,5,0,2nd of 6,,N,N
+1958,PHI,NFL,Philadelphia Eagles,2,9,1,5th of 6,,N,N
+1957,PHI,NFL,Philadelphia Eagles,4,8,0,5th of 6,,N,N
+1956,PHI,NFL,Philadelphia Eagles,3,8,1,6th of 6,,N,N
+1955,PHI,NFL,Philadelphia Eagles,4,7,1,4th of 6,,N,N
+1954,PHI,NFL,Philadelphia Eagles,7,4,1,2nd of 6,,N,N
+1953,PHI,NFL,Philadelphia Eagles,7,4,1,2nd of 6,,N,N
+1952,PHI,NFL,Philadelphia Eagles,7,5,0,2nd of 6,,N,N
+1951,PHI,NFL,Philadelphia Eagles,4,8,0,5th of 6,,N,N
+1950,PHI,NFL,Philadelphia Eagles,6,6,0,3rd of 6,,N,N
+1949,PHI,NFL,Philadelphia Eagles,11,1,0,1st of 5,Won Champ,Y,Y
+1948,PHI,NFL,Philadelphia Eagles,9,2,1,1st of 5,Won Champ,Y,Y
+1947,PHI,NFL,Philadelphia Eagles,8,4,0,1st of 5,Lost Champ,N,Y
+1946,PHI,NFL,Philadelphia Eagles,6,5,0,2nd of 5,,N,N
+1945,PHI,NFL,Philadelphia Eagles,7,3,0,2nd of 5,,N,N
+1944,PHI,NFL,Philadelphia Eagles,7,1,2,2nd of 5,,N,N
+1943,PHI,NFL,Phi/Pit Eagles/Steelers,5,4,1,3rd of 5,,N,N
+1942,PHI,NFL,Philadelphia Eagles,2,9,0,5th of 5,,N,N
+1941,PHI,NFL,Philadelphia Eagles,2,8,1,4th of 5,,N,N
+1940,PHI,NFL,Philadelphia Eagles,1,10,0,5th of 5,,N,N
+1939,PHI,NFL,Philadelphia Eagles,1,9,1,4th of 5,,N,N
+1938,PHI,NFL,Philadelphia Eagles,5,6,0,4th of 5,,N,N
+1937,PHI,NFL,Philadelphia Eagles,2,8,1,5th of 5,,N,N
+1936,PHI,NFL,Philadelphia Eagles,1,11,0,5th of 5,,N,N
+1935,PHI,NFL,Philadelphia Eagles,2,9,0,5th of 5,,N,N
+1934,PHI,NFL,Philadelphia Eagles,4,7,0,3rd of 5,,N,N
+1933,PHI,NFL,Philadelphia Eagles,3,5,1,4th of 5,,N,N
+2021,PIT,NFL,Pittsburgh Steelers,9,7,1,2nd of 4,Lost WC,N,N
+2020,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Lost WC,N,N
+2019,PIT,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,,N,N
+2018,PIT,NFL,Pittsburgh Steelers,9,6,1,2nd of 4,,N,N
+2017,PIT,NFL,Pittsburgh Steelers,13,3,0,1st of 4,Lost Div,N,N
+2016,PIT,NFL,Pittsburgh Steelers,11,5,0,1st of 4,Lost Conf,N,N
+2015,PIT,NFL,Pittsburgh Steelers,10,6,0,2nd of 4,Lost Div,N,N
+2014,PIT,NFL,Pittsburgh Steelers,11,5,0,1st of 4,Lost WC,N,N
+2013,PIT,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,,N,N
+2012,PIT,NFL,Pittsburgh Steelers,8,8,0,3rd of 4,,N,N
+2011,PIT,NFL,Pittsburgh Steelers,12,4,0,2nd of 4,Lost WC,N,N
+2010,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Lost SB,N,Y
+2009,PIT,NFL,Pittsburgh Steelers,9,7,0,3rd of 4,,N,N
+2008,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Won SB,Y,Y
+2007,PIT,NFL,Pittsburgh Steelers,10,6,0,1st of 4,Lost WC,N,N
+2006,PIT,NFL,Pittsburgh Steelers,8,8,0,3rd of 4,,N,N
+2005,PIT,NFL,Pittsburgh Steelers,11,5,0,2nd of 4,Won SB,Y,Y
+2004,PIT,NFL,Pittsburgh Steelers,15,1,0,1st of 4,Lost Conf,N,N
+2003,PIT,NFL,Pittsburgh Steelers,6,10,0,3rd of 4,,N,N
+2002,PIT,NFL,Pittsburgh Steelers,10,5,1,1st of 4,Lost Div,N,N
+2001,PIT,NFL,Pittsburgh Steelers,13,3,0,1st of 6,Lost Conf,N,N
+2000,PIT,NFL,Pittsburgh Steelers,9,7,0,3rd of 6,,N,N
+1999,PIT,NFL,Pittsburgh Steelers,6,10,0,4th of 6,,N,N
+1998,PIT,NFL,Pittsburgh Steelers,7,9,0,3rd of 5,,N,N
+1997,PIT,NFL,Pittsburgh Steelers,11,5,0,1st of 5,Lost Conf,N,N
+1996,PIT,NFL,Pittsburgh Steelers,10,6,0,1st of 5,Lost Div,N,N
+1995,PIT,NFL,Pittsburgh Steelers,11,5,0,1st of 5,Lost SB,N,Y
+1994,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Lost Conf,N,N
+1993,PIT,NFL,Pittsburgh Steelers,9,7,0,2nd of 4,Lost WC,N,N
+1992,PIT,NFL,Pittsburgh Steelers,11,5,0,1st of 4,Lost Div,N,N
+1991,PIT,NFL,Pittsburgh Steelers,7,9,0,2nd of 4,,N,N
+1990,PIT,NFL,Pittsburgh Steelers,9,7,0,3rd of 4,,N,N
+1989,PIT,NFL,Pittsburgh Steelers,9,7,0,3rd of 4,Lost Div,N,N
+1988,PIT,NFL,Pittsburgh Steelers,5,11,0,4th of 4,,N,N
+1987,PIT,NFL,Pittsburgh Steelers,8,7,0,3rd of 4,,N,N
+1986,PIT,NFL,Pittsburgh Steelers,6,10,0,3rd of 4,,N,N
+1985,PIT,NFL,Pittsburgh Steelers,7,9,0,3rd of 4,,N,N
+1984,PIT,NFL,Pittsburgh Steelers,9,7,0,1st of 4,Lost Conf,N,N
+1983,PIT,NFL,Pittsburgh Steelers,10,6,0,1st of 4,Lost Div,N,N
+1982,PIT,NFL,Pittsburgh Steelers,6,3,0,2nd of 4,Lost WC,N,N
+1981,PIT,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,,N,N
+1980,PIT,NFL,Pittsburgh Steelers,9,7,0,3rd of 4,,N,N
+1979,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Won SB,Y,Y
+1978,PIT,NFL,Pittsburgh Steelers,14,2,0,1st of 4,Won SB,Y,Y
+1977,PIT,NFL,Pittsburgh Steelers,9,5,0,1st of 4,Lost Div,N,N
+1976,PIT,NFL,Pittsburgh Steelers,10,4,0,1st of 4,Lost Conf,N,N
+1975,PIT,NFL,Pittsburgh Steelers,12,2,0,1st of 4,Won SB,Y,Y
+1974,PIT,NFL,Pittsburgh Steelers,10,3,1,1st of 4,Won SB,Y,Y
+1973,PIT,NFL,Pittsburgh Steelers,10,4,0,2nd of 4,Lost Div,N,N
+1972,PIT,NFL,Pittsburgh Steelers,11,3,0,1st of 4,Lost Conf,N,N
+1971,PIT,NFL,Pittsburgh Steelers,6,8,0,2nd of 4,,N,N
+1970,PIT,NFL,Pittsburgh Steelers,5,9,0,3rd of 4,,N,N
+1969,PIT,NFL,Pittsburgh Steelers,1,13,0,4th of 4,,N,N
+1968,PIT,NFL,Pittsburgh Steelers,2,11,1,4th of 4,,N,N
+1967,PIT,NFL,Pittsburgh Steelers,4,9,1,4th of 4,,N,N
+1966,PIT,NFL,Pittsburgh Steelers,5,8,1,6th of 8,,N,N
+1965,PIT,NFL,Pittsburgh Steelers,2,12,0,7th of 7,,N,N
+1964,PIT,NFL,Pittsburgh Steelers,5,9,0,6th of 7,,N,N
+1963,PIT,NFL,Pittsburgh Steelers,7,4,3,4th of 7,,N,N
+1962,PIT,NFL,Pittsburgh Steelers,9,5,0,2nd of 7,,N,N
+1961,PIT,NFL,Pittsburgh Steelers,6,8,0,5th of 7,,N,N
+1960,PIT,NFL,Pittsburgh Steelers,5,6,1,5th of 6,,N,N
+1959,PIT,NFL,Pittsburgh Steelers,6,5,1,4th of 6,,N,N
+1958,PIT,NFL,Pittsburgh Steelers,7,4,1,3rd of 6,,N,N
+1957,PIT,NFL,Pittsburgh Steelers,6,6,0,3rd of 6,,N,N
+1956,PIT,NFL,Pittsburgh Steelers,5,7,0,4th of 6,,N,N
+1955,PIT,NFL,Pittsburgh Steelers,4,8,0,6th of 6,,N,N
+1954,PIT,NFL,Pittsburgh Steelers,5,7,0,4th of 6,,N,N
+1953,PIT,NFL,Pittsburgh Steelers,6,6,0,4th of 6,,N,N
+1952,PIT,NFL,Pittsburgh Steelers,5,7,0,4th of 6,,N,N
+1951,PIT,NFL,Pittsburgh Steelers,4,7,1,4th of 6,,N,N
+1950,PIT,NFL,Pittsburgh Steelers,6,6,0,3rd of 6,,N,N
+1949,PIT,NFL,Pittsburgh Steelers,6,5,1,2nd of 5,,N,N
+1948,PIT,NFL,Pittsburgh Steelers,4,8,0,3rd of 5,,N,N
+1947,PIT,NFL,Pittsburgh Steelers,8,4,0,1st of 5,Lost Div,N,N
+1946,PIT,NFL,Pittsburgh Steelers,5,5,1,3rd of 5,,N,N
+1945,PIT,NFL,Pittsburgh Steelers,2,8,0,5th of 5,,N,N
+1942,PIT,NFL,Pittsburgh Steelers,7,4,0,2nd of 5,,N,N
+1941,PIT,NFL,Pittsburgh Steelers,1,9,1,5th of 5,,N,N
+1940,PIT,NFL,Pittsburgh Steelers,2,7,2,4th of 5,,N,N
+1939,PIT,NFL,Pittsburgh Pirates,1,9,1,4th of 5,,N,N
+1938,PIT,NFL,Pittsburgh Pirates,2,9,0,5th of 5,,N,N
+1937,PIT,NFL,Pittsburgh Pirates,4,7,0,3rd of 5,,N,N
+1936,PIT,NFL,Pittsburgh Pirates,6,6,0,2nd of 5,,N,N
+1935,PIT,NFL,Pittsburgh Pirates,4,8,0,3rd of 5,,N,N
+1934,PIT,NFL,Pittsburgh Pirates,2,10,0,5th of 5,,N,N
+1933,PIT,NFL,Pittsburgh Pirates,3,6,2,5th of 5,,N,N
+2021,SFC,NFL,San Francisco 49ers,10,7,0,3rd of 4,Lost Conf,N,N
+2020,SFC,NFL,San Francisco 49ers,6,10,0,4th of 4,,N,N
+2019,SFC,NFL,San Francisco 49ers,13,3,0,1st of 4,Lost SB,N,Y
+2018,SFC,NFL,San Francisco 49ers,4,12,0,3rd of 4,,N,N
+2017,SFC,NFL,San Francisco 49ers,6,10,0,4th of 4,,N,N
+2016,SFC,NFL,San Francisco 49ers,2,14,0,4th of 4,,N,N
+2015,SFC,NFL,San Francisco 49ers,5,11,0,4th of 4,,N,N
+2014,SFC,NFL,San Francisco 49ers,8,8,0,3rd of 4,,N,N
+2013,SFC,NFL,San Francisco 49ers,12,4,0,2nd of 4,Lost Conf,N,N
+2012,SFC,NFL,San Francisco 49ers,11,4,1,1st of 4,Lost SB,N,Y
+2011,SFC,NFL,San Francisco 49ers,13,3,0,1st of 4,Lost Conf,N,N
+2010,SFC,NFL,San Francisco 49ers,6,10,0,3rd of 4,,N,N
+2009,SFC,NFL,San Francisco 49ers,8,8,0,2nd of 4,,N,N
+2008,SFC,NFL,San Francisco 49ers,7,9,0,2nd of 4,,N,N
+2007,SFC,NFL,San Francisco 49ers,5,11,0,3rd of 4,,N,N
+2006,SFC,NFL,San Francisco 49ers,7,9,0,3rd of 4,,N,N
+2005,SFC,NFL,San Francisco 49ers,4,12,0,4th of 4,,N,N
+2004,SFC,NFL,San Francisco 49ers,2,14,0,4th of 4,,N,N
+2003,SFC,NFL,San Francisco 49ers,7,9,0,3rd of 4,,N,N
+2002,SFC,NFL,San Francisco 49ers,10,6,0,1st of 4,Lost Div,N,N
+2001,SFC,NFL,San Francisco 49ers,12,4,0,2nd of 5,Lost WC,N,N
+2000,SFC,NFL,San Francisco 49ers,6,10,0,4th of 5,,N,N
+1999,SFC,NFL,San Francisco 49ers,4,12,0,4th of 5,,N,N
+1998,SFC,NFL,San Francisco 49ers,12,4,0,2nd of 5,Lost Div,N,N
+1997,SFC,NFL,San Francisco 49ers,13,3,0,1st of 5,Lost Conf,N,N
+1996,SFC,NFL,San Francisco 49ers,12,4,0,2nd of 5,Lost Div,N,N
+1995,SFC,NFL,San Francisco 49ers,11,5,0,1st of 5,Lost Div,N,N
+1994,SFC,NFL,San Francisco 49ers,13,3,0,1st of 4,Won SB,Y,Y
+1993,SFC,NFL,San Francisco 49ers,10,6,0,1st of 4,Lost Conf,N,N
+1992,SFC,NFL,San Francisco 49ers,14,2,0,1st of 4,Lost Conf,N,N
+1991,SFC,NFL,San Francisco 49ers,10,6,0,3rd of 4,,N,N
+1990,SFC,NFL,San Francisco 49ers,14,2,0,1st of 4,Lost Conf,N,N
+1989,SFC,NFL,San Francisco 49ers,14,2,0,1st of 4,Won SB,Y,Y
+1988,SFC,NFL,San Francisco 49ers,10,6,0,1st of 4,Won SB,Y,Y
+1987,SFC,NFL,San Francisco 49ers,13,2,0,1st of 4,Lost Div,N,N
+1986,SFC,NFL,San Francisco 49ers,10,5,1,1st of 4,Lost Div,N,N
+1985,SFC,NFL,San Francisco 49ers,10,6,0,2nd of 4,Lost WC,N,N
+1984,SFC,NFL,San Francisco 49ers,15,1,0,1st of 4,Won SB,Y,Y
+1983,SFC,NFL,San Francisco 49ers,10,6,0,1st of 4,Lost Conf,N,N
+1982,SFC,NFL,San Francisco 49ers,3,6,0,3rd of 4,,N,N
+1981,SFC,NFL,San Francisco 49ers,13,3,0,1st of 4,Won SB,Y,Y
+1980,SFC,NFL,San Francisco 49ers,6,10,0,3rd of 4,,N,N
+1979,SFC,NFL,San Francisco 49ers,2,14,0,4th of 4,,N,N
+1978,SFC,NFL,San Francisco 49ers,2,14,0,4th of 4,,N,N
+1977,SFC,NFL,San Francisco 49ers,5,9,0,3rd of 4,,N,N
+1976,SFC,NFL,San Francisco 49ers,8,6,0,2nd of 5,,N,N
+1975,SFC,NFL,San Francisco 49ers,5,9,0,2nd of 4,,N,N
+1974,SFC,NFL,San Francisco 49ers,6,8,0,2nd of 4,,N,N
+1973,SFC,NFL,San Francisco 49ers,5,9,0,3rd of 4,,N,N
+1972,SFC,NFL,San Francisco 49ers,8,5,1,1st of 4,Lost Div,N,N
+1971,SFC,NFL,San Francisco 49ers,9,5,0,1st of 4,Lost Conf,N,N
+1970,SFC,NFL,San Francisco 49ers,10,3,1,1st of 4,Lost Conf,N,N
+1969,SFC,NFL,San Francisco 49ers,4,8,2,4th of 4,,N,N
+1968,SFC,NFL,San Francisco 49ers,7,6,1,3rd of 4,,N,N
+1967,SFC,NFL,San Francisco 49ers,7,7,0,3rd of 4,,N,N
+1966,SFC,NFL,San Francisco 49ers,6,6,2,4th of 7,,N,N
+1965,SFC,NFL,San Francisco 49ers,7,6,1,4th of 7,,N,N
+1964,SFC,NFL,San Francisco 49ers,4,10,0,7th of 7,,N,N
+1963,SFC,NFL,San Francisco 49ers,2,12,0,7th of 7,,N,N
+1962,SFC,NFL,San Francisco 49ers,6,8,0,5th of 7,,N,N
+1961,SFC,NFL,San Francisco 49ers,7,6,1,5th of 7,,N,N
+1960,SFC,NFL,San Francisco 49ers,7,5,0,2nd of 7,,N,N
+1959,SFC,NFL,San Francisco 49ers,7,5,0,3rd of 6,,N,N
+1958,SFC,NFL,San Francisco 49ers,6,6,0,4th of 6,,N,N
+1957,SFC,NFL,San Francisco 49ers,8,4,0,1st of 6,Lost Div,N,N
+1956,SFC,NFL,San Francisco 49ers,5,6,1,3rd of 6,,N,N
+1955,SFC,NFL,San Francisco 49ers,4,8,0,5th of 6,,N,N
+1954,SFC,NFL,San Francisco 49ers,7,4,1,3rd of 6,,N,N
+1953,SFC,NFL,San Francisco 49ers,9,3,0,2nd of 6,,N,N
+1952,SFC,NFL,San Francisco 49ers,7,5,0,3rd of 6,,N,N
+1951,SFC,NFL,San Francisco 49ers,7,4,1,2nd of 6,,N,N
+1950,SFC,NFL,San Francisco 49ers,3,9,0,5th of 7,,N,N
+1949,SFC,AAFC,San Francisco 49ers,9,3,0,2nd of 7,Lost Champ,N,Y
+1948,SFC,AAFC,San Francisco 49ers,12,2,0,2nd of 4,,N,N
+1947,SFC,AAFC,San Francisco 49ers,8,4,2,2nd of 4,,N,N
+1946,SFC,AAFC,San Francisco 49ers,9,5,0,2nd of 4,,N,N
+2021,SEA,NFL,Seattle Seahawks,7,10,0,4th of 4,,N,N
+2020,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost WC,N,N
+2019,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
+2018,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
+2017,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 4,,N,N
+2016,SEA,NFL,Seattle Seahawks,10,5,1,1st of 4,Lost Div,N,N
+2015,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost Div,N,N
+2014,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost SB,N,Y
+2013,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Won SB,Y,Y
+2012,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
+2011,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
+2010,SEA,NFL,Seattle Seahawks,7,9,0,1st of 4,Lost Div,N,N
+2009,SEA,NFL,Seattle Seahawks,5,11,0,3rd of 4,,N,N
+2008,SEA,NFL,Seattle Seahawks,4,12,0,3rd of 4,,N,N
+2007,SEA,NFL,Seattle Seahawks,10,6,0,1st of 4,Lost Div,N,N
+2006,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost Div,N,N
+2005,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Lost SB,N,Y
+2004,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost WC,N,N
+2003,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
+2002,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
+2001,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,,N,N
+2000,SEA,NFL,Seattle Seahawks,6,10,0,4th of 5,,N,N
+1999,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost WC,N,N
+1998,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1997,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1996,SEA,NFL,Seattle Seahawks,7,9,0,5th of 5,,N,N
+1995,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1994,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1993,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1992,SEA,NFL,Seattle Seahawks,2,14,0,5th of 5,,N,N
+1991,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
+1990,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1989,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
+1988,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost Div,N,N
+1987,SEA,NFL,Seattle Seahawks,9,6,0,2nd of 5,Lost WC,N,N
+1986,SEA,NFL,Seattle Seahawks,10,6,0,3rd of 5,,N,N
+1985,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1984,SEA,NFL,Seattle Seahawks,12,4,0,2nd of 5,Lost Div,N,N
+1983,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,Lost Conf,N,N
+1982,SEA,NFL,Seattle Seahawks,4,5,0,3rd of 5,,N,N
+1981,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1980,SEA,NFL,Seattle Seahawks,4,12,0,5th of 5,,N,N
+1979,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1978,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1977,SEA,NFL,Seattle Seahawks,5,9,0,4th of 5,,N,N
+1976,SEA,NFL,Seattle Seahawks,2,12,0,5th of 5,,N,N
+2021,TBB,NFL,Tampa Bay Buccaneers,13,4,0,1st of 4,Lost Div,N,N
+2020,TBB,NFL,Tampa Bay Buccaneers,11,5,0,2nd of 4,Won SB,Y,Y
+2019,TBB,NFL,Tampa Bay Buccaneers,7,9,0,3rd of 4,,N,N
+2018,TBB,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,,N,N
+2017,TBB,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,,N,N
+2016,TBB,NFL,Tampa Bay Buccaneers,9,7,0,2nd of 4,,N,N
+2015,TBB,NFL,Tampa Bay Buccaneers,6,10,0,4th of 4,,N,N
+2014,TBB,NFL,Tampa Bay Buccaneers,2,14,0,4th of 4,,N,N
+2013,TBB,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,,N,N
+2012,TBB,NFL,Tampa Bay Buccaneers,7,9,0,4th of 4,,N,N
+2011,TBB,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,,N,N
+2010,TBB,NFL,Tampa Bay Buccaneers,10,6,0,3rd of 4,,N,N
+2009,TBB,NFL,Tampa Bay Buccaneers,3,13,0,4th of 4,,N,N
+2008,TBB,NFL,Tampa Bay Buccaneers,9,7,0,3rd of 4,,N,N
+2007,TBB,NFL,Tampa Bay Buccaneers,9,7,0,1st of 4,Lost WC,N,N
+2006,TBB,NFL,Tampa Bay Buccaneers,4,12,0,4th of 4,,N,N
+2005,TBB,NFL,Tampa Bay Buccaneers,11,5,0,1st of 4,Lost WC,N,N
+2004,TBB,NFL,Tampa Bay Buccaneers,5,11,0,4th of 4,,N,N
+2003,TBB,NFL,Tampa Bay Buccaneers,7,9,0,3rd of 4,,N,N
+2002,TBB,NFL,Tampa Bay Buccaneers,12,4,0,1st of 4,Won SB,Y,Y
+2001,TBB,NFL,Tampa Bay Buccaneers,9,7,0,3rd of 5,Lost WC,N,N
+2000,TBB,NFL,Tampa Bay Buccaneers,10,6,0,2nd of 5,Lost WC,N,N
+1999,TBB,NFL,Tampa Bay Buccaneers,11,5,0,1st of 5,Lost Conf,N,N
+1998,TBB,NFL,Tampa Bay Buccaneers,8,8,0,3rd of 5,,N,N
+1997,TBB,NFL,Tampa Bay Buccaneers,10,6,0,2nd of 5,Lost Div,N,N
+1996,TBB,NFL,Tampa Bay Buccaneers,6,10,0,4th of 5,,N,N
+1995,TBB,NFL,Tampa Bay Buccaneers,7,9,0,5th of 5,,N,N
+1994,TBB,NFL,Tampa Bay Buccaneers,6,10,0,5th of 5,,N,N
+1993,TBB,NFL,Tampa Bay Buccaneers,5,11,0,5th of 5,,N,N
+1992,TBB,NFL,Tampa Bay Buccaneers,5,11,0,3rd of 5,,N,N
+1991,TBB,NFL,Tampa Bay Buccaneers,3,13,0,5th of 5,,N,N
+1990,TBB,NFL,Tampa Bay Buccaneers,6,10,0,2nd of 5,,N,N
+1989,TBB,NFL,Tampa Bay Buccaneers,5,11,0,5th of 5,,N,N
+1988,TBB,NFL,Tampa Bay Buccaneers,5,11,0,3rd of 5,,N,N
+1987,TBB,NFL,Tampa Bay Buccaneers,4,11,0,4th of 5,,N,N
+1986,TBB,NFL,Tampa Bay Buccaneers,2,14,0,5th of 5,,N,N
+1985,TBB,NFL,Tampa Bay Buccaneers,2,14,0,5th of 5,,N,N
+1984,TBB,NFL,Tampa Bay Buccaneers,6,10,0,3rd of 5,,N,N
+1983,TBB,NFL,Tampa Bay Buccaneers,2,14,0,5th of 5,,N,N
+1982,TBB,NFL,Tampa Bay Buccaneers,5,4,0,3rd of 5,Lost WC,N,N
+1981,TBB,NFL,Tampa Bay Buccaneers,9,7,0,1st of 5,Lost Div,N,N
+1980,TBB,NFL,Tampa Bay Buccaneers,5,10,1,4th of 5,,N,N
+1979,TBB,NFL,Tampa Bay Buccaneers,10,6,0,1st of 5,Lost Conf,N,N
+1978,TBB,NFL,Tampa Bay Buccaneers,5,11,0,5th of 5,,N,N
+1977,TBB,NFL,Tampa Bay Buccaneers,2,12,0,5th of 5,,N,N
+1976,TBB,NFL,Tampa Bay Buccaneers,0,14,0,5th of 5,,N,N
+2021,TEN,NFL,Tennessee Titans,12,5,0,1st of 4,Lost Div,N,N
+2020,TEN,NFL,Tennessee Titans,11,5,0,1st of 4,Lost WC,N,N
+2019,TEN,NFL,Tennessee Titans,9,7,0,2nd of 4,Lost Conf,N,N
+2018,TEN,NFL,Tennessee Titans,9,7,0,3rd of 4,,N,N
+2017,TEN,NFL,Tennessee Titans,9,7,0,2nd of 4,Lost Div,N,N
+2016,TEN,NFL,Tennessee Titans,9,7,0,2nd of 4,,N,N
+2015,TEN,NFL,Tennessee Titans,3,13,0,4th of 4,,N,N
+2014,TEN,NFL,Tennessee Titans,2,14,0,4th of 4,,N,N
+2013,TEN,NFL,Tennessee Titans,7,9,0,2nd of 4,,N,N
+2012,TEN,NFL,Tennessee Titans,6,10,0,3rd of 4,,N,N
+2011,TEN,NFL,Tennessee Titans,9,7,0,2nd of 4,,N,N
+2010,TEN,NFL,Tennessee Titans,6,10,0,4th of 4,,N,N
+2009,TEN,NFL,Tennessee Titans,8,8,0,3rd of 4,,N,N
+2008,TEN,NFL,Tennessee Titans,13,3,0,1st of 4,Lost Div,N,N
+2007,TEN,NFL,Tennessee Titans,10,6,0,3rd of 4,Lost WC,N,N
+2006,TEN,NFL,Tennessee Titans,8,8,0,2nd of 4,,N,N
+2005,TEN,NFL,Tennessee Titans,4,12,0,3rd of 4,,N,N
+2004,TEN,NFL,Tennessee Titans,5,11,0,4th of 4,,N,N
+2003,TEN,NFL,Tennessee Titans,12,4,0,2nd of 4,Lost Div,N,N
+2002,TEN,NFL,Tennessee Titans,11,5,0,1st of 4,Lost Conf,N,N
+2001,TEN,NFL,Tennessee Titans,7,9,0,4th of 6,,N,N
+2000,TEN,NFL,Tennessee Titans,13,3,0,1st of 6,Lost Div,N,N
+1999,TEN,NFL,Tennessee Titans,13,3,0,2nd of 6,Lost SB,N,Y
+1998,TEN,NFL,Tennessee Oilers,8,8,0,2nd of 5,,N,N
+1997,TEN,NFL,Tennessee Oilers,8,8,0,3rd of 5,,N,N
+1996,TEN,NFL,Houston Oilers,8,8,0,4th of 5,,N,N
+1995,TEN,NFL,Houston Oilers,7,9,0,2nd of 5,,N,N
+1994,TEN,NFL,Houston Oilers,2,14,0,4th of 4,,N,N
+1993,TEN,NFL,Houston Oilers,12,4,0,1st of 4,Lost Div,N,N
+1992,TEN,NFL,Houston Oilers,10,6,0,2nd of 4,Lost WC,N,N
+1991,TEN,NFL,Houston Oilers,11,5,0,1st of 4,Lost Div,N,N
+1990,TEN,NFL,Houston Oilers,9,7,0,2nd of 4,Lost WC,N,N
+1989,TEN,NFL,Houston Oilers,9,7,0,2nd of 4,Lost WC,N,N
+1988,TEN,NFL,Houston Oilers,10,6,0,3rd of 4,Lost Div,N,N
+1987,TEN,NFL,Houston Oilers,9,6,0,2nd of 4,Lost Div,N,N
+1986,TEN,NFL,Houston Oilers,5,11,0,4th of 4,,N,N
+1985,TEN,NFL,Houston Oilers,5,11,0,4th of 4,,N,N
+1984,TEN,NFL,Houston Oilers,3,13,0,4th of 4,,N,N
+1983,TEN,NFL,Houston Oilers,2,14,0,4th of 4,,N,N
+1982,TEN,NFL,Houston Oilers,1,8,0,4th of 4,,N,N
+1981,TEN,NFL,Houston Oilers,7,9,0,3rd of 4,,N,N
+1980,TEN,NFL,Houston Oilers,11,5,0,2nd of 4,Lost WC,N,N
+1979,TEN,NFL,Houston Oilers,11,5,0,2nd of 4,Lost Conf,N,N
+1978,TEN,NFL,Houston Oilers,10,6,0,2nd of 4,Lost Conf,N,N
+1977,TEN,NFL,Houston Oilers,8,6,0,3rd of 4,,N,N
+1976,TEN,NFL,Houston Oilers,5,9,0,4th of 4,,N,N
+1975,TEN,NFL,Houston Oilers,10,4,0,3rd of 4,,N,N
+1974,TEN,NFL,Houston Oilers,7,7,0,2nd of 4,,N,N
+1973,TEN,NFL,Houston Oilers,1,13,0,4th of 4,,N,N
+1972,TEN,NFL,Houston Oilers,1,13,0,4th of 4,,N,N
+1971,TEN,NFL,Houston Oilers,4,9,1,3rd of 4,,N,N
+1970,TEN,NFL,Houston Oilers,3,10,1,4th of 4,,N,N
+1969,TEN,AFL,Houston Oilers,6,6,2,2nd of 5,Lost Div,N,N
+1968,TEN,AFL,Houston Oilers,7,7,0,2nd of 5,,N,N
+1967,TEN,AFL,Houston Oilers,9,4,1,1st of 5,Lost Conf,N,N
+1966,TEN,AFL,Houston Oilers,3,11,0,4th of 5,,N,N
+1965,TEN,AFL,Houston Oilers,4,10,0,4th of 4,,N,N
+1964,TEN,AFL,Houston Oilers,4,10,0,4th of 4,,N,N
+1963,TEN,AFL,Houston Oilers,6,8,0,3rd of 4,,N,N
+1962,TEN,AFL,Houston Oilers,11,3,0,1st of 4,Lost Champ,N,Y
+1961,TEN,AFL,Houston Oilers,10,3,1,1st of 4,Won Champ,Y,Y
+1960,TEN,AFL,Houston Oilers,10,4,0,1st of 4,Won Champ,Y,Y
+2021,WAS,NFL,Washington Football Team,7,10,0,3rd of 4,,N,N
+2020,WAS,NFL,Washington Football Team,7,9,0,1st of 4,Lost WC,N,N
+2019,WAS,NFL,Washington Redskins,3,13,0,4th of 4,,N,N
+2018,WAS,NFL,Washington Redskins,7,9,0,3rd of 4,,N,N
+2017,WAS,NFL,Washington Redskins,7,9,0,3rd of 4,,N,N
+2016,WAS,NFL,Washington Redskins,8,7,1,3rd of 4,,N,N
+2015,WAS,NFL,Washington Redskins,9,7,0,1st of 4,Lost WC,N,N
+2014,WAS,NFL,Washington Redskins,4,12,0,4th of 4,,N,N
+2013,WAS,NFL,Washington Redskins,3,13,0,4th of 4,,N,N
+2012,WAS,NFL,Washington Redskins,10,6,0,1st of 4,Lost WC,N,N
+2011,WAS,NFL,Washington Redskins,5,11,0,4th of 4,,N,N
+2010,WAS,NFL,Washington Redskins,6,10,0,4th of 4,,N,N
+2009,WAS,NFL,Washington Redskins,4,12,0,4th of 4,,N,N
+2008,WAS,NFL,Washington Redskins,8,8,0,4th of 4,,N,N
+2007,WAS,NFL,Washington Redskins,9,7,0,3rd of 4,Lost WC,N,N
+2006,WAS,NFL,Washington Redskins,5,11,0,4th of 4,,N,N
+2005,WAS,NFL,Washington Redskins,10,6,0,2nd of 4,Lost Div,N,N
+2004,WAS,NFL,Washington Redskins,6,10,0,4th of 4,,N,N
+2003,WAS,NFL,Washington Redskins,5,11,0,3rd of 4,,N,N
+2002,WAS,NFL,Washington Redskins,7,9,0,3rd of 4,,N,N
+2001,WAS,NFL,Washington Redskins,8,8,0,2nd of 5,,N,N
+2000,WAS,NFL,Washington Redskins,8,8,0,3rd of 5,,N,N
+1999,WAS,NFL,Washington Redskins,10,6,0,1st of 5,Lost Div,N,N
+1998,WAS,NFL,Washington Redskins,6,10,0,4th of 5,,N,N
+1997,WAS,NFL,Washington Redskins,8,7,1,2nd of 5,,N,N
+1996,WAS,NFL,Washington Redskins,9,7,0,3rd of 5,,N,N
+1995,WAS,NFL,Washington Redskins,6,10,0,3rd of 5,,N,N
+1994,WAS,NFL,Washington Redskins,3,13,0,5th of 5,,N,N
+1993,WAS,NFL,Washington Redskins,4,12,0,5th of 5,,N,N
+1992,WAS,NFL,Washington Redskins,9,7,0,3rd of 5,Lost Div,N,N
+1991,WAS,NFL,Washington Redskins,14,2,0,1st of 5,Won SB,Y,Y
+1990,WAS,NFL,Washington Redskins,10,6,0,3rd of 5,Lost Div,N,N
+1989,WAS,NFL,Washington Redskins,10,6,0,3rd of 5,,N,N
+1988,WAS,NFL,Washington Redskins,7,9,0,3rd of 5,,N,N
+1987,WAS,NFL,Washington Redskins,11,4,0,1st of 5,Won SB,Y,Y
+1986,WAS,NFL,Washington Redskins,12,4,0,2nd of 5,Lost Conf,N,N
+1985,WAS,NFL,Washington Redskins,10,6,0,3rd of 5,,N,N
+1984,WAS,NFL,Washington Redskins,11,5,0,1st of 5,Lost Div,N,N
+1983,WAS,NFL,Washington Redskins,14,2,0,1st of 5,Lost SB,N,Y
+1982,WAS,NFL,Washington Redskins,8,1,0,1st of 5,Won SB,Y,Y
+1981,WAS,NFL,Washington Redskins,8,8,0,4th of 5,,N,N
+1980,WAS,NFL,Washington Redskins,6,10,0,3rd of 5,,N,N
+1979,WAS,NFL,Washington Redskins,10,6,0,3rd of 5,,N,N
+1978,WAS,NFL,Washington Redskins,8,8,0,3rd of 5,,N,N
+1977,WAS,NFL,Washington Redskins,9,5,0,2nd of 5,,N,N
+1976,WAS,NFL,Washington Redskins,10,4,0,2nd of 5,Lost Div,N,N
+1975,WAS,NFL,Washington Redskins,8,6,0,3rd of 5,,N,N
+1974,WAS,NFL,Washington Redskins,10,4,0,2nd of 5,Lost Div,N,N
+1973,WAS,NFL,Washington Redskins,10,4,0,2nd of 5,Lost Div,N,N
+1972,WAS,NFL,Washington Redskins,11,3,0,1st of 5,Lost SB,N,Y
+1971,WAS,NFL,Washington Redskins,9,4,1,2nd of 5,Lost Div,N,N
+1970,WAS,NFL,Washington Redskins,6,8,0,4th of 5,,N,N
+1969,WAS,NFL,Washington Redskins,7,5,2,2nd of 4,,N,N
+1968,WAS,NFL,Washington Redskins,5,9,0,3rd of 4,,N,N
+1967,WAS,NFL,Washington Redskins,5,6,3,3rd of 4,,N,N
+1966,WAS,NFL,Washington Redskins,7,7,0,5th of 8,,N,N
+1965,WAS,NFL,Washington Redskins,6,8,0,4th of 7,,N,N
+1964,WAS,NFL,Washington Redskins,6,8,0,3rd of 7,,N,N
+1963,WAS,NFL,Washington Redskins,3,11,0,6th of 7,,N,N
+1962,WAS,NFL,Washington Redskins,5,7,2,4th of 7,,N,N
+1961,WAS,NFL,Washington Redskins,1,12,1,7th of 7,,N,N
+1960,WAS,NFL,Washington Redskins,1,9,2,6th of 6,,N,N
+1959,WAS,NFL,Washington Redskins,3,9,0,5th of 6,,N,N
+1958,WAS,NFL,Washington Redskins,4,7,1,4th of 6,,N,N
+1957,WAS,NFL,Washington Redskins,5,6,1,4th of 6,,N,N
+1956,WAS,NFL,Washington Redskins,6,6,0,3rd of 6,,N,N
+1955,WAS,NFL,Washington Redskins,8,4,0,2nd of 6,,N,N
+1954,WAS,NFL,Washington Redskins,3,9,0,5th of 6,,N,N
+1953,WAS,NFL,Washington Redskins,6,5,1,3rd of 6,,N,N
+1952,WAS,NFL,Washington Redskins,4,8,0,5th of 6,,N,N
+1951,WAS,NFL,Washington Redskins,5,7,0,3rd of 6,,N,N
+1950,WAS,NFL,Washington Redskins,3,9,0,6th of 6,,N,N
+1949,WAS,NFL,Washington Redskins,4,7,1,4th of 5,,N,N
+1948,WAS,NFL,Washington Redskins,7,5,0,2nd of 5,,N,N
+1947,WAS,NFL,Washington Redskins,4,8,0,4th of 5,,N,N
+1946,WAS,NFL,Washington Redskins,5,5,1,3rd of 5,,N,N
+1945,WAS,NFL,Washington Redskins,8,2,0,1st of 5,Lost Champ,N,Y
+1944,WAS,NFL,Washington Redskins,6,3,1,3rd of 5,,N,N
+1943,WAS,NFL,Washington Redskins,6,3,1,1st of 5,Lost Champ,N,Y
+1942,WAS,NFL,Washington Redskins,10,1,0,1st of 5,Won Champ,Y,Y
+1941,WAS,NFL,Washington Redskins,6,5,0,3rd of 5,,N,N
+1940,WAS,NFL,Washington Redskins,9,2,0,1st of 5,Lost Champ,N,Y
+1939,WAS,NFL,Washington Redskins,8,2,1,2nd of 5,,N,N
+1938,WAS,NFL,Washington Redskins,6,3,2,2nd of 5,,N,N
+1937,WAS,NFL,Washington Redskins,8,3,0,1st of 5,Won Champ,Y,Y
+1936,WAS,NFL,Boston Redskins,7,5,0,1st of 5,Lost Champ,N,Y
+1935,WAS,NFL,Boston Redskins,2,8,1,4th of 5,,N,N
+1934,WAS,NFL,Boston Redskins,6,6,0,2nd of 5,,N,N
+1933,WAS,NFL,Boston Redskins,5,5,2,3rd of 5,,N,N
+1932,WAS,NFL,Boston Braves,4,4,2,4th of 8,,N,N

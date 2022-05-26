@@ -1,0 +1,287 @@
+@charset "UTF-8";
+/* ---------------------------------------------------
+  Styles Used By All Pages
+--------------------------------------------------- */
+/* Color Vars */
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+body {
+  color: #2c3e50;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 0.5rem !important;
+}
+
+body::-webkit-scrollbar-track {
+  background: #ffffff !important;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #1b222c !important;
+}
+
+#footer {
+  text-align: center;
+}
+
+#footer #footer_divider {
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 0.5em;
+  color: white;
+}
+
+#footer p {
+  color: grey;
+  margin-top: 0em;
+  margin-bottom: 0.25em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4756df;
+}
+
+/* Page Loading Animation */
+.loading {
+  -webkit-animation: fadeInAnimation ease 2s;
+          animation: fadeInAnimation ease 2s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-transition: margin-left 0.5s;
+  transition: margin-left 0.5s;
+}
+
+@-webkit-keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* ---------------------------------------------------
+  Misery Calculator/Index.html
+--------------------------------------------------- */
+#main_app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 60px;
+}
+
+/* Results/Error Messages & misery calc div */
+#misery_calc,
+#misery_inputs {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+select {
+  font-weight: bold;
+  border: 0;
+  font-size: 14px;
+  margin-bottom: 1.5em;
+  margin-right: 1em;
+}
+
+select:focus option:first-of-type {
+  display: none;
+}
+
+#sports_input,
+#submit_btn {
+  margin-bottom: 1.5em;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 18px;
+}
+
+#sports_input:hover,
+#submit_btn:hover {
+  background-color: #428a44;
+  cursor: pointer;
+}
+
+#birth_year {
+  margin-bottom: 1.5em;
+  display: none;
+}
+
+#submit_btn {
+  display: none;
+  margin-left: 0.5em;
+}
+
+#error_result1,
+#error_result2 {
+  display: none;
+}
+
+#misery_result {
+  opacity: 0;
+}
+
+/* Fade in/out effect */
+.show {
+  opacity: 1;
+  -webkit-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
+.hide {
+  opacity: 0;
+  -webkit-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+#back_link {
+  display: none;
+  text-align: center;
+  font-size: large;
+}
+
+#misery_level {
+  margin-bottom: 2.5em;
+}
+
+/* ---------------------------------------------------
+  Sports Selection Check Boxes
+--------------------------------------------------- */
+#sports_selection_error {
+  color: #ffffff;
+}
+
+.sports_checkbox {
+  display: none;
+}
+
+#sports_selection ul {
+  list-style-type: none;
+}
+
+#sports_selection li {
+  display: inline-block;
+}
+
+#sports_selection input[type="checkbox"][id^="cb"] {
+  display: none;
+}
+
+#sports_selection label {
+  border: 1px solid #fff;
+  padding: 10px;
+  display: block;
+  position: relative;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#sports_selection label::before {
+  background-color: white;
+  color: white;
+  content: " ";
+  display: block;
+  border-radius: 50%;
+  border: 1px solid grey;
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  line-height: 28px;
+  -webkit-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+
+#sports_selection label img {
+  height: 150px;
+  width: 200px;
+  margin-right: 2.5em;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  border: 2px solid #9e9e9e;
+  border-radius: 20px;
+}
+
+#sports_selection :checked + label::before {
+  content: "✓";
+  background-color: #4caf50;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+#sports_selection :checked + label img {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+  -webkit-box-shadow: 0 0 15px #4caf50;
+          box-shadow: 0 0 15px #4caf50;
+  border: 2px solid #4caf50;
+  z-index: -1;
+}
+/*# sourceMappingURL=misery.css.map */

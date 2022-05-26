@@ -1,0 +1,2682 @@
+[
+  {
+    "yearID": 2008,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 4,
+    "L": 30,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 18,
+    "L": 16,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 19,
+    "L": 15,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2011,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 20,
+    "L": 14,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2012,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 19,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 17,
+    "L": 17,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2014,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 19,
+    "L": 15,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 17,
+    "L": 17,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 12,
+    "L": 22,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 23,
+    "L": 11,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 8,
+    "L": 26,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 7,
+    "L": 15,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "ATL",
+    "team": "Atlanta Dream",
+    "W": 8,
+    "L": 24,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 5,
+    "L": 29,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 14,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 12,
+    "L": 22,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 14,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 14,
+    "L": 20,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 14,
+    "L": 20,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 24,
+    "L": 10,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 15,
+    "L": 19,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2015,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 18,
+    "L": 16,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 12,
+    "L": 22,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 13,
+    "L": 21,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 20,
+    "L": 14,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 12,
+    "L": 10,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "CHI",
+    "team": "Chicago Sky",
+    "W": 16,
+    "L": 16,
+    "Finish": 2,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2000,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 9,
+    "L": 23,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 10,
+    "L": 22,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 16,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 16,
+    "L": 18,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 15,
+    "L": 19,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 21,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 17,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2010,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 21,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 21,
+    "L": 13,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 22,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2013,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 16,
+    "L": 18,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 20,
+    "L": 14,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2016,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 17,
+    "L": 17,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 9,
+    "L": 25,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 6,
+    "L": 28,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 13,
+    "L": 21,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 6,
+    "L": 16,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "IND",
+    "team": "Indiana Fever",
+    "W": 6,
+    "L": 26,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1997,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 14,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1998,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 12,
+    "L": 18,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 10,
+    "L": 24,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 12,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 20,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 28,
+    "L": 4,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 28,
+    "L": 4,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2002,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 25,
+    "L": 7,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2003,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 24,
+    "L": 10,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2004,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 25,
+    "L": 9,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 17,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 25,
+    "L": 9,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 20,
+    "L": 14,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 13,
+    "L": 21,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 24,
+    "L": 10,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 24,
+    "L": 10,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 16,
+    "L": 18,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 14,
+    "L": 20,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 26,
+    "L": 8,
+    "Finish": 2,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2017,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 26,
+    "L": 8,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2018,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 19,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "LAS",
+    "team": "Los Angeles Sparks",
+    "W": 15,
+    "L": 7,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 15,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 15,
+    "L": 17,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 12,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 10,
+    "L": 22,
+    "Finish": 8,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 14,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 10,
+    "L": 24,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 10,
+    "L": 24,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 16,
+    "L": 18,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 14,
+    "L": 20,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 13,
+    "L": 21,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 27,
+    "L": 7,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2012,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 27,
+    "L": 7,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2013,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 26,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2014,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 25,
+    "L": 9,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2016,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 28,
+    "L": 6,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2017,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 27,
+    "L": 7,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2018,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 14,
+    "L": 8,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "MIN",
+    "team": "Minnesota Lynx",
+    "W": 22,
+    "L": 10,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1997,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 17,
+    "L": 11,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 1998,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 18,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 18,
+    "L": 14,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2000,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 20,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2001,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 21,
+    "L": 11,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 18,
+    "L": 14,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2003,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 16,
+    "L": 18,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 18,
+    "L": 16,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 11,
+    "L": 23,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 19,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 13,
+    "L": 21,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 19,
+    "L": 15,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 15,
+    "L": 19,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 11,
+    "L": 23,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 15,
+    "L": 19,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 23,
+    "L": 11,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 21,
+    "L": 13,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 7,
+    "L": 27,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 10,
+    "L": 24,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 2,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "NYL",
+    "team": "New York Liberty",
+    "W": 12,
+    "L": 20,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 15,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 13,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 11,
+    "L": 21,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 8,
+    "L": 26,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 17,
+    "L": 17,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 16,
+    "L": 18,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 16,
+    "L": 18,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 7,
+    "L": 27,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1997,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 16,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1998,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 19,
+    "L": 11,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2000,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 20,
+    "L": 12,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 23,
+    "L": 11,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2009,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 23,
+    "L": 11,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2010,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 15,
+    "L": 19,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 19,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 19,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 29,
+    "L": 5,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2015,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 16,
+    "L": 18,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 13,
+    "L": 9,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "PHE",
+    "team": "Phoenix Mercury",
+    "W": 19,
+    "L": 13,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 1997,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 7,
+    "L": 21,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1998,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 8,
+    "L": 22,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 15,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 18,
+    "L": 14,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 19,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "LVA",
+    "team": "Utah Starzz",
+    "W": 20,
+    "L": 12,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 12,
+    "L": 22,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 9,
+    "L": 25,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 7,
+    "L": 27,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 13,
+    "L": 21,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 24,
+    "L": 10,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2009,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 15,
+    "L": 19,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 14,
+    "L": 20,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 21,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "LVA",
+    "team": "San Antonio Silver Stars",
+    "W": 12,
+    "L": 22,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "LVA",
+    "team": "San Antonio Stars",
+    "W": 16,
+    "L": 18,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "LVA",
+    "team": "San Antonio Stars",
+    "W": 8,
+    "L": 26,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "LVA",
+    "team": "San Antonio Stars",
+    "W": 7,
+    "L": 27,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "LVA",
+    "team": "San Antonio Stars",
+    "W": 8,
+    "L": 26,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "LVA",
+    "team": "Las Vegas Aces",
+    "W": 14,
+    "L": 20,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "LVA",
+    "team": "Las Vegas Aces",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "LVA",
+    "team": "Las Vegas Aces",
+    "W": 18,
+    "L": 4,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2021,
+    "franchID": "LVA",
+    "team": "Las Vegas Aces",
+    "W": 24,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 6,
+    "L": 26,
+    "Finish": 8,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 10,
+    "L": 22,
+    "Finish": 8,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 17,
+    "L": 15,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2005,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 17,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 22,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 20,
+    "L": 14,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 28,
+    "L": 6,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2011,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 17,
+    "L": 17,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 12,
+    "L": 22,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 10,
+    "L": 24,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 16,
+    "L": 18,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 26,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2019,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 18,
+    "L": 4,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2021,
+    "franchID": "SEA",
+    "team": "Seattle Storm",
+    "W": 21,
+    "L": 11,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1998,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 17,
+    "L": 13,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 15,
+    "L": 17,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 14,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 10,
+    "L": 22,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 9,
+    "L": 23,
+    "Finish": 8,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 25,
+    "L": 9,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2004,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 17,
+    "L": 17,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 23,
+    "L": 11,
+    "Finish": 2,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2007,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 24,
+    "L": 10,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2008,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2009,
+    "franchID": "DAL",
+    "team": "Detroit Shock",
+    "W": 18,
+    "L": 16,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 6,
+    "L": 28,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 3,
+    "L": 31,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 9,
+    "L": 25,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 11,
+    "L": 23,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 12,
+    "L": 22,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "DAL",
+    "team": "Tulsa Shock",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 11,
+    "L": 23,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 10,
+    "L": 24,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2020,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 8,
+    "L": 14,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "DAL",
+    "team": "Dallas Wings",
+    "W": 14,
+    "L": 18,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1998,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 3,
+    "L": 27,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 12,
+    "L": 20,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 14,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 10,
+    "L": 22,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 17,
+    "L": 15,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 9,
+    "L": 25,
+    "Finish": 7,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 17,
+    "L": 17,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2005,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2006,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 10,
+    "L": 24,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 22,
+    "L": 12,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 6,
+    "L": 28,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 5,
+    "L": 29,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 17,
+    "L": 17,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 16,
+    "L": 18,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 18,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 13,
+    "L": 21,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 22,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2019,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 26,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "Y",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2020,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 9,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "WAS",
+    "team": "Washington Mystics",
+    "W": 12,
+    "L": 20,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 1999,
+    "franchID": "CON",
+    "team": "Orlando Miracle",
+    "W": 15,
+    "L": 17,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2000,
+    "franchID": "CON",
+    "team": "Orlando Miracle",
+    "W": 16,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2001,
+    "franchID": "CON",
+    "team": "Orlando Miracle",
+    "W": 13,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2002,
+    "franchID": "CON",
+    "team": "Orlando Miracle",
+    "W": 16,
+    "L": 16,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2003,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 18,
+    "L": 16,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2004,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 18,
+    "L": 16,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "y"
+  },
+  {
+    "yearID": 2005,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 26,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2006,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 26,
+    "L": 8,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2007,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 18,
+    "L": 16,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2008,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2009,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 16,
+    "L": 18,
+    "Finish": 4,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2010,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 17,
+    "L": 17,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2011,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 21,
+    "L": 13,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2012,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 25,
+    "L": 9,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2013,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 10,
+    "L": 24,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2014,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 13,
+    "L": 21,
+    "Finish": 6,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2015,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 15,
+    "L": 19,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2016,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 14,
+    "L": 20,
+    "Finish": 5,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2017,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 21,
+    "L": 13,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2018,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 21,
+    "L": 13,
+    "Finish": 3,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2019,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 23,
+    "L": 11,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": "Y"
+  },
+  {
+    "yearID": 2020,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 10,
+    "L": 12,
+    "Finish": 2,
+    "ch_win": "",
+    "ch_ru": ""
+  },
+  {
+    "yearID": 2021,
+    "franchID": "CON",
+    "team": "Connecticut Sun",
+    "W": 26,
+    "L": 6,
+    "Finish": 1,
+    "ch_win": "",
+    "ch_ru": ""
+  }
+]

@@ -1,0 +1,670 @@
+franchID,Team,W,L,T,Pct.,PF,PA,CH,yearID
+CAL,Calgary Stampeders,0,0,0,,0,0,Lost Semifinal,1945
+HAM,Hamilton Tigers,1,5,0,0.167,36,68,,1945
+MON,Montreal Hornets,1,5,0,0.167,32,113,,1945
+OTT,Ottawa Rough Riders,5,1,0,0.833,105,40,Lost Quarterfinal,1945
+SAK,Regina Roughriders,0,0,0,,0,0,Lost Quarterfinal,1945
+TOR,Toronto Argonauts,5,1,0,0.833,92,44,Won Grey Cup,1945
+TBB,Toronto Balmy Beach,0,0,0,,0,0,Lost Semifinal,1945
+WIN,Winnipeg Blue Bombers,0,0,0,,0,0,Lost Grey Cup,1945
+CAL,Calgary Stampeders,5,3,0,0.625,60,37,Lost Semifinal,1946
+HAM,Hamilton Tigers,0,10,2,0.083,78,234,,1946
+MON,Montreal Alouettes,7,3,2,0.667,211,118,Lost Quarterfinal,1946
+OTT,Ottawa Rough Riders,6,4,2,0.583,175,128,,1946
+SAK,Regina Roughriders,2,6,0,0.25,46,92,,1946
+TOR,Toronto Argonauts,7,3,2,0.667,140,124,Won Grey Cup,1946
+TBB,Toronto Balmy Beach,0,0,0,,0,0,Lost Semifinal,1946
+WIN,Winnipeg Blue Bombers,5,3,0,0.625,69,46,Lost Grey Cup,1946
+CAL,Calgary Stampeders,4,4,0,0.5,79,93,Lost Semifinal,1947
+HAM,Hamilton Tigers,2,9,1,0.208,119,204,,1947
+MON,Montreal Alouettes,6,6,0,0.5,164,164,,1947
+OTT,Ottawa Rough Riders,8,4,0,0.667,170,103,Lost Quarterfinal,1947
+OTT,Ottawa Trojans,0,0,0,,0,0,Lost Semifinal,1947
+SAK,Regina Roughriders,3,5,0,0.375,78,64,,1947
+TOR,Toronto Argonauts,7,4,1,0.625,140,122,Won Grey Cup,1947
+WIN,Winnipeg Blue Bombers,5,3,0,0.625,83,83,Lost Grey Cup,1947
+CAL,Calgary Stampeders,12,0,0,1,218,61,Won Grey Cup,1948
+HAM,Hamilton Tigers,0,0,0,,0,0,Lost Semifinal,1948
+HAM,Hamilton Wildcats,1,10,1,0.125,88,240,,1948
+MON,Montreal Alouettes,7,5,0,0.583,221,172,Lost Quarterfinal,1948
+OTT,Ottawa Rough Riders,10,2,0,0.833,264,130,Lost Grey Cup,1948
+SAK,Saskatchewan Roughriders,3,9,0,0.25,133,137,Lost Semifinal,1948
+TOR,Toronto Argonauts,5,6,1,0.458,160,191,,1948
+WIN,Winnipeg Blue Bombers,3,9,0,0.25,81,234,,1948
+CAL,Calgary Stampeders,13,1,0,0.929,270,77,Lost Grey Cup,1949
+EDM,Edmonton Eskimos,4,10,0,0.286,93,235,,1949
+HAM,Hamilton Tigers,0,0,0,,0,0,Lost Semifinal,1949
+HAM,Hamilton Wildcats,0,12,0,0,147,284,,1949
+MON,Montreal Alouettes,8,4,0,0.667,295,204,Won Grey Cup,1949
+OTT,Ottawa Rough Riders,11,1,0,0.917,261,170,Lost Quarterfinal,1949
+SAK,Regina Roughriders,9,5,0,0.643,235,102,Lost Semifinal,1949
+TOR,Toronto Argonauts,5,7,0,0.417,209,254,,1949
+WIN,Winnipeg Blue Bombers,2,12,0,0.143,74,258,,1949
+CAL,Calgary Stampeders,4,10,0,0.286,152,253,,1950
+EDM,Edmonton Eskimos,7,7,0,0.5,201,197,Lost Semifinal,1950
+HAM,Hamilton Tiger-Cats,7,5,0,0.583,231,217,Lost Quarterfinal,1950
+MON,Montreal Alouettes,6,6,0,0.5,192,261,,1950
+OTT,Ottawa Rough Riders,4,7,1,0.375,182,231,,1950
+SAK,Saskatchewan Roughriders,7,7,0,0.5,207,177,Lost Quarterfinal,1950
+TOR,Toronto Argonauts,6,5,1,0.542,291,187,Won Grey Cup,1950
+TBB,Toronto Balmy Beach,0,0,0,,0,0,Lost Semifinal,1950
+WIN,Winnipeg Blue Bombers,10,4,0,0.714,223,156,Lost Grey Cup,1950
+CAL,Calgary Stampeders,4,10,0,0.286,205,299,,1951
+EDM,Edmonton Eskimos,8,6,0,0.571,306,262,Lost Semifinal,1951
+HAM,Hamilton Tiger-Cats,7,5,0,0.583,229,131,Lost Quarterfinal,1951
+MON,Montreal Alouettes,3,9,0,0.25,146,286,,1951
+OTT,Ottawa Rough Riders,7,5,0,0.583,218,197,Won Grey Cup,1951
+SI,Sarnia Imperials,0,0,0,,0,0,Lost Semifinal,1951
+SAK,Saskatchewan Roughriders,8,6,0,0.571,277,219,Lost Grey Cup,1951
+TOR,Toronto Argonauts,7,5,0,0.583,226,205,Lost Semifinal,1951
+WIN,Winnipeg Blue Bombers,8,6,0,0.571,303,311,Lost Quarterfinal,1951
+CAL,Calgary Stampeders,7,9,0,0.438,293,340,Lost Quarterfinal,1952
+EDM,Edmonton Eskimos,9,6,1,0.594,291,280,Lost Grey Cup,1952
+HAM,Hamilton Tiger-Cats,9,2,1,0.792,268,162,Lost Quarterfinal,1952
+MON,Montreal Alouettes,2,10,0,0.167,136,278,,1952
+OTT,Ottawa Rough Riders,5,7,0,0.417,200,238,,1952
+SI,Sarnia Imperials,0,0,0,,0,0,Lost Semifinal,1952
+SAK,Saskatchewan Roughriders,3,13,0,0.188,216,363,,1952
+TOR,Toronto Argonauts,7,4,1,0.625,265,191,Won Grey Cup,1952
+WIN,Winnipeg Blue Bombers,12,3,1,0.781,394,211,Lost Semifinal,1952
+CAL,Calgary Stampeders,3,12,1,0.219,190,313,,1953
+EDM,Edmonton Eskimos,12,4,0,0.75,276,157,Lost Quarterfinal,1953
+HAM,Hamilton Tiger-Cats,8,6,0,0.571,229,243,Won Grey Cup,1953
+MON,Montreal Alouettes,8,6,0,0.571,292,229,Lost Final,1953
+OTT,Ottawa Rough Riders,7,7,0,0.5,266,238,,1953
+SAK,Saskatchewan Roughriders,8,7,1,0.531,243,239,Lost Semifinal,1953
+TOR,Toronto Argonauts,5,9,0,0.357,172,249,,1953
+TBB,Toronto Balmy Beach,0,0,0,,0,0,Lost Semifinal,1953
+WIN,Winnipeg Blue Bombers,8,8,0,0.5,226,226,Lost Grey Cup,1953
+BCL,BC Lions,1,15,0,0.062,100,345,,1954
+CAL,Calgary Stampeders,8,8,0,0.5,271,165,,1954
+EDM,Edmonton Eskimos,11,5,0,0.688,255,163,Won Grey Cup,1954
+HAM,Hamilton Tiger-Cats,9,5,0,0.643,275,207,Lost Final,1954
+KWD,Kitchener-Waterloo Dutchmen,0,0,0,,0,0,Lost Semifinal,1954
+MON,Montreal Alouettes,11,3,0,0.786,341,148,Lost Grey Cup,1954
+OTT,Ottawa Rough Riders,2,12,0,0.143,129,337,,1954
+SAK,Saskatchewan Roughriders,10,4,2,0.688,239,204,Lost Semifinal,1954
+TOR,Toronto Argonauts,6,8,0,0.429,212,265,,1954
+WIN,Winnipeg Blue Bombers,8,6,2,0.562,202,190,Lost Final,1954
+BCL,BC Lions,5,11,0,0.312,211,330,,1955
+CAL,Calgary Stampeders,4,12,0,0.25,209,299,,1955
+EDM,Edmonton Eskimos,14,2,0,0.875,286,117,Won Grey Cup,1955
+HAM,Hamilton Tiger-Cats,8,4,0,0.667,271,193,Lost Semifinal,1955
+MON,Montreal Alouettes,9,3,0,0.75,388,214,Lost Grey Cup,1955
+OTT,Ottawa Rough Riders,3,9,0,0.25,174,337,,1955
+SAK,Saskatchewan Roughriders,10,6,0,0.625,270,245,Lost Semifinal,1955
+TOR,Toronto Argonauts,4,8,0,0.333,239,328,Lost Final,1955
+WIN,Winnipeg Blue Bombers,7,9,0,0.438,210,195,Lost Final,1955
+BCL,BC Lions,6,10,0,0.375,251,361,,1956
+CAL,Calgary Stampeders,4,12,0,0.25,229,410,,1956
+EDM,Edmonton Eskimos,11,5,0,0.688,358,235,Won Grey Cup,1956
+HAM,Hamilton Tiger-Cats,7,7,0,0.5,383,385,Lost Final,1956
+MON,Montreal Alouettes,10,4,0,0.714,478,361,Lost Grey Cup,1956
+OTT,Ottawa Rough Riders,7,7,0,0.5,326,359,Lost Semifinal,1956
+SAK,Saskatchewan Roughriders,10,6,0,0.625,353,272,Lost Final,1956
+TOR,Toronto Argonauts,4,10,0,0.286,331,413,,1956
+WIN,Winnipeg Blue Bombers,9,7,0,0.562,315,228,Lost Semifinal,1956
+BCL,BC Lions,4,11,1,0.281,284,369,,1957
+CAL,Calgary Stampeders,6,10,0,0.375,221,413,Lost Semifinal,1957
+EDM,Edmonton Eskimos,14,2,0,0.875,475,142,Lost Final,1957
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,250,189,Won Grey Cup,1957
+MON,Montreal Alouettes,6,8,0,0.429,287,301,Lost Final,1957
+OTT,Ottawa Rough Riders,8,6,0,0.571,326,237,Lost Semifinal,1957
+SAK,Saskatchewan Roughriders,3,12,1,0.219,276,438,,1957
+TOR,Toronto Argonauts,4,10,0,0.286,274,410,,1957
+WIN,Winnipeg Blue Bombers,12,4,0,0.75,406,300,Lost Grey Cup,1957
+BCL,BC Lions,3,13,0,0.188,202,399,,1958
+CAL,Calgary Stampeders,6,9,1,0.406,314,312,,1958
+EDM,Edmonton Eskimos,9,6,1,0.594,312,292,Lost Final,1958
+HAM,Hamilton Tiger-Cats,10,3,1,0.75,291,235,Lost Grey Cup,1958
+MON,Montreal Alouettes,7,6,1,0.536,265,269,Lost Semifinal,1958
+OTT,Ottawa Rough Riders,6,8,0,0.429,233,243,Lost Final,1958
+SAK,Saskatchewan Roughriders,7,7,2,0.5,320,324,Lost Semifinal,1958
+TOR,Toronto Argonauts,4,10,0,0.286,266,308,,1958
+WIN,Winnipeg Blue Bombers,13,3,0,0.812,361,182,Won Grey Cup,1958
+BCL,BC Lions,9,7,0,0.562,306,301,Lost Semifinal,1959
+CAL,Calgary Stampeders,8,8,0,0.5,356,301,,1959
+EDM,Edmonton Eskimos,10,6,0,0.625,370,221,Lost Final,1959
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,298,162,Lost Grey Cup,1959
+MON,Montreal Alouettes,6,8,0,0.429,193,305,Lost Semifinal,1959
+OTT,Ottawa Rough Riders,8,6,0,0.571,275,217,Lost Final,1959
+SAK,Saskatchewan Roughriders,1,15,0,0.062,212,567,,1959
+TOR,Toronto Argonauts,4,10,0,0.286,192,274,,1959
+WIN,Winnipeg Blue Bombers,12,4,0,0.75,418,272,Won Grey Cup,1959
+BCL,BC Lions,5,9,2,0.375,296,356,,1960
+CAL,Calgary Stampeders,6,8,2,0.438,374,404,Lost Semifinal,1960
+EDM,Edmonton Eskimos,10,6,0,0.625,318,225,Lost Grey Cup,1960
+HAM,Hamilton Tiger-Cats,4,10,0,0.286,273,377,,1960
+MON,Montreal Alouettes,5,9,0,0.357,340,458,Lost Conference Semifinal,1960
+OTT,Ottawa Rough Riders,9,5,0,0.643,400,283,Won Grey Cup,1960
+SAK,Saskatchewan Roughriders,2,12,2,0.188,205,422,,1960
+TOR,Toronto Argonauts,10,4,0,0.714,370,265,Lost Conference Final,1960
+WIN,Winnipeg Blue Bombers,14,2,0,0.875,453,239,Lost Final,1960
+BCL,BC Lions,1,13,2,0.125,215,393,,1961
+CAL,Calgary Stampeders,7,9,0,0.438,300,311,Lost Conference Final,1961
+EDM,Edmonton Eskimos,10,5,1,0.656,334,257,Lost Conference Semifinal,1961
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,340,293,Lost Grey Cup,1961
+MON,Montreal Alouettes,4,9,1,0.321,213,225,,1961
+OTT,Ottawa Rough Riders,8,6,0,0.571,359,285,Lost Conference Semifinal,1961
+SAK,Saskatchewan Roughriders,5,10,1,0.344,211,314,,1961
+TOR,Toronto Argonauts,7,6,1,0.536,255,258,Lost Conference Final,1961
+WIN,Winnipeg Blue Bombers,13,3,0,0.812,360,251,Won Grey Cup,1961
+BCL,BC Lions,7,9,0,0.438,346,342,,1962
+CAL,Calgary Stampeders,9,6,1,0.594,352,335,Lost Conference Final,1962
+EDM,Edmonton Eskimos,6,9,1,0.406,310,346,,1962
+HAM,Hamilton Tiger-Cats,9,4,1,0.679,358,286,Lost Grey Cup,1962
+MON,Montreal Alouettes,4,7,3,0.393,308,309,Lost Conference Final,1962
+OTT,Ottawa Rough Riders,6,7,1,0.464,339,302,Lost Conference Semifinal,1962
+SAK,Saskatchewan Roughriders,8,7,1,0.531,268,336,Lost Conference Semifinal,1962
+TOR,Toronto Argonauts,4,10,0,0.286,259,378,,1962
+WIN,Winnipeg Blue Bombers,11,5,0,0.688,385,291,Won Grey Cup,1962
+BCL,BC Lions,12,4,0,0.75,387,232,Lost Grey Cup,1963
+CAL,Calgary Stampeders,10,4,2,0.688,427,323,Lost Conference Semifinal,1963
+EDM,Edmonton Eskimos,2,14,0,0.125,220,425,,1963
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,312,214,Won Grey Cup,1963
+MON,Montreal Alouettes,6,8,0,0.429,277,297,Lost Conference Semifinal,1963
+OTT,Ottawa Rough Riders,9,5,0,0.643,326,284,Lost Conference Final,1963
+SAK,Saskatchewan Roughriders,7,7,2,0.5,223,266,Lost Conference Final,1963
+TOR,Toronto Argonauts,3,11,0,0.214,202,310,,1963
+WIN,Winnipeg Blue Bombers,7,9,0,0.438,302,325,,1963
+BCL,BC Lions,11,2,3,0.781,328,168,Won Grey Cup,1964
+CAL,Calgary Stampeders,12,4,0,0.75,352,249,Lost Conference Final,1964
+EDM,Edmonton Eskimos,4,12,0,0.25,222,458,,1964
+HAM,Hamilton Tiger-Cats,10,3,1,0.75,329,201,Lost Grey Cup,1964
+MON,Montreal Alouettes,6,8,0,0.429,192,264,Lost Conference Semifinal,1964
+OTT,Ottawa Rough Riders,8,5,1,0.607,313,228,Lost Conference Final,1964
+SAK,Saskatchewan Roughriders,9,7,0,0.562,330,282,Lost Conference Semifinal,1964
+TOR,Toronto Argonauts,4,10,0,0.286,243,332,,1964
+WIN,Winnipeg Blue Bombers,1,14,1,0.094,270,397,,1964
+BCL,BC Lions,6,9,1,0.406,286,273,,1965
+CAL,Calgary Stampeders,12,4,0,0.75,340,243,Lost Conference Final,1965
+EDM,Edmonton Eskimos,5,11,0,0.312,257,400,,1965
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,281,153,Won Grey Cup,1965
+MON,Montreal Alouettes,5,9,0,0.357,183,215,Lost Conference Semifinal,1965
+OTT,Ottawa Rough Riders,7,7,0,0.5,300,234,Lost Conference Final,1965
+SAK,Saskatchewan Roughriders,8,7,1,0.531,276,277,Lost Conference Semifinal,1965
+TOR,Toronto Argonauts,3,11,0,0.214,193,360,,1965
+WIN,Winnipeg Blue Bombers,11,5,0,0.688,301,262,Lost Grey Cup,1965
+BCL,BC Lions,5,11,0,0.312,254,269,,1966
+CAL,Calgary Stampeders,6,9,1,0.406,227,259,,1966
+EDM,Edmonton Eskimos,6,9,1,0.406,251,328,Lost Conference Semifinal,1966
+HAM,Hamilton Tiger-Cats,9,5,0,0.643,264,160,Lost Conference Final,1966
+MON,Montreal Alouettes,7,7,0,0.5,156,215,Lost Conference Semifinal,1966
+OTT,Ottawa Rough Riders,11,3,0,0.786,278,177,Lost Grey Cup,1966
+SAK,Saskatchewan Roughriders,9,6,1,0.594,351,318,Won Grey Cup,1966
+TOR,Toronto Argonauts,5,9,0,0.357,182,271,,1966
+WIN,Winnipeg Blue Bombers,8,7,1,0.531,264,230,Lost Conference Final,1966
+BCL,BC Lions,3,12,1,0.219,239,319,,1967
+CAL,Calgary Stampeders,12,4,0,0.75,382,219,Lost Conference Final,1967
+EDM,Edmonton Eskimos,9,6,1,0.594,266,246,Lost Conference Semifinal,1967
+HAM,Hamilton Tiger-Cats,10,4,0,0.714,250,195,Won Grey Cup,1967
+MON,Montreal Alouettes,2,12,0,0.143,166,302,,1967
+OTT,Ottawa Rough Riders,9,4,1,0.679,337,207,Lost Conference Final,1967
+SAK,Saskatchewan Roughriders,12,4,0,0.75,346,282,Lost Grey Cup,1967
+TOR,Toronto Argonauts,5,8,1,0.393,252,266,Lost Conference Semifinal,1967
+WIN,Winnipeg Blue Bombers,4,12,0,0.25,212,414,,1967
+BCL,BC Lions,4,11,1,0.281,217,318,,1968
+CAL,Calgary Stampeders,10,6,0,0.625,412,249,Lost Grey Cup,1968
+EDM,Edmonton Eskimos,8,7,1,0.531,228,288,Lost Conference Semifinal,1968
+HAM,Hamilton Tiger-Cats,6,7,1,0.464,262,292,Lost Conference Semifinal,1968
+MON,Montreal Alouettes,3,9,2,0.286,234,327,,1968
+OTT,Ottawa Rough Riders,9,3,2,0.714,416,271,Won Grey Cup,1968
+SAK,Saskatchewan Roughriders,12,3,1,0.781,345,223,Lost Conference Final,1968
+TOR,Toronto Argonauts,9,5,0,0.643,284,266,Lost Conference Final,1968
+WIN,Winnipeg Blue Bombers,3,13,0,0.188,210,374,,1968
+BCL,BC Lions,5,11,0,0.312,235,335,Lost Conference Semifinal,1969
+CAL,Calgary Stampeders,9,7,0,0.562,327,314,Lost Conference Final,1969
+EDM,Edmonton Eskimos,5,11,0,0.312,241,246,,1969
+HAM,Hamilton Tiger-Cats,8,5,1,0.607,307,315,Lost Conference Semifinal,1969
+MON,Montreal Alouettes,2,10,2,0.214,304,395,,1969
+OTT,Ottawa Rough Riders,11,3,0,0.786,399,298,Won Grey Cup,1969
+SAK,Saskatchewan Roughriders,13,3,0,0.812,392,261,Lost Grey Cup,1969
+TOR,Toronto Argonauts,10,4,0,0.714,406,280,Lost Conference Final,1969
+WIN,Winnipeg Blue Bombers,3,12,1,0.219,192,359,,1969
+BCL,BC Lions,6,10,0,0.375,295,384,,1970
+CAL,Calgary Stampeders,9,7,0,0.562,293,209,Lost Grey Cup,1970
+EDM,Edmonton Eskimos,9,7,0,0.562,282,287,Lost Conference Semifinal,1970
+HAM,Hamilton Tiger-Cats,8,5,1,0.607,292,279,Lost Conference Final,1970
+MON,Montreal Alouettes,7,6,1,0.536,246,279,Won Grey Cup,1970
+OTT,Ottawa Rough Riders,4,10,0,0.286,255,279,,1970
+SAK,Saskatchewan Roughriders,14,2,0,0.875,369,206,Lost Conference Final,1970
+TOR,Toronto Argonauts,8,6,0,0.571,329,290,Lost Conference Semifinal,1970
+WIN,Winnipeg Blue Bombers,2,14,0,0.125,184,332,,1970
+BCL,BC Lions,6,9,1,0.406,282,363,,1971
+CAL,Calgary Stampeders,9,6,1,0.594,290,218,Won Grey Cup,1971
+EDM,Edmonton Eskimos,6,10,0,0.375,237,305,,1971
+HAM,Hamilton Tiger-Cats,7,7,0,0.5,242,246,Lost Conference Final,1971
+MON,Montreal Alouettes,6,8,0,0.429,226,248,,1971
+OTT,Ottawa Rough Riders,6,8,0,0.429,291,277,Lost Conference Semifinal,1971
+SAK,Saskatchewan Roughriders,9,6,1,0.594,347,316,Lost Conference Final,1971
+TOR,Toronto Argonauts,10,4,0,0.714,289,248,Lost Grey Cup,1971
+WIN,Winnipeg Blue Bombers,7,8,1,0.469,366,349,Lost Conference Semifinal,1971
+BCL,BC Lions,5,11,0,0.312,254,380,,1972
+CAL,Calgary Stampeders,6,10,0,0.375,331,394,,1972
+EDM,Edmonton Eskimos,10,6,0,0.625,380,368,Lost Conference Semifinal,1972
+HAM,Hamilton Tiger-Cats,11,3,0,0.786,372,262,Won Grey Cup,1972
+MON,Montreal Alouettes,4,10,0,0.286,246,353,Lost Conference Semifinal,1972
+OTT,Ottawa Rough Riders,11,3,0,0.786,298,228,Lost Conference Final,1972
+SAK,Saskatchewan Roughriders,8,8,0,0.5,330,283,Lost Grey Cup,1972
+TOR,Toronto Argonauts,3,11,0,0.214,254,298,,1972
+WIN,Winnipeg Blue Bombers,10,6,0,0.625,401,300,Lost Conference Final,1972
+BCL,BC Lions,5,9,2,0.375,261,328,Lost Division Semifinal,1973
+CAL,Calgary Stampeders,6,10,0,0.375,214,368,,1973
+EDM,Edmonton Eskimos,9,5,2,0.625,329,284,Lost Grey Cup,1973
+HAM,Hamilton Tiger-Cats,7,7,0,0.5,304,263,,1973
+MON,Montreal Alouettes,7,6,1,0.536,273,238,Lost Division Final,1973
+OTT,Ottawa Rough Riders,9,5,0,0.643,275,234,Won Grey Cup,1973
+SAK,Saskatchewan Roughriders,10,6,0,0.625,360,287,Lost Division Final,1973
+TOR,Toronto Argonauts,7,5,2,0.571,265,231,Lost Division Semifinal,1973
+WIN,Winnipeg Blue Bombers,4,11,1,0.281,267,315,,1973
+BCL,BC Lions,8,8,0,0.5,306,299,Lost Division Semifinal,1974
+CAL,Calgary Stampeders,6,10,0,0.375,287,307,,1974
+EDM,Edmonton Eskimos,10,5,1,0.656,345,247,Lost Grey Cup,1974
+HAM,Hamilton Tiger-Cats,7,9,0,0.438,279,313,Lost Division Semifinal,1974
+MON,Montreal Alouettes,9,5,2,0.625,339,271,Won Grey Cup,1974
+OTT,Ottawa Rough Riders,7,9,0,0.438,261,271,Lost Division Final,1974
+SAK,Saskatchewan Roughriders,9,7,0,0.562,305,289,Lost Division Final,1974
+TOR,Toronto Argonauts,6,9,1,0.406,281,314,,1974
+WIN,Winnipeg Blue Bombers,8,8,0,0.5,258,350,,1974
+BCL,BC Lions,6,10,0,0.375,276,331,,1975
+CAL,Calgary Stampeders,6,10,0,0.375,387,363,,1975
+EDM,Edmonton Eskimos,12,4,0,0.75,432,370,Won Grey Cup,1975
+HAM,Hamilton Tiger-Cats,5,10,1,0.344,284,395,Lost Division Semifinal,1975
+MON,Montreal Alouettes,9,7,0,0.562,353,345,Lost Grey Cup,1975
+OTT,Ottawa Rough Riders,10,5,1,0.656,394,280,Lost Division Final,1975
+SAK,Saskatchewan Roughriders,10,5,1,0.656,373,309,Lost Division Final,1975
+TOR,Toronto Argonauts,5,10,1,0.344,261,324,,1975
+WIN,Winnipeg Blue Bombers,6,8,2,0.438,340,383,Lost Division Semifinal,1975
+BCL,BC Lions,5,9,2,0.375,308,336,,1976
+CAL,Calgary Stampeders,2,12,2,0.188,316,442,,1976
+EDM,Edmonton Eskimos,9,6,1,0.594,311,367,Lost Division Final,1976
+HAM,Hamilton Tiger-Cats,8,8,0,0.5,269,348,Lost Division Final,1976
+MON,Montreal Alouettes,7,8,1,0.469,305,273,Lost Division Semifinal,1976
+OTT,Ottawa Rough Riders,9,6,1,0.594,411,346,Won Grey Cup,1976
+SAK,Saskatchewan Roughriders,11,5,0,0.688,427,238,Lost Grey Cup,1976
+TOR,Toronto Argonauts,7,8,1,0.469,289,354,,1976
+WIN,Winnipeg Blue Bombers,10,6,0,0.625,384,316,Lost Division Semifinal,1976
+BCL,BC Lions,10,6,0,0.625,369,326,Lost Division Final,1977
+CAL,Calgary Stampeders,4,12,0,0.25,241,327,,1977
+EDM,Edmonton Eskimos,10,6,0,0.625,412,320,Lost Grey Cup,1977
+HAM,Hamilton Tiger-Cats,5,11,0,0.312,283,394,,1977
+MON,Montreal Alouettes,11,5,0,0.688,311,245,Won Grey Cup,1977
+OTT,Ottawa Rough Riders,8,8,0,0.5,368,344,Lost Division Final,1977
+SAK,Saskatchewan Roughriders,8,8,0,0.5,330,389,,1977
+TOR,Toronto Argonauts,6,10,0,0.375,251,266,Lost Division Semifinal,1977
+WIN,Winnipeg Blue Bombers,10,6,0,0.625,382,336,Lost Division Semifinal,1977
+BCL,BC Lions,7,7,2,0.5,359,308,,1978
+CAL,Calgary Stampeders,9,4,3,0.656,381,311,Lost Division Final,1978
+EDM,Edmonton Eskimos,10,4,2,0.688,452,301,Won Grey Cup,1978
+HAM,Hamilton Tiger-Cats,5,10,1,0.344,225,403,Lost Division Semifinal,1978
+MON,Montreal Alouettes,8,7,1,0.531,331,295,Lost Grey Cup,1978
+OTT,Ottawa Rough Riders,11,5,0,0.688,395,261,Lost Division Final,1978
+SAK,Saskatchewan Roughriders,4,11,1,0.281,330,459,,1978
+TOR,Toronto Argonauts,4,12,0,0.25,234,389,,1978
+WIN,Winnipeg Blue Bombers,9,7,0,0.562,371,351,Lost Division Semifinal,1978
+BCL,BC Lions,9,6,1,0.594,328,333,Lost Division Semifinal,1979
+CAL,Calgary Stampeders,12,4,0,0.75,382,278,Lost Division Final,1979
+EDM,Edmonton Eskimos,12,2,2,0.812,495,219,Won Grey Cup,1979
+HAM,Hamilton Tiger-Cats,6,10,0,0.375,280,338,Lost Division Semifinal,1979
+MON,Montreal Alouettes,11,4,1,0.719,351,284,Lost Grey Cup,1979
+OTT,Ottawa Rough Riders,8,6,2,0.562,349,315,Lost Division Final,1979
+SAK,Saskatchewan Roughriders,2,14,0,0.125,194,437,,1979
+TOR,Toronto Argonauts,5,11,0,0.312,234,352,,1979
+WIN,Winnipeg Blue Bombers,4,12,0,0.25,283,340,,1979
+BCL,BC Lions,8,7,1,0.531,381,351,,1980
+CAL,Calgary Stampeders,9,7,0,0.562,407,355,Lost Division Semifinal,1980
+EDM,Edmonton Eskimos,13,3,0,0.812,505,281,Won Grey Cup,1980
+HAM,Hamilton Tiger-Cats,8,7,1,0.531,332,377,Lost Grey Cup,1980
+MON,Montreal Alouettes,8,8,0,0.5,356,375,Lost Division Final,1980
+OTT,Ottawa Rough Riders,7,9,0,0.438,377,598,Lost Division Semifinal,1980
+SAK,Saskatchewan Roughriders,2,14,0,0.125,284,469,,1980
+TOR,Toronto Argonauts,6,10,0,0.375,484,427,,1980
+WIN,Winnipeg Blue Bombers,10,6,0,0.625,394,387,Lost Division Final,1980
+BCL,BC Lions,10,6,0,0.625,438,377,Lost Division Final,1981
+CAL,Calgary Stampeders,6,10,0,0.375,306,367,,1981
+EDM,Edmonton Eskimos,14,1,1,0.906,576,277,Won Grey Cup,1981
+HAM,Hamilton Tiger-Cats,11,4,1,0.719,414,335,Lost Division Final,1981
+MON,Montreal Alouettes,3,13,0,0.188,267,518,Lost Division Semifinal,1981
+OTT,Ottawa Rough Riders,5,11,0,0.312,278,618,Lost Grey Cup,1981
+SAK,Saskatchewan Roughriders,9,7,0,0.562,431,371,,1981
+TOR,Toronto Argonauts,2,14,0,0.125,571,326,,1981
+WIN,Winnipeg Blue Bombers,11,5,0,0.688,517,299,Lost Division Semifinal,1981
+BCL,BC Lions,9,7,0,0.562,449,390,,1982
+CAL,Calgary Stampeders,9,6,1,0.594,403,440,Lost Division Semifinal,1982
+EDM,Edmonton Eskimos,11,5,0,0.688,544,323,Won Grey Cup,1982
+HAM,Hamilton Tiger-Cats,8,7,1,0.531,396,401,Lost Division Semifinal,1982
+MON,Montreal Concordes,2,14,0,0.125,267,502,,1982
+OTT,Ottawa Rough Riders,5,11,0,0.312,426,630,Lost Division Final,1982
+SAK,Saskatchewan Roughriders,6,9,1,0.406,427,436,,1982
+TOR,Toronto Argonauts,9,6,1,0.594,369,428,Lost Grey Cup,1982
+WIN,Winnipeg Blue Bombers,11,5,0,0.688,444,352,Lost Division Final,1982
+BCL,BC Lions,11,5,0,0.688,477,326,Lost Grey Cup,1983
+CAL,Calgary Stampeders,8,8,0,0.5,425,378,,1983
+EDM,Edmonton Eskimos,8,8,0,0.5,450,377,Lost Division Semifinal,1983
+HAM,Hamilton Tiger-Cats,5,10,1,0.344,389,498,Lost Division Final,1983
+MON,Montreal Concordes,5,10,1,0.344,367,447,,1983
+OTT,Ottawa Rough Riders,8,8,0,0.5,353,393,Lost Division Semifinal,1983
+SAK,Saskatchewan Roughriders,5,11,0,0.312,360,536,,1983
+TOR,Toronto Argonauts,12,4,0,0.75,334,358,Won Grey Cup,1983
+WIN,Winnipeg Blue Bombers,9,7,0,0.562,412,402,Lost Division Final,1983
+BCL,BC Lions,12,3,1,0.781,445,281,Lost Division Final,1984
+CAL,Calgary Stampeders,6,10,0,0.375,314,425,,1984
+EDM,Edmonton Eskimos,9,7,0,0.562,464,443,Lost Division Semifinal,1984
+HAM,Hamilton Tiger-Cats,6,9,1,0.406,353,439,Lost Grey Cup,1984
+MON,Montreal Concordes,6,9,1,0.406,386,404,Lost Division Semifinal,1984
+OTT,Ottawa Rough Riders,4,12,0,0.25,306,446,,1984
+SAK,Saskatchewan Roughriders,6,9,1,0.406,348,479,,1984
+TOR,Toronto Argonauts,9,6,1,0.594,241,506,Lost Division Final,1984
+WIN,Winnipeg Blue Bombers,11,4,1,0.719,523,309,Won Grey Cup,1984
+BCL,BC Lions,13,3,0,0.812,481,297,Won Grey Cup,1985
+CAL,Calgary Stampeders,3,13,0,0.188,256,429,,1985
+EDM,Edmonton Eskimos,10,6,0,0.625,432,373,Lost Division Semifinal,1985
+HAM,Hamilton Tiger-Cats,8,8,0,0.5,377,315,Lost Grey Cup,1985
+MON,Montreal Concordes,8,8,0,0.5,284,332,Lost Division Final,1985
+OTT,Ottawa Rough Riders,7,9,0,0.438,376,462,Lost Division Semifinal,1985
+SAK,Saskatchewan Roughriders,5,11,0,0.312,320,462,,1985
+TOR,Toronto Argonauts,6,10,0,0.375,426,426,,1985
+WIN,Winnipeg Blue Bombers,12,4,0,0.75,500,259,Lost Division Final,1985
+BCL,BC Lions,12,6,0,0.667,441,410,Lost Division Final,1986
+CAL,Calgary Stampeders,11,7,0,0.611,484,380,Lost Division Semifinal,1986
+EDM,Edmonton Eskimos,13,4,1,0.75,540,365,Lost Grey Cup,1986
+HAM,Hamilton Tiger-Cats,9,8,1,0.528,405,366,Won Grey Cup,1986
+MON,Montreal Alouettes,4,14,0,0.222,320,500,,1986
+OTT,Ottawa Rough Riders,3,14,1,0.194,384,424,,1986
+SAK,Saskatchewan Roughriders,6,11,1,0.361,382,517,,1986
+TOR,Toronto Argonauts,10,8,0,0.556,452,328,Lost Division Final,1986
+WIN,Winnipeg Blue Bombers,11,7,0,0.611,545,387,Lost Division Semifinal,1986
+BCL,BC Lions,12,6,0,0.667,502,370,Lost Division Final,1987
+CAL,Calgary Stampeders,10,8,0,0.556,453,517,Lost Division Semifinal,1987
+EDM,Edmonton Eskimos,11,7,0,0.611,617,462,Won Grey Cup,1987
+HAM,Hamilton Tiger-Cats,7,11,0,0.389,470,509,Lost Division Semifinal,1987
+OTT,Ottawa Rough Riders,3,15,0,0.167,354,507,,1987
+SAK,Saskatchewan Roughriders,5,12,1,0.306,364,529,,1987
+TOR,Toronto Argonauts,11,6,1,0.639,461,361,Lost Grey Cup,1987
+WIN,Winnipeg Blue Bombers,12,6,0,0.667,554,409,Lost Division Final,1987
+BCL,BC Lions,10,8,0,0.556,489,417,Lost Grey Cup,1988
+CAL,Calgary Stampeders,6,12,0,0.333,395,476,,1988
+EDM,Edmonton Eskimos,11,7,0,0.611,477,408,Lost Division Final,1988
+HAM,Hamilton Tiger-Cats,9,9,0,0.5,478,465,Lost Division Semifinal,1988
+OTT,Ottawa Rough Riders,2,16,0,0.111,272,402,,1988
+SAK,Saskatchewan Roughriders,11,7,0,0.611,525,452,Lost Division Semifinal,1988
+TOR,Toronto Argonauts,14,4,0,0.778,344,397,Lost Division Final,1988
+WIN,Winnipeg Blue Bombers,9,9,0,0.5,407,458,Won Grey Cup,1988
+BCL,BC Lions,7,11,0,0.389,521,557,,1989
+CAL,Calgary Stampeders,10,8,0,0.556,495,466,Lost Division Semifinal,1989
+EDM,Edmonton Eskimos,16,2,0,0.889,644,302,Lost Division Final,1989
+HAM,Hamilton Tiger-Cats,12,6,0,0.667,519,517,Lost Grey Cup,1989
+OTT,Ottawa Rough Riders,4,14,0,0.222,346,514,,1989
+SAK,Saskatchewan Roughriders,9,9,0,0.5,547,567,Won Grey Cup,1989
+TOR,Toronto Argonauts,7,11,0,0.389,417,441,Lost Division Semifinal,1989
+WIN,Winnipeg Blue Bombers,7,11,0,0.389,408,462,Lost Division Final,1989
+BCL,BC Lions,6,11,1,0.361,520,620,,1990
+CAL,Calgary Stampeders,11,6,1,0.639,588,566,Lost Division Final,1990
+EDM,Edmonton Eskimos,10,8,0,0.556,612,510,Lost Grey Cup,1990
+HAM,Hamilton Tiger-Cats,6,12,0,0.333,476,628,,1990
+OTT,Ottawa Rough Riders,7,11,0,0.389,540,602,Lost Division Semifinal,1990
+SAK,Saskatchewan Roughriders,9,9,0,0.5,557,592,Lost Division Semifinal,1990
+TOR,Toronto Argonauts,10,8,0,0.556,689,538,Lost Division Final,1990
+WIN,Winnipeg Blue Bombers,12,6,0,0.667,472,398,Won Grey Cup,1990
+BCL,BC Lions,11,7,0,0.611,661,587,Lost Division Semifinal,1991
+CAL,Calgary Stampeders,11,7,0,0.611,596,552,Lost Grey Cup,1991
+EDM,Edmonton Eskimos,12,6,0,0.667,671,569,Lost Division Final,1991
+HAM,Hamilton Tiger-Cats,3,15,0,0.167,400,599,,1991
+OTT,Ottawa Rough Riders,7,11,0,0.389,522,577,Lost Division Semifinal,1991
+SAK,Saskatchewan Roughriders,6,12,0,0.333,606,710,,1991
+TOR,Toronto Argonauts,13,5,0,0.722,647,526,Won Grey Cup,1991
+WIN,Winnipeg Blue Bombers,9,9,0,0.5,516,499,Lost Division Final,1991
+BCL,BC Lions,3,15,0,0.167,472,667,,1992
+CAL,Calgary Stampeders,13,5,0,0.722,607,430,Won Grey Cup,1992
+EDM,Edmonton Eskimos,10,8,0,0.556,552,515,Lost Division Final,1992
+HAM,Hamilton Tiger-Cats,11,7,0,0.611,536,514,Lost Division Final,1992
+OTT,Ottawa Rough Riders,9,9,0,0.5,484,439,Lost Division Semifinal,1992
+SAK,Saskatchewan Roughriders,9,9,0,0.5,505,545,Lost Division Semifinal,1992
+TOR,Toronto Argonauts,6,12,0,0.333,469,523,,1992
+WIN,Winnipeg Blue Bombers,11,7,0,0.611,507,499,Lost Grey Cup,1992
+BCL,BC Lions,10,8,0,0.556,574,583,Lost Division Semifinal,1993
+CAL,Calgary Stampeders,15,3,0,0.833,646,418,Lost Division Final,1993
+EDM,Edmonton Eskimos,12,6,0,0.667,507,372,Won Grey Cup,1993
+HAM,Hamilton Tiger-Cats,6,12,0,0.333,316,567,Lost Division Final,1993
+OTT,Ottawa Rough Riders,4,14,0,0.222,387,517,Lost Division Semifinal,1993
+SGM,Sacramento Gold Miners,6,12,0,0.333,498,509,,1993
+SAK,Saskatchewan Roughriders,11,7,0,0.611,511,495,Lost Division Semifinal,1993
+TOR,Toronto Argonauts,3,15,0,0.167,390,593,,1993
+WIN,Winnipeg Blue Bombers,14,4,0,0.778,646,421,Lost Grey Cup,1993
+BAL,Baltimore CFLs,12,6,0,0.667,561,431,Lost Grey Cup,1994
+BCL,BC Lions,11,6,1,0.639,604,456,Won Grey Cup,1994
+CAL,Calgary Stampeders,15,3,0,0.833,698,355,Lost Division Final,1994
+EDM,Edmonton Eskimos,13,5,0,0.722,518,401,Lost Division Semifinal,1994
+HAM,Hamilton Tiger-Cats,4,14,0,0.222,427,509,,1994
+LVP,Las Vegas Posse,5,13,0,0.278,447,622,,1994
+OTT,Ottawa Rough Riders,4,14,0,0.222,348,685,Lost Division Semifinal,1994
+SGM,Sacramento Gold Miners,9,8,1,0.528,436,436,,1994
+SAK,Saskatchewan Roughriders,11,7,0,0.611,512,454,Lost Division Semifinal,1994
+SPP,Shreveport Pirates,3,15,0,0.167,330,662,,1994
+TOR,Toronto Argonauts,7,11,0,0.389,376,519,Lost Division Semifinal,1994
+WIN,Winnipeg Blue Bombers,13,5,0,0.722,404,653,Lost Division Final,1994
+BAL,Baltimore CFLs,15,3,0,0.833,541,369,Won Grey Cup,1995
+BCL,BC Lions,10,8,0,0.556,535,470,Lost Division Semifinal,1995
+BHB,Birmingham Barracudas,10,8,0,0.556,548,518,Lost Division Semifinal,1995
+CAL,Calgary Stampeders,15,3,0,0.833,631,404,Lost Grey Cup,1995
+EDM,Edmonton Eskimos,13,5,0,0.722,599,359,Lost Division Final,1995
+HAM,Hamilton Tiger-Cats,8,10,0,0.444,435,562,Lost Division Semifinal,1995
+MMD,Memphis Mad Dogs,9,9,0,0.5,346,364,,1995
+OTT,Ottawa Rough Riders,3,15,0,0.167,480,647,,1995
+SAT,San Antonio Texans,12,6,0,0.667,630,457,Lost Division Final,1995
+SAK,Saskatchewan Roughriders,6,12,0,0.333,422,451,,1995
+SPP,Shreveport Pirates,5,13,0,0.278,465,514,,1995
+TOR,Toronto Argonauts,4,14,0,0.222,504,578,,1995
+WIN,Winnipeg Blue Bombers,7,11,0,0.389,651,572,Lost Division Semifinal,1995
+BCL,BC Lions,5,13,0,0.278,410,486,,1996
+CAL,Calgary Stampeders,13,5,0,0.722,608,365,Lost Division Final,1996
+EDM,Edmonton Eskimos,11,7,0,0.611,459,354,Lost Grey Cup,1996
+HAM,Hamilton Tiger-Cats,8,10,0,0.444,426,576,Lost Division Semifinal,1996
+MON,Montreal Alouettes,12,6,0,0.667,534,469,Lost Division Final,1996
+OTT,Ottawa Rough Riders,3,15,0,0.167,353,524,,1996
+SAK,Saskatchewan Roughriders,5,13,0,0.278,360,498,,1996
+TOR,Toronto Argonauts,15,3,0,0.833,660,327,Won Grey Cup,1996
+WIN,Winnipeg Blue Bombers,9,9,0,0.5,421,496,Lost Division Semifinal,1996
+BCL,BC Lions,8,10,0,0.444,429,536,Lost Division Semifinal,1997
+CAL,Calgary Stampeders,10,8,0,0.556,519,443,Lost Division Semifinal,1997
+EDM,Edmonton Eskimos,12,6,0,0.667,479,400,Lost Division Final,1997
+HAM,Hamilton Tiger-Cats,2,16,0,0.111,362,549,,1997
+MON,Montreal Alouettes,13,5,0,0.722,509,532,Lost Division Final,1997
+SAK,Saskatchewan Roughriders,8,10,0,0.444,413,479,Lost Grey Cup,1997
+TOR,Toronto Argonauts,15,3,0,0.833,452,410,Won Grey Cup,1997
+WIN,Winnipeg Blue Bombers,4,14,0,0.222,443,548,,1997
+BCL,BC Lions,9,9,0,0.5,394,427,Lost Division Semifinal,1998
+CAL,Calgary Stampeders,12,6,0,0.667,558,397,Won Grey Cup,1998
+EDM,Edmonton Eskimos,9,9,0,0.5,396,450,Lost Division Final,1998
+HAM,Hamilton Tiger-Cats,12,5,1,0.694,503,351,Lost Grey Cup,1998
+MON,Montreal Alouettes,12,5,1,0.694,470,435,Lost Division Final,1998
+SAK,Saskatchewan Roughriders,5,13,0,0.278,411,525,,1998
+TOR,Toronto Argonauts,9,9,0,0.5,386,373,Lost Division Semifinal,1998
+WIN,Winnipeg Blue Bombers,3,15,0,0.167,399,588,,1998
+BCL,BC Lions,13,5,0,0.722,429,373,Lost Division Final,1999
+CAL,Calgary Stampeders,12,6,0,0.667,503,393,Lost Grey Cup,1999
+EDM,Edmonton Eskimos,6,12,0,0.333,459,502,Lost Division Semifinal,1999
+HAM,Hamilton Tiger-Cats,11,7,0,0.611,603,378,Won Grey Cup,1999
+MON,Montreal Alouettes,12,6,0,0.667,495,395,Lost Division Final,1999
+SAK,Saskatchewan Roughriders,3,15,0,0.167,370,592,,1999
+TOR,Toronto Argonauts,9,9,0,0.5,556,359,Lost Division Semifinal,1999
+WIN,Winnipeg Blue Bombers,6,12,0,0.333,362,601,,1999
+BCL,BC Lions,8,10,0,0.444,513,529,Won Grey Cup,2000
+CAL,Calgary Stampeders,12,5,1,0.694,604,495,Lost Division Final,2000
+EDM,Edmonton Eskimos,10,8,0,0.556,527,520,Lost Division Semifinal,2000
+HAM,Hamilton Tiger-Cats,9,9,0,0.5,470,446,Lost Division Semifinal,2000
+MON,Montreal Alouettes,12,6,0,0.667,594,379,Lost Grey Cup,2000
+SAK,Saskatchewan Roughriders,5,12,1,0.306,516,626,,2000
+TOR,Toronto Argonauts,7,10,1,0.417,390,562,,2000
+WIN,Winnipeg Blue Bombers,7,10,1,0.417,539,596,Lost Division Final,2000
+BCL,BC Lions,8,10,0,0.444,417,445,Lost Division Semifinal,2001
+CAL,Calgary Stampeders,8,10,0,0.444,478,476,Won Grey Cup,2001
+EDM,Edmonton Eskimos,9,9,0,0.5,439,463,Lost Division Final,2001
+HAM,Hamilton Tiger-Cats,11,7,0,0.611,440,420,Lost Division Final,2001
+MON,Montreal Alouettes,9,9,0,0.5,454,419,Lost Division Semifinal,2001
+SAK,Saskatchewan Roughriders,6,12,0,0.333,308,416,,2001
+TOR,Toronto Argonauts,7,11,0,0.389,432,455,,2001
+WIN,Winnipeg Blue Bombers,14,4,0,0.778,509,383,Lost Grey Cup,2001
+BCL,BC Lions,10,8,0,0.556,480,399,Lost Division Semifinal,2002
+CAL,Calgary Stampeders,6,12,0,0.333,438,512,,2002
+EDM,Edmonton Eskimos,13,5,0,0.722,516,450,Lost Grey Cup,2002
+HAM,Hamilton Tiger-Cats,7,11,0,0.389,427,524,,2002
+MON,Montreal Alouettes,13,5,0,0.722,577,408,Won Grey Cup,2002
+OTT,Ottawa Renegades,4,14,0,0.222,356,550,,2002
+SAK,Saskatchewan Roughriders,8,10,0,0.444,435,393,Lost Division Semifinal,2002
+TOR,Toronto Argonauts,8,10,0,0.444,359,343,Lost Division Final,2002
+WIN,Winnipeg Blue Bombers,12,6,0,0.667,362,408,Lost Division Final,2002
+BCL,BC Lions,11,7,0,0.611,531,430,Lost Division Semifinal,2003
+CAL,Calgary Stampeders,5,13,0,0.278,323,502,,2003
+EDM,Edmonton Eskimos,13,5,0,0.722,569,414,Won Grey Cup,2003
+HAM,Hamilton Tiger-Cats,1,17,0,0.056,293,583,,2003
+MON,Montreal Alouettes,13,5,0,0.722,562,409,Lost Grey Cup,2003
+OTT,Ottawa Renegades,7,11,0,0.389,467,581,,2003
+SAK,Saskatchewan Roughriders,11,7,0,0.611,535,430,Lost Division Final,2003
+TOR,Toronto Argonauts,9,9,0,0.5,440,336,Lost Division Final,2003
+WIN,Winnipeg Blue Bombers,11,7,0,0.611,439,404,Lost Division Semifinal,2003
+BCL,BC Lions,13,5,0,0.722,584,436,Lost Grey Cup,2004
+CAL,Calgary Stampeders,4,14,0,0.222,396,552,,2004
+EDM,Edmonton Eskimos,9,9,0,0.5,532,472,Lost Division Semifinal,2004
+HAM,Hamilton Tiger-Cats,9,8,1,0.528,455,542,Lost Division Semifinal,2004
+MON,Montreal Alouettes,14,4,0,0.778,584,371,Lost Division Final,2004
+OTT,Ottawa Renegades,5,13,0,0.278,401,560,,2004
+SAK,Saskatchewan Roughriders,9,9,0,0.5,476,444,Lost Division Final,2004
+TOR,Toronto Argonauts,10,7,1,0.583,397,627,Won Grey Cup,2004
+WIN,Winnipeg Blue Bombers,7,11,0,0.389,435,490,,2004
+BCL,BC Lions,12,6,0,0.667,550,444,Lost Division Final,2005
+CAL,Calgary Stampeders,11,7,0,0.611,529,443,Lost Division Semifinal,2005
+EDM,Edmonton Eskimos,11,7,0,0.611,453,421,Won Grey Cup,2005
+HAM,Hamilton Tiger-Cats,5,13,0,0.278,383,583,,2005
+MON,Montreal Alouettes,10,8,0,0.556,592,519,Lost Grey Cup,2005
+OTT,Ottawa Renegades,7,11,0,0.389,458,578,,2005
+SAK,Saskatchewan Roughriders,9,9,0,0.5,441,433,Lost Division Semifinal,2005
+TOR,Toronto Argonauts,11,7,0,0.611,328,502,Lost Division Final,2005
+WIN,Winnipeg Blue Bombers,5,13,0,0.278,386,506,,2005
+BCL,BC Lions,13,5,0,0.722,555,355,Won Grey Cup,2006
+CAL,Calgary Stampeders,10,8,0,0.556,477,426,Lost Division Semifinal,2006
+EDM,Edmonton Eskimos,7,11,0,0.389,399,468,,2006
+HAM,Hamilton Tiger-Cats,4,14,0,0.222,292,495,,2006
+MON,Montreal Alouettes,10,8,0,0.556,451,431,Lost Grey Cup,2006
+SAK,Saskatchewan Roughriders,9,9,0,0.5,465,434,Lost Division Final,2006
+TOR,Toronto Argonauts,10,8,0,0.556,344,482,Lost Division Final,2006
+WIN,Winnipeg Blue Bombers,9,9,0,0.5,566,421,Lost Division Semifinal,2006
+BCL,BC Lions,14,3,1,0.806,542,379,Lost Division Final,2007
+CAL,Calgary Stampeders,7,10,1,0.417,473,527,Lost Division Semifinal,2007
+EDM,Edmonton Eskimos,5,12,1,0.306,400,509,,2007
+HAM,Hamilton Tiger-Cats,3,15,0,0.167,315,515,,2007
+MON,Montreal Alouettes,8,10,0,0.444,398,433,Lost Division Semifinal,2007
+SAK,Saskatchewan Roughriders,12,6,0,0.667,530,434,Won Grey Cup,2007
+TOR,Toronto Argonauts,11,7,0,0.611,473,433,Lost Division Final,2007
+WIN,Winnipeg Blue Bombers,10,7,1,0.583,514,485,Lost Grey Cup,2007
+BCL,BC Lions,11,7,0,0.611,559,479,Lost Division Final,2008
+CAL,Calgary Stampeders,13,5,0,0.722,595,420,Won Grey Cup,2008
+EDM,Edmonton Eskimos,10,8,0,0.556,512,526,Lost Division Final,2008
+HAM,Hamilton Tiger-Cats,3,15,0,0.167,441,593,,2008
+MON,Montreal Alouettes,11,7,0,0.611,610,443,Lost Grey Cup,2008
+SAK,Saskatchewan Roughriders,12,6,0,0.667,500,471,Lost Division Semifinal,2008
+TOR,Toronto Argonauts,4,14,0,0.222,422,414,,2008
+WIN,Winnipeg Blue Bombers,8,10,0,0.444,448,507,Lost Division Semifinal,2008
+BCL,BC Lions,8,10,0,0.444,431,502,Lost Division Final,2009
+CAL,Calgary Stampeders,10,7,1,0.583,514,443,Lost Division Final,2009
+EDM,Edmonton Eskimos,9,9,0,0.5,469,502,Lost Division Semifinal,2009
+HAM,Hamilton Tiger-Cats,9,9,0,0.5,449,428,Lost Division Semifinal,2009
+MON,Montreal Alouettes,15,3,0,0.833,600,324,Won Grey Cup,2009
+SAK,Saskatchewan Roughriders,10,7,1,0.583,514,484,Lost Grey Cup,2009
+TOR,Toronto Argonauts,3,15,0,0.167,486,387,,2009
+WIN,Winnipeg Blue Bombers,7,11,0,0.389,474,558,,2009
+BCL,BC Lions,8,10,0,0.444,466,466,Lost Division Semifinal,2010
+CAL,Calgary Stampeders,13,5,0,0.722,626,459,Lost Division Final,2010
+EDM,Edmonton Eskimos,8,10,0,0.444,382,545,,2010
+HAM,Hamilton Tiger-Cats,9,9,0,0.5,481,450,Lost Division Semifinal,2010
+MON,Montreal Alouettes,12,6,0,0.667,521,475,Won Grey Cup,2010
+SAK,Saskatchewan Roughriders,10,8,0,0.556,497,488,Lost Grey Cup,2010
+TOR,Toronto Argonauts,9,9,0,0.5,373,442,Lost Division Final,2010
+WIN,Winnipeg Blue Bombers,4,14,0,0.222,464,485,,2010
+BCL,BC Lions,11,7,0,0.611,511,385,Won Grey Cup,2011
+CAL,Calgary Stampeders,11,7,0,0.611,511,476,Lost Division Semifinal,2011
+EDM,Edmonton Eskimos,11,7,0,0.611,427,401,Lost Division Final,2011
+HAM,Hamilton Tiger-Cats,8,10,0,0.444,481,478,Lost Division Final,2011
+MON,Montreal Alouettes,10,8,0,0.556,515,468,Lost Division Semifinal,2011
+SAK,Saskatchewan Roughriders,5,13,0,0.278,346,482,,2011
+TOR,Toronto Argonauts,6,12,0,0.333,397,498,,2011
+WIN,Winnipeg Blue Bombers,10,8,0,0.556,432,432,Lost Grey Cup,2011
+BCL,BC Lions,13,5,0,0.722,479,354,Lost Division Final,2012
+CAL,Calgary Stampeders,12,6,0,0.667,535,430,Lost Grey Cup,2012
+EDM,Edmonton Eskimos,7,11,0,0.389,422,450,Lost Division Semifinal,2012
+HAM,Hamilton Tiger-Cats,6,12,0,0.333,538,576,,2012
+MON,Montreal Alouettes,11,7,0,0.611,478,489,Lost Division Final,2012
+SAK,Saskatchewan Roughriders,8,10,0,0.444,457,409,Lost Division Semifinal,2012
+TOR,Toronto Argonauts,9,9,0,0.5,445,491,Won Grey Cup,2012
+WIN,Winnipeg Blue Bombers,6,12,0,0.333,376,531,,2012
+BCL,BC Lions,11,7,0,0.611,504,461,Lost Division Final,2013
+CAL,Calgary Stampeders,14,4,0,0.778,549,413,Lost Division Semifinal,2013
+EDM,Edmonton Eskimos,4,14,0,0.222,421,519,,2013
+HAM,Hamilton Tiger-Cats,10,8,0,0.556,453,468,Lost Grey Cup,2013
+MON,Montreal Alouettes,8,10,0,0.444,459,471,Lost Division Final,2013
+SAK,Saskatchewan Roughriders,11,7,0,0.611,519,398,Won Grey Cup,2013
+TOR,Toronto Argonauts,11,7,0,0.611,507,458,Lost Division Semifinal,2013
+WIN,Winnipeg Blue Bombers,3,15,0,0.167,361,585,,2013
+BCL,BC Lions,9,9,0,0.5,380,365,Lost Division Semifinal,2014
+CAL,Calgary Stampeders,15,3,0,0.833,511,347,Won Grey Cup,2014
+EDM,Edmonton Eskimos,12,6,0,0.667,492,340,Lost Division Final,2014
+HAM,Hamilton Tiger-Cats,9,9,0,0.5,417,395,Lost Grey Cup,2014
+MON,Montreal Alouettes,9,9,0,0.5,360,394,Lost Division Final,2014
+OTT,Ottawa RedBlacks,2,16,0,0.111,278,465,,2014
+SAK,Saskatchewan Roughriders,10,8,0,0.556,399,441,Lost Division Semifinal,2014
+TOR,Toronto Argonauts,8,10,0,0.444,450,456,,2014
+WIN,Winnipeg Blue Bombers,7,11,0,0.389,397,481,,2014
+BCL,BC Lions,7,11,0,0.389,437,486,Lost Division Semifinal,2015
+CAL,Calgary Stampeders,14,4,0,0.778,476,346,Lost Division Final,2015
+EDM,Edmonton Eskimos,14,4,0,0.778,466,341,Won Grey Cup,2015
+HAM,Hamilton Tiger-Cats,10,8,0,0.556,530,391,Lost Division Final,2015
+MON,Montreal Alouettes,6,12,0,0.333,389,402,,2015
+OTT,Ottawa RedBlacks,12,6,0,0.667,464,455,Lost Grey Cup,2015
+SAK,Saskatchewan Roughriders,3,15,0,0.167,430,561,,2015
+TOR,Toronto Argonauts,10,8,0,0.556,438,499,Lost Division Semifinal,2015
+WIN,Winnipeg Blue Bombers,5,13,0,0.278,353,502,,2015
+BCL,BC Lions,12,6,0,0.667,545,454,Lost Division Final,2016
+CAL,Calgary Stampeders,15,2,1,0.861,586,369,Lost Grey Cup,2016
+EDM,Edmonton Eskimos,10,8,0,0.556,549,496,Lost Division Final,2016
+HAM,Hamilton Tiger-Cats,7,11,0,0.389,507,502,Lost Division Semifinal,2016
+MON,Montreal Alouettes,7,11,0,0.389,383,415,,2016
+OTT,Ottawa RedBlacks,8,9,1,0.472,486,498,Won Grey Cup,2016
+SAK,Saskatchewan Roughriders,5,13,0,0.278,350,530,,2016
+TOR,Toronto Argonauts,5,13,0,0.278,383,568,,2016
+WIN,Winnipeg Blue Bombers,11,7,0,0.611,497,454,Lost Division Semifinal,2016
+BCL,BC Lions,7,11,0,0.389,469,501,,2017
+CAL,Calgary Stampeders,13,4,1,0.75,523,349,Lost Grey Cup,2017
+EDM,Edmonton Eskimos,12,6,0,0.667,510,495,Lost Division Final,2017
+HAM,Hamilton Tiger-Cats,6,12,0,0.333,443,545,,2017
+MON,Montreal Alouettes,3,15,0,0.167,314,580,,2017
+OTT,Ottawa RedBlacks,8,9,1,0.472,495,452,Lost Division Semifinal,2017
+SAK,Saskatchewan Roughriders,10,8,0,0.556,510,430,Lost Division Final,2017
+TOR,Toronto Argonauts,9,9,0,0.5,482,456,Won Grey Cup,2017
+WIN,Winnipeg Blue Bombers,12,6,0,0.667,554,492,Lost Division Semifinal,2017
+BCL,BC Lions,9,9,0,0.5,423,473,Lost Division Semifinal,2018
+CAL,Calgary Stampeders,13,5,0,0.722,522,363,Won Grey Cup,2018
+EDM,Edmonton Eskimos,9,9,0,0.5,482,471,,2018
+HAM,Hamilton Tiger-Cats,8,10,0,0.444,513,456,Lost Division Final,2018
+MON,Montreal Alouettes,5,13,0,0.278,345,512,,2018
+OTT,Ottawa RedBlacks,11,7,0,0.611,464,420,Lost Grey Cup,2018
+SAK,Saskatchewan Roughriders,12,6,0,0.667,450,444,Lost Division Semifinal,2018
+TOR,Toronto Argonauts,4,14,0,0.222,369,560,,2018
+WIN,Winnipeg Blue Bombers,10,8,0,0.556,550,419,Lost Division Final,2018
+BCL,BC Lions,5,13,0,0.278,411,452,,2019
+CAL,Calgary Stampeders,12,6,0,0.667,482,407,Lost Division Semifinal,2019
+EDM,Edmonton Eskimos,8,10,0,0.444,406,400,Lost Division Final,2019
+HAM,Hamilton Tiger-Cats,15,3,0,0.833,551,344,Lost Grey Cup,2019
+MON,Montreal Alouettes,10,8,0,0.556,479,485,Lost Division Semifinal,2019
+OTT,Ottawa RedBlacks,3,15,0,0.167,312,564,,2019
+SAK,Saskatchewan Roughriders,13,5,0,0.722,487,386,Lost Division Final,2019
+TOR,Toronto Argonauts,4,14,0,0.222,373,562,,2019
+WIN,Winnipeg Blue Bombers,11,7,0,0.611,508,409,Won Grey Cup,2019
+BCL,BC Lions,5,9,0,0.357,312,351,,2021
+CAL,Calgary Stampeders,8,6,0,0.571,315,263,Lost Division Semifinal,2021
+EDM,Edmonton Elks,3,11,0,0.214,246,378,,2021
+HAM,Hamilton Tiger-Cats,8,6,0,0.571,312,244,Lost Grey Cup,2021
+MON,Montreal Alouettes,7,7,0,0.5,346,305,Lost Division Semifinal,2021
+OTT,Ottawa RedBlacks,3,11,0,0.214,224,384,,2021
+SAK,Saskatchewan Roughriders,9,5,0,0.643,290,284,Lost Division Final,2021
+TOR,Toronto Argonauts,9,5,0,0.643,309,318,Lost Division Final,2021
+WIN,Winnipeg Blue Bombers,11,3,0,0.786,361,188,Won Grey Cup,2021

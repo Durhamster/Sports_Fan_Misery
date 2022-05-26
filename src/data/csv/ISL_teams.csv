@@ -1,0 +1,77 @@
+yearID,teamID,franchID,name,Rank,W,D,L,Playoffs,Cwin,CRU
+2014,ATK,ATK,Atletico de Kolkata,3,4,7,3,Y,Y,N
+2014,CHE,CHE,Chennaiyin FC,1,6,5,3,Y,N,N
+2014,DEL,DEL,Delhi Dynamos,5,4,6,4,N,N,N
+2014,GOA,GOA,FC Goa,2,6,5,4,Y,N,N
+2014,KER,KER,Kerala Blasters FC,4,5,4,5,Y,N,Y
+2014,MBC,MBC,Mumbai City FC,7,4,4,6,N,N,N
+2014,NEU,NEU,NorthEast United FC,8,3,6,5,N,N,N
+2014,PUN,PUN,FC Pune City,6,4,4,6,N,N,N
+2015,ATK,ATK,Atletico de Kolkata,2,7,2,5,Y,N,N
+2015,CHE,CHE,Chennaiyin FC,3,7,1,6,Y,Y,N
+2015,DEL,DEL,Delhi Dynamos,4,6,4,4,Y,N,N
+2015,GOA,GOA,FC Goa,1,7,4,3,Y,N,Y
+2015,KER,KER,Kerala Blasters FC,8,3,4,7,N,N,N
+2015,MBC,MBC,Mumbai City FC,6,4,4,6,N,N,N
+2015,NEU,NEU,NorthEast United FC,5,6,2,6,N,N,N
+2015,PUN,PUN,FC Pune City,7,3,4,7,N,N,N
+2016,ATK,ATK,Atletico de Kolkata,4,4,8,2,Y,Y,N
+2016,CHE,CHE,Chennaiyin FC,7,3,6,5,N,N,N
+2016,DEL,DEL,Delhi Dynamos,3,5,6,3,Y,N,N
+2016,GOA,GOA,FC Goa,8,4,2,8,N,N,N
+2016,KER,KER,Kerala Blasters FC,2,6,4,4,Y,N,Y
+2016,MBC,MBC,Mumbai City FC,1,6,5,3,Y,N,N
+2016,NEU,NEU,NorthEast United FC,5,5,3,6,N,N,N
+2016,PUN,PUN,FC Pune City,6,4,4,6,N,N,N
+2017,ATK,ATK,Atletico de Kolkata,9,4,4,10,N,N,N
+2017,BFC,BFC,Bengaluru FC,2,9,5,4,Y,N,Y
+2017,CHE,CHE,Chennaiyin FC,2,9,5,4,Y,Y,N
+2017,DEL,DEL,Delhi Dynamos,8,5,4,9,N,N,N
+2017,GOA,GOA,FC Goa,3,9,3,6,Y,N,N
+2017,JAM,JAM,Jamshedpur FC,5,7,5,6,N,N,N
+2017,KER,KER,Kerala Blasters FC,6,6,7,5,N,N,N
+2017,MBC,MBC,Mumbai City FC,7,7,2,9,N,N,N
+2017,NEU,NEU,NorthEast United FC,10,3,2,13,N,N,N
+2017,PUN,PUN,FC Pune City,4,9,3,6,Y,N,N
+2018,ATK,ATK,Atletico de Kolkata,6,6,6,6,N,N,N
+2018,BFC,BFC,Bengaluru FC,1,10,4,4,Y,Y,N
+2018,CHE,CHE,Chennaiyin FC,10,2,3,13,N,N,N
+2018,DEL,DEL,Delhi Dynamos,8,4,6,8,N,N,N
+2018,GOA,GOA,FC Goa,2,10,4,4,Y,N,Y
+2018,JAM,JAM,Jamshedpur FC,5,6,9,3,N,N,N
+2018,KER,KER,Kerala Blasters FC,9,2,9,7,N,N,N
+2018,MBC,MBC,Mumbai City FC,3,9,3,6,Y,N,N
+2018,NEU,NEU,NorthEast United FC,4,7,8,3,Y,N,N
+2018,PUN,PUN,FC Pune City,7,6,4,8,N,N,N
+2019,ATK,ATK,Atletico de Kolkata,2,10,4,4,Y,Y,N
+2019,BFC,BFC,Bengaluru FC,3,8,6,4,Y,N,N
+2019,CHE,CHE,Chennaiyin FC,4,8,5,5,Y,N,Y
+2019,GOA,GOA,FC Goa,1,12,3,3,Y,N,N
+2019,HYD,HYD,Hyderabad FC,10,2,4,12,N,N,N
+2019,JAM,JAM,Jamshedpur FC,8,4,6,8,N,N,N
+2019,KER,KER,Kerala Blasters FC,7,4,7,7,N,N,N
+2019,MBC,MBC,Mumbai City FC,5,7,5,6,N,N,N
+2019,NEU,NEU,NorthEast United FC,9,2,8,8,N,N,N
+2019,DEL,DEL,Odisha FC,6,7,4,7,N,N,N
+2020,ATK,ATK,ATK Mohun Bagan,2,12,4,4,Y,N,Y
+2020,BFC,BFC,Bengaluru FC,7,5,7,8,N,N,N
+2020,CHE,CHE,Chennaiyin FC,8,3,11,6,N,N,N
+2020,EBG,EGE,East Bengal Club,9,3,8,9,N,N,N
+2020,GOA,GOA,FC Goa,4,7,10,3,Y,N,N
+2020,HYD,HYD,Hyderabad FC,5,6,11,3,N,N,N
+2020,JAM,JAM,Jamshedpur FC,6,7,6,7,N,N,N
+2020,KER,KER,Kerala Blasters FC,10,3,8,9,N,N,N
+2020,MBC,MBC,Mumbai City FC,1,12,4,4,Y,Y,N
+2020,NEU,NEU,NorthEast United FC,3,8,9,3,Y,N,N
+2020,DEL,DEL,Odisha FC,11,2,6,12,N,N,N
+2021,ATK,ATK,ATK Mohun Bagan,3,10,7,3,Y,N,N
+2021,BFC,BFC,Bengaluru FC,6,8,5,7,N,N,N
+2021,CHE,CHE,Chennaiyin FC,8,5,5,10,N,N,N
+2021,EBG,EGE,East Bengal Club,11,1,8,11,N,N,N
+2021,GOA,GOA,FC Goa,8,4,7,9,N,N,N
+2021,HYD,HYD,Hyderabad FC,2,11,5,4,Y,Y,N
+2021,JAM,JAM,Jamshedpur FC,1,13,4,3,Y,N,N
+2021,KER,KER,Kerala Blasters FC,4,9,7,4,Y,N,Y
+2021,MBC,MBC,Mumbai City FC,5,9,4,7,N,N,N
+2021,NEU,NEU,NorthEast United FC,10,3,5,12,N,N,N
+2021,DEL,DEL,Odisha FC,7,6,5,9,N,N,N

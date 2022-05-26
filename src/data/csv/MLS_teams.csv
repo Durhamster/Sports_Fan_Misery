@@ -1,0 +1,418 @@
+yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_win,supporters_shield
+2021,ATL,Atlanta United FC,34,13,12,9,,45,37,8,51,,Y,N,N,N
+2021,AUT,Austin FC,34,9,9,21,,35,56,-21,31,,N,N,N,N
+2021,MON,CF Montreal,34,12,10,12,,46,44,2,46,,N,N,N,N
+2021,CHI,Chicago Fire FC,34,9,7,18,,36,54,-18,34,,N,N,N,N
+2021,COL,Colorado Rapids,34,17,10,7,,51,35,16,61,,Y,N,N,N
+2021,CLM,Columbus Crew,34,13,8,13,,46,45,1,47,,N,N,N,N
+2021,DCU,D.C. United,34,14,5,15,,56,54,2,47,,N,N,N,N
+2021,CIN,FC Cincinnati,34,4,8,22,,37,74,-37,20,,N,N,N,N
+2021,DAL,FC Dallas,34,7,12,15,,47,56,-9,33,,N,N,N,N
+2021,HOU,Houston Dynamo FC,34,6,12,16,,36,54,-18,30,,N,N,N,N
+2021,MIA,Inter Miami CF,34,12,5,17,,36,53,-17,41,,N,N,N,N
+2021,LAG,LA Galaxy,34,13,9,12,,50,54,-4,48,,N,N,N,N
+2021,LAF,Los Angeles FC,34,12,9,13,,53,51,2,45,,N,N,N,N
+2021,MIN,Minnesota United FC,34,13,10,11,,42,44,-2,49,,Y,N,N,N
+2021,NAS,Nashville SC,34,12,18,4,,55,33,22,54,,Y,N,N,N
+2021,NER,New England Revolution,34,22,7,5,,65,41,24,73,,Y,N,N,Y
+2021,NYF,New York City FC,34,14,9,11,,56,36,20,51,,Y,Y,Y,N
+2021,NYB,New York Red Bulls,34,13,9,12,,39,33,6,48,,Y,N,N,N
+2021,ORC,Orlando City SC,34,13,12,9,,50,48,2,51,,Y,N,N,N
+2021,PHI,Philadelphia Union,34,14,8,12,,58,40,18,58,,Y,N,N,N
+2021,POR,Portland Timbers,34,14,12,8,,56,52,4,55,,Y,Y,N,N
+2021,RSL,Real Salt Lake,34,14,6,14,,55,54,1,48,,Y,N,N,N
+2021,SJE,San Jose Earthquakes,34,10,11,13,,46,54,-8,41,,N,N,N,N
+2021,SEA,Seattle Sounders FC,34,17,9,8,,53,33,20,60,Qualification for the CONCACAF Champions League[a],Y,N,N,N
+2021,SKC,Sporting Kansas City,34,17,7,10,,58,40,18,58,,Y,N,N,N
+2021,TOR,Toronto FC,34,6,10,18,,39,66,-27,28,,N,N,N,N
+2021,VAN,Vancouver Whitecaps FC,34,12,13,9,,45,45,0,49,,N,N,N,N
+2020,ATL,Atlanta United FC,23,6,4,13,,23,30,-7,22,2021 CONCACAF Champions League[e],N,N,N,N
+2020,CHI,Chicago Fire FC,23,5,8,10,,33,39,-6,23,,N,N,N,N
+2020,COL,Colorado Rapids,18,8,4,6,,32,28,4,28,,N,N,N,N
+2020,DCU,D.C. United,23,5,6,12,,25,41,-16,21,,N,N,N,N
+2020,CIN,FC Cincinnati,23,4,4,15,,12,36,-24,16,,N,N,N,N
+2020,DAL,FC Dallas,22,9,7,6,,28,24,4,34,,N,N,N,N
+2020,HOU,Houston Dynamo,23,4,9,10,,30,40,-10,21,,N,N,N,N
+2020,MIA,Inter Miami CF,23,7,3,13,,25,35,-10,24,,N,N,N,N
+2020,LAG,LA Galaxy,22,6,4,12,,27,46,-19,22,,N,N,N,N
+2020,LAF,Los Angeles FC,22,9,5,8,,47,39,8,32,,N,N,N,N
+2020,MIN,Minnesota United FC,21,9,7,5,,36,26,10,34,,N,N,N,N
+2020,MON,Montreal Impact,23,8,2,13,,33,43,-10,26,,N,N,N,N
+2020,NAS,Nashville SC,23,8,8,7,,24,22,2,32,,N,N,N,N
+2020,NER,New England Revolution,23,8,8,7,,26,25,1,32,,N,N,N,N
+2020,NYF,New York City FC,23,12,3,8,,37,25,12,39,,Y,N,N,N
+2020,NYB,New York Red Bulls,23,9,5,9,,29,31,-2,32,,N,N,N,N
+2020,ORC,Orlando City SC,23,11,8,4,,40,25,15,41,,Y,N,N,N
+2020,PHI,Philadelphia Union,23,14,5,4,,44,20,24,47,2021 CONCACAF Champions League[a],Y,N,N,Y
+2020,POR,Portland Timbers,23,11,6,6,,46,35,11,39,2021 CONCACAF Champions League[d],Y,N,N,N
+2020,RSL,Real Salt Lake,22,5,7,10,,25,35,-10,22,,N,N,N,N
+2020,SJE,San Jose Earthquakes,23,8,6,9,,35,51,-16,30,,N,N,N,N
+2020,SEA,Seattle Sounders FC,22,11,6,5,,44,23,21,39,,Y,Y,N,N
+2020,SKC,Sporting Kansas City,21,12,3,6,,38,25,13,39,,Y,N,N,N
+2020,CLM,Columbus Crew SC,23,12,5,6,,36,21,15,41,2021 CONCACAF Champions League[c],Y,Y,Y,N
+2020,TOR,Toronto FC,23,13,5,5,,33,26,7,44,2021 CONCACAF Champions League[b],Y,N,N,N
+2020,VAN,Vancouver Whitecaps FC,23,9,0,14,,27,44,-17,27,,N,N,N,N
+2019,ATL,Atlanta United FC,34,18,4,12,,58,43,15,58,2020 CONCACAF Champions League[c],Y,N,N,N
+2019,CHI,Chicago Fire,34,10,12,12,,55,47,8,42,,N,N,N,N
+2019,COL,Colorado Rapids,34,12,6,16,,58,63,-5,42,,N,N,N,N
+2019,CLM,Columbus Crew SC,34,10,8,16,,39,47,-8,38,,N,N,N,N
+2019,DCU,D.C. United,34,13,11,10,,42,38,4,50,,Y,N,N,N
+2019,CIN,FC Cincinnati,34,6,6,22,,31,75,-44,24,,N,N,N,N
+2019,DAL,FC Dallas,34,13,9,12,,54,46,8,48,,Y,N,N,N
+2019,HOU,Houston Dynamo,34,12,4,18,,49,59,-10,40,,N,N,N,N
+2019,LAG,LA Galaxy,34,16,3,15,,58,59,-1,51,,Y,N,N,N
+2019,LAF,Los Angeles FC,34,21,9,4,,85,37,48,72,2020 CONCACAF Champions League[a],Y,N,N,Y
+2019,MIN,Minnesota United FC,34,15,8,11,,52,43,9,53,,Y,N,N,N
+2019,MON,Montreal Impact,34,12,5,17,,47,60,-13,41,2020 CONCACAF Champions League[e],N,N,N,N
+2019,NER,New England Revolution,34,11,12,11,,50,57,-7,45,,Y,N,N,N
+2019,NYF,New York City FC,34,18,10,6,,63,42,21,64,2020 CONCACAF Champions League[b],Y,N,N,N
+2019,NYB,New York Red Bulls,34,14,6,14,,53,51,2,48,,Y,N,N,N
+2019,ORC,Orlando City SC,34,9,10,15,,44,52,-8,37,,N,N,N,N
+2019,PHI,Philadelphia Union,34,16,7,11,,58,50,8,55,,Y,N,N,N
+2019,POR,Portland Timbers,34,14,7,13,,52,49,3,49,,Y,N,N,N
+2019,RSL,Real Salt Lake,34,16,5,13,,46,41,5,53,,Y,N,N,N
+2019,SJE,San Jose Earthquakes,34,13,5,16,,52,55,-3,44,,N,N,N,N
+2019,SEA,Seattle Sounders FC,34,16,8,10,,52,49,3,56,2020 CONCACAF Champions League[d],Y,Y,Y,N
+2019,SKC,Sporting Kansas City,34,10,8,16,,49,67,-18,38,,N,N,N,N
+2019,TOR,Toronto FC,34,13,11,10,,57,52,5,50,,Y,Y,N,N
+2019,VAN,Vancouver Whitecaps FC,34,8,10,16,,37,59,-22,34,,N,N,N,N
+2018,CHI,Chicago Fire,34,8,8,18,,48,61,-13,32,,N,N,N,N
+2018,COL,Colorado Rapids,34,8,7,19,,36,63,-27,31,,N,N,N,N
+2018,CLM,Columbus Crew,34,14,9,11,,43,45,-2,51,,Y,N,N,N
+2018,DCU,D.C. United,34,14,9,11,,60,50,10,51,,Y,N,N,N
+2018,DAL,FC Dallas,34,16,9,9,,52,44,8,57,,Y,N,N,N
+2018,HOU,Houston Dynamo,34,10,8,16,,58,58,0,38,2019 CONCACAF Champions League,N,N,N,N
+2018,LAG,LA Galaxy,34,13,9,12,,66,64,2,48,,N,N,N,N
+2018,LAF,Los Angeles FC,34,16,9,9,,68,52,16,57,,Y,N,N,N
+2018,MIN,Minnesota United FC,34,11,3,20,,49,71,-22,36,,N,N,N,N
+2018,MON,Montreal Impact,34,14,4,16,,47,53,-6,46,,N,N,N,N
+2018,NER,New England Revolution,34,10,11,13,,49,55,-6,41,,N,N,N,N
+2018,NYF,New York City FC,34,16,8,10,,59,45,14,56,,Y,N,N,N
+2018,NYB,New York Red Bulls,34,22,5,7,,62,33,29,71,2019 CONCACAF Champions League,Y,N,N,Y
+2018,ORC,Orlando City SC,34,8,4,22,,43,74,-31,28,,N,N,N,N
+2018,PHI,Philadelphia Union,34,15,5,14,,49,50,-1,50,,Y,N,N,N
+2018,POR,Portland Timbers,34,15,9,10,,54,48,6,54,,Y,Y,N,N
+2018,RSL,Real Salt Lake,34,14,7,13,,55,58,-3,49,,Y,N,N,N
+2018,SJE,San Jose Earthquakes,34,4,9,21,,49,71,-22,21,,N,N,N,N
+2018,SEA,Seattle Sounders FC,34,18,5,11,,52,37,15,59,,Y,N,N,N
+2018,ATL,Atlanta United FC,34,21,6,7,,70,44,26,69,2019 CONCACAF Champions League,Y,Y,Y,N
+2018,SKC,Sporting Kansas City,34,18,8,8,,65,40,25,62,2019 CONCACAF Champions League,Y,N,N,N
+2018,TOR,Toronto FC,34,10,6,18,,59,64,-5,36,2019 CONCACAF Champions League,N,N,N,N
+2018,VAN,Vancouver Whitecaps FC,34,13,8,13,,54,67,-13,47,,N,N,N,N
+2017,ATL,Atlanta United FC,34,15,10,9,,70,40,30,55,,Y,N,N,N
+2017,CHI,Chicago Fire,34,16,7,11,,61,47,14,55,,Y,N,N,N
+2017,COL,Colorado Rapids,34,9,6,19,,31,51,-20,33,,N,N,N,N
+2017,CLM,Columbus Crew,34,16,6,12,,53,49,4,54,,Y,N,N,N
+2017,DCU,D.C. United,34,9,5,20,,31,60,-29,32,,N,N,N,N
+2017,DAL,FC Dallas,34,11,13,10,,48,48,0,46,,N,N,N,N
+2017,HOU,Houston Dynamo,34,13,11,10,,57,45,12,50,,Y,N,N,N
+2017,LAG,LA Galaxy,34,8,8,18,,45,67,-22,32,,N,N,N,N
+2017,MIN,Minnesota United FC,34,10,6,18,,47,70,-23,36,,N,N,N,N
+2017,MON,Montreal Impact,34,11,6,17,,52,58,-6,39,,N,N,N,N
+2017,NER,New England Revolution,34,13,6,15,,53,61,-8,45,,N,N,N,N
+2017,NYF,New York City FC,34,16,9,9,,56,43,13,57,,Y,N,N,N
+2017,NYB,New York Red Bulls,34,14,8,12,,53,47,6,50,,Y,N,N,N
+2017,ORC,Orlando City SC,34,10,9,15,,39,58,-19,39,,N,N,N,N
+2017,PHI,Philadelphia Union,34,11,9,14,,50,47,3,42,,N,N,N,N
+2017,POR,Portland Timbers,34,15,8,11,,60,50,10,53,,Y,N,N,N
+2017,RSL,Real Salt Lake,34,13,6,15,,49,55,-6,45,,N,N,N,N
+2017,SJE,San Jose Earthquakes,34,13,7,14,,39,60,-21,46,,Y,N,N,N
+2017,TOR,Toronto FC,34,20,9,5,,74,37,37,69,2018 CONCACAF Champions League,Y,Y,Y,Y
+2017,SEA,Seattle Sounders FC,34,14,11,9,,52,39,13,53,,Y,Y,N,N
+2017,SKC,Sporting Kansas City,34,12,13,9,,40,29,11,49,2019 CONCACAF Champions League,Y,N,N,N
+2017,VAN,Vancouver Whitecaps FC,34,15,7,12,,50,49,1,52,,Y,N,N,N
+2016,CHI,Chicago Fire,34,7,10,17,,42,58,-16,31,,N,N,N,N
+2016,COL,Colorado Rapids,34,15,13,6,,39,32,7,58,2018 CONCACAF Champions League,Y,N,N,N
+2016,CLM,Columbus Crew SC,34,8,12,14,,50,58,-8,36,,N,N,N,N
+2016,DCU,D.C. United,34,11,13,10,,53,47,6,46,,Y,N,N,N
+2016,DAL,FC Dallas,34,17,9,8,,50,40,10,60,2018 CONCACAF Champions League,Y,N,N,Y
+2016,HOU,Houston Dynamo,34,7,13,14,,39,45,-6,34,,N,N,N,N
+2016,LAG,LA Galaxy,34,12,16,6,,54,39,15,52,,Y,N,N,N
+2016,MON,Montreal Impact,34,11,12,11,,49,53,-4,45,,Y,N,N,N
+2016,NER,New England Revolution,34,11,9,14,,44,54,-10,42,,N,N,N,N
+2016,NYF,New York City FC,34,15,9,10,,62,57,5,54,,Y,N,N,N
+2016,NYB,New York Red Bulls,34,16,9,9,,61,44,17,57,2018 CONCACAF Champions League,Y,N,N,N
+2016,ORC,Orlando City SC,34,9,14,11,,55,60,-5,41,,N,N,N,N
+2016,PHI,Philadelphia Union,34,11,9,14,,52,55,-3,42,,Y,N,N,N
+2016,POR,Portland Timbers,34,12,8,14,,48,53,-5,44,,N,N,N,N
+2016,RSL,Real Salt Lake,34,12,10,12,,44,46,-2,46,,Y,N,N,N
+2016,SEA,Seattle Sounders FC,34,14,6,14,,44,43,1,48,2018 CONCACAF Champions League,Y,Y,Y,N
+2016,SJE,San Jose Earthquakes,34,8,14,12,,32,40,-8,38,,N,N,N,N
+2016,SKC,Sporting Kansas City,34,13,8,13,,42,41,1,47,,Y,N,N,N
+2016,TOR,Toronto FC,34,14,11,9,,51,39,12,53,2018 CONCACAF Champions League,Y,Y,N,N
+2016,VAN,Vancouver Whitecaps FC,34,10,9,15,,45,52,-7,39,,N,N,N,N
+2015,CHI,Chicago Fire,34,8,6,20,,43,58,-15,30,,N,N,N,N
+2015,COL,Colorado Rapids,34,9,10,15,,33,43,-10,37,,N,N,N,N
+2015,CLM,Columbus Crew,34,15,8,11,,58,53,5,53,,Y,Y,N,N
+2015,DCU,D.C. United,34,15,6,13,,43,45,-2,51,,Y,N,N,N
+2015,DAL,FC Dallas,34,18,6,10,,52,39,13,60,2016–17 CONCACAF Champions League,Y,N,N,N
+2015,HOU,Houston Dynamo,34,11,9,14,,42,49,-7,42,,N,N,N,N
+2015,LAG,LA Galaxy,34,14,9,11,,56,46,10,51,,Y,N,N,N
+2015,MON,Montreal Impact,34,15,6,13,,48,44,4,51,,Y,N,N,N
+2015,NER,New England Revolution,34,14,8,12,,48,47,1,50,,Y,N,N,N
+2015,NYF,New York City FC,34,10,7,17,,49,58,-9,37,,N,N,N,N
+2015,NYB,New York Red Bulls,34,18,6,10,,62,43,19,60,2016–17 CONCACAF Champions League,Y,N,N,Y
+2015,ORC,Orlando City SC,34,12,8,14,,46,56,-10,44,,N,N,N,N
+2015,PHI,Philadelphia Union,34,10,7,17,,42,55,-13,37,,N,N,N,N
+2015,RSL,Real Salt Lake,34,11,8,15,,38,48,-10,41,,N,N,N,N
+2015,POR,Portland Timbers,34,15,8,11,,41,39,2,53,2016–17 CONCACAF Champions League,Y,Y,Y,N
+2015,SJE,San Jose Earthquakes,34,13,8,13,,41,39,2,47,,N,N,N,N
+2015,SEA,Seattle Sounders FC,34,15,6,13,,44,36,8,51,,Y,N,N,N
+2015,SKC,Sporting Kansas City,34,14,9,11,,48,45,3,51,2016–17 CONCACAF Champions League,Y,N,N,N
+2015,TOR,Toronto FC,34,15,4,15,,58,58,0,49,,Y,N,N,N
+2015,VAN,Vancouver Whitecaps FC,34,16,5,13,,45,36,9,53,2016–17 CONCACAF Champions League,Y,N,N,N
+2014,CHI,Chicago Fire,34,6,18,10,,41,51,-10,36,,N,N,N,N
+2014,CVA,Chivas USA,34,9,6,19,,29,61,-32,33,,N,N,N,N
+2014,COL,Colorado Rapids,34,8,8,18,,43,62,-19,32,,N,N,N,N
+2014,CLM,Columbus Crew,34,14,10,10,,52,42,10,52,,Y,N,N,N
+2014,DCU,D.C. United,34,17,8,9,,52,37,15,59,2015–16 CONCACAF Champions League 3,Y,N,N,N
+2014,DAL,FC Dallas,34,16,6,12,,55,45,10,54,,Y,N,N,N
+2014,HOU,Houston Dynamo,34,11,6,17,,39,58,-19,39,,N,N,N,N
+2014,MON,Montreal Impact,34,6,10,18,,38,58,-20,28,2014–15 CONCACAF Champions League 7,N,N,N,N
+2014,NER,New England Revolution,34,17,4,13,,51,46,5,55,,Y,Y,N,N
+2014,NYB,New York Red Bulls,34,13,11,10,,55,50,5,50,,Y,N,N,N
+2014,PHI,Philadelphia Union,34,10,12,12,,51,51,0,42,,N,N,N,N
+2014,POR,Portland Timbers,34,12,13,9,,61,52,9,49,,N,N,N,N
+2014,LAG,LA Galaxy,34,17,10,7,,69,37,32,61,2015–16 CONCACAF Champions League 2,Y,Y,Y,N
+2014,RSL,Real Salt Lake,34,15,11,8,,54,39,15,56,2015–16 CONCACAF Champions League 5,Y,N,N,N
+2014,SJE,San Jose Earthquakes,34,6,12,16,,35,50,-15,30,,N,N,N,N
+2014,SEA,Seattle Sounders FC,34,20,4,10,,65,50,15,64,2015–16 CONCACAF Champions League 1 4,Y,N,N,Y
+2014,SKC,Sporting Kansas City,34,14,7,13,,48,41,7,49,,Y,N,N,N
+2014,TOR,Toronto FC,34,11,8,15,,44,54,-10,41,,N,N,N,N
+2014,VAN,Vancouver Whitecaps FC,34,12,14,8,,42,40,2,50,2015–16 CONCACAF Champions League 6,Y,N,N,N
+2013,CHI,Chicago Fire,34,14,7,13,,47,52,-5,49,,N,N,N,N
+2013,CVA,Chivas USA,34,6,8,20,,30,67,-37,26,,N,N,N,N
+2013,COL,Colorado Rapids,34,14,9,11,,45,38,7,51,,Y,N,N,N
+2013,CLM,Columbus Crew,34,12,5,17,,42,46,-4,41,,N,N,N,N
+2013,DCU,D.C. United,34,3,7,24,,22,59,-37,16,2014–15 CONCACAF Champions League 1,N,N,N,N
+2013,DAL,FC Dallas,34,11,11,12,,48,52,-4,44,,N,N,N,N
+2013,HOU,Houston Dynamo,34,14,9,11,,41,41,0,51,,Y,N,N,N
+2013,LAG,LA Galaxy,34,15,8,11,,53,38,15,53,,Y,N,N,N
+2013,MON,Montreal Impact,34,14,7,13,,50,49,1,49,2013–14 CONCACAF Champions League 2,N,N,N,N
+2013,NER,New England Revolution,34,14,9,11,,49,38,11,51,,Y,N,N,N
+2013,NYB,New York Red Bulls,34,17,8,9,,58,41,17,59,2014–15 CONCACAF Champions League 1,Y,N,N,Y
+2013,PHI,Philadelphia Union,34,12,10,12,,42,44,-2,46,,N,N,N,N
+2013,POR,Portland Timbers,34,14,15,5,,54,33,21,57,2014–15 CONCACAF Champions League 1,Y,N,N,N
+2013,SKC,Sporting Kansas City,34,17,7,10,,47,30,17,58,2014–15 CONCACAF Champions League 1,Y,Y,Y,N
+2013,RSL,Real Salt Lake,34,16,8,10,,57,41,16,56,,Y,Y,N,N
+2013,SJE,San Jose Earthquakes,34,14,9,11,,35,42,-7,51,,Y,N,N,N
+2013,SEA,Seattle Sounders FC,34,15,7,12,,42,42,0,52,,Y,N,N,N
+2013,TOR,Toronto FC,34,6,11,17,,30,47,-17,29,,N,N,N,N
+2013,VAN,Vancouver Whitecaps FC,34,13,9,12,,53,45,8,48,,N,N,N,N
+2012,CHI,Chicago Fire,34,17,6,11,,46,41,5,57,,Y,N,N,N
+2012,CVA,Chivas USA,34,7,9,18,,24,58,-34,30,,N,N,N,N
+2012,COL,Colorado Rapids,34,11,4,19,,44,50,-6,37,,N,N,N,N
+2012,CLM,Columbus Crew,34,15,7,12,,44,44,0,52,,Y,N,N,N
+2012,DCU,D.C. United,34,17,7,10,,53,43,10,58,,Y,N,N,N
+2012,DAL,FC Dallas,34,9,12,13,,42,47,-5,39,,N,N,N,N
+2012,HOU,Houston Dynamo,34,14,11,9,,48,41,7,53,2013–14 CONCACAF Champions League 1,Y,Y,N,N
+2012,MON,Montreal Impact,34,12,6,16,,45,51,-6,42,,N,N,N,N
+2012,LAG,LA Galaxy,34,16,6,12,,59,47,12,54,2013–14 CONCACAF Champions League 1,Y,Y,Y,N
+2012,NER,New England Revolution,34,9,8,17,,39,44,-5,35,,N,N,N,N
+2012,NYB,New York Red Bulls,34,16,9,9,,57,46,11,57,,Y,N,N,N
+2012,PHI,Philadelphia Union,34,10,6,18,,37,45,-8,36,,N,N,N,N
+2012,POR,Portland Timbers,34,8,10,16,,34,56,-22,34,,N,N,N,N
+2012,RSL,Real Salt Lake,34,17,6,11,,46,35,11,57,,Y,N,N,N
+2012,SJE,San Jose Earthquakes,34,19,9,6,,72,43,29,66,2013–14 CONCACAF Champions League 1,Y,N,N,Y
+2012,SEA,Seattle Sounders FC,34,15,11,8,,51,33,18,56,,Y,N,N,N
+2012,SKC,Sporting Kansas City,34,18,9,7,,42,27,15,63,2013–14 CONCACAF Champions League 1,Y,N,N,N
+2012,TOR,Toronto FC,34,5,8,21,,36,62,-26,23,2012–13 CONCACAF Champions League 2,N,N,N,N
+2012,VAN,Vancouver Whitecaps FC,34,11,10,13,,35,41,-6,43,,N,N,N,N
+2011,CHI,Chicago Fire,34,9,16,9,,46,45,1,43,,N,N,N,N
+2011,CVA,Chivas USA,34,8,12,14,,41,43,-2,36,,N,N,N,N
+2011,COL,Colorado Rapids,34,12,13,9,,44,41,3,49,,Y,N,N,N
+2011,CLM,Columbus Crew,34,13,8,13,,43,44,-1,47,,Y,N,N,N
+2011,DCU,D.C. United,34,9,12,13,,49,52,-3,39,,N,N,N,N
+2011,DAL,FC Dallas,34,15,7,12,,42,39,3,52,,Y,N,N,N
+2011,HOU,Houston Dynamo,34,12,13,9,,45,41,4,49,2012–13 CONCACAF Champions League Group Stage 2,Y,Y,N,N
+2011,LAG,LA Galaxy,34,19,10,5,,48,28,20,67,2012–13 CONCACAF Champions League Group Stage 2,Y,Y,Y,Y
+2011,NER,New England Revolution,34,5,13,16,,38,58,-20,28,,N,N,N,N
+2011,NYB,New York Red Bulls,34,10,16,8,,50,44,6,46,,Y,N,N,N
+2011,PHI,Philadelphia Union,34,11,15,8,,44,36,8,48,,Y,N,N,N
+2011,POR,Portland Timbers,34,11,9,14,,40,48,-8,42,,N,N,N,N
+2011,RSL,Real Salt Lake,34,15,8,11,,44,36,8,53,2012–13 CONCACAF Champions League Group Stage 2,Y,N,N,N
+2011,SJE,San Jose Earthquakes,34,8,14,12,,40,45,-5,38,,N,N,N,N
+2011,SEA,Seattle Sounders FC,34,18,9,7,,56,37,19,63,2012–13 CONCACAF Champions League Group Stage 2,Y,N,N,N
+2011,SKC,Sporting Kansas City,34,13,12,9,,50,40,10,51,,Y,N,N,N
+2011,TOR,Toronto FC,34,6,15,13,,36,59,-23,33,2011–12 CONCACAF Champions League Preliminary Round 3,N,N,N,N
+2011,VAN,Vancouver Whitecaps FC,34,6,10,18,,35,55,-20,28,,N,N,N,N
+2010,CHI,Chicago Fire,30,9,9,12,,37,38,-1,36,,N,N,N,N
+2010,CVA,Chivas USA,30,8,4,18,,31,45,-14,28,,N,N,N,N
+2010,CLM,Columbus Crew,30,14,8,8,,40,34,6,50,2011 North American SuperLiga 3,Y,N,N,N
+2010,DCU,D.C. United,30,6,4,20,,21,47,-26,22,,N,N,N,N
+2010,DAL,FC Dallas,30,12,14,4,,42,28,14,50,2011–12 CONCACAF Champions League Preliminary Round 2,Y,Y,N,N
+2010,HOU,Houston Dynamo,30,9,6,15,,40,49,-9,33,,N,N,N,N
+2010,SKC,Kansas City Wizards,30,11,6,13,,36,35,1,39,,N,N,N,N
+2010,LAG,LA Galaxy,30,18,5,7,,44,26,18,59,2011–12 CONCACAF Champions League Group Stage 2,Y,N,N,Y
+2010,COL,Colorado Rapids,30,12,10,8,,44,32,12,46,2011–12 CONCACAF Champions League Group Stage 2,Y,Y,Y,N
+2010,NER,New England Revolution,30,9,5,16,,32,50,-18,32,,N,N,N,N
+2010,NYB,New York Red Bulls,30,15,6,9,,38,29,9,51,2011 North American SuperLiga 3,Y,N,N,N
+2010,PHI,Philadelphia Union,30,8,7,15,,35,49,-14,31,,N,N,N,N
+2010,RSL,Real Salt Lake,30,15,11,4,,45,20,25,56,2011 North American SuperLiga 3,Y,N,N,N
+2010,SJE,San Jose Earthquakes,30,13,7,10,,34,33,1,46,2011 North American SuperLiga 3,Y,N,N,N
+2010,SEA,Seattle Sounders FC,30,14,6,10,,39,35,4,48,2011–12 CONCACAF Champions League Preliminary Round 2,Y,N,N,N
+2010,TOR,Toronto FC,30,9,8,13,,33,41,-8,35,2011–12 CONCACAF Champions League Group Stage 2,N,N,N,N
+2009,CHI,Chicago Fire,30,11,12,7,,39,34,5,45,2010 North American SuperLiga 3,Y,N,N,N
+2009,CVA,Chivas USA,30,13,6,11,,34,31,3,45,2010 North American SuperLiga 3,Y,N,N,N
+2009,COL,Colorado Rapids,30,10,10,10,,42,38,4,40,,N,N,N,N
+2009,CLM,Columbus Crew,30,13,10,7,,41,31,10,49,2010–11 CONCACAF Champions League Group Stage 2,Y,N,N,Y
+2009,DCU,D.C. United,30,9,13,8,,43,44,-1,40,,N,N,N,N
+2009,DAL,FC Dallas,30,11,6,13,,50,47,3,39,,N,N,N,N
+2009,HOU,Houston Dynamo,30,13,9,8,,39,29,10,48,2010 North American SuperLiga 3,Y,N,N,N
+2009,SKC,Kansas City Wizards,30,8,9,13,,33,42,-9,33,,N,N,N,N
+2009,LAG,LA Galaxy,30,12,12,6,,36,31,5,48,2010–11 CONCACAF Champions League Preliminary Round 2,Y,Y,N,N
+2009,RSL,Real Salt Lake,30,11,7,12,,43,35,8,40,2010–11 CONCACAF Champions League Group Stage 2,Y,Y,Y,N
+2009,NER,New England Revolution,30,11,9,10,,33,37,-4,42,2010 North American SuperLiga 3,Y,N,N,N
+2009,NYB,New York Red Bulls,30,5,6,19,,27,47,-20,21,,N,N,N,N
+2009,SJE,San Jose Earthquakes,30,7,9,14,,36,50,-14,30,,N,N,N,N
+2009,SEA,Seattle Sounders FC,30,12,11,7,,38,29,9,47,2010–11 CONCACAF Champions League Preliminary Round 2,Y,N,N,N
+2009,TOR,Toronto FC,30,10,9,11,,37,46,-9,39,2010–11 CONCACAF Champions League Preliminary Round 1,N,N,N,N
+2008,CHI,Chicago Fire,30,13,7,10,,44,33,11,46,2009 North American SuperLiga 4,Y,N,N,N
+2008,CVA,Chivas USA,30,12,7,11,,40,41,-1,43,2009 North American SuperLiga 4,Y,N,N,N
+2008,COL,Colorado Rapids,30,11,5,14,,44,45,-1,38,,N,N,N,N
+2008,DCU,D.C. United,30,11,4,15,,43,51,-8,37,2009–10 CONCACAF Champions League Preliminary Round 3,N,N,N,N
+2008,DAL,FC Dallas,30,8,12,10,,45,41,4,36,,N,N,N,N
+2008,HOU,Houston Dynamo,30,13,12,5,,45,32,13,51,2009–10 CONCACAF Champions League Group Stage 2,Y,N,N,N
+2008,SKC,Kansas City Wizards,30,11,9,10,,37,39,-2,42,2009 North American SuperLiga 4,Y,N,N,N
+2008,LAG,LA Galaxy,30,8,9,13,,55,62,-7,33,,N,N,N,N
+2008,CLM,Columbus Crew,30,17,6,7,,50,36,14,57,2009–10 CONCACAF Champions League Group Stage 2,Y,Y,Y,Y
+2008,NER,New England Revolution,30,12,7,11,,40,43,-3,43,2009 North American SuperLiga 4,Y,N,N,N
+2008,NYB,New York Red Bulls,30,10,9,11,,42,48,-6,39,2009–10 CONCACAF Champions League Preliminary Round 3,Y,Y,N,N
+2008,RSL,Real Salt Lake,30,10,10,10,,40,39,1,40,2008 MLS Cup Playoffs,Y,N,N,N
+2008,SJE,San Jose Earthquakes,30,8,9,13,,32,38,-6,33,,N,N,N,N
+2008,TOR,Toronto FC,30,9,8,13,,34,43,-9,35,,N,N,N,N
+2007,CHI,Chicago Fire,30,10,10,10,,31,36,-5,40,2007 MLS Cup Playoffs,Y,N,N,N
+2007,CVA,Chivas USA,30,15,8,7,,46,28,18,53,2008–09 CONCACAF Champions League Preliminary Round 2,Y,N,N,N
+2007,COL,Colorado Rapids,30,9,8,13,,29,34,-5,35,,N,N,N,N
+2007,CLM,Columbus Crew,30,9,10,11,,39,44,-5,37,,N,N,N,N
+2007,DCU,D.C. United,30,16,7,7,,56,34,22,55,2008–09 CONCACAF Champions League Group Stage 2,Y,N,N,Y
+2007,DAL,FC Dallas,30,13,5,12,,37,44,-7,44,2007 MLS Cup Playoffs,Y,N,N,N
+2007,HOU,Houston Dynamo,30,15,7,8,,43,23,20,52,2008–09 CONCACAF Champions League Group Stage 2,Y,Y,N,N
+2007,SKC,Kansas City Wizards,30,11,7,12,,45,45,0,40,2007 MLS Cup Playoffs,Y,N,N,N
+2007,LAG,LA Galaxy,30,9,7,14,,38,48,-10,34,,N,N,N,N
+2007,NER,New England Revolution,30,14,8,8,,51,43,8,50,2008–09 CONCACAF Champions League Preliminary Round 2,Y,Y,Y,N
+2007,NYB,New York Red Bulls,30,12,7,11,,47,45,2,43,2007 MLS Cup Playoffs,Y,N,N,N
+2007,RSL,Real Salt Lake,30,6,9,15,,31,45,-14,27,,N,N,N,N
+2007,TOR,Toronto FC,30,6,7,17,,25,49,-24,25,,N,N,N,N
+2006,CHI,Chicago Fire,32,13,8,11,,43,41,2,47,2006 MLS Cup Playoffs,Y,N,N,N
+2006,CVA,Chivas USA,32,10,13,9,,45,42,3,43,2006 MLS Cup Playoffs,Y,N,N,N
+2006,COL,Colorado Rapids,32,11,8,13,,36,49,-13,41,2006 MLS Cup Playoffs,Y,N,N,N
+2006,CLM,Columbus Crew,32,8,9,15,,30,42,-12,33,,N,N,N,N
+2006,DCU,D.C. United,32,15,10,7,,52,38,14,55,2007 CONCACAF Champions' Cup,Y,N,N,Y
+2006,DAL,FC Dallas,32,16,4,12,,48,44,4,52,2007 North American SuperLiga,Y,N,N,N
+2006,HOU,Houston Dynamo,32,11,13,8,,44,40,4,46,2007 CONCACAF Champions' Cup,Y,Y,Y,N
+2006,SKC,Kansas City Wizards,32,10,8,14,,43,45,-2,38,,N,N,N,N
+2006,LAG,LA Galaxy,32,11,6,15,,37,37,0,39,2007 North American SuperLiga,N,N,N,N
+2006,NER,New England Revolution,32,12,12,8,,39,35,4,48,2007 North American SuperLiga,Y,Y,N,N
+2006,NYB,New York Red Bulls,32,9,12,11,,41,41,0,39,2006 MLS Cup Playoffs,Y,N,N,N
+2006,RSL,Real Salt Lake,32,10,9,13,,45,49,-4,39,,N,N,N,N
+2005,CHI,Chicago Fire,32,15,4,13,,49,50,-1,49,,Y,N,N,N
+2005,CVA,Chivas USA,32,4,6,22,,31,67,-36,18,,N,N,N,N
+2005,COL,Colorado Rapids,32,13,6,13,,40,37,3,45,,Y,N,N,N
+2005,CLM,Columbus Crew,32,11,5,16,,34,45,-11,38,,N,N,N,N
+2005,DCU,D.C. United,32,16,6,10,,58,37,21,54,,Y,N,N,N
+2005,DAL,FC Dallas,32,13,9,10,,52,44,8,48,,Y,N,N,N
+2005,LAF,Los Angeles Galaxy,32,13,6,13,,44,45,-1,45,,Y,Y,Y,N
+2005,SKC,Kansas City Wizards,32,11,12,9,,52,44,8,45,,N,N,N,N
+2005,NYB,MetroStars,32,12,11,9,,53,49,4,47,,Y,N,N,N
+2005,NER,New England Revolution,32,17,8,7,,55,37,18,59,,Y,Y,N,N
+2005,RSL,Real Salt Lake,32,5,5,22,,30,65,-35,20,,N,N,N,N
+2005,SJE,San Jose Earthquakes,32,18,10,4,,53,31,22,64,,Y,N,N,Y
+2004,CHI,Chicago Fire,30,8,9,13,,36,44,-8,33,,N,N,N,N
+2004,COL,Colorado Rapids,30,10,11,9,,29,32,-3,41,,Y,N,N,N
+2004,CLM,Columbus Crew,30,12,13,5,,40,32,8,49,Supporters' Shield champion,Y,N,N,Y
+2004,DCU,D.C. United,30,11,9,10,,43,42,1,42,MLS Cup champion,Y,Y,Y,N
+2004,DAL,Dallas Burn,30,10,6,14,,34,45,-11,36,,N,N,N,N
+2004,SKC,Kansas City Wizards,30,14,7,9,,38,30,8,49,Lamar Hunt U.S. Open Cup champion,Y,Y,N,N
+2004,LAF,Los Angeles Galaxy,30,11,10,9,,42,40,2,43,,Y,N,N,N
+2004,NYB,MetroStars,30,11,7,12,,47,49,-2,40,,Y,N,N,N
+2004,NER,New England Revolution,30,8,9,13,,42,43,-1,33,,Y,N,N,N
+2004,SJE,San Jose Earthquakes,30,9,11,10,,41,35,6,38,,Y,N,N,N
+2003,CHI,Chicago Fire,30,15,8,7,,53,43,10,53,,Y,Y,N,Y
+2003,COL,Colorado Rapids,30,11,7,12,,40,45,-5,40,,Y,N,N,N
+2003,CLM,Columbus Crew,30,10,8,12,,44,44,0,38,,N,N,N,N
+2003,SJE,San Jose Earthquakes,30,14,9,7,,45,35,10,51,,Y,Y,Y,N
+2003,DCU,D.C. United,30,10,9,11,,38,36,2,39,,Y,N,N,N
+2003,DAL,Dallas Burn,30,6,5,19,,35,64,-29,23,,N,N,N,N
+2003,SKC,Kansas City Wizards,30,11,9,10,,48,44,4,42,,Y,N,N,N
+2003,LAF,Los Angeles Galaxy,30,9,9,12,,35,35,0,36,,Y,N,N,N
+2003,NYB,MetroStars,30,11,9,10,,40,40,0,42,,Y,N,N,N
+2003,NER,New England Revolution,30,12,9,9,,55,47,8,45,,Y,N,N,N
+2002,CHI,Chicago Fire,28,11,4,13,,43,38,5,37,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2002,COL,Colorado Rapids,28,13,4,11,,43,48,-5,43,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2002,CLM,Columbus Crew,28,11,5,12,,44,43,1,38,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2002,LAF,Los Angeles Galaxy,28,16,3,9,,44,33,11,51,"2003 CONCACAF Champions Cup, 2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,Y,Y,Y
+2002,DCU,D.C. United,28,9,5,14,,31,40,-9,32,,N,N,N,N
+2002,DAL,Dallas Burn,28,12,7,9,,44,43,1,43,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2002,SKC,Kansas City Wizards,28,9,9,10,,37,45,-8,36,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2002,NYB,MetroStars,28,11,2,15,,41,47,-6,35,,N,N,N,N
+2002,NER,New England Revolution,28,12,2,14,,49,49,0,38,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,Y,N,N
+2002,SJE,San Jose Earthquakes,28,14,3,11,,45,35,10,45,"2003 CONCACAF Champions Cup1, 2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
+2001,CHI,Chicago Fire,27,16,5,6,,50,30,20,53,,Y,N,N,N
+2001,COL,Colorado Rapids,26,5,8,13,,36,47,-11,23,,N,N,N,N
+2001,CLM,Columbus Crew,26,13,6,7,,49,36,13,45,,Y,N,N,N
+2001,SJE,San Jose Earthquakes,26,13,6,7,,47,29,18,45,,Y,Y,Y,N
+2001,DCU,D.C. United,26,8,2,16,,42,50,-8,26,,N,N,N,N
+2001,DAL,Dallas Burn,26,10,5,11,,48,47,1,35,,Y,N,N,N
+2001,SKC,Kansas City Wizards,27,11,3,13,,33,53,-20,36,,Y,N,N,N
+2001,LAF,Los Angeles Galaxy,26,14,5,7,,52,36,16,47,,Y,Y,N,N
+2001,NYB,MetroStars,26,13,3,10,,38,35,3,42,,Y,N,N,N
+2001,MIF,Miami Fusion,26,16,5,5,,57,36,21,53,,Y,N,N,Y
+2001,NER,New England Revolution,27,7,6,14,,35,52,-17,27,,N,N,N,N
+2001,TBM,Tampa Bay Mutiny,27,4,2,21,,32,68,-36,14,,N,N,N,N
+2000,CHI,Chicago Fire,32,17,6,9,,67,51,16,57,"2000 MLS Cup Playoffs, 2002 CONCACAF Champions' Cup",Y,Y,N,N
+2000,COL,Colorado Rapids,32,13,4,15,,43,59,-16,43,2000 MLS Cup Playoffs,Y,N,N,N
+2000,CLM,Columbus Crew,32,11,5,16,,48,58,-10,38,,N,N,N,N
+2000,SKC,Kansas City Wizards,32,16,9,7,,47,29,18,57,"2000 MLS Cup Playoffs, 2002 CONCACAF Champions' Cup",Y,Y,Y,Y
+2000,DCU,D.C. United,32,8,6,18,,44,63,-19,30,,N,N,N,N
+2000,DAL,Dallas Burn,32,14,4,14,,54,54,0,46,2000 MLS Cup Playoffs,Y,N,N,N
+2000,LAF,Los Angeles Galaxy,32,14,8,10,,47,37,10,50,2000 MLS Cup Playoffs,Y,N,N,N
+2000,NYB,MetroStars,32,17,3,12,,64,56,8,54,2000 MLS Cup Playoffs,Y,N,N,N
+2000,MIF,Miami Fusion,32,12,5,15,,54,56,-2,41,,N,N,N,N
+2000,NER,New England Revolution,32,13,6,13,,47,49,-2,45,2000 MLS Cup Playoffs,Y,N,N,N
+2000,SJE,San Jose Earthquakes,32,7,8,17,,35,50,-15,29,,N,N,N,N
+2000,TBM,Tampa Bay Mutiny,32,16,4,12,,62,50,12,52,2000 MLS Cup Playoffs,Y,N,N,N
+1999,CHI,Chicago Fire,32,18,5,14,3,51,36,15,48,,Y,N,N,N
+1999,COL,Colorado Rapids,32,20,3,12,6,38,39,-1,48,,Y,N,N,N
+1999,CLM,Columbus Crew,32,19,4,13,6,48,39,9,45,,Y,N,N,N
+1999,DCU,D.C. United,32,23,3,9,6,65,43,22,57,,Y,Y,Y,Y
+1999,DAL,Dallas Burn,32,19,6,13,3,54,35,19,51,,Y,N,N,N
+1999,SKC,Kansas City Wizards,32,8,6,24,2,33,53,-20,20,,N,N,N,N
+1999,LAF,Los Angeles Galaxy,32,20,4,12,3,49,29,20,54,,Y,Y,N,N
+1999,NYB,MetroStars,32,7,5,25,3,32,64,-32,15,,N,N,N,N
+1999,MIF,Miami Fusion,32,13,4,19,5,42,59,-17,29,,Y,N,N,N
+1999,NER,New England Revolution,32,12,7,20,5,38,53,-15,26,,N,N,N,N
+1999,SJE,San Jose Clash,32,19,3,13,10,48,49,-1,37,,N,N,N,N
+1999,TBM,Tampa Bay Mutiny,32,14,7,18,5,51,50,1,32,,Y,N,N,N
+1998,COL,Colorado Rapids,32,16,2,16,2,62,69,-7,44,,Y,N,N,N
+1998,CHI,Chicago Fire,32,20,2,12,2,62,45,17,56,,Y,Y,Y,N
+1998,CLM,Columbus Crew,32,15,5,17,0,67,56,11,45,,Y,N,N,N
+1998,DCU,D.C. United,32,24,3,8,7,74,48,26,58,,Y,Y,N,N
+1998,DAL,Dallas Burn,32,15,2,17,4,43,59,-16,37,,Y,N,N,N
+1998,SKC,Kansas City Wizards,32,12,4,20,2,45,50,-5,32,,N,N,N,N
+1998,LAF,Los Angeles Galaxy,32,24,2,8,2,85,44,41,68,,N,N,N,Y
+1998,NYB,MetroStars,32,15,4,17,3,54,63,-9,39,,Y,N,N,N
+1998,MIF,Miami Fusion,32,15,0,17,5,46,68,-22,35,,N,N,N,N
+1998,NER,New England Revolution,32,11,4,21,2,53,66,-13,29,,N,N,N,N
+1998,SJE,San Jose Clash,32,13,5,19,3,48,60,-12,33,,N,N,N,N
+1998,TBM,Tampa Bay Mutiny,32,12,5,20,1,46,57,-11,34,,N,N,N,N
+1997,DCU,D.C. United,32,17,0,11,4,70,53,17,55,1998 CONCACAF Champions' Cup[a],Y,Y,Y,Y
+1997,COL,Colorado Rapids,32,12,0,18,2,50,59,-9,38,1998 CONCACAF Champions' Cup[a],Y,Y,N,N
+1997,CLM,Columbus Crew,32,12,0,17,3,42,41,1,39,,Y,N,N,N
+1997,DAL,Dallas Burn,32,13,0,16,3,55,49,6,42,,Y,N,N,N
+1997,SKC,Kansas City Wizards,32,14,0,11,7,57,51,6,49,,Y,N,N,N
+1997,LAF,Los Angeles Galaxy,32,14,0,16,2,55,44,11,44,,Y,N,N,N
+1997,NER,New England Revolution,32,11,0,17,4,40,53,-13,37,,N,N,N,N
+1997,NYB,NY/NJ MetroStars,32,11,0,19,2,43,53,-10,35,,N,N,N,N
+1997,SJE,San Jose Clash,32,9,0,20,3,55,59,-4,30,,N,N,N,N
+1997,TBM,Tampa Bay Mutiny,32,14,0,15,3,55,60,-5,45,,Y,N,N,N
+1996,DCU,D.C. United,32,15,0,16,1,62,56,6,46,1997 CONCACAF Champions' Cup[a],Y,Y,Y,N
+1996,COL,Colorado Rapids,32,9,0,21,2,44,59,-15,29,,N,N,N,N
+1996,CLM,Columbus Crew,32,11,0,17,4,59,60,-1,37,,Y,N,N,N
+1996,DAL,Dallas Burn,32,12,0,15,5,50,48,2,41,,Y,N,N,N
+1996,SKC,Kansas City Wiz,32,12,0,15,5,61,63,-2,41,,Y,N,N,N
+1996,LAF,Los Angeles Galaxy,32,15,0,13,4,59,49,10,49,1997 CONCACAF Champions' Cup[a],Y,Y,N,N
+1996,NER,New England Revolution,32,9,0,17,6,43,56,-13,33,,N,N,N,N
+1996,NYB,NY/NJ MetroStars,32,12,0,17,3,45,47,-2,39,,Y,N,N,N
+1996,SJE,San Jose Clash,32,12,0,17,3,50,50,0,39,,Y,N,N,N
+1996,TBM,Tampa Bay Mutiny,32,19,0,12,1,66,51,15,58,,Y,N,N,Y

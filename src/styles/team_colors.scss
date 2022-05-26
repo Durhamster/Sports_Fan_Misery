@@ -1,0 +1,850 @@
+/* Commonly Used Colors */
+$black: #000000;
+$white: #ffffff;
+
+/* ---------------------------------------------------
+  Team Color Codes from: https://teamcolorcodes.com/, https://sportsfancovers.com/ipl-color-codes/
+--------------------------------------------------- */
+.team_selection {
+  color: $white;
+}
+
+#cfl_team_options {
+  #BCL {
+    color: $black;
+    background-color: #f15524;
+  }
+  #CAL {
+    background-color: #d0202d;
+  }
+  #EDM {
+    background-color: #2b5235;
+  }
+  #HAM {
+    color: $black;
+    background-color: #ffb612;
+  }
+  #MON {
+    background-color: #183c6e;
+  }
+  #OTT {
+    background-color: #c8102e;
+  }
+  #SAK {
+    background-color: #036242;
+  }
+  #TOR {
+    background-color: #0d2240;
+  }
+  #WIN {
+    background-color: #1d3d7a;
+  }
+}
+
+#epl_team_options {
+  #Aston_Villa {
+    color: #670e36;
+    background-color: #95bfe5;
+  }
+  #Arsenal {
+    background-color: #db0007;
+  }
+  #Brighton {
+    background-color: #0057b8;
+  }
+  #Burnley {
+    background-color: #6c1d45;
+  }
+  #Chelsea {
+    background-color: #034694;
+  }
+  #Crystal_Palace {
+    background-color: #1b458f;
+  }
+  #Everton {
+    background-color: #003399;
+  }
+  #Fulham {
+    background-color: $black;
+  }
+  #Leeds_United {
+    background-color: #1d428a;
+  }
+  #Leicester_City {
+    color: #003090;
+    background-color: #fdbe11;
+  }
+  #Liverpool {
+    background-color: #c8102e;
+  }
+  #Manchester_City {
+    background-color: #6cabdd;
+  }
+  #Manchester_Utd {
+    background-color: #da291c;
+  }
+  #Newcastle_Utd {
+    background-color: $black;
+  }
+  #Sheffield_Utd {
+    background-color: #ee2737;
+  }
+  #Southampton {
+    background-color: #d71920;
+  }
+  #Tottenham {
+    background-color: #132257;
+  }
+  #West_Ham {
+    background-color: #7a263a;
+  }
+  #Wolves {
+    background-color: $black;
+  }
+  #West_Brom {
+    background-color: #122f67;
+  }
+}
+
+#kbo_team_options {
+  #OBB {
+    background-color: #ed1b23;
+  }
+  #BGE {
+    background-color: #f15a28;
+  }
+  #HAI {
+    background-color: $black;
+  }
+  #WOH {
+    background-color: #820024;
+  }
+  #KTW {
+    background-color: #ed1b23;
+  }
+  #MBC {
+    background-color: #c7004e;
+  }
+  #LOG {
+    color: #ed6d00;
+    background-color: $black;
+  }
+  #NCD {
+    background-color: #1e467d;
+  }
+  #SAM {
+    background-color: #0f4f9e;
+  }
+  #SKW {
+    background-color: #e30021;
+  }
+}
+
+#ipl_team_options {
+  #CSK {
+    background-color: #f25c19;
+  }
+  #DC {
+    background-color: #282968;
+  }
+  #PBKS {
+    background-color: #ed1f27;
+  }
+  #KKR {
+    color: #3a225d;
+    background-color: #f3c433;
+  }
+  #MI {
+    background-color: #004f91;
+  }
+  #RR {
+    background-color: #254aa5;
+  }
+  #RCB {
+    color: #2b2a29;
+    background-color: #e5b582;
+  }
+  #HDC {
+    background-color: #9a1c22;
+  }
+}
+
+#isl_team_options {
+  #ATK {
+    background-color: #6e1910;
+  }
+  #BFC {
+    background-color: #2a479e;
+  }
+  #CHE {
+    color: #f9ed1a;
+    background-color: #1b4794;
+  }
+  #EGE {
+    background-color: #d91610;
+  }
+  #GOA {
+    color: #070f57;
+    background-color: #fd7200;
+  }
+  #HYD {
+    color: $black;
+    background-color: #f9ed1a;
+  }
+  #JAM {
+    background-color: #013ca6;
+  }
+  #KER {
+    color: #092f87;
+    background-color: #f4e84e;
+  }
+  #MBC {
+    background-color: #092265;
+  }
+  #NEU {
+    background-color: #e51b24;
+  }
+  #DEL {
+    color: #fc2727;
+    background-color: #1e1d49;
+  }
+}
+
+#laliga_team_options {
+  #Alavés {
+    background-color: #0a3ff5;
+  }
+  #Athletic_Club {
+    background-color: #ee2523;
+  }
+  #Atlético_Madrid {
+    background-color: #262f61;
+  }
+  #Barcelona {
+    background-color: #9a0000;
+  }
+  #Cádiz {
+    background-color: #0045a7;
+  }
+  #Celta_Vigo {
+    background-color: #8ac3ee;
+  }
+  #Elche {
+    background-color: #05642c;
+  }
+  #Espanyol {
+    background-color: #1e6bc0;
+  }
+  #Getafe {
+    background-color: #005999;
+  }
+  #Granada {
+    background-color: #a61b2b;
+  }
+  #Levante {
+    background-color: $black;
+  }
+  #Mallorca {
+    color: $black;
+    background-color: #fff704;
+  }
+  #Osasuna {
+    background-color: #0a346f;
+  }
+  #Rayo_Vallecano {
+    background-color: $black;
+  }
+  #Real_Betis {
+    background-color: #00954c;
+  }
+  #Real_Madrid {
+    background-color: #00529f;
+  }
+  #Real_Sociedad {
+    background-color: #143c8b;
+  }
+  #Sevilla {
+    background-color: #f43333;
+  }
+  #Valencia {
+    color: $black;
+    background-color: #ffdf1c;
+  }
+  #Villarreal {
+    background-color: #005187;
+  }
+}
+
+#mlb_team_options {
+  #ARI {
+    color: #e3d4ad;
+    background-color: #a71930;
+  }
+  #ATL {
+    background-color: #ce1141;
+  }
+  #BAL {
+    color: #df4601;
+    background-color: $black;
+  }
+  #BOS {
+    background-color: #0c2340;
+  }
+  #CHC {
+    background-color: #0e3386;
+  }
+  #CHW {
+    background-color: #27251f;
+  }
+  #CIN {
+    background-color: #c6011f;
+  }
+  #CLE {
+    background-color: #0c2340;
+  }
+  #COL {
+    color: #c4ced4;
+    background-color: #33006f;
+  }
+  #DET {
+    background-color: #0c2340;
+  }
+  #HOU {
+    color: #002d62;
+    background-color: #eb6e1f;
+  }
+  #KCR {
+    background-color: #004687;
+  }
+  #ANA {
+    background-color: #ba0021;
+  }
+  #LAD {
+    background-color: #005a9c;
+  }
+  #FLA {
+    color: $black;
+    background-color: #00a3e0;
+  }
+  #MIL {
+    background-color: #12284b;
+  }
+  #MIN {
+    background-color: #002b5c;
+  }
+  #NYM {
+    color: #002d72;
+    background-color: #ff5910;
+  }
+  #NYY {
+    background-color: #0c2349;
+  }
+  #OAK {
+    background-color: #003831;
+  }
+  #PHI {
+    color: #002d72;
+    background-color: #e81828;
+  }
+  #PIT {
+    color: #fdb827;
+    background-color: #27251f;
+  }
+  #SDP {
+    background-color: #2f241d;
+  }
+  #SEA {
+    color: #c4ced4;
+    background-color: #0c2c56;
+  }
+  #SFG {
+    color: #fd5a1e;
+    background-color: #27251f;
+  }
+  #STL {
+    background-color: #c41e3a;
+  }
+  #TBD {
+    background-color: #092c5c;
+  }
+  #TEX {
+    background-color: #003278;
+  }
+  #TOR {
+    background-color: #1d2d5c;
+  }
+  #WSN {
+    background-color: #ab0003;
+  }
+}
+
+#mls_team_options {
+  #ATL {
+    background-color: #80000a;
+  }
+  #AUS {
+    background-color: #00b140;
+  }
+  #CHR {
+    background-color: #1a85c8;
+  }
+  #CHI {
+    background-color: #141946;
+  }
+  #CIN {
+    color: #263b80;
+    background-color: #f05323;
+  }
+  #COL {
+    background-color: #960a2c;
+  }
+  #CLM {
+    background-color: $black;
+  }
+  #DCU {
+    background-color: #231f20;
+  }
+  #DAL {
+    background-color: #2a4076;
+  }
+  #HOU {
+    color: #ff6b00;
+    background-color: #101820;
+  }
+  #SKC {
+    background-color: #002f65;
+  }
+  #LAG {
+    background-color: #00245d;
+  }
+  #LAF {
+    color: #c39e6d;
+    background-color: $black;
+  }
+  #MIA {
+    color: $black;
+    background-color: #f7b5cd;
+  }
+  #MIN {
+    color: #8cd2f4;
+    background-color: #231f20;
+  }
+  #MON {
+    background-color: #0033a1;
+  }
+  #NAS {
+    color: #1f1646;
+    background-color: #ece83a;
+  }
+  #NER {
+    color: #0a2240;
+    background-color: $white;
+  }
+  #NYB {
+    background-color: #ed1e36;
+  }
+  #NYF {
+    background-color: #041e42;
+  }
+  #ORC {
+    background-color: #633492;
+  }
+  #PHI {
+    color: #b19b69;
+    background-color: #071b2c;
+  }
+  #POR {
+    background-color: #00482b;
+  }
+  #RSL {
+    color: #f1cb00;
+    background-color: #013a81;
+  }
+  #SJE {
+    background-color: $black;
+  }
+  #SEA {
+    background-color: #5d9741;
+  }
+  #TOR {
+    background-color: #b81137;
+  }
+  #VAN {
+    background-color: #00245e;
+  }
+}
+
+#nba_team_options {
+  #ATL {
+    background-color: #e03a3e;
+  }
+  #BOS {
+    background-color: #007a33;
+  }
+  #NJN {
+    background-color: $black;
+  }
+  #CHA {
+    background-color: #1d1160;
+  }
+  #CHI {
+    background-color: #ce1141;
+  }
+  #CLE {
+    background-color: #860038;
+  }
+  #DALM {
+    background-color: #00538c;
+  }
+  #DEN {
+    background-color: #0e2240;
+  }
+  #DET {
+    background-color: #c8102e;
+  }
+  #WAR {
+    background-color: #1d428a;
+  }
+  #HOU {
+    background-color: #ce1141;
+  }
+  #IND {
+    background-color: #002d62;
+  }
+  #LAC {
+    background-color: #c8102e;
+  }
+  #MINL {
+    background-color: #552583;
+  }
+  #MEM {
+    background-color: #5d76a9;
+  }
+  #MIA {
+    background-color: #98002e;
+  }
+  #MIL {
+    background-color: #00471b;
+  }
+  #MIN {
+    background-color: #0c2340;
+  }
+  #NOR {
+    background-color: #0c2340;
+  }
+  #NYK {
+    background-color: #006bb6;
+  }
+  #OKC {
+    background-color: #007ac1;
+  }
+  #ORL {
+    background-color: #0077c0;
+  }
+  #PHI {
+    background-color: #ed174c;
+  }
+  #PHE {
+    background-color: #1d1160;
+  }
+  #POR {
+    background-color: #e03a3e;
+  }
+  #SAC {
+    background-color: #5a2d81;
+  }
+  #SAP {
+    background-color: $black;
+  }
+  #TOR {
+    background-color: #ce1141;
+  }
+  #NOJ {
+    background-color: #002b5c;
+  }
+  #CHIP {
+    background-color: #002b5c;
+  }
+}
+
+#ncaaf_team_options {
+  .team_selection {
+    color: $black;
+  }
+}
+
+#nhl_team_options {
+  #ANA {
+    background-color: $black;
+  }
+  #PHO {
+    background-color: #8c2633;
+  }
+  #BOS {
+    background-color: $black;
+  }
+  #BUF {
+    background-color: #002654;
+  }
+  #CAL {
+    background-color: #c8102e;
+  }
+  #CAR {
+    background-color: #cc0000;
+  }
+  #CHI {
+    background-color: #cf0a2c;
+  }
+  #COL {
+    background-color: #6f263d;
+  }
+  #CBS {
+    background-color: #002654;
+  }
+  #DAL {
+    background-color: #006847;
+  }
+  #DET {
+    background-color: #ce1126;
+  }
+  #EDM {
+    background-color: #041e42;
+  }
+  #FLO {
+    background-color: #041e42;
+  }
+  #LAK {
+    background-color: $black;
+  }
+  #MIN {
+    background-color: #154734;
+  }
+  #MTL {
+    background-color: #af1e2d;
+  }
+  #NAS {
+    background-color: #041e42;
+  }
+  #NJD {
+    background-color: #ce1126;
+  }
+  #NYI {
+    background-color: #00539b;
+  }
+  #NYR {
+    background-color: #0038a8;
+  }
+  #OTT {
+    background-color: #c52032;
+  }
+  #PHI {
+    color: $black;
+    background-color: #f74902;
+  }
+  #PIT {
+    color: #cfc493;
+    background-color: $black;
+  }
+  #SJS {
+    background-color: #006d75;
+  }
+  #STL {
+    background-color: #002f87;
+  }
+  #TBL {
+    background-color: #002868;
+  }
+  #TOR {
+    background-color: #00205b;
+  }
+  #VAN {
+    background-color: #041c2c;
+  }
+  #VGK {
+    background-color: #333f42;
+  }
+  #WAS {
+    background-color: #041e42;
+  }
+  #WPG {
+    background-color: #041e42;
+  }
+}
+
+#nfl_team_options {
+  #ARZ {
+    background-color: #97233f;
+  }
+  #ATL {
+    background-color: #a71930;
+  }
+  #BAL {
+    background-color: #241773;
+  }
+  #BUF {
+    background-color: #00338d;
+  }
+  #CAR {
+    background-color: #0085ca;
+  }
+  #CHI {
+    background-color: #0b162a;
+  }
+  #CIN {
+    color: $black;
+    background-color: #fb4f14;
+  }
+  #CLE {
+    background-color: #311d00;
+  }
+  #DAL {
+    background-color: #041e42;
+  }
+  #DEN {
+    background-color: #002244;
+  }
+  #DET {
+    background-color: #0076b6;
+  }
+  #GBP {
+    background-color: #203731;
+  }
+  #HOU {
+    background-color: #03202f;
+  }
+  #IND {
+    background-color: #002c5f;
+  }
+  #JAX {
+    background-color: #006778;
+  }
+  #KCC {
+    background-color: #e31837;
+  }
+  #LVR {
+    background-color: $black;
+  }
+  #LAC {
+    background-color: #0080c6;
+  }
+  #LAR {
+    background-color: #003594;
+  }
+  #MIA {
+    background-color: #008e97;
+  }
+  #MIN {
+    background-color: #4f2683;
+  }
+  #NEP {
+    background-color: #002244;
+  }
+  #NOS {
+    color: $black;
+    background-color: #d3bc8d;
+  }
+  #NYG {
+    background-color: #0b2265;
+  }
+  #NYJ {
+    background-color: #125740;
+  }
+  #PHI {
+    background-color: #004c54;
+  }
+  #PIT {
+    background-color: $black;
+  }
+  #SFC {
+    background-color: #aa0000;
+  }
+  #SEA {
+    background-color: #002244;
+  }
+  #TBB {
+    background-color: #d50a0a;
+  }
+  #TEN {
+    background-color: #0c2340;
+  }
+  #WAS {
+    color: #ffb612;
+    background-color: #5a1414;
+  }
+}
+
+#nwsl_team_options {
+  #CHI {
+    background-color: #051c2c;
+  }
+  #HOU {
+    background-color: #101820;
+  }
+  #KCC {
+    background-color: #cb333b;
+  }
+  #LOU {
+    color: #1e1a34;
+    background-color: #c5b4e3;
+  }
+  #NYF {
+    background-color: #01426a;
+  }
+  #NYG {
+    color: #9adbe8;
+    background-color: #010101;
+  }
+  #ORL {
+    background-color: #5f249f;
+  }
+  #POR {
+    background-color: #93282c;
+  }
+  #SEA {
+    background-color: #003087;
+  }
+  #WAS {
+    background-color: #c8102e;
+  }
+}
+
+#wnba_team_options {
+  #ATL {
+    background-color: #c8102e;
+  }
+  #CHI {
+    background-color: #418fde;
+  }
+  #CON {
+    background-color: #a6192e;
+  }
+  #DAL {
+    color: #c4d600;
+    background-color: #0c2340;
+  }
+  #IND {
+    background-color: #041e42;
+  }
+  #LVA {
+    background-color: $black;
+  }
+  #LAS {
+    background-color: #702f8a;
+  }
+  #MIN {
+    background-color: #0c2340;
+  }
+  #NYL {
+    color: $black;
+    background-color: #6eceb2;
+  }
+  #PHE {
+    background-color: #201747;
+  }
+  #SEA {
+    background-color: #2c5234;
+  }
+  #WAS {
+    background-color: #0c2340;
+  }
+}

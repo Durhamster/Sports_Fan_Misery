@@ -1,0 +1,1059 @@
+@charset "UTF-8";
+/* Commonly Used Colors */
+/* ---------------------------------------------------
+  Team Color Codes from: https://teamcolorcodes.com/, https://sportsfancovers.com/ipl-color-codes/
+--------------------------------------------------- */
+.team_selection {
+  color: #ffffff;
+}
+
+#cfl_team_options #BCL {
+  color: #000000;
+  background-color: #f15524;
+}
+
+#cfl_team_options #CAL {
+  background-color: #d0202d;
+}
+
+#cfl_team_options #EDM {
+  background-color: #2b5235;
+}
+
+#cfl_team_options #HAM {
+  color: #000000;
+  background-color: #ffb612;
+}
+
+#cfl_team_options #MON {
+  background-color: #183c6e;
+}
+
+#cfl_team_options #OTT {
+  background-color: #c8102e;
+}
+
+#cfl_team_options #SAK {
+  background-color: #036242;
+}
+
+#cfl_team_options #TOR {
+  background-color: #0d2240;
+}
+
+#cfl_team_options #WIN {
+  background-color: #1d3d7a;
+}
+
+#epl_team_options #Aston_Villa {
+  color: #670e36;
+  background-color: #95bfe5;
+}
+
+#epl_team_options #Arsenal {
+  background-color: #db0007;
+}
+
+#epl_team_options #Brighton {
+  background-color: #0057b8;
+}
+
+#epl_team_options #Burnley {
+  background-color: #6c1d45;
+}
+
+#epl_team_options #Chelsea {
+  background-color: #034694;
+}
+
+#epl_team_options #Crystal_Palace {
+  background-color: #1b458f;
+}
+
+#epl_team_options #Everton {
+  background-color: #003399;
+}
+
+#epl_team_options #Fulham {
+  background-color: #000000;
+}
+
+#epl_team_options #Leeds_United {
+  background-color: #1d428a;
+}
+
+#epl_team_options #Leicester_City {
+  color: #003090;
+  background-color: #fdbe11;
+}
+
+#epl_team_options #Liverpool {
+  background-color: #c8102e;
+}
+
+#epl_team_options #Manchester_City {
+  background-color: #6cabdd;
+}
+
+#epl_team_options #Manchester_Utd {
+  background-color: #da291c;
+}
+
+#epl_team_options #Newcastle_Utd {
+  background-color: #000000;
+}
+
+#epl_team_options #Sheffield_Utd {
+  background-color: #ee2737;
+}
+
+#epl_team_options #Southampton {
+  background-color: #d71920;
+}
+
+#epl_team_options #Tottenham {
+  background-color: #132257;
+}
+
+#epl_team_options #West_Ham {
+  background-color: #7a263a;
+}
+
+#epl_team_options #Wolves {
+  background-color: #000000;
+}
+
+#epl_team_options #West_Brom {
+  background-color: #122f67;
+}
+
+#kbo_team_options #OBB {
+  background-color: #ed1b23;
+}
+
+#kbo_team_options #BGE {
+  background-color: #f15a28;
+}
+
+#kbo_team_options #HAI {
+  background-color: #000000;
+}
+
+#kbo_team_options #WOH {
+  background-color: #820024;
+}
+
+#kbo_team_options #KTW {
+  background-color: #ed1b23;
+}
+
+#kbo_team_options #MBC {
+  background-color: #c7004e;
+}
+
+#kbo_team_options #LOG {
+  color: #ed6d00;
+  background-color: #000000;
+}
+
+#kbo_team_options #NCD {
+  background-color: #1e467d;
+}
+
+#kbo_team_options #SAM {
+  background-color: #0f4f9e;
+}
+
+#kbo_team_options #SKW {
+  background-color: #e30021;
+}
+
+#ipl_team_options #CSK {
+  background-color: #f25c19;
+}
+
+#ipl_team_options #DC {
+  background-color: #282968;
+}
+
+#ipl_team_options #PBKS {
+  background-color: #ed1f27;
+}
+
+#ipl_team_options #KKR {
+  color: #3a225d;
+  background-color: #f3c433;
+}
+
+#ipl_team_options #MI {
+  background-color: #004f91;
+}
+
+#ipl_team_options #RR {
+  background-color: #254aa5;
+}
+
+#ipl_team_options #RCB {
+  color: #2b2a29;
+  background-color: #e5b582;
+}
+
+#ipl_team_options #HDC {
+  background-color: #9a1c22;
+}
+
+#isl_team_options #ATK {
+  background-color: #6e1910;
+}
+
+#isl_team_options #BFC {
+  background-color: #2a479e;
+}
+
+#isl_team_options #CHE {
+  color: #f9ed1a;
+  background-color: #1b4794;
+}
+
+#isl_team_options #EGE {
+  background-color: #d91610;
+}
+
+#isl_team_options #GOA {
+  color: #070f57;
+  background-color: #fd7200;
+}
+
+#isl_team_options #HYD {
+  color: #000000;
+  background-color: #f9ed1a;
+}
+
+#isl_team_options #JAM {
+  background-color: #013ca6;
+}
+
+#isl_team_options #KER {
+  color: #092f87;
+  background-color: #f4e84e;
+}
+
+#isl_team_options #MBC {
+  background-color: #092265;
+}
+
+#isl_team_options #NEU {
+  background-color: #e51b24;
+}
+
+#isl_team_options #DEL {
+  color: #fc2727;
+  background-color: #1e1d49;
+}
+
+#laliga_team_options #Alavés {
+  background-color: #0a3ff5;
+}
+
+#laliga_team_options #Athletic_Club {
+  background-color: #ee2523;
+}
+
+#laliga_team_options #Atlético_Madrid {
+  background-color: #262f61;
+}
+
+#laliga_team_options #Barcelona {
+  background-color: #9a0000;
+}
+
+#laliga_team_options #Cádiz {
+  background-color: #0045a7;
+}
+
+#laliga_team_options #Celta_Vigo {
+  background-color: #8ac3ee;
+}
+
+#laliga_team_options #Elche {
+  background-color: #05642c;
+}
+
+#laliga_team_options #Espanyol {
+  background-color: #1e6bc0;
+}
+
+#laliga_team_options #Getafe {
+  background-color: #005999;
+}
+
+#laliga_team_options #Granada {
+  background-color: #a61b2b;
+}
+
+#laliga_team_options #Levante {
+  background-color: #000000;
+}
+
+#laliga_team_options #Mallorca {
+  color: #000000;
+  background-color: #fff704;
+}
+
+#laliga_team_options #Osasuna {
+  background-color: #0a346f;
+}
+
+#laliga_team_options #Rayo_Vallecano {
+  background-color: #000000;
+}
+
+#laliga_team_options #Real_Betis {
+  background-color: #00954c;
+}
+
+#laliga_team_options #Real_Madrid {
+  background-color: #00529f;
+}
+
+#laliga_team_options #Real_Sociedad {
+  background-color: #143c8b;
+}
+
+#laliga_team_options #Sevilla {
+  background-color: #f43333;
+}
+
+#laliga_team_options #Valencia {
+  color: #000000;
+  background-color: #ffdf1c;
+}
+
+#laliga_team_options #Villarreal {
+  background-color: #005187;
+}
+
+#mlb_team_options #ARI {
+  color: #e3d4ad;
+  background-color: #a71930;
+}
+
+#mlb_team_options #ATL {
+  background-color: #ce1141;
+}
+
+#mlb_team_options #BAL {
+  color: #df4601;
+  background-color: #000000;
+}
+
+#mlb_team_options #BOS {
+  background-color: #0c2340;
+}
+
+#mlb_team_options #CHC {
+  background-color: #0e3386;
+}
+
+#mlb_team_options #CHW {
+  background-color: #27251f;
+}
+
+#mlb_team_options #CIN {
+  background-color: #c6011f;
+}
+
+#mlb_team_options #CLE {
+  background-color: #0c2340;
+}
+
+#mlb_team_options #COL {
+  color: #c4ced4;
+  background-color: #33006f;
+}
+
+#mlb_team_options #DET {
+  background-color: #0c2340;
+}
+
+#mlb_team_options #HOU {
+  color: #002d62;
+  background-color: #eb6e1f;
+}
+
+#mlb_team_options #KCR {
+  background-color: #004687;
+}
+
+#mlb_team_options #ANA {
+  background-color: #ba0021;
+}
+
+#mlb_team_options #LAD {
+  background-color: #005a9c;
+}
+
+#mlb_team_options #FLA {
+  color: #000000;
+  background-color: #00a3e0;
+}
+
+#mlb_team_options #MIL {
+  background-color: #12284b;
+}
+
+#mlb_team_options #MIN {
+  background-color: #002b5c;
+}
+
+#mlb_team_options #NYM {
+  color: #002d72;
+  background-color: #ff5910;
+}
+
+#mlb_team_options #NYY {
+  background-color: #0c2349;
+}
+
+#mlb_team_options #OAK {
+  background-color: #003831;
+}
+
+#mlb_team_options #PHI {
+  color: #002d72;
+  background-color: #e81828;
+}
+
+#mlb_team_options #PIT {
+  color: #fdb827;
+  background-color: #27251f;
+}
+
+#mlb_team_options #SDP {
+  background-color: #2f241d;
+}
+
+#mlb_team_options #SEA {
+  color: #c4ced4;
+  background-color: #0c2c56;
+}
+
+#mlb_team_options #SFG {
+  color: #fd5a1e;
+  background-color: #27251f;
+}
+
+#mlb_team_options #STL {
+  background-color: #c41e3a;
+}
+
+#mlb_team_options #TBD {
+  background-color: #092c5c;
+}
+
+#mlb_team_options #TEX {
+  background-color: #003278;
+}
+
+#mlb_team_options #TOR {
+  background-color: #1d2d5c;
+}
+
+#mlb_team_options #WSN {
+  background-color: #ab0003;
+}
+
+#mls_team_options #ATL {
+  background-color: #80000a;
+}
+
+#mls_team_options #AUS {
+  background-color: #00b140;
+}
+
+#mls_team_options #CHR {
+  background-color: #1a85c8;
+}
+
+#mls_team_options #CHI {
+  background-color: #141946;
+}
+
+#mls_team_options #CIN {
+  color: #263b80;
+  background-color: #f05323;
+}
+
+#mls_team_options #COL {
+  background-color: #960a2c;
+}
+
+#mls_team_options #CLM {
+  background-color: #000000;
+}
+
+#mls_team_options #DCU {
+  background-color: #231f20;
+}
+
+#mls_team_options #DAL {
+  background-color: #2a4076;
+}
+
+#mls_team_options #HOU {
+  color: #ff6b00;
+  background-color: #101820;
+}
+
+#mls_team_options #SKC {
+  background-color: #002f65;
+}
+
+#mls_team_options #LAG {
+  background-color: #00245d;
+}
+
+#mls_team_options #LAF {
+  color: #c39e6d;
+  background-color: #000000;
+}
+
+#mls_team_options #MIA {
+  color: #000000;
+  background-color: #f7b5cd;
+}
+
+#mls_team_options #MIN {
+  color: #8cd2f4;
+  background-color: #231f20;
+}
+
+#mls_team_options #MON {
+  background-color: #0033a1;
+}
+
+#mls_team_options #NAS {
+  color: #1f1646;
+  background-color: #ece83a;
+}
+
+#mls_team_options #NER {
+  color: #0a2240;
+  background-color: #ffffff;
+}
+
+#mls_team_options #NYB {
+  background-color: #ed1e36;
+}
+
+#mls_team_options #NYF {
+  background-color: #041e42;
+}
+
+#mls_team_options #ORC {
+  background-color: #633492;
+}
+
+#mls_team_options #PHI {
+  color: #b19b69;
+  background-color: #071b2c;
+}
+
+#mls_team_options #POR {
+  background-color: #00482b;
+}
+
+#mls_team_options #RSL {
+  color: #f1cb00;
+  background-color: #013a81;
+}
+
+#mls_team_options #SJE {
+  background-color: #000000;
+}
+
+#mls_team_options #SEA {
+  background-color: #5d9741;
+}
+
+#mls_team_options #TOR {
+  background-color: #b81137;
+}
+
+#mls_team_options #VAN {
+  background-color: #00245e;
+}
+
+#nba_team_options #ATL {
+  background-color: #e03a3e;
+}
+
+#nba_team_options #BOS {
+  background-color: #007a33;
+}
+
+#nba_team_options #NJN {
+  background-color: #000000;
+}
+
+#nba_team_options #CHA {
+  background-color: #1d1160;
+}
+
+#nba_team_options #CHI {
+  background-color: #ce1141;
+}
+
+#nba_team_options #CLE {
+  background-color: #860038;
+}
+
+#nba_team_options #DALM {
+  background-color: #00538c;
+}
+
+#nba_team_options #DEN {
+  background-color: #0e2240;
+}
+
+#nba_team_options #DET {
+  background-color: #c8102e;
+}
+
+#nba_team_options #WAR {
+  background-color: #1d428a;
+}
+
+#nba_team_options #HOU {
+  background-color: #ce1141;
+}
+
+#nba_team_options #IND {
+  background-color: #002d62;
+}
+
+#nba_team_options #LAC {
+  background-color: #c8102e;
+}
+
+#nba_team_options #MINL {
+  background-color: #552583;
+}
+
+#nba_team_options #MEM {
+  background-color: #5d76a9;
+}
+
+#nba_team_options #MIA {
+  background-color: #98002e;
+}
+
+#nba_team_options #MIL {
+  background-color: #00471b;
+}
+
+#nba_team_options #MIN {
+  background-color: #0c2340;
+}
+
+#nba_team_options #NOR {
+  background-color: #0c2340;
+}
+
+#nba_team_options #NYK {
+  background-color: #006bb6;
+}
+
+#nba_team_options #OKC {
+  background-color: #007ac1;
+}
+
+#nba_team_options #ORL {
+  background-color: #0077c0;
+}
+
+#nba_team_options #PHI {
+  background-color: #ed174c;
+}
+
+#nba_team_options #PHE {
+  background-color: #1d1160;
+}
+
+#nba_team_options #POR {
+  background-color: #e03a3e;
+}
+
+#nba_team_options #SAC {
+  background-color: #5a2d81;
+}
+
+#nba_team_options #SAP {
+  background-color: #000000;
+}
+
+#nba_team_options #TOR {
+  background-color: #ce1141;
+}
+
+#nba_team_options #NOJ {
+  background-color: #002b5c;
+}
+
+#nba_team_options #CHIP {
+  background-color: #002b5c;
+}
+
+#ncaaf_team_options .team_selection {
+  color: #000000;
+}
+
+#nhl_team_options #ANA {
+  background-color: #000000;
+}
+
+#nhl_team_options #PHO {
+  background-color: #8c2633;
+}
+
+#nhl_team_options #BOS {
+  background-color: #000000;
+}
+
+#nhl_team_options #BUF {
+  background-color: #002654;
+}
+
+#nhl_team_options #CAL {
+  background-color: #c8102e;
+}
+
+#nhl_team_options #CAR {
+  background-color: #cc0000;
+}
+
+#nhl_team_options #CHI {
+  background-color: #cf0a2c;
+}
+
+#nhl_team_options #COL {
+  background-color: #6f263d;
+}
+
+#nhl_team_options #CBS {
+  background-color: #002654;
+}
+
+#nhl_team_options #DAL {
+  background-color: #006847;
+}
+
+#nhl_team_options #DET {
+  background-color: #ce1126;
+}
+
+#nhl_team_options #EDM {
+  background-color: #041e42;
+}
+
+#nhl_team_options #FLO {
+  background-color: #041e42;
+}
+
+#nhl_team_options #LAK {
+  background-color: #000000;
+}
+
+#nhl_team_options #MIN {
+  background-color: #154734;
+}
+
+#nhl_team_options #MTL {
+  background-color: #af1e2d;
+}
+
+#nhl_team_options #NAS {
+  background-color: #041e42;
+}
+
+#nhl_team_options #NJD {
+  background-color: #ce1126;
+}
+
+#nhl_team_options #NYI {
+  background-color: #00539b;
+}
+
+#nhl_team_options #NYR {
+  background-color: #0038a8;
+}
+
+#nhl_team_options #OTT {
+  background-color: #c52032;
+}
+
+#nhl_team_options #PHI {
+  color: #000000;
+  background-color: #f74902;
+}
+
+#nhl_team_options #PIT {
+  color: #cfc493;
+  background-color: #000000;
+}
+
+#nhl_team_options #SJS {
+  background-color: #006d75;
+}
+
+#nhl_team_options #STL {
+  background-color: #002f87;
+}
+
+#nhl_team_options #TBL {
+  background-color: #002868;
+}
+
+#nhl_team_options #TOR {
+  background-color: #00205b;
+}
+
+#nhl_team_options #VAN {
+  background-color: #041c2c;
+}
+
+#nhl_team_options #VGK {
+  background-color: #333f42;
+}
+
+#nhl_team_options #WAS {
+  background-color: #041e42;
+}
+
+#nhl_team_options #WPG {
+  background-color: #041e42;
+}
+
+#nfl_team_options #ARZ {
+  background-color: #97233f;
+}
+
+#nfl_team_options #ATL {
+  background-color: #a71930;
+}
+
+#nfl_team_options #BAL {
+  background-color: #241773;
+}
+
+#nfl_team_options #BUF {
+  background-color: #00338d;
+}
+
+#nfl_team_options #CAR {
+  background-color: #0085ca;
+}
+
+#nfl_team_options #CHI {
+  background-color: #0b162a;
+}
+
+#nfl_team_options #CIN {
+  color: #000000;
+  background-color: #fb4f14;
+}
+
+#nfl_team_options #CLE {
+  background-color: #311d00;
+}
+
+#nfl_team_options #DAL {
+  background-color: #041e42;
+}
+
+#nfl_team_options #DEN {
+  background-color: #002244;
+}
+
+#nfl_team_options #DET {
+  background-color: #0076b6;
+}
+
+#nfl_team_options #GBP {
+  background-color: #203731;
+}
+
+#nfl_team_options #HOU {
+  background-color: #03202f;
+}
+
+#nfl_team_options #IND {
+  background-color: #002c5f;
+}
+
+#nfl_team_options #JAX {
+  background-color: #006778;
+}
+
+#nfl_team_options #KCC {
+  background-color: #e31837;
+}
+
+#nfl_team_options #LVR {
+  background-color: #000000;
+}
+
+#nfl_team_options #LAC {
+  background-color: #0080c6;
+}
+
+#nfl_team_options #LAR {
+  background-color: #003594;
+}
+
+#nfl_team_options #MIA {
+  background-color: #008e97;
+}
+
+#nfl_team_options #MIN {
+  background-color: #4f2683;
+}
+
+#nfl_team_options #NEP {
+  background-color: #002244;
+}
+
+#nfl_team_options #NOS {
+  color: #000000;
+  background-color: #d3bc8d;
+}
+
+#nfl_team_options #NYG {
+  background-color: #0b2265;
+}
+
+#nfl_team_options #NYJ {
+  background-color: #125740;
+}
+
+#nfl_team_options #PHI {
+  background-color: #004c54;
+}
+
+#nfl_team_options #PIT {
+  background-color: #000000;
+}
+
+#nfl_team_options #SFC {
+  background-color: #aa0000;
+}
+
+#nfl_team_options #SEA {
+  background-color: #002244;
+}
+
+#nfl_team_options #TBB {
+  background-color: #d50a0a;
+}
+
+#nfl_team_options #TEN {
+  background-color: #0c2340;
+}
+
+#nfl_team_options #WAS {
+  color: #ffb612;
+  background-color: #5a1414;
+}
+
+#nwsl_team_options #CHI {
+  background-color: #051c2c;
+}
+
+#nwsl_team_options #HOU {
+  background-color: #101820;
+}
+
+#nwsl_team_options #KCC {
+  background-color: #cb333b;
+}
+
+#nwsl_team_options #LOU {
+  color: #1e1a34;
+  background-color: #c5b4e3;
+}
+
+#nwsl_team_options #NYF {
+  background-color: #01426a;
+}
+
+#nwsl_team_options #NYG {
+  color: #9adbe8;
+  background-color: #010101;
+}
+
+#nwsl_team_options #ORL {
+  background-color: #5f249f;
+}
+
+#nwsl_team_options #POR {
+  background-color: #93282c;
+}
+
+#nwsl_team_options #SEA {
+  background-color: #003087;
+}
+
+#nwsl_team_options #WAS {
+  background-color: #c8102e;
+}
+
+#wnba_team_options #ATL {
+  background-color: #c8102e;
+}
+
+#wnba_team_options #CHI {
+  background-color: #418fde;
+}
+
+#wnba_team_options #CON {
+  background-color: #a6192e;
+}
+
+#wnba_team_options #DAL {
+  color: #c4d600;
+  background-color: #0c2340;
+}
+
+#wnba_team_options #IND {
+  background-color: #041e42;
+}
+
+#wnba_team_options #LVA {
+  background-color: #000000;
+}
+
+#wnba_team_options #LAS {
+  background-color: #702f8a;
+}
+
+#wnba_team_options #MIN {
+  background-color: #0c2340;
+}
+
+#wnba_team_options #NYL {
+  color: #000000;
+  background-color: #6eceb2;
+}
+
+#wnba_team_options #PHE {
+  background-color: #201747;
+}
+
+#wnba_team_options #SEA {
+  background-color: #2c5234;
+}
+
+#wnba_team_options #WAS {
+  background-color: #0c2340;
+}
+/*# sourceMappingURL=team_colors.css.map */

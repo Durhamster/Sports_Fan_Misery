@@ -1,0 +1,1574 @@
+﻿Season,Season_end,Lg,franchID,Team,W,L,Finals_W,Finals_RU
+1946-47,1947,BAA,BOS,Boston Celtics,22,38,N,N
+1946-47,1947,BAA,NYK,New York Knicks,33,27,N,N
+1946-47,1947,BAA,WAR,Philadelphia Warriors,35,25,Y,N
+1947-48,1948,BAA,BOS,Boston Celtics,20,28,N,N
+1947-48,1948,BAA,NYK,New York Knicks,26,22,N,N
+1947-48,1948,BAA,WAR,Philadelphia Warriors,27,21,N,Y
+1948-49,1949,BAA,BOS,Boston Celtics,25,35,N,N
+1948-49,1949,BAA,DET,Fort Wayne Pistons,22,38,N,N
+1948-49,1949,BAA,MINL,Minneapolis Lakers,44,16,Y,N
+1948-49,1949,BAA,NYK,New York Knicks,32,28,N,N
+1948-49,1949,BAA,SAC,Rochester Royals,45,15,N,N
+1948-49,1949,BAA,WAR,Philadelphia Warriors,28,32,N,N
+1949-50,1950,NBA,ATL,Tri-Cities Blackhawks,29,35,N,N
+1949-50,1950,NBA,BOS,Boston Celtics,22,46,N,N
+1949-50,1950,NBA,DET,Fort Wayne Pistons,40,28,N,N
+1949-50,1950,NBA,MINL,Minneapolis Lakers,51,17,Y,N
+1949-50,1950,NBA,NYK,New York Knicks,40,28,N,N
+1949-50,1950,NBA,PHI,Syracuse Nationals,51,13,N,Y
+1949-50,1950,NBA,SAC,Rochester Royals,51,17,N,N
+1949-50,1950,NBA,WAR,Philadelphia Warriors,26,42,N,N
+1950-51,1951,NBA,ATL,Tri-Cities Blackhawks,25,43,N,N
+1950-51,1951,NBA,BOS,Boston Celtics,39,30,N,N
+1950-51,1951,NBA,DET,Fort Wayne Pistons,32,36,N,N
+1950-51,1951,NBA,MINL,Minneapolis Lakers,44,24,N,N
+1950-51,1951,NBA,NYK,New York Knicks,36,30,N,Y
+1950-51,1951,NBA,PHI,Syracuse Nationals,32,34,N,N
+1950-51,1951,NBA,SAC,Rochester Royals,41,27,Y,N
+1950-51,1951,NBA,WAR,Philadelphia Warriors,40,26,N,N
+1951-52,1952,NBA,ATL,Milwaukee Hawks,17,49,N,N
+1951-52,1952,NBA,BOS,Boston Celtics,39,27,N,N
+1951-52,1952,NBA,DET,Fort Wayne Pistons,29,37,N,N
+1951-52,1952,NBA,MINL,Minneapolis Lakers,40,26,Y,N
+1951-52,1952,NBA,NYK,New York Knicks,37,29,N,Y
+1951-52,1952,NBA,PHI,Syracuse Nationals,40,26,N,N
+1951-52,1952,NBA,SAC,Rochester Royals,41,25,N,N
+1951-52,1952,NBA,WAR,Philadelphia Warriors,33,33,N,N
+1952-53,1953,NBA,ATL,Milwaukee Hawks,27,44,N,N
+1952-53,1953,NBA,BOS,Boston Celtics,46,25,N,N
+1952-53,1953,NBA,DET,Fort Wayne Pistons,36,33,N,N
+1952-53,1953,NBA,MINL,Minneapolis Lakers,48,22,Y,N
+1952-53,1953,NBA,NYK,New York Knicks,47,23,N,Y
+1952-53,1953,NBA,PHI,Syracuse Nationals,47,24,N,N
+1952-53,1953,NBA,SAC,Rochester Royals,44,26,N,N
+1952-53,1953,NBA,WAR,Philadelphia Warriors,12,57,N,N
+1953-54,1954,NBA,ATL,Milwaukee Hawks,21,51,N,N
+1953-54,1954,NBA,BOS,Boston Celtics,42,30,N,N
+1953-54,1954,NBA,DET,Fort Wayne Pistons,40,32,N,N
+1953-54,1954,NBA,MINL,Minneapolis Lakers,46,26,Y,N
+1953-54,1954,NBA,NYK,New York Knicks,44,28,N,N
+1953-54,1954,NBA,PHI,Syracuse Nationals,42,30,N,Y
+1953-54,1954,NBA,SAC,Rochester Royals,44,28,N,N
+1953-54,1954,NBA,WAR,Philadelphia Warriors,29,43,N,N
+1954-55,1955,NBA,ATL,Milwaukee Hawks,26,46,N,N
+1954-55,1955,NBA,BOS,Boston Celtics,36,36,N,N
+1954-55,1955,NBA,DET,Fort Wayne Pistons,43,29,N,Y
+1954-55,1955,NBA,MINL,Minneapolis Lakers,40,32,N,N
+1954-55,1955,NBA,NYK,New York Knicks,38,34,N,N
+1954-55,1955,NBA,PHI,Syracuse Nationals,43,29,Y,N
+1954-55,1955,NBA,SAC,Rochester Royals,29,43,N,N
+1954-55,1955,NBA,WAR,Philadelphia Warriors,33,39,N,N
+1955-56,1956,NBA,ATL,St. Louis Hawks,33,39,N,N
+1955-56,1956,NBA,BOS,Boston Celtics,39,33,N,N
+1955-56,1956,NBA,DET,Fort Wayne Pistons,37,35,N,Y
+1955-56,1956,NBA,MINL,Minneapolis Lakers,33,39,N,N
+1955-56,1956,NBA,NYK,New York Knicks,35,37,N,N
+1955-56,1956,NBA,PHI,Syracuse Nationals,35,37,N,N
+1955-56,1956,NBA,SAC,Rochester Royals,31,41,N,N
+1955-56,1956,NBA,WAR,Philadelphia Warriors,45,27,Y,N
+1956-57,1957,NBA,ATL,St. Louis Hawks,34,38,N,Y
+1956-57,1957,NBA,BOS,Boston Celtics,44,28,Y,N
+1956-57,1957,NBA,DET,Fort Wayne Pistons,34,38,N,N
+1956-57,1957,NBA,MINL,Minneapolis Lakers,34,38,N,N
+1956-57,1957,NBA,NYK,New York Knicks,36,36,N,N
+1956-57,1957,NBA,PHI,Syracuse Nationals,38,34,N,N
+1956-57,1957,NBA,SAC,Rochester Royals,31,41,N,N
+1956-57,1957,NBA,WAR,Philadelphia Warriors,37,35,N,N
+1957-58,1958,NBA,ATL,St. Louis Hawks,41,31,Y,N
+1957-58,1958,NBA,BOS,Boston Celtics,49,23,N,Y
+1957-58,1958,NBA,DET,Detroit Pistons,33,39,N,N
+1957-58,1958,NBA,MINL,Minneapolis Lakers,19,53,N,N
+1957-58,1958,NBA,NYK,New York Knicks,35,37,N,N
+1957-58,1958,NBA,PHI,Syracuse Nationals,41,31,N,N
+1957-58,1958,NBA,SAC,Cincinnati Royals,33,39,N,N
+1957-58,1958,NBA,WAR,Philadelphia Warriors,37,35,N,N
+1958-59,1959,NBA,ATL,St. Louis Hawks,49,23,N,N
+1958-59,1959,NBA,BOS,Boston Celtics,52,20,Y,N
+1958-59,1959,NBA,DET,Detroit Pistons,28,44,N,N
+1958-59,1959,NBA,MINL,Minneapolis Lakers,33,39,N,Y
+1958-59,1959,NBA,NYK,New York Knicks,40,32,N,N
+1958-59,1959,NBA,PHI,Syracuse Nationals,35,37,N,N
+1958-59,1959,NBA,SAC,Cincinnati Royals,19,53,N,N
+1958-59,1959,NBA,WAR,Philadelphia Warriors,32,40,N,N
+1959-60,1960,NBA,ATL,St. Louis Hawks,46,29,N,Y
+1959-60,1960,NBA,BOS,Boston Celtics,59,16,Y,N
+1959-60,1960,NBA,DET,Detroit Pistons,30,45,N,N
+1959-60,1960,NBA,MINL,Minneapolis Lakers,25,50,N,N
+1959-60,1960,NBA,NYK,New York Knicks,27,48,N,N
+1959-60,1960,NBA,PHI,Syracuse Nationals,45,30,N,N
+1959-60,1960,NBA,SAC,Cincinnati Royals,19,56,N,N
+1959-60,1960,NBA,WAR,Philadelphia Warriors,49,26,N,N
+1960-61,1961,NBA,ATL,St. Louis Hawks,51,28,N,Y
+1960-61,1961,NBA,BOS,Boston Celtics,57,22,Y,N
+1960-61,1961,NBA,DET,Detroit Pistons,34,45,N,N
+1960-61,1961,NBA,MINL,Los Angeles Lakers,36,43,N,N
+1960-61,1961,NBA,NYK,New York Knicks,21,58,N,N
+1960-61,1961,NBA,PHI,Syracuse Nationals,38,41,N,N
+1960-61,1961,NBA,SAC,Cincinnati Royals,33,46,N,N
+1960-61,1961,NBA,WAR,Philadelphia Warriors,46,33,N,N
+1961-62,1962,NBA,ATL,St. Louis Hawks,29,51,N,N
+1961-62,1962,NBA,BOS,Boston Celtics,60,20,Y,N
+1961-62,1962,NBA,CHIP,Chicago Packers,18,62,N,N
+1961-62,1962,NBA,DET,Detroit Pistons,37,43,N,N
+1961-62,1962,NBA,MINL,Los Angeles Lakers,54,26,N,Y
+1961-62,1962,NBA,NYK,New York Knicks,29,51,N,N
+1961-62,1962,NBA,PHI,Syracuse Nationals,41,39,N,N
+1961-62,1962,NBA,SAC,Cincinnati Royals,43,37,N,N
+1961-62,1962,NBA,WAR,Philadelphia Warriors,49,31,N,N
+1962-63,1963,NBA,ATL,St. Louis Hawks,48,32,N,N
+1962-63,1963,NBA,BOS,Boston Celtics,58,22,Y,N
+1962-63,1963,NBA,CHIP,Chicago Zephyrs,25,55,N,N
+1962-63,1963,NBA,DET,Detroit Pistons,34,46,N,N
+1962-63,1963,NBA,MINL,Los Angeles Lakers,53,27,N,Y
+1962-63,1963,NBA,NYK,New York Knicks,21,59,N,N
+1962-63,1963,NBA,PHI,Syracuse Nationals,48,32,N,N
+1962-63,1963,NBA,SAC,Cincinnati Royals,42,38,N,N
+1962-63,1963,NBA,WAR,San Francisco Warriors,31,49,N,N
+1963-64,1964,NBA,ATL,St. Louis Hawks,46,34,N,N
+1963-64,1964,NBA,BOS,Boston Celtics,59,21,Y,N
+1963-64,1964,NBA,CHIP,Baltimore Bullets,31,49,N,N
+1963-64,1964,NBA,DET,Detroit Pistons,23,57,N,N
+1963-64,1964,NBA,MINL,Los Angeles Lakers,42,38,N,N
+1963-64,1964,NBA,NYK,New York Knicks,22,58,N,N
+1963-64,1964,NBA,PHI,Philadelphia 76ers,34,46,N,N
+1963-64,1964,NBA,SAC,Cincinnati Royals,55,25,N,N
+1963-64,1964,NBA,WAR,San Francisco Warriors,48,32,N,Y
+1964-65,1965,NBA,ATL,St. Louis Hawks,45,35,N,N
+1964-65,1965,NBA,BOS,Boston Celtics,62,18,Y,N
+1964-65,1965,NBA,CHIP,Baltimore Bullets,37,43,N,N
+1964-65,1965,NBA,DET,Detroit Pistons,31,49,N,N
+1964-65,1965,NBA,MINL,Los Angeles Lakers,49,31,N,Y
+1964-65,1965,NBA,NYK,New York Knicks,31,49,N,N
+1964-65,1965,NBA,PHI,Philadelphia 76ers,40,40,N,N
+1964-65,1965,NBA,SAC,Cincinnati Royals,48,32,N,N
+1964-65,1965,NBA,WAR,San Francisco Warriors,17,63,N,N
+1965-66,1966,NBA,ATL,St. Louis Hawks,36,44,N,N
+1965-66,1966,NBA,BOS,Boston Celtics,54,26,Y,N
+1965-66,1966,NBA,CHIP,Baltimore Bullets,38,42,N,N
+1965-66,1966,NBA,DET,Detroit Pistons,22,58,N,N
+1965-66,1966,NBA,MINL,Los Angeles Lakers,45,35,N,Y
+1965-66,1966,NBA,NYK,New York Knicks,30,50,N,N
+1965-66,1966,NBA,PHI,Philadelphia 76ers,55,25,N,N
+1965-66,1966,NBA,SAC,Cincinnati Royals,45,35,N,N
+1965-66,1966,NBA,WAR,San Francisco Warriors,35,45,N,N
+1966-67,1967,NBA,ATL,St. Louis Hawks,39,42,N,N
+1966-67,1967,NBA,BOS,Boston Celtics,60,21,N,N
+1966-67,1967,NBA,CHI,Chicago Bulls,33,48,N,N
+1966-67,1967,NBA,CHIP,Baltimore Bullets,20,61,N,N
+1966-67,1967,NBA,DET,Detroit Pistons,30,51,N,N
+1966-67,1967,NBA,MINL,Los Angeles Lakers,36,45,N,N
+1966-67,1967,NBA,NYK,New York Knicks,36,45,N,N
+1966-67,1967,NBA,PHI,Philadelphia 76ers,68,13,Y,N
+1966-67,1967,NBA,SAC,Cincinnati Royals,39,42,N,N
+1966-67,1967,NBA,WAR,San Francisco Warriors,44,37,N,Y
+1967-68,1968,NBA,ATL,St. Louis Hawks,56,26,N,N
+1967-68,1968,NBA,BOS,Boston Celtics,54,28,Y,N
+1967-68,1968,NBA,CHI,Chicago Bulls,29,53,N,N
+1967-68,1968,NBA,CHIP,Baltimore Bullets,36,46,N,N
+1967-68,1968,ABA,DEN,Denver Rockets,45,33,N,N
+1967-68,1968,NBA,DET,Detroit Pistons,40,42,N,N
+1967-68,1968,NBA,HOU,San Diego Rockets,15,67,N,N
+1967-68,1968,ABA,IND,Indiana Pacers,38,40,N,N
+1967-68,1968,NBA,MINL,Los Angeles Lakers,52,30,N,Y
+1967-68,1968,ABA,NJN,New Jersey Americans,36,42,N,N
+1967-68,1968,NBA,NYK,New York Knicks,43,39,N,N
+1967-68,1968,NBA,PHI,Philadelphia 76ers,62,20,N,N
+1967-68,1968,NBA,SAC,Cincinnati Royals,39,43,N,N
+1967-68,1968,ABA,SAP,Dallas Chaparrals,46,32,N,N
+1967-68,1968,NBA,SEA,Seattle SuperSonics,23,59,N,N
+1967-68,1968,NBA,WAR,San Francisco Warriors,43,39,N,N
+1968-69,1969,NBA,ATL,Atlanta Hawks,48,34,N,N
+1968-69,1969,NBA,BOS,Boston Celtics,48,34,Y,N
+1968-69,1969,NBA,CHI,Chicago Bulls,33,49,N,N
+1968-69,1969,NBA,CHIP,Baltimore Bullets,57,25,N,N
+1968-69,1969,ABA,DEN,Denver Rockets,44,34,N,N
+1968-69,1969,NBA,DET,Detroit Pistons,32,50,N,N
+1968-69,1969,NBA,HOU,San Diego Rockets,37,45,N,N
+1968-69,1969,ABA,IND,Indiana Pacers,44,34,N,Y
+1968-69,1969,NBA,MIL,Milwaukee Bucks,27,55,N,N
+1968-69,1969,NBA,MINL,Los Angeles Lakers,55,27,N,Y
+1968-69,1969,ABA,NJN,New York Nets,17,61,N,N
+1968-69,1969,NBA,NYK,New York Knicks,54,28,N,N
+1968-69,1969,NBA,PHE,Phoenix Suns,16,66,N,N
+1968-69,1969,NBA,PHI,Philadelphia 76ers,55,27,N,N
+1968-69,1969,NBA,SAC,Cincinnati Royals,41,41,N,N
+1968-69,1969,ABA,SAP,Dallas Chaparrals,41,37,N,N
+1968-69,1969,NBA,SEA,Seattle SuperSonics,30,52,N,N
+1968-69,1969,NBA,WAR,San Francisco Warriors,41,41,N,N
+1969-70,1970,NBA,ATL,Atlanta Hawks,48,34,N,N
+1969-70,1970,NBA,BOS,Boston Celtics,34,48,N,N
+1969-70,1970,NBA,CHI,Chicago Bulls,39,43,N,N
+1969-70,1970,NBA,CHIP,Baltimore Bullets,50,32,N,N
+1969-70,1970,ABA,DEN,Denver Rockets,51,33,N,N
+1969-70,1970,NBA,DET,Detroit Pistons,31,51,N,N
+1969-70,1970,NBA,HOU,San Diego Rockets,27,55,N,N
+1969-70,1970,ABA,IND,Indiana Pacers,59,25,Y,N
+1969-70,1970,NBA,MIL,Milwaukee Bucks,56,26,N,N
+1969-70,1970,NBA,MINL,Los Angeles Lakers,46,36,N,Y
+1969-70,1970,ABA,NJN,New York Nets,39,45,N,N
+1969-70,1970,NBA,NYK,New York Knicks,60,22,Y,N
+1969-70,1970,NBA,PHE,Phoenix Suns,39,43,N,N
+1969-70,1970,NBA,PHI,Philadelphia 76ers,42,40,N,N
+1969-70,1970,NBA,SAC,Cincinnati Royals,36,46,N,N
+1969-70,1970,ABA,SAP,Dallas Chaparrals,45,39,N,N
+1969-70,1970,NBA,SEA,Seattle SuperSonics,36,46,N,N
+1969-70,1970,NBA,WAR,San Francisco Warriors,30,52,N,N
+1970-71,1971,NBA,ATL,Atlanta Hawks,36,46,N,N
+1970-71,1971,NBA,BOS,Boston Celtics,44,38,N,N
+1970-71,1971,NBA,CHI,Chicago Bulls,51,31,N,N
+1970-71,1971,NBA,CHIP,Baltimore Bullets,42,40,N,Y
+1970-71,1971,NBA,CLE,Cleveland Cavaliers,15,67,N,N
+1970-71,1971,ABA,DEN,Denver Rockets,30,54,N,N
+1970-71,1971,NBA,DET,Detroit Pistons,45,37,N,N
+1970-71,1971,NBA,HOU,San Diego Rockets,40,42,N,N
+1970-71,1971,ABA,IND,Indiana Pacers,58,26,N,N
+1970-71,1971,NBA,LAC,Buffalo Braves,22,60,N,N
+1970-71,1971,NBA,MIL,Milwaukee Bucks,66,16,Y,N
+1970-71,1971,NBA,MINL,Los Angeles Lakers,48,34,N,N
+1970-71,1971,ABA,NJN,New York Nets,40,44,N,N
+1970-71,1971,NBA,NYK,New York Knicks,52,30,N,N
+1970-71,1971,NBA,PHE,Phoenix Suns,48,34,N,N
+1970-71,1971,NBA,PHI,Philadelphia 76ers,47,35,N,N
+1970-71,1971,NBA,POR,Portland Trail Blazers,29,53,N,N
+1970-71,1971,NBA,SAC,Cincinnati Royals,33,49,N,N
+1970-71,1971,ABA,SAP,Texas Chaparrals,30,54,N,N
+1970-71,1971,NBA,SEA,Seattle SuperSonics,38,44,N,N
+1970-71,1971,NBA,WAR,San Francisco Warriors,41,41,N,N
+1971-72,1972,NBA,ATL,Atlanta Hawks,36,46,N,N
+1971-72,1972,NBA,BOS,Boston Celtics,56,26,N,N
+1971-72,1972,NBA,CHI,Chicago Bulls,57,25,N,N
+1971-72,1972,NBA,CHIP,Baltimore Bullets,38,44,N,N
+1971-72,1972,NBA,CLE,Cleveland Cavaliers,23,59,N,N
+1971-72,1972,ABA,DEN,Denver Rockets,34,50,N,N
+1971-72,1972,NBA,DET,Detroit Pistons,26,56,N,N
+1971-72,1972,NBA,HOU,Houston Rockets,34,48,N,N
+1971-72,1972,ABA,IND,Indiana Pacers,47,37,Y,N
+1971-72,1972,NBA,LAC,Buffalo Braves,22,60,N,N
+1971-72,1972,NBA,MIL,Milwaukee Bucks,63,19,N,N
+1971-72,1972,NBA,MINL,Los Angeles Lakers,69,13,Y,N
+1971-72,1972,ABA,NJN,New York Nets,44,40,N,Y
+1971-72,1972,NBA,NYK,New York Knicks,48,34,N,Y
+1971-72,1972,NBA,PHE,Phoenix Suns,49,33,N,N
+1971-72,1972,NBA,PHI,Philadelphia 76ers,30,52,N,N
+1971-72,1972,NBA,POR,Portland Trail Blazers,18,64,N,N
+1971-72,1972,NBA,SAC,Cincinnati Royals,30,52,N,N
+1971-72,1972,ABA,SAP,Dallas Chaparrals,42,42,N,N
+1971-72,1972,NBA,SEA,Seattle SuperSonics,47,35,N,N
+1971-72,1972,NBA,WAR,Golden State Warriors,51,31,N,N
+1972-73,1973,NBA,ATL,Atlanta Hawks,46,36,N,N
+1972-73,1973,NBA,BOS,Boston Celtics,68,14,N,N
+1972-73,1973,NBA,CHI,Chicago Bulls,51,31,N,N
+1972-73,1973,NBA,CHIP,Baltimore Bullets,52,30,N,N
+1972-73,1973,NBA,CLE,Cleveland Cavaliers,32,50,N,N
+1972-73,1973,ABA,DEN,Denver Rockets,47,37,N,N
+1972-73,1973,NBA,DET,Detroit Pistons,40,42,N,N
+1972-73,1973,NBA,HOU,Houston Rockets,33,49,N,N
+1972-73,1973,ABA,IND,Indiana Pacers,51,33,Y,N
+1972-73,1973,NBA,LAC,Buffalo Braves,21,61,N,N
+1972-73,1973,NBA,MIL,Milwaukee Bucks,60,22,N,N
+1972-73,1973,NBA,MINL,Los Angeles Lakers,60,22,N,Y
+1972-73,1973,ABA,NJN,New York Nets,30,54,N,N
+1972-73,1973,NBA,NYK,New York Knicks,57,25,Y,N
+1972-73,1973,NBA,PHE,Phoenix Suns,38,44,N,N
+1972-73,1973,NBA,PHI,Philadelphia 76ers,9,73,N,N
+1972-73,1973,NBA,POR,Portland Trail Blazers,21,61,N,N
+1972-73,1973,NBA,SAC,Kansas City-Omaha Kings,36,46,N,N
+1972-73,1973,ABA,SAP,Dallas Chaparrals,28,56,N,N
+1972-73,1973,NBA,SEA,Seattle SuperSonics,26,56,N,N
+1972-73,1973,NBA,WAR,Golden State Warriors,47,35,N,N
+1973-74,1974,NBA,ATL,Atlanta Hawks,35,47,N,N
+1973-74,1974,NBA,BOS,Boston Celtics,56,26,Y,N
+1973-74,1974,NBA,CHI,Chicago Bulls,54,28,N,N
+1973-74,1974,NBA,CHIP,Capital Bullets,47,35,N,N
+1973-74,1974,NBA,CLE,Cleveland Cavaliers,29,53,N,N
+1973-74,1974,ABA,DEN,Denver Rockets,37,47,N,N
+1973-74,1974,NBA,DET,Detroit Pistons,52,30,N,N
+1973-74,1974,NBA,HOU,Houston Rockets,32,50,N,N
+1973-74,1974,ABA,IND,Indiana Pacers,46,38,N,N
+1973-74,1974,NBA,LAC,Buffalo Braves,42,40,N,N
+1973-74,1974,NBA,MIL,Milwaukee Bucks,59,23,N,Y
+1973-74,1974,NBA,MINL,Los Angeles Lakers,47,35,N,N
+1973-74,1974,ABA,NJN,New York Nets,55,29,Y,N
+1973-74,1974,NBA,NYK,New York Knicks,49,33,N,N
+1973-74,1974,NBA,PHE,Phoenix Suns,30,52,N,N
+1973-74,1974,NBA,PHI,Philadelphia 76ers,25,57,N,N
+1973-74,1974,NBA,POR,Portland Trail Blazers,27,55,N,N
+1973-74,1974,NBA,SAC,Kansas City-Omaha Kings,33,49,N,N
+1973-74,1974,ABA,SAP,San Antonio Spurs,45,39,N,N
+1973-74,1974,NBA,SEA,Seattle SuperSonics,36,46,N,N
+1973-74,1974,NBA,WAR,Golden State Warriors,44,38,N,N
+1974-75,1975,NBA,ATL,Atlanta Hawks,31,51,N,N
+1974-75,1975,NBA,BOS,Boston Celtics,60,22,N,N
+1974-75,1975,NBA,CHI,Chicago Bulls,47,35,N,N
+1974-75,1975,NBA,CHIP,Washington Bullets,60,22,N,Y
+1974-75,1975,NBA,CLE,Cleveland Cavaliers,40,42,N,N
+1974-75,1975,ABA,DEN,Denver Nuggets,65,19,N,N
+1974-75,1975,NBA,DET,Detroit Pistons,40,42,N,N
+1974-75,1975,NBA,HOU,Houston Rockets,41,41,N,N
+1974-75,1975,ABA,IND,Indiana Pacers,45,39,N,Y
+1974-75,1975,NBA,LAC,Buffalo Braves,49,33,N,N
+1974-75,1975,NBA,MIL,Milwaukee Bucks,38,44,N,N
+1974-75,1975,NBA,MINL,Los Angeles Lakers,30,52,N,N
+1974-75,1975,ABA,NJN,New York Nets,58,26,N,N
+1974-75,1975,NBA,NOJ,New Orleans Jazz,23,59,N,N
+1974-75,1975,NBA,NYK,New York Knicks,40,42,N,N
+1974-75,1975,NBA,PHE,Phoenix Suns,32,50,N,N
+1974-75,1975,NBA,PHI,Philadelphia 76ers,34,48,N,N
+1974-75,1975,NBA,POR,Portland Trail Blazers,38,44,N,N
+1974-75,1975,NBA,SAC,Kansas City-Omaha Kings,44,38,N,N
+1974-75,1975,ABA,SAP,San Antonio Spurs,51,33,N,N
+1974-75,1975,NBA,SEA,Seattle SuperSonics,43,39,N,N
+1974-75,1975,NBA,WAR,Golden State Warriors,48,34,Y,N
+1975-76,1976,NBA,ATL,Atlanta Hawks,29,53,N,N
+1975-76,1976,NBA,BOS,Boston Celtics,54,28,Y,N
+1975-76,1976,NBA,CHI,Chicago Bulls,24,58,N,N
+1975-76,1976,NBA,CHIP,Washington Bullets,48,34,N,N
+1975-76,1976,NBA,CLE,Cleveland Cavaliers,49,33,N,N
+1975-76,1976,ABA,DEN,Denver Nuggets,60,24,N,Y
+1975-76,1976,NBA,DET,Detroit Pistons,36,46,N,N
+1975-76,1976,NBA,HOU,Houston Rockets,40,42,N,N
+1975-76,1976,ABA,IND,Indiana Pacers,39,45,N,N
+1975-76,1976,NBA,LAC,Buffalo Braves,46,36,N,N
+1975-76,1976,NBA,MIL,Milwaukee Bucks,38,44,N,N
+1975-76,1976,NBA,MINL,Los Angeles Lakers,40,42,N,N
+1975-76,1976,ABA,NJN,New York Nets,55,29,Y,N
+1975-76,1976,NBA,NOJ,New Orleans Jazz,38,44,N,N
+1975-76,1976,NBA,NYK,New York Knicks,38,44,N,N
+1975-76,1976,NBA,PHE,Phoenix Suns,42,40,N,Y
+1975-76,1976,NBA,PHI,Philadelphia 76ers,46,36,N,N
+1975-76,1976,NBA,POR,Portland Trail Blazers,37,45,N,N
+1975-76,1976,NBA,SAC,Kansas City Kings,31,51,N,N
+1975-76,1976,ABA,SAP,San Antonio Spurs,50,34,N,N
+1975-76,1976,NBA,SEA,Seattle SuperSonics,43,39,N,N
+1975-76,1976,NBA,WAR,Golden State Warriors,59,23,N,N
+1976-77,1977,NBA,ATL,Atlanta Hawks,31,51,N,N
+1976-77,1977,NBA,BOS,Boston Celtics,44,38,N,N
+1976-77,1977,NBA,CHI,Chicago Bulls,44,38,N,N
+1976-77,1977,NBA,CHIP,Washington Bullets,48,34,N,N
+1976-77,1977,NBA,CLE,Cleveland Cavaliers,43,39,N,N
+1976-77,1977,NBA,DEN,Denver Nuggets,50,32,N,N
+1976-77,1977,NBA,DET,Detroit Pistons,44,38,N,N
+1976-77,1977,NBA,HOU,Houston Rockets,49,33,N,N
+1976-77,1977,NBA,IND,Indiana Pacers,36,46,N,N
+1976-77,1977,NBA,LAC,Buffalo Braves,30,52,N,N
+1976-77,1977,NBA,MIL,Milwaukee Bucks,30,52,N,N
+1976-77,1977,NBA,MINL,Los Angeles Lakers,53,29,N,N
+1976-77,1977,NBA,NJN,New York Nets,22,60,N,N
+1976-77,1977,NBA,NOJ,New Orleans Jazz,35,47,N,N
+1976-77,1977,NBA,NYK,New York Knicks,40,42,N,N
+1976-77,1977,NBA,PHE,Phoenix Suns,34,48,N,N
+1976-77,1977,NBA,PHI,Philadelphia 76ers,50,32,N,Y
+1976-77,1977,NBA,POR,Portland Trail Blazers,49,33,Y,N
+1976-77,1977,NBA,SAC,Kansas City Kings,40,42,N,N
+1976-77,1977,NBA,SAP,San Antonio Spurs,44,38,N,N
+1976-77,1977,NBA,SEA,Seattle SuperSonics,40,42,N,N
+1976-77,1977,NBA,WAR,Golden State Warriors,46,36,N,N
+1977-78,1978,NBA,ATL,Atlanta Hawks,41,41,N,N
+1977-78,1978,NBA,BOS,Boston Celtics,32,50,N,N
+1977-78,1978,NBA,CHI,Chicago Bulls,40,42,N,N
+1977-78,1978,NBA,CHIP,Washington Bullets,44,38,Y,N
+1977-78,1978,NBA,CLE,Cleveland Cavaliers,43,39,N,N
+1977-78,1978,NBA,DEN,Denver Nuggets,48,34,N,N
+1977-78,1978,NBA,DET,Detroit Pistons,38,44,N,N
+1977-78,1978,NBA,HOU,Houston Rockets,28,54,N,N
+1977-78,1978,NBA,IND,Indiana Pacers,31,51,N,N
+1977-78,1978,NBA,LAC,Buffalo Braves,27,55,N,N
+1977-78,1978,NBA,MIL,Milwaukee Bucks,44,38,N,N
+1977-78,1978,NBA,MINL,Los Angeles Lakers,45,37,N,N
+1977-78,1978,NBA,NJN,New Jersey Nets,24,58,N,N
+1977-78,1978,NBA,NOJ,New Orleans Jazz,39,43,N,N
+1977-78,1978,NBA,NYK,New York Knicks,43,39,N,N
+1977-78,1978,NBA,PHE,Phoenix Suns,49,33,N,N
+1977-78,1978,NBA,PHI,Philadelphia 76ers,55,27,N,N
+1977-78,1978,NBA,POR,Portland Trail Blazers,58,24,N,N
+1977-78,1978,NBA,SAC,Kansas City Kings,31,51,N,N
+1977-78,1978,NBA,SAP,San Antonio Spurs,52,30,N,N
+1977-78,1978,NBA,SEA,Seattle SuperSonics,47,35,N,Y
+1977-78,1978,NBA,WAR,Golden State Warriors,43,39,N,N
+1978-79,1979,NBA,ATL,Atlanta Hawks,46,36,N,N
+1978-79,1979,NBA,BOS,Boston Celtics,29,53,N,N
+1978-79,1979,NBA,CHI,Chicago Bulls,31,51,N,N
+1978-79,1979,NBA,CHIP,Washington Bullets,54,28,N,Y
+1978-79,1979,NBA,CLE,Cleveland Cavaliers,30,52,N,N
+1978-79,1979,NBA,DEN,Denver Nuggets,47,35,N,N
+1978-79,1979,NBA,DET,Detroit Pistons,30,52,N,N
+1978-79,1979,NBA,HOU,Houston Rockets,47,35,N,N
+1978-79,1979,NBA,IND,Indiana Pacers,38,44,N,N
+1978-79,1979,NBA,LAC,San Diego Clippers,43,39,N,N
+1978-79,1979,NBA,MIL,Milwaukee Bucks,38,44,N,N
+1978-79,1979,NBA,MINL,Los Angeles Lakers,47,35,N,N
+1978-79,1979,NBA,NJN,New Jersey Nets,37,45,N,N
+1978-79,1979,NBA,NOJ,New Orleans Jazz,26,56,N,N
+1978-79,1979,NBA,NYK,New York Knicks,31,51,N,N
+1978-79,1979,NBA,PHE,Phoenix Suns,50,32,N,N
+1978-79,1979,NBA,PHI,Philadelphia 76ers,47,35,N,N
+1978-79,1979,NBA,POR,Portland Trail Blazers,45,37,N,N
+1978-79,1979,NBA,SAC,Kansas City Kings,48,34,N,N
+1978-79,1979,NBA,SAP,San Antonio Spurs,48,34,N,N
+1978-79,1979,NBA,SEA,Seattle SuperSonics,52,30,Y,N
+1978-79,1979,NBA,WAR,Golden State Warriors,38,44,N,N
+1979-80,1980,NBA,ATL,Atlanta Hawks,50,32,N,N
+1979-80,1980,NBA,BOS,Boston Celtics,61,21,N,N
+1979-80,1980,NBA,CHI,Chicago Bulls,30,52,N,N
+1979-80,1980,NBA,CHIP,Washington Bullets,39,43,N,N
+1979-80,1980,NBA,CLE,Cleveland Cavaliers,37,45,N,N
+1979-80,1980,NBA,DEN,Denver Nuggets,30,52,N,N
+1979-80,1980,NBA,DET,Detroit Pistons,16,66,N,N
+1979-80,1980,NBA,HOU,Houston Rockets,41,41,N,N
+1979-80,1980,NBA,IND,Indiana Pacers,37,45,N,N
+1979-80,1980,NBA,LAC,San Diego Clippers,35,47,N,N
+1979-80,1980,NBA,MIL,Milwaukee Bucks,49,33,N,N
+1979-80,1980,NBA,MINL,Los Angeles Lakers,60,22,Y,N
+1979-80,1980,NBA,NJN,New Jersey Nets,34,48,N,N
+1979-80,1980,NBA,NOJ,Utah Jazz,24,58,N,N
+1979-80,1980,NBA,NYK,New York Knicks,39,43,N,N
+1979-80,1980,NBA,PHE,Phoenix Suns,55,27,N,N
+1979-80,1980,NBA,PHI,Philadelphia 76ers,59,23,N,Y
+1979-80,1980,NBA,POR,Portland Trail Blazers,38,44,N,N
+1979-80,1980,NBA,SAC,Kansas City Kings,47,35,N,N
+1979-80,1980,NBA,SAP,San Antonio Spurs,41,41,N,N
+1979-80,1980,NBA,SEA,Seattle SuperSonics,56,26,N,N
+1979-80,1980,NBA,WAR,Golden State Warriors,24,58,N,N
+1980-81,1981,NBA,ATL,Atlanta Hawks,31,51,N,N
+1980-81,1981,NBA,BOS,Boston Celtics,62,20,Y,N
+1980-81,1981,NBA,CHI,Chicago Bulls,45,37,N,N
+1980-81,1981,NBA,CHIP,Washington Bullets,39,43,N,N
+1980-81,1981,NBA,CLE,Cleveland Cavaliers,28,54,N,N
+1980-81,1981,NBA,DALM,Dallas Mavericks,15,67,N,N
+1980-81,1981,NBA,DEN,Denver Nuggets,37,45,N,N
+1980-81,1981,NBA,DET,Detroit Pistons,21,61,N,N
+1980-81,1981,NBA,HOU,Houston Rockets,40,42,N,Y
+1980-81,1981,NBA,IND,Indiana Pacers,44,38,N,N
+1980-81,1981,NBA,LAC,San Diego Clippers,36,46,N,N
+1980-81,1981,NBA,MIL,Milwaukee Bucks,60,22,N,N
+1980-81,1981,NBA,MINL,Los Angeles Lakers,54,28,N,N
+1980-81,1981,NBA,NJN,New Jersey Nets,24,58,N,N
+1980-81,1981,NBA,NOJ,Utah Jazz,28,54,N,N
+1980-81,1981,NBA,NYK,New York Knicks,50,32,N,N
+1980-81,1981,NBA,PHE,Phoenix Suns,57,25,N,N
+1980-81,1981,NBA,PHI,Philadelphia 76ers,62,20,N,N
+1980-81,1981,NBA,POR,Portland Trail Blazers,45,37,N,N
+1980-81,1981,NBA,SAC,Kansas City Kings,40,42,N,N
+1980-81,1981,NBA,SAP,San Antonio Spurs,52,30,N,N
+1980-81,1981,NBA,SEA,Seattle SuperSonics,34,48,N,N
+1980-81,1981,NBA,WAR,Golden State Warriors,39,43,N,N
+1981-82,1982,NBA,ATL,Atlanta Hawks,42,40,N,N
+1981-82,1982,NBA,BOS,Boston Celtics,63,19,N,N
+1981-82,1982,NBA,CHI,Chicago Bulls,34,48,N,N
+1981-82,1982,NBA,CHIP,Washington Bullets,43,39,N,N
+1981-82,1982,NBA,CLE,Cleveland Cavaliers,15,67,N,N
+1981-82,1982,NBA,DALM,Dallas Mavericks,28,54,N,N
+1981-82,1982,NBA,DEN,Denver Nuggets,46,36,N,N
+1981-82,1982,NBA,DET,Detroit Pistons,39,43,N,N
+1981-82,1982,NBA,HOU,Houston Rockets,46,36,N,N
+1981-82,1982,NBA,IND,Indiana Pacers,35,47,N,N
+1981-82,1982,NBA,LAC,San Diego Clippers,17,65,N,N
+1981-82,1982,NBA,MIL,Milwaukee Bucks,55,27,N,N
+1981-82,1982,NBA,MINL,Los Angeles Lakers,57,25,Y,N
+1981-82,1982,NBA,NJN,New Jersey Nets,44,38,N,N
+1981-82,1982,NBA,NOJ,Utah Jazz,25,57,N,N
+1981-82,1982,NBA,NYK,New York Knicks,33,49,N,N
+1981-82,1982,NBA,PHE,Phoenix Suns,46,36,N,N
+1981-82,1982,NBA,PHI,Philadelphia 76ers,58,24,N,Y
+1981-82,1982,NBA,POR,Portland Trail Blazers,42,40,N,N
+1981-82,1982,NBA,SAC,Kansas City Kings,30,52,N,N
+1981-82,1982,NBA,SAP,San Antonio Spurs,48,34,N,N
+1981-82,1982,NBA,SEA,Seattle SuperSonics,52,30,N,N
+1981-82,1982,NBA,WAR,Golden State Warriors,45,37,N,N
+1982-83,1983,NBA,ATL,Atlanta Hawks,43,39,N,N
+1982-83,1983,NBA,BOS,Boston Celtics,56,26,N,N
+1982-83,1983,NBA,CHI,Chicago Bulls,28,54,N,N
+1982-83,1983,NBA,CHIP,Washington Bullets,42,40,N,N
+1982-83,1983,NBA,CLE,Cleveland Cavaliers,23,59,N,N
+1982-83,1983,NBA,DALM,Dallas Mavericks,38,44,N,N
+1982-83,1983,NBA,DEN,Denver Nuggets,45,37,N,N
+1982-83,1983,NBA,DET,Detroit Pistons,37,45,N,N
+1982-83,1983,NBA,HOU,Houston Rockets,14,68,N,N
+1982-83,1983,NBA,IND,Indiana Pacers,20,62,N,N
+1982-83,1983,NBA,LAC,San Diego Clippers,25,57,N,N
+1982-83,1983,NBA,MIL,Milwaukee Bucks,51,31,N,N
+1982-83,1983,NBA,MINL,Los Angeles Lakers,58,24,N,Y
+1982-83,1983,NBA,NJN,New Jersey Nets,49,33,N,N
+1982-83,1983,NBA,NOJ,Utah Jazz,30,52,N,N
+1982-83,1983,NBA,NYK,New York Knicks,44,38,N,N
+1982-83,1983,NBA,PHE,Phoenix Suns,53,29,N,N
+1982-83,1983,NBA,PHI,Philadelphia 76ers,65,17,Y,N
+1982-83,1983,NBA,POR,Portland Trail Blazers,46,36,N,N
+1982-83,1983,NBA,SAC,Kansas City Kings,45,37,N,N
+1982-83,1983,NBA,SAP,San Antonio Spurs,53,29,N,N
+1982-83,1983,NBA,SEA,Seattle SuperSonics,48,34,N,N
+1982-83,1983,NBA,WAR,Golden State Warriors,30,52,N,N
+1983-84,1984,NBA,ATL,Atlanta Hawks,40,42,N,N
+1983-84,1984,NBA,BOS,Boston Celtics,62,20,Y,N
+1983-84,1984,NBA,CHI,Chicago Bulls,27,55,N,N
+1983-84,1984,NBA,CHIP,Washington Bullets,35,47,N,N
+1983-84,1984,NBA,CLE,Cleveland Cavaliers,28,54,N,N
+1983-84,1984,NBA,DALM,Dallas Mavericks,43,39,N,N
+1983-84,1984,NBA,DEN,Denver Nuggets,38,44,N,N
+1983-84,1984,NBA,DET,Detroit Pistons,49,33,N,N
+1983-84,1984,NBA,HOU,Houston Rockets,29,53,N,N
+1983-84,1984,NBA,IND,Indiana Pacers,26,56,N,N
+1983-84,1984,NBA,LAC,San Diego Clippers,30,52,N,N
+1983-84,1984,NBA,MIL,Milwaukee Bucks,50,32,N,N
+1983-84,1984,NBA,MINL,Los Angeles Lakers,54,28,N,Y
+1983-84,1984,NBA,NJN,New Jersey Nets,45,37,N,N
+1983-84,1984,NBA,NOJ,Utah Jazz,45,37,N,N
+1983-84,1984,NBA,NYK,New York Knicks,47,35,N,N
+1983-84,1984,NBA,PHE,Phoenix Suns,41,41,N,N
+1983-84,1984,NBA,PHI,Philadelphia 76ers,52,30,N,N
+1983-84,1984,NBA,POR,Portland Trail Blazers,48,34,N,N
+1983-84,1984,NBA,SAC,Kansas City Kings,38,44,N,N
+1983-84,1984,NBA,SAP,San Antonio Spurs,37,45,N,N
+1983-84,1984,NBA,SEA,Seattle SuperSonics,42,40,N,N
+1983-84,1984,NBA,WAR,Golden State Warriors,37,45,N,N
+1984-85,1985,NBA,ATL,Atlanta Hawks,34,48,N,N
+1984-85,1985,NBA,BOS,Boston Celtics,63,19,N,Y
+1984-85,1985,NBA,CHI,Chicago Bulls,38,44,N,N
+1984-85,1985,NBA,CHIP,Washington Bullets,40,42,N,N
+1984-85,1985,NBA,CLE,Cleveland Cavaliers,36,46,N,N
+1984-85,1985,NBA,DALM,Dallas Mavericks,44,38,N,N
+1984-85,1985,NBA,DEN,Denver Nuggets,52,30,N,N
+1984-85,1985,NBA,DET,Detroit Pistons,46,36,N,N
+1984-85,1985,NBA,HOU,Houston Rockets,48,34,N,N
+1984-85,1985,NBA,IND,Indiana Pacers,22,60,N,N
+1984-85,1985,NBA,LAC,Los Angeles Clippers,31,51,N,N
+1984-85,1985,NBA,MIL,Milwaukee Bucks,59,23,N,N
+1984-85,1985,NBA,MINL,Los Angeles Lakers,62,20,Y,N
+1984-85,1985,NBA,NJN,New Jersey Nets,42,40,N,N
+1984-85,1985,NBA,NOJ,Utah Jazz,41,41,N,N
+1984-85,1985,NBA,NYK,New York Knicks,24,58,N,N
+1984-85,1985,NBA,PHE,Phoenix Suns,36,46,N,N
+1984-85,1985,NBA,PHI,Philadelphia 76ers,58,24,N,N
+1984-85,1985,NBA,POR,Portland Trail Blazers,42,40,N,N
+1984-85,1985,NBA,SAC,Kansas City Kings,31,51,N,N
+1984-85,1985,NBA,SAP,San Antonio Spurs,41,41,N,N
+1984-85,1985,NBA,SEA,Seattle SuperSonics,31,51,N,N
+1984-85,1985,NBA,WAR,Golden State Warriors,22,60,N,N
+1985-86,1986,NBA,ATL,Atlanta Hawks,50,32,N,N
+1985-86,1986,NBA,BOS,Boston Celtics,67,15,Y,N
+1985-86,1986,NBA,CHI,Chicago Bulls,30,52,N,N
+1985-86,1986,NBA,CHIP,Washington Bullets,39,43,N,N
+1985-86,1986,NBA,CLE,Cleveland Cavaliers,29,53,N,N
+1985-86,1986,NBA,DALM,Dallas Mavericks,44,38,N,N
+1985-86,1986,NBA,DEN,Denver Nuggets,47,35,N,N
+1985-86,1986,NBA,DET,Detroit Pistons,46,36,N,N
+1985-86,1986,NBA,HOU,Houston Rockets,51,31,N,Y
+1985-86,1986,NBA,IND,Indiana Pacers,26,56,N,N
+1985-86,1986,NBA,LAC,Los Angeles Clippers,32,50,N,N
+1985-86,1986,NBA,MIL,Milwaukee Bucks,57,25,N,N
+1985-86,1986,NBA,MINL,Los Angeles Lakers,62,20,N,N
+1985-86,1986,NBA,NJN,New Jersey Nets,39,43,N,N
+1985-86,1986,NBA,NOJ,Utah Jazz,42,40,N,N
+1985-86,1986,NBA,NYK,New York Knicks,23,59,N,N
+1985-86,1986,NBA,PHE,Phoenix Suns,32,50,N,N
+1985-86,1986,NBA,PHI,Philadelphia 76ers,54,28,N,N
+1985-86,1986,NBA,POR,Portland Trail Blazers,40,42,N,N
+1985-86,1986,NBA,SAC,Sacramento Kings,37,45,N,N
+1985-86,1986,NBA,SAP,San Antonio Spurs,35,47,N,N
+1985-86,1986,NBA,SEA,Seattle SuperSonics,31,51,N,N
+1985-86,1986,NBA,WAR,Golden State Warriors,30,52,N,N
+1986-87,1987,NBA,ATL,Atlanta Hawks,57,25,N,N
+1986-87,1987,NBA,BOS,Boston Celtics,59,23,N,Y
+1986-87,1987,NBA,CHI,Chicago Bulls,40,42,N,N
+1986-87,1987,NBA,CHIP,Washington Bullets,42,40,N,N
+1986-87,1987,NBA,CLE,Cleveland Cavaliers,31,51,N,N
+1986-87,1987,NBA,DALM,Dallas Mavericks,55,27,N,N
+1986-87,1987,NBA,DEN,Denver Nuggets,37,45,N,N
+1986-87,1987,NBA,DET,Detroit Pistons,52,30,N,N
+1986-87,1987,NBA,HOU,Houston Rockets,42,40,N,N
+1986-87,1987,NBA,IND,Indiana Pacers,41,41,N,N
+1986-87,1987,NBA,LAC,Los Angeles Clippers,12,70,N,N
+1986-87,1987,NBA,MIL,Milwaukee Bucks,50,32,N,N
+1986-87,1987,NBA,MINL,Los Angeles Lakers,65,17,Y,N
+1986-87,1987,NBA,NJN,New Jersey Nets,24,58,N,N
+1986-87,1987,NBA,NOJ,Utah Jazz,44,38,N,N
+1986-87,1987,NBA,NYK,New York Knicks,24,58,N,N
+1986-87,1987,NBA,PHE,Phoenix Suns,36,46,N,N
+1986-87,1987,NBA,PHI,Philadelphia 76ers,45,37,N,N
+1986-87,1987,NBA,POR,Portland Trail Blazers,49,33,N,N
+1986-87,1987,NBA,SAC,Sacramento Kings,29,53,N,N
+1986-87,1987,NBA,SAP,San Antonio Spurs,28,54,N,N
+1986-87,1987,NBA,SEA,Seattle SuperSonics,39,43,N,N
+1986-87,1987,NBA,WAR,Golden State Warriors,42,40,N,N
+1987-88,1988,NBA,ATL,Atlanta Hawks,50,32,N,N
+1987-88,1988,NBA,BOS,Boston Celtics,57,25,N,N
+1987-88,1988,NBA,CHI,Chicago Bulls,50,32,N,N
+1987-88,1988,NBA,CHIP,Washington Bullets,38,44,N,N
+1987-88,1988,NBA,CLE,Cleveland Cavaliers,42,40,N,N
+1987-88,1988,NBA,DALM,Dallas Mavericks,53,29,N,N
+1987-88,1988,NBA,DEN,Denver Nuggets,54,28,N,N
+1987-88,1988,NBA,DET,Detroit Pistons,54,28,N,Y
+1987-88,1988,NBA,HOU,Houston Rockets,46,36,N,N
+1987-88,1988,NBA,IND,Indiana Pacers,38,44,N,N
+1987-88,1988,NBA,LAC,Los Angeles Clippers,17,65,N,N
+1987-88,1988,NBA,MIL,Milwaukee Bucks,42,40,N,N
+1987-88,1988,NBA,MINL,Los Angeles Lakers,62,20,Y,N
+1987-88,1988,NBA,NJN,New Jersey Nets,19,63,N,N
+1987-88,1988,NBA,NOJ,Utah Jazz,47,35,N,N
+1987-88,1988,NBA,NYK,New York Knicks,38,44,N,N
+1987-88,1988,NBA,PHE,Phoenix Suns,28,54,N,N
+1987-88,1988,NBA,PHI,Philadelphia 76ers,36,46,N,N
+1987-88,1988,NBA,POR,Portland Trail Blazers,53,29,N,N
+1987-88,1988,NBA,SAC,Sacramento Kings,24,58,N,N
+1987-88,1988,NBA,SAP,San Antonio Spurs,31,51,N,N
+1987-88,1988,NBA,SEA,Seattle SuperSonics,44,38,N,N
+1987-88,1988,NBA,WAR,Golden State Warriors,20,62,N,N
+1988-89,1989,NBA,ATL,Atlanta Hawks,52,30,N,N
+1988-89,1989,NBA,BOS,Boston Celtics,42,40,N,N
+1988-89,1989,NBA,CHA,Charlotte Hornets,20,62,N,N
+1988-89,1989,NBA,CHI,Chicago Bulls,47,35,N,N
+1988-89,1989,NBA,CHIP,Washington Bullets,40,42,N,N
+1988-89,1989,NBA,CLE,Cleveland Cavaliers,57,25,N,N
+1988-89,1989,NBA,DALM,Dallas Mavericks,38,44,N,N
+1988-89,1989,NBA,DEN,Denver Nuggets,44,38,N,N
+1988-89,1989,NBA,DET,Detroit Pistons,63,19,Y,N
+1988-89,1989,NBA,HOU,Houston Rockets,45,37,N,N
+1988-89,1989,NBA,IND,Indiana Pacers,28,54,N,N
+1988-89,1989,NBA,LAC,Los Angeles Clippers,21,61,N,N
+1988-89,1989,NBA,MIA,Miami Heat,15,67,N,N
+1988-89,1989,NBA,MIL,Milwaukee Bucks,49,33,N,N
+1988-89,1989,NBA,MINL,Los Angeles Lakers,57,25,N,Y
+1988-89,1989,NBA,NJN,New Jersey Nets,26,56,N,N
+1988-89,1989,NBA,NOJ,Utah Jazz,51,31,N,N
+1988-89,1989,NBA,NYK,New York Knicks,52,30,N,N
+1988-89,1989,NBA,PHE,Phoenix Suns,55,27,N,N
+1988-89,1989,NBA,PHI,Philadelphia 76ers,46,36,N,N
+1988-89,1989,NBA,POR,Portland Trail Blazers,39,43,N,N
+1988-89,1989,NBA,SAC,Sacramento Kings,27,55,N,N
+1988-89,1989,NBA,SAP,San Antonio Spurs,21,61,N,N
+1988-89,1989,NBA,SEA,Seattle SuperSonics,47,35,N,N
+1988-89,1989,NBA,WAR,Golden State Warriors,43,39,N,N
+1989-90,1990,NBA,ATL,Atlanta Hawks,41,41,N,N
+1989-90,1990,NBA,BOS,Boston Celtics,52,30,N,N
+1989-90,1990,NBA,CHA,Charlotte Hornets,19,63,N,N
+1989-90,1990,NBA,CHI,Chicago Bulls,55,27,N,N
+1989-90,1990,NBA,CHIP,Washington Bullets,31,51,N,N
+1989-90,1990,NBA,CLE,Cleveland Cavaliers,42,40,N,N
+1989-90,1990,NBA,DALM,Dallas Mavericks,47,35,N,N
+1989-90,1990,NBA,DEN,Denver Nuggets,43,39,N,N
+1989-90,1990,NBA,DET,Detroit Pistons,59,23,Y,N
+1989-90,1990,NBA,HOU,Houston Rockets,41,41,N,N
+1989-90,1990,NBA,IND,Indiana Pacers,42,40,N,N
+1989-90,1990,NBA,LAC,Los Angeles Clippers,30,52,N,N
+1989-90,1990,NBA,MIA,Miami Heat,18,64,N,N
+1989-90,1990,NBA,MIL,Milwaukee Bucks,44,38,N,N
+1989-90,1990,NBA,MIN,Minnesota Timberwolves,22,60,N,N
+1989-90,1990,NBA,MINL,Los Angeles Lakers,63,19,N,N
+1989-90,1990,NBA,NJN,New Jersey Nets,17,65,N,N
+1989-90,1990,NBA,NOJ,Utah Jazz,55,27,N,N
+1989-90,1990,NBA,NYK,New York Knicks,45,37,N,N
+1989-90,1990,NBA,ORL,Orlando Magic,18,64,N,N
+1989-90,1990,NBA,PHE,Phoenix Suns,54,28,N,N
+1989-90,1990,NBA,PHI,Philadelphia 76ers,53,29,N,N
+1989-90,1990,NBA,POR,Portland Trail Blazers,59,23,N,Y
+1989-90,1990,NBA,SAC,Sacramento Kings,23,59,N,N
+1989-90,1990,NBA,SAP,San Antonio Spurs,56,26,N,N
+1989-90,1990,NBA,SEA,Seattle SuperSonics,41,41,N,N
+1989-90,1990,NBA,WAR,Golden State Warriors,37,45,N,N
+1990-91,1991,NBA,ATL,Atlanta Hawks,43,39,N,N
+1990-91,1991,NBA,BOS,Boston Celtics,56,26,N,N
+1990-91,1991,NBA,CHA,Charlotte Hornets,26,56,N,N
+1990-91,1991,NBA,CHI,Chicago Bulls,61,21,Y,N
+1990-91,1991,NBA,CHIP,Washington Bullets,30,52,N,N
+1990-91,1991,NBA,CLE,Cleveland Cavaliers,33,49,N,N
+1990-91,1991,NBA,DALM,Dallas Mavericks,28,54,N,N
+1990-91,1991,NBA,DEN,Denver Nuggets,20,62,N,N
+1990-91,1991,NBA,DET,Detroit Pistons,50,32,N,N
+1990-91,1991,NBA,HOU,Houston Rockets,52,30,N,N
+1990-91,1991,NBA,IND,Indiana Pacers,41,41,N,N
+1990-91,1991,NBA,LAC,Los Angeles Clippers,31,51,N,N
+1990-91,1991,NBA,MIA,Miami Heat,24,58,N,N
+1990-91,1991,NBA,MIL,Milwaukee Bucks,48,34,N,N
+1990-91,1991,NBA,MIN,Minnesota Timberwolves,29,53,N,N
+1990-91,1991,NBA,MINL,Los Angeles Lakers,58,24,N,Y
+1990-91,1991,NBA,NJN,New Jersey Nets,26,56,N,N
+1990-91,1991,NBA,NOJ,Utah Jazz,54,28,N,N
+1990-91,1991,NBA,NYK,New York Knicks,39,43,N,N
+1990-91,1991,NBA,ORL,Orlando Magic,31,51,N,N
+1990-91,1991,NBA,PHE,Phoenix Suns,55,27,N,N
+1990-91,1991,NBA,PHI,Philadelphia 76ers,44,38,N,N
+1990-91,1991,NBA,POR,Portland Trail Blazers,63,19,N,N
+1990-91,1991,NBA,SAC,Sacramento Kings,25,57,N,N
+1990-91,1991,NBA,SAP,San Antonio Spurs,55,27,N,N
+1990-91,1991,NBA,SEA,Seattle SuperSonics,41,41,N,N
+1990-91,1991,NBA,WAR,Golden State Warriors,44,38,N,N
+1991-92,1992,NBA,ATL,Atlanta Hawks,38,44,N,N
+1991-92,1992,NBA,BOS,Boston Celtics,51,31,N,N
+1991-92,1992,NBA,CHA,Charlotte Hornets,31,51,N,N
+1991-92,1992,NBA,CHI,Chicago Bulls,67,15,Y,N
+1991-92,1992,NBA,CHIP,Washington Bullets,25,57,N,N
+1991-92,1992,NBA,CLE,Cleveland Cavaliers,57,25,N,N
+1991-92,1992,NBA,DALM,Dallas Mavericks,22,60,N,N
+1991-92,1992,NBA,DEN,Denver Nuggets,24,58,N,N
+1991-92,1992,NBA,DET,Detroit Pistons,48,34,N,N
+1991-92,1992,NBA,HOU,Houston Rockets,42,40,N,N
+1991-92,1992,NBA,IND,Indiana Pacers,40,42,N,N
+1991-92,1992,NBA,LAC,Los Angeles Clippers,45,37,N,N
+1991-92,1992,NBA,MIA,Miami Heat,38,44,N,N
+1991-92,1992,NBA,MIL,Milwaukee Bucks,31,51,N,N
+1991-92,1992,NBA,MIN,Minnesota Timberwolves,15,67,N,N
+1991-92,1992,NBA,MINL,Los Angeles Lakers,43,39,N,N
+1991-92,1992,NBA,NJN,New Jersey Nets,40,42,N,N
+1991-92,1992,NBA,NOJ,Utah Jazz,55,27,N,N
+1991-92,1992,NBA,NYK,New York Knicks,51,31,N,N
+1991-92,1992,NBA,ORL,Orlando Magic,21,61,N,N
+1991-92,1992,NBA,PHE,Phoenix Suns,53,29,N,N
+1991-92,1992,NBA,PHI,Philadelphia 76ers,35,47,N,N
+1991-92,1992,NBA,POR,Portland Trail Blazers,57,25,N,Y
+1991-92,1992,NBA,SAC,Sacramento Kings,29,53,N,N
+1991-92,1992,NBA,SAP,San Antonio Spurs,47,35,N,N
+1991-92,1992,NBA,SEA,Seattle SuperSonics,47,35,N,N
+1991-92,1992,NBA,WAR,Golden State Warriors,55,27,N,N
+1992-93,1993,NBA,ATL,Atlanta Hawks,43,39,N,N
+1992-93,1993,NBA,BOS,Boston Celtics,48,34,N,N
+1992-93,1993,NBA,CHA,Charlotte Hornets,44,38,N,N
+1992-93,1993,NBA,CHI,Chicago Bulls,57,25,Y,N
+1992-93,1993,NBA,CHIP,Washington Bullets,22,60,N,N
+1992-93,1993,NBA,CLE,Cleveland Cavaliers,54,28,N,N
+1992-93,1993,NBA,DALM,Dallas Mavericks,11,71,N,N
+1992-93,1993,NBA,DEN,Denver Nuggets,36,46,N,N
+1992-93,1993,NBA,DET,Detroit Pistons,40,42,N,N
+1992-93,1993,NBA,HOU,Houston Rockets,55,27,N,N
+1992-93,1993,NBA,IND,Indiana Pacers,41,41,N,N
+1992-93,1993,NBA,LAC,Los Angeles Clippers,41,41,N,N
+1992-93,1993,NBA,MIA,Miami Heat,36,46,N,N
+1992-93,1993,NBA,MIL,Milwaukee Bucks,28,54,N,N
+1992-93,1993,NBA,MIN,Minnesota Timberwolves,19,63,N,N
+1992-93,1993,NBA,MINL,Los Angeles Lakers,39,43,N,N
+1992-93,1993,NBA,NJN,New Jersey Nets,43,39,N,N
+1992-93,1993,NBA,NOJ,Utah Jazz,47,35,N,N
+1992-93,1993,NBA,NYK,New York Knicks,60,22,N,N
+1992-93,1993,NBA,ORL,Orlando Magic,41,41,N,N
+1992-93,1993,NBA,PHE,Phoenix Suns,62,20,N,Y
+1992-93,1993,NBA,PHI,Philadelphia 76ers,26,56,N,N
+1992-93,1993,NBA,POR,Portland Trail Blazers,51,31,N,N
+1992-93,1993,NBA,SAC,Sacramento Kings,25,57,N,N
+1992-93,1993,NBA,SAP,San Antonio Spurs,49,33,N,N
+1992-93,1993,NBA,SEA,Seattle SuperSonics,55,27,N,N
+1992-93,1993,NBA,WAR,Golden State Warriors,34,48,N,N
+1993-94,1994,NBA,ATL,Atlanta Hawks,57,25,N,N
+1993-94,1994,NBA,BOS,Boston Celtics,32,50,N,N
+1993-94,1994,NBA,CHA,Charlotte Hornets,41,41,N,N
+1993-94,1994,NBA,CHI,Chicago Bulls,55,27,N,N
+1993-94,1994,NBA,CHIP,Washington Bullets,24,58,N,N
+1993-94,1994,NBA,CLE,Cleveland Cavaliers,47,35,N,N
+1993-94,1994,NBA,DALM,Dallas Mavericks,13,69,N,N
+1993-94,1994,NBA,DEN,Denver Nuggets,42,40,N,N
+1993-94,1994,NBA,DET,Detroit Pistons,20,62,N,N
+1993-94,1994,NBA,HOU,Houston Rockets,58,24,Y,N
+1993-94,1994,NBA,IND,Indiana Pacers,47,35,N,N
+1993-94,1994,NBA,LAC,Los Angeles Clippers,27,55,N,N
+1993-94,1994,NBA,MIA,Miami Heat,42,40,N,N
+1993-94,1994,NBA,MIL,Milwaukee Bucks,20,62,N,N
+1993-94,1994,NBA,MIN,Minnesota Timberwolves,20,62,N,N
+1993-94,1994,NBA,MINL,Los Angeles Lakers,33,49,N,N
+1993-94,1994,NBA,NJN,New Jersey Nets,45,37,N,N
+1993-94,1994,NBA,NOJ,Utah Jazz,53,29,N,N
+1993-94,1994,NBA,NYK,New York Knicks,57,25,N,Y
+1993-94,1994,NBA,ORL,Orlando Magic,50,32,N,N
+1993-94,1994,NBA,PHE,Phoenix Suns,56,26,N,N
+1993-94,1994,NBA,PHI,Philadelphia 76ers,25,57,N,N
+1993-94,1994,NBA,POR,Portland Trail Blazers,47,35,N,N
+1993-94,1994,NBA,SAC,Sacramento Kings,28,54,N,N
+1993-94,1994,NBA,SAP,San Antonio Spurs,55,27,N,N
+1993-94,1994,NBA,SEA,Seattle SuperSonics,63,19,N,N
+1993-94,1994,NBA,WAR,Golden State Warriors,50,32,N,N
+1994-95,1995,NBA,ATL,Atlanta Hawks,42,40,N,N
+1994-95,1995,NBA,BOS,Boston Celtics,35,47,N,N
+1994-95,1995,NBA,CHA,Charlotte Hornets,50,32,N,N
+1994-95,1995,NBA,CHI,Chicago Bulls,47,35,N,N
+1994-95,1995,NBA,CHIP,Washington Bullets,21,61,N,N
+1994-95,1995,NBA,CLE,Cleveland Cavaliers,43,39,N,N
+1994-95,1995,NBA,DALM,Dallas Mavericks,36,46,N,N
+1994-95,1995,NBA,DEN,Denver Nuggets,41,41,N,N
+1994-95,1995,NBA,DET,Detroit Pistons,28,54,N,N
+1994-95,1995,NBA,HOU,Houston Rockets,47,35,Y,N
+1994-95,1995,NBA,IND,Indiana Pacers,52,30,N,N
+1994-95,1995,NBA,LAC,Los Angeles Clippers,17,65,N,N
+1994-95,1995,NBA,MIA,Miami Heat,32,50,N,N
+1994-95,1995,NBA,MIL,Milwaukee Bucks,34,48,N,N
+1994-95,1995,NBA,MIN,Minnesota Timberwolves,21,61,N,N
+1994-95,1995,NBA,MINL,Los Angeles Lakers,48,34,N,N
+1994-95,1995,NBA,NJN,New Jersey Nets,30,52,N,N
+1994-95,1995,NBA,NOJ,Utah Jazz,60,22,N,N
+1994-95,1995,NBA,NYK,New York Knicks,55,27,N,N
+1994-95,1995,NBA,ORL,Orlando Magic,57,25,N,Y
+1994-95,1995,NBA,PHE,Phoenix Suns,59,23,N,N
+1994-95,1995,NBA,PHI,Philadelphia 76ers,24,58,N,N
+1994-95,1995,NBA,POR,Portland Trail Blazers,44,38,N,N
+1994-95,1995,NBA,SAC,Sacramento Kings,39,43,N,N
+1994-95,1995,NBA,SAP,San Antonio Spurs,62,20,N,N
+1994-95,1995,NBA,SEA,Seattle SuperSonics,57,25,N,N
+1994-95,1995,NBA,WAR,Golden State Warriors,26,56,N,N
+1995-96,1996,NBA,ATL,Atlanta Hawks,46,36,N,N
+1995-96,1996,NBA,BOS,Boston Celtics,33,49,N,N
+1995-96,1996,NBA,CHA,Charlotte Hornets,41,41,N,N
+1995-96,1996,NBA,CHI,Chicago Bulls,72,10,Y,N
+1995-96,1996,NBA,CHIP,Washington Bullets,39,43,N,N
+1995-96,1996,NBA,CLE,Cleveland Cavaliers,47,35,N,N
+1995-96,1996,NBA,DALM,Dallas Mavericks,26,56,N,N
+1995-96,1996,NBA,DEN,Denver Nuggets,35,47,N,N
+1995-96,1996,NBA,DET,Detroit Pistons,46,36,N,N
+1995-96,1996,NBA,HOU,Houston Rockets,48,34,N,N
+1995-96,1996,NBA,IND,Indiana Pacers,52,30,N,N
+1995-96,1996,NBA,LAC,Los Angeles Clippers,29,53,N,N
+1995-96,1996,NBA,MEM,Vancouver Grizzlies,15,67,N,N
+1995-96,1996,NBA,MIA,Miami Heat,42,40,N,N
+1995-96,1996,NBA,MIL,Milwaukee Bucks,25,57,N,N
+1995-96,1996,NBA,MIN,Minnesota Timberwolves,26,56,N,N
+1995-96,1996,NBA,MINL,Los Angeles Lakers,53,29,N,N
+1995-96,1996,NBA,NJN,New Jersey Nets,30,52,N,N
+1995-96,1996,NBA,NOJ,Utah Jazz,55,27,N,N
+1995-96,1996,NBA,NYK,New York Knicks,47,35,N,N
+1995-96,1996,NBA,ORL,Orlando Magic,60,22,N,N
+1995-96,1996,NBA,PHE,Phoenix Suns,41,41,N,N
+1995-96,1996,NBA,PHI,Philadelphia 76ers,18,64,N,N
+1995-96,1996,NBA,POR,Portland Trail Blazers,44,38,N,N
+1995-96,1996,NBA,SAC,Sacramento Kings,39,43,N,N
+1995-96,1996,NBA,SAP,San Antonio Spurs,59,23,N,N
+1995-96,1996,NBA,SEA,Seattle SuperSonics,64,18,N,Y
+1995-96,1996,NBA,TOR,Toronto Raptors,21,61,N,N
+1995-96,1996,NBA,WAR,Golden State Warriors,36,46,N,N
+1996-97,1997,NBA,ATL,Atlanta Hawks,56,26,N,N
+1996-97,1997,NBA,BOS,Boston Celtics,15,67,N,N
+1996-97,1997,NBA,CHA,Charlotte Hornets,54,28,N,N
+1996-97,1997,NBA,CHI,Chicago Bulls,69,13,Y,N
+1996-97,1997,NBA,CHIP,Washington Bullets,44,38,N,N
+1996-97,1997,NBA,CLE,Cleveland Cavaliers,42,40,N,N
+1996-97,1997,NBA,DALM,Dallas Mavericks,24,58,N,N
+1996-97,1997,NBA,DEN,Denver Nuggets,21,61,N,N
+1996-97,1997,NBA,DET,Detroit Pistons,54,28,N,N
+1996-97,1997,NBA,HOU,Houston Rockets,57,25,N,N
+1996-97,1997,NBA,IND,Indiana Pacers,39,43,N,N
+1996-97,1997,NBA,LAC,Los Angeles Clippers,36,46,N,N
+1996-97,1997,NBA,MEM,Vancouver Grizzlies,14,68,N,N
+1996-97,1997,NBA,MIA,Miami Heat,61,21,N,N
+1996-97,1997,NBA,MIL,Milwaukee Bucks,33,49,N,N
+1996-97,1997,NBA,MIN,Minnesota Timberwolves,40,42,N,N
+1996-97,1997,NBA,MINL,Los Angeles Lakers,56,26,N,N
+1996-97,1997,NBA,NJN,New Jersey Nets,26,56,N,N
+1996-97,1997,NBA,NOJ,Utah Jazz,64,18,N,Y
+1996-97,1997,NBA,NYK,New York Knicks,57,25,N,N
+1996-97,1997,NBA,ORL,Orlando Magic,45,37,N,N
+1996-97,1997,NBA,PHE,Phoenix Suns,40,42,N,N
+1996-97,1997,NBA,PHI,Philadelphia 76ers,22,60,N,N
+1996-97,1997,NBA,POR,Portland Trail Blazers,49,33,N,N
+1996-97,1997,NBA,SAC,Sacramento Kings,34,48,N,N
+1996-97,1997,NBA,SAP,San Antonio Spurs,20,62,N,N
+1996-97,1997,NBA,SEA,Seattle SuperSonics,57,25,N,N
+1996-97,1997,NBA,TOR,Toronto Raptors,30,52,N,N
+1996-97,1997,NBA,WAR,Golden State Warriors,30,52,N,N
+1997-98,1998,NBA,ATL,Atlanta Hawks,50,32,N,N
+1997-98,1998,NBA,BOS,Boston Celtics,36,46,N,N
+1997-98,1998,NBA,CHA,Charlotte Hornets,51,31,N,N
+1997-98,1998,NBA,CHI,Chicago Bulls,62,20,Y,N
+1997-98,1998,NBA,CHIP,Washington Wizards,42,40,N,N
+1997-98,1998,NBA,CLE,Cleveland Cavaliers,47,35,N,N
+1997-98,1998,NBA,DALM,Dallas Mavericks,20,62,N,N
+1997-98,1998,NBA,DEN,Denver Nuggets,11,71,N,N
+1997-98,1998,NBA,DET,Detroit Pistons,37,45,N,N
+1997-98,1998,NBA,HOU,Houston Rockets,41,41,N,N
+1997-98,1998,NBA,IND,Indiana Pacers,58,24,N,N
+1997-98,1998,NBA,LAC,Los Angeles Clippers,17,65,N,N
+1997-98,1998,NBA,MEM,Vancouver Grizzlies,19,63,N,N
+1997-98,1998,NBA,MIA,Miami Heat,55,27,N,N
+1997-98,1998,NBA,MIL,Milwaukee Bucks,36,46,N,N
+1997-98,1998,NBA,MIN,Minnesota Timberwolves,45,37,N,N
+1997-98,1998,NBA,MINL,Los Angeles Lakers,61,21,N,N
+1997-98,1998,NBA,NJN,New Jersey Nets,43,39,N,N
+1997-98,1998,NBA,NOJ,Utah Jazz,62,20,N,Y
+1997-98,1998,NBA,NYK,New York Knicks,43,39,N,N
+1997-98,1998,NBA,ORL,Orlando Magic,41,41,N,N
+1997-98,1998,NBA,PHE,Phoenix Suns,56,26,N,N
+1997-98,1998,NBA,PHI,Philadelphia 76ers,31,51,N,N
+1997-98,1998,NBA,POR,Portland Trail Blazers,46,36,N,N
+1997-98,1998,NBA,SAC,Sacramento Kings,27,55,N,N
+1997-98,1998,NBA,SAP,San Antonio Spurs,56,26,N,N
+1997-98,1998,NBA,SEA,Seattle SuperSonics,61,21,N,N
+1997-98,1998,NBA,TOR,Toronto Raptors,16,66,N,N
+1997-98,1998,NBA,WAR,Golden State Warriors,19,63,N,N
+1998-99,1999,NBA,ATL,Atlanta Hawks,31,19,N,N
+1998-99,1999,NBA,BOS,Boston Celtics,19,31,N,N
+1998-99,1999,NBA,CHA,Charlotte Hornets,26,24,N,N
+1998-99,1999,NBA,CHI,Chicago Bulls,13,37,N,N
+1998-99,1999,NBA,CHIP,Washington Wizards,18,32,N,N
+1998-99,1999,NBA,CLE,Cleveland Cavaliers,22,28,N,N
+1998-99,1999,NBA,DALM,Dallas Mavericks,19,31,N,N
+1998-99,1999,NBA,DEN,Denver Nuggets,14,36,N,N
+1998-99,1999,NBA,DET,Detroit Pistons,29,21,N,N
+1998-99,1999,NBA,HOU,Houston Rockets,31,19,N,N
+1998-99,1999,NBA,IND,Indiana Pacers,33,17,N,N
+1998-99,1999,NBA,LAC,Los Angeles Clippers,9,41,N,N
+1998-99,1999,NBA,MEM,Vancouver Grizzlies,8,42,N,N
+1998-99,1999,NBA,MIA,Miami Heat,33,17,N,N
+1998-99,1999,NBA,MIL,Milwaukee Bucks,28,22,N,N
+1998-99,1999,NBA,MIN,Minnesota Timberwolves,25,25,N,N
+1998-99,1999,NBA,MINL,Los Angeles Lakers,31,19,N,N
+1998-99,1999,NBA,NJN,New Jersey Nets,16,34,N,N
+1998-99,1999,NBA,NOJ,Utah Jazz,37,13,N,N
+1998-99,1999,NBA,NYK,New York Knicks,27,23,N,Y
+1998-99,1999,NBA,ORL,Orlando Magic,33,17,N,N
+1998-99,1999,NBA,PHE,Phoenix Suns,27,23,N,N
+1998-99,1999,NBA,PHI,Philadelphia 76ers,28,22,N,N
+1998-99,1999,NBA,POR,Portland Trail Blazers,35,15,N,N
+1998-99,1999,NBA,SAC,Sacramento Kings,27,23,N,N
+1998-99,1999,NBA,SAP,San Antonio Spurs,37,13,Y,N
+1998-99,1999,NBA,SEA,Seattle SuperSonics,25,25,N,N
+1998-99,1999,NBA,TOR,Toronto Raptors,23,27,N,N
+1998-99,1999,NBA,WAR,Golden State Warriors,21,29,N,N
+1999-00,2000,NBA,ATL,Atlanta Hawks,28,54,N,N
+1999-00,2000,NBA,BOS,Boston Celtics,35,47,N,N
+1999-00,2000,NBA,CHA,Charlotte Hornets,49,33,N,N
+1999-00,2000,NBA,CHI,Chicago Bulls,17,65,N,N
+1999-00,2000,NBA,CHIP,Washington Wizards,29,53,N,N
+1999-00,2000,NBA,CLE,Cleveland Cavaliers,32,50,N,N
+1999-00,2000,NBA,DALM,Dallas Mavericks,40,42,N,N
+1999-00,2000,NBA,DEN,Denver Nuggets,35,47,N,N
+1999-00,2000,NBA,DET,Detroit Pistons,42,40,N,N
+1999-00,2000,NBA,HOU,Houston Rockets,34,48,N,N
+1999-00,2000,NBA,IND,Indiana Pacers,56,26,N,Y
+1999-00,2000,NBA,LAC,Los Angeles Clippers,15,67,N,N
+1999-00,2000,NBA,MEM,Vancouver Grizzlies,22,60,N,N
+1999-00,2000,NBA,MIA,Miami Heat,52,30,N,N
+1999-00,2000,NBA,MIL,Milwaukee Bucks,42,40,N,N
+1999-00,2000,NBA,MIN,Minnesota Timberwolves,50,32,N,N
+1999-00,2000,NBA,MINL,Los Angeles Lakers,67,15,Y,N
+1999-00,2000,NBA,NJN,New Jersey Nets,31,51,N,N
+1999-00,2000,NBA,NOJ,Utah Jazz,55,27,N,N
+1999-00,2000,NBA,NYK,New York Knicks,50,32,N,N
+1999-00,2000,NBA,ORL,Orlando Magic,41,41,N,N
+1999-00,2000,NBA,PHE,Phoenix Suns,53,29,N,N
+1999-00,2000,NBA,PHI,Philadelphia 76ers,49,33,N,N
+1999-00,2000,NBA,POR,Portland Trail Blazers,59,23,N,N
+1999-00,2000,NBA,SAC,Sacramento Kings,44,38,N,N
+1999-00,2000,NBA,SAP,San Antonio Spurs,53,29,N,N
+1999-00,2000,NBA,SEA,Seattle SuperSonics,45,37,N,N
+1999-00,2000,NBA,TOR,Toronto Raptors,45,37,N,N
+1999-00,2000,NBA,WAR,Golden State Warriors,19,63,N,N
+2000-01,2001,NBA,ATL,Atlanta Hawks,25,57,N,N
+2000-01,2001,NBA,BOS,Boston Celtics,36,46,N,N
+2000-01,2001,NBA,CHA,Charlotte Hornets,46,36,N,N
+2000-01,2001,NBA,CHI,Chicago Bulls,15,67,N,N
+2000-01,2001,NBA,CHIP,Washington Wizards,19,63,N,N
+2000-01,2001,NBA,CLE,Cleveland Cavaliers,30,52,N,N
+2000-01,2001,NBA,DALM,Dallas Mavericks,53,29,N,N
+2000-01,2001,NBA,DEN,Denver Nuggets,40,42,N,N
+2000-01,2001,NBA,DET,Detroit Pistons,32,50,N,N
+2000-01,2001,NBA,HOU,Houston Rockets,45,37,N,N
+2000-01,2001,NBA,IND,Indiana Pacers,41,41,N,N
+2000-01,2001,NBA,LAC,Los Angeles Clippers,31,51,N,N
+2000-01,2001,NBA,MEM,Vancouver Grizzlies,23,59,N,N
+2000-01,2001,NBA,MIA,Miami Heat,50,32,N,N
+2000-01,2001,NBA,MIL,Milwaukee Bucks,52,30,N,N
+2000-01,2001,NBA,MIN,Minnesota Timberwolves,47,35,N,N
+2000-01,2001,NBA,MINL,Los Angeles Lakers,56,26,Y,N
+2000-01,2001,NBA,NJN,New Jersey Nets,26,56,N,N
+2000-01,2001,NBA,NOJ,Utah Jazz,53,29,N,N
+2000-01,2001,NBA,NYK,New York Knicks,48,34,N,N
+2000-01,2001,NBA,ORL,Orlando Magic,43,39,N,N
+2000-01,2001,NBA,PHE,Phoenix Suns,51,31,N,N
+2000-01,2001,NBA,PHI,Philadelphia 76ers,56,26,N,Y
+2000-01,2001,NBA,POR,Portland Trail Blazers,50,32,N,N
+2000-01,2001,NBA,SAC,Sacramento Kings,55,27,N,N
+2000-01,2001,NBA,SAP,San Antonio Spurs,58,24,N,N
+2000-01,2001,NBA,SEA,Seattle SuperSonics,44,38,N,N
+2000-01,2001,NBA,TOR,Toronto Raptors,47,35,N,N
+2000-01,2001,NBA,WAR,Golden State Warriors,17,65,N,N
+2001-02,2002,NBA,ATL,Atlanta Hawks,33,49,N,N
+2001-02,2002,NBA,BOS,Boston Celtics,49,33,N,N
+2001-02,2002,NBA,CHA,Charlotte Hornets,44,38,N,N
+2001-02,2002,NBA,CHI,Chicago Bulls,21,61,N,N
+2001-02,2002,NBA,CHIP,Washington Wizards,37,45,N,N
+2001-02,2002,NBA,CLE,Cleveland Cavaliers,29,53,N,N
+2001-02,2002,NBA,DALM,Dallas Mavericks,57,25,N,N
+2001-02,2002,NBA,DEN,Denver Nuggets,27,55,N,N
+2001-02,2002,NBA,DET,Detroit Pistons,50,32,N,N
+2001-02,2002,NBA,HOU,Houston Rockets,28,54,N,N
+2001-02,2002,NBA,IND,Indiana Pacers,42,40,N,N
+2001-02,2002,NBA,LAC,Los Angeles Clippers,39,43,N,N
+2001-02,2002,NBA,MEM,Memphis Grizzlies,23,59,N,N
+2001-02,2002,NBA,MIA,Miami Heat,36,46,N,N
+2001-02,2002,NBA,MIL,Milwaukee Bucks,41,41,N,N
+2001-02,2002,NBA,MIN,Minnesota Timberwolves,50,32,N,N
+2001-02,2002,NBA,MINL,Los Angeles Lakers,58,24,Y,N
+2001-02,2002,NBA,NJN,New Jersey Nets,52,30,N,Y
+2001-02,2002,NBA,NOJ,Utah Jazz,44,38,N,N
+2001-02,2002,NBA,NYK,New York Knicks,30,52,N,N
+2001-02,2002,NBA,ORL,Orlando Magic,44,38,N,N
+2001-02,2002,NBA,PHE,Phoenix Suns,36,46,N,N
+2001-02,2002,NBA,PHI,Philadelphia 76ers,43,39,N,N
+2001-02,2002,NBA,POR,Portland Trail Blazers,49,33,N,N
+2001-02,2002,NBA,SAC,Sacramento Kings,61,21,N,N
+2001-02,2002,NBA,SAP,San Antonio Spurs,58,24,N,N
+2001-02,2002,NBA,SEA,Seattle SuperSonics,45,37,N,N
+2001-02,2002,NBA,TOR,Toronto Raptors,42,40,N,N
+2001-02,2002,NBA,WAR,Golden State Warriors,21,61,N,N
+2002-03,2003,NBA,ATL,Atlanta Hawks,35,47,N,N
+2002-03,2003,NBA,BOS,Boston Celtics,44,38,N,N
+2002-03,2003,NBA,CHI,Chicago Bulls,30,52,N,N
+2002-03,2003,NBA,CHIP,Washington Wizards,37,45,N,N
+2002-03,2003,NBA,CLE,Cleveland Cavaliers,17,65,N,N
+2002-03,2003,NBA,DALM,Dallas Mavericks,60,22,N,N
+2002-03,2003,NBA,DEN,Denver Nuggets,17,65,N,N
+2002-03,2003,NBA,DET,Detroit Pistons,50,32,N,N
+2002-03,2003,NBA,HOU,Houston Rockets,43,39,N,N
+2002-03,2003,NBA,IND,Indiana Pacers,48,34,N,N
+2002-03,2003,NBA,LAC,Los Angeles Clippers,27,55,N,N
+2002-03,2003,NBA,MEM,Memphis Grizzlies,28,54,N,N
+2002-03,2003,NBA,MIA,Miami Heat,25,57,N,N
+2002-03,2003,NBA,MIL,Milwaukee Bucks,42,40,N,N
+2002-03,2003,NBA,MIN,Minnesota Timberwolves,51,31,N,N
+2002-03,2003,NBA,MINL,Los Angeles Lakers,50,32,N,N
+2002-03,2003,NBA,NJN,New Jersey Nets,49,33,N,Y
+2002-03,2003,NBA,NOJ,Utah Jazz,47,35,N,N
+2002-03,2003,NBA,NOR,New Orleans Hornets,47,35,N,N
+2002-03,2003,NBA,NYK,New York Knicks,37,45,N,N
+2002-03,2003,NBA,ORL,Orlando Magic,42,40,N,N
+2002-03,2003,NBA,PHE,Phoenix Suns,44,38,N,N
+2002-03,2003,NBA,PHI,Philadelphia 76ers,48,34,N,N
+2002-03,2003,NBA,POR,Portland Trail Blazers,50,32,N,N
+2002-03,2003,NBA,SAC,Sacramento Kings,59,23,N,N
+2002-03,2003,NBA,SAP,San Antonio Spurs,60,22,Y,N
+2002-03,2003,NBA,SEA,Seattle SuperSonics,40,42,N,N
+2002-03,2003,NBA,TOR,Toronto Raptors,24,58,N,N
+2002-03,2003,NBA,WAR,Golden State Warriors,38,44,N,N
+2003-04,2004,NBA,ATL,Atlanta Hawks,28,54,N,N
+2003-04,2004,NBA,BOS,Boston Celtics,36,46,N,N
+2003-04,2004,NBA,CHI,Chicago Bulls,23,59,N,N
+2003-04,2004,NBA,CHIP,Washington Wizards,25,57,N,N
+2003-04,2004,NBA,CLE,Cleveland Cavaliers,35,47,N,N
+2003-04,2004,NBA,DALM,Dallas Mavericks,52,30,N,N
+2003-04,2004,NBA,DEN,Denver Nuggets,43,39,N,N
+2003-04,2004,NBA,DET,Detroit Pistons,54,28,Y,N
+2003-04,2004,NBA,HOU,Houston Rockets,45,37,N,N
+2003-04,2004,NBA,IND,Indiana Pacers,61,21,N,N
+2003-04,2004,NBA,LAC,Los Angeles Clippers,28,54,N,N
+2003-04,2004,NBA,MEM,Memphis Grizzlies,50,32,N,N
+2003-04,2004,NBA,MIA,Miami Heat,42,40,N,N
+2003-04,2004,NBA,MIL,Milwaukee Bucks,41,41,N,N
+2003-04,2004,NBA,MIN,Minnesota Timberwolves,58,24,N,N
+2003-04,2004,NBA,MINL,Los Angeles Lakers,56,26,N,Y
+2003-04,2004,NBA,NJN,New Jersey Nets,47,35,N,N
+2003-04,2004,NBA,NOJ,Utah Jazz,42,40,N,N
+2003-04,2004,NBA,NOR,New Orleans Hornets,41,41,N,N
+2003-04,2004,NBA,NYK,New York Knicks,39,43,N,N
+2003-04,2004,NBA,ORL,Orlando Magic,21,61,N,N
+2003-04,2004,NBA,PHE,Phoenix Suns,29,53,N,N
+2003-04,2004,NBA,PHI,Philadelphia 76ers,33,49,N,N
+2003-04,2004,NBA,POR,Portland Trail Blazers,41,41,N,N
+2003-04,2004,NBA,SAC,Sacramento Kings,55,27,N,N
+2003-04,2004,NBA,SAP,San Antonio Spurs,57,25,N,N
+2003-04,2004,NBA,SEA,Seattle SuperSonics,37,45,N,N
+2003-04,2004,NBA,TOR,Toronto Raptors,33,49,N,N
+2003-04,2004,NBA,WAR,Golden State Warriors,37,45,N,N
+2004-05,2005,NBA,ATL,Atlanta Hawks,13,69,N,N
+2004-05,2005,NBA,BOS,Boston Celtics,45,37,N,N
+2004-05,2005,NBA,CHA,Charlotte Bobcats,18,64,N,N
+2004-05,2005,NBA,CHI,Chicago Bulls,47,35,N,N
+2004-05,2005,NBA,CHIP,Washington Wizards,45,37,N,N
+2004-05,2005,NBA,CLE,Cleveland Cavaliers,42,40,N,N
+2004-05,2005,NBA,DALM,Dallas Mavericks,58,24,N,N
+2004-05,2005,NBA,DEN,Denver Nuggets,49,33,N,N
+2004-05,2005,NBA,DET,Detroit Pistons,54,28,N,Y
+2004-05,2005,NBA,HOU,Houston Rockets,51,31,N,N
+2004-05,2005,NBA,IND,Indiana Pacers,44,38,N,N
+2004-05,2005,NBA,LAC,Los Angeles Clippers,37,45,N,N
+2004-05,2005,NBA,MEM,Memphis Grizzlies,45,37,N,N
+2004-05,2005,NBA,MIA,Miami Heat,59,23,N,N
+2004-05,2005,NBA,MIL,Milwaukee Bucks,30,52,N,N
+2004-05,2005,NBA,MIN,Minnesota Timberwolves,44,38,N,N
+2004-05,2005,NBA,MINL,Los Angeles Lakers,34,48,N,N
+2004-05,2005,NBA,NJN,New Jersey Nets,42,40,N,N
+2004-05,2005,NBA,NOJ,Utah Jazz,26,56,N,N
+2004-05,2005,NBA,NOR,New Orleans Hornets,18,64,N,N
+2004-05,2005,NBA,NYK,New York Knicks,33,49,N,N
+2004-05,2005,NBA,ORL,Orlando Magic,36,46,N,N
+2004-05,2005,NBA,PHE,Phoenix Suns,62,20,N,N
+2004-05,2005,NBA,PHI,Philadelphia 76ers,43,39,N,N
+2004-05,2005,NBA,POR,Portland Trail Blazers,27,55,N,N
+2004-05,2005,NBA,SAC,Sacramento Kings,50,32,N,N
+2004-05,2005,NBA,SAP,San Antonio Spurs,59,23,Y,N
+2004-05,2005,NBA,SEA,Seattle SuperSonics,52,30,N,N
+2004-05,2005,NBA,TOR,Toronto Raptors,33,49,N,N
+2004-05,2005,NBA,WAR,Golden State Warriors,34,48,N,N
+2005-06,2006,NBA,ATL,Atlanta Hawks,26,56,N,N
+2005-06,2006,NBA,BOS,Boston Celtics,33,49,N,N
+2005-06,2006,NBA,CHA,Charlotte Bobcats,26,56,N,N
+2005-06,2006,NBA,CHI,Chicago Bulls,41,41,N,N
+2005-06,2006,NBA,CHIP,Washington Wizards,42,40,N,N
+2005-06,2006,NBA,CLE,Cleveland Cavaliers,50,32,N,N
+2005-06,2006,NBA,DALM,Dallas Mavericks,60,22,N,Y
+2005-06,2006,NBA,DEN,Denver Nuggets,44,38,N,N
+2005-06,2006,NBA,DET,Detroit Pistons,64,18,N,N
+2005-06,2006,NBA,HOU,Houston Rockets,34,48,N,N
+2005-06,2006,NBA,IND,Indiana Pacers,41,41,N,N
+2005-06,2006,NBA,LAC,Los Angeles Clippers,47,35,N,N
+2005-06,2006,NBA,MEM,Memphis Grizzlies,49,33,N,N
+2005-06,2006,NBA,MIA,Miami Heat,52,30,Y,N
+2005-06,2006,NBA,MIL,Milwaukee Bucks,40,42,N,N
+2005-06,2006,NBA,MIN,Minnesota Timberwolves,33,49,N,N
+2005-06,2006,NBA,MINL,Los Angeles Lakers,45,37,N,N
+2005-06,2006,NBA,NJN,New Jersey Nets,49,33,N,N
+2005-06,2006,NBA,NOJ,Utah Jazz,41,41,N,N
+2005-06,2006,NBA,NOR,New Orleans/Oklahoma City Hornets,38,44,N,N
+2005-06,2006,NBA,NYK,New York Knicks,23,59,N,N
+2005-06,2006,NBA,ORL,Orlando Magic,36,46,N,N
+2005-06,2006,NBA,PHE,Phoenix Suns,54,28,N,N
+2005-06,2006,NBA,PHI,Philadelphia 76ers,38,44,N,N
+2005-06,2006,NBA,POR,Portland Trail Blazers,21,61,N,N
+2005-06,2006,NBA,SAC,Sacramento Kings,44,38,N,N
+2005-06,2006,NBA,SAP,San Antonio Spurs,63,19,N,N
+2005-06,2006,NBA,SEA,Seattle SuperSonics,35,47,N,N
+2005-06,2006,NBA,TOR,Toronto Raptors,27,55,N,N
+2005-06,2006,NBA,WAR,Golden State Warriors,34,48,N,N
+2006-07,2007,NBA,ATL,Atlanta Hawks,30,52,N,N
+2006-07,2007,NBA,BOS,Boston Celtics,24,58,N,N
+2006-07,2007,NBA,CHA,Charlotte Bobcats,33,49,N,N
+2006-07,2007,NBA,CHI,Chicago Bulls,49,33,N,N
+2006-07,2007,NBA,CHIP,Washington Wizards,41,41,N,N
+2006-07,2007,NBA,CLE,Cleveland Cavaliers,50,32,N,Y
+2006-07,2007,NBA,DALM,Dallas Mavericks,67,15,N,N
+2006-07,2007,NBA,DEN,Denver Nuggets,45,37,N,N
+2006-07,2007,NBA,DET,Detroit Pistons,53,29,N,N
+2006-07,2007,NBA,HOU,Houston Rockets,52,30,N,N
+2006-07,2007,NBA,IND,Indiana Pacers,35,47,N,N
+2006-07,2007,NBA,LAC,Los Angeles Clippers,40,42,N,N
+2006-07,2007,NBA,MEM,Memphis Grizzlies,22,60,N,N
+2006-07,2007,NBA,MIA,Miami Heat,44,38,N,N
+2006-07,2007,NBA,MIL,Milwaukee Bucks,28,54,N,N
+2006-07,2007,NBA,MIN,Minnesota Timberwolves,32,50,N,N
+2006-07,2007,NBA,MINL,Los Angeles Lakers,42,40,N,N
+2006-07,2007,NBA,NJN,New Jersey Nets,41,41,N,N
+2006-07,2007,NBA,NOJ,Utah Jazz,51,31,N,N
+2006-07,2007,NBA,NOR,New Orleans/Oklahoma City Hornets,39,43,N,N
+2006-07,2007,NBA,NYK,New York Knicks,33,49,N,N
+2006-07,2007,NBA,ORL,Orlando Magic,40,42,N,N
+2006-07,2007,NBA,PHE,Phoenix Suns,61,21,N,N
+2006-07,2007,NBA,PHI,Philadelphia 76ers,35,47,N,N
+2006-07,2007,NBA,POR,Portland Trail Blazers,32,50,N,N
+2006-07,2007,NBA,SAC,Sacramento Kings,33,49,N,N
+2006-07,2007,NBA,SAP,San Antonio Spurs,58,24,Y,N
+2006-07,2007,NBA,SEA,Seattle SuperSonics,31,51,N,N
+2006-07,2007,NBA,TOR,Toronto Raptors,47,35,N,N
+2006-07,2007,NBA,WAR,Golden State Warriors,42,40,N,N
+2007-08,2008,NBA,ATL,Atlanta Hawks,37,45,N,N
+2007-08,2008,NBA,BOS,Boston Celtics,66,16,Y,N
+2007-08,2008,NBA,CHA,Charlotte Bobcats,32,50,N,N
+2007-08,2008,NBA,CHI,Chicago Bulls,33,49,N,N
+2007-08,2008,NBA,CHIP,Washington Wizards,43,39,N,N
+2007-08,2008,NBA,CLE,Cleveland Cavaliers,45,37,N,N
+2007-08,2008,NBA,DALM,Dallas Mavericks,51,31,N,N
+2007-08,2008,NBA,DEN,Denver Nuggets,50,32,N,N
+2007-08,2008,NBA,DET,Detroit Pistons,59,23,N,N
+2007-08,2008,NBA,HOU,Houston Rockets,55,27,N,N
+2007-08,2008,NBA,IND,Indiana Pacers,36,46,N,N
+2007-08,2008,NBA,LAC,Los Angeles Clippers,23,59,N,N
+2007-08,2008,NBA,MEM,Memphis Grizzlies,22,60,N,N
+2007-08,2008,NBA,MIA,Miami Heat,15,67,N,N
+2007-08,2008,NBA,MIL,Milwaukee Bucks,26,56,N,N
+2007-08,2008,NBA,MIN,Minnesota Timberwolves,22,60,N,N
+2007-08,2008,NBA,MINL,Los Angeles Lakers,57,25,N,Y
+2007-08,2008,NBA,NJN,New Jersey Nets,34,48,N,N
+2007-08,2008,NBA,NOJ,Utah Jazz,54,28,N,N
+2007-08,2008,NBA,NOR,New Orleans Hornets,56,26,N,N
+2007-08,2008,NBA,NYK,New York Knicks,23,59,N,N
+2007-08,2008,NBA,ORL,Orlando Magic,52,30,N,N
+2007-08,2008,NBA,PHE,Phoenix Suns,55,27,N,N
+2007-08,2008,NBA,PHI,Philadelphia 76ers,40,42,N,N
+2007-08,2008,NBA,POR,Portland Trail Blazers,41,41,N,N
+2007-08,2008,NBA,SAC,Sacramento Kings,38,44,N,N
+2007-08,2008,NBA,SAP,San Antonio Spurs,56,26,N,N
+2007-08,2008,NBA,SEA,Seattle SuperSonics,20,62,N,N
+2007-08,2008,NBA,TOR,Toronto Raptors,41,41,N,N
+2007-08,2008,NBA,WAR,Golden State Warriors,48,34,N,N
+2008-09,2009,NBA,ATL,Atlanta Hawks,47,35,N,N
+2008-09,2009,NBA,BOS,Boston Celtics,62,20,N,N
+2008-09,2009,NBA,CHA,Charlotte Bobcats,35,47,N,N
+2008-09,2009,NBA,CHI,Chicago Bulls,41,41,N,N
+2008-09,2009,NBA,CHIP,Washington Wizards,19,63,N,N
+2008-09,2009,NBA,CLE,Cleveland Cavaliers,66,16,N,N
+2008-09,2009,NBA,DALM,Dallas Mavericks,50,32,N,N
+2008-09,2009,NBA,DEN,Denver Nuggets,54,28,N,N
+2008-09,2009,NBA,DET,Detroit Pistons,39,43,N,N
+2008-09,2009,NBA,HOU,Houston Rockets,53,29,N,N
+2008-09,2009,NBA,IND,Indiana Pacers,36,46,N,N
+2008-09,2009,NBA,LAC,Los Angeles Clippers,19,63,N,N
+2008-09,2009,NBA,MEM,Memphis Grizzlies,24,58,N,N
+2008-09,2009,NBA,MIA,Miami Heat,43,39,N,N
+2008-09,2009,NBA,MIL,Milwaukee Bucks,34,48,N,N
+2008-09,2009,NBA,MIN,Minnesota Timberwolves,24,58,N,N
+2008-09,2009,NBA,MINL,Los Angeles Lakers,65,17,Y,N
+2008-09,2009,NBA,NJN,New Jersey Nets,34,48,N,N
+2008-09,2009,NBA,NOJ,Utah Jazz,48,34,N,N
+2008-09,2009,NBA,NOR,New Orleans Hornets,49,33,N,N
+2008-09,2009,NBA,NYK,New York Knicks,32,50,N,N
+2008-09,2009,NBA,OKC,Oklahoma City Thunder,23,59,N,N
+2008-09,2009,NBA,ORL,Orlando Magic,59,23,N,Y
+2008-09,2009,NBA,PHE,Phoenix Suns,46,36,N,N
+2008-09,2009,NBA,PHI,Philadelphia 76ers,41,41,N,N
+2008-09,2009,NBA,POR,Portland Trail Blazers,54,28,N,N
+2008-09,2009,NBA,SAC,Sacramento Kings,17,65,N,N
+2008-09,2009,NBA,SAP,San Antonio Spurs,54,28,N,N
+2008-09,2009,NBA,TOR,Toronto Raptors,33,49,N,N
+2008-09,2009,NBA,WAR,Golden State Warriors,29,53,N,N
+2009-10,2010,NBA,ATL,Atlanta Hawks,53,29,N,N
+2009-10,2010,NBA,BOS,Boston Celtics,50,32,N,Y
+2009-10,2010,NBA,CHA,Charlotte Bobcats,44,38,N,N
+2009-10,2010,NBA,CHI,Chicago Bulls,41,41,N,N
+2009-10,2010,NBA,CHIP,Washington Wizards,26,56,N,N
+2009-10,2010,NBA,CLE,Cleveland Cavaliers,61,21,N,N
+2009-10,2010,NBA,DALM,Dallas Mavericks,55,27,N,N
+2009-10,2010,NBA,DEN,Denver Nuggets,53,29,N,N
+2009-10,2010,NBA,DET,Detroit Pistons,27,55,N,N
+2009-10,2010,NBA,HOU,Houston Rockets,42,40,N,N
+2009-10,2010,NBA,IND,Indiana Pacers,32,50,N,N
+2009-10,2010,NBA,LAC,Los Angeles Clippers,29,53,N,N
+2009-10,2010,NBA,MEM,Memphis Grizzlies,40,42,N,N
+2009-10,2010,NBA,MIA,Miami Heat,47,35,N,N
+2009-10,2010,NBA,MIL,Milwaukee Bucks,46,36,N,N
+2009-10,2010,NBA,MIN,Minnesota Timberwolves,15,67,N,N
+2009-10,2010,NBA,MINL,Los Angeles Lakers,57,25,Y,N
+2009-10,2010,NBA,NJN,New Jersey Nets,12,70,N,N
+2009-10,2010,NBA,NOJ,Utah Jazz,53,29,N,N
+2009-10,2010,NBA,NOR,New Orleans Hornets,37,45,N,N
+2009-10,2010,NBA,NYK,New York Knicks,29,53,N,N
+2009-10,2010,NBA,OKC,Oklahoma City Thunder,50,32,N,N
+2009-10,2010,NBA,ORL,Orlando Magic,59,23,N,N
+2009-10,2010,NBA,PHE,Phoenix Suns,54,28,N,N
+2009-10,2010,NBA,PHI,Philadelphia 76ers,27,55,N,N
+2009-10,2010,NBA,POR,Portland Trail Blazers,50,32,N,N
+2009-10,2010,NBA,SAC,Sacramento Kings,25,57,N,N
+2009-10,2010,NBA,SAP,San Antonio Spurs,50,32,N,N
+2009-10,2010,NBA,TOR,Toronto Raptors,40,42,N,N
+2009-10,2010,NBA,WAR,Golden State Warriors,26,56,N,N
+2010-11,2011,NBA,ATL,Atlanta Hawks,44,38,N,N
+2010-11,2011,NBA,BOS,Boston Celtics,56,26,N,N
+2010-11,2011,NBA,CHA,Charlotte Bobcats,34,48,N,N
+2010-11,2011,NBA,CHI,Chicago Bulls,62,20,N,N
+2010-11,2011,NBA,CHIP,Washington Wizards,23,59,N,N
+2010-11,2011,NBA,CLE,Cleveland Cavaliers,19,63,N,N
+2010-11,2011,NBA,DALM,Dallas Mavericks,57,25,Y,N
+2010-11,2011,NBA,DEN,Denver Nuggets,50,32,N,N
+2010-11,2011,NBA,DET,Detroit Pistons,30,52,N,N
+2010-11,2011,NBA,HOU,Houston Rockets,43,39,N,N
+2010-11,2011,NBA,IND,Indiana Pacers,37,45,N,N
+2010-11,2011,NBA,LAC,Los Angeles Clippers,32,50,N,N
+2010-11,2011,NBA,MEM,Memphis Grizzlies,46,36,N,N
+2010-11,2011,NBA,MIA,Miami Heat,58,24,N,Y
+2010-11,2011,NBA,MIL,Milwaukee Bucks,35,47,N,N
+2010-11,2011,NBA,MIN,Minnesota Timberwolves,17,65,N,N
+2010-11,2011,NBA,MINL,Los Angeles Lakers,57,25,N,N
+2010-11,2011,NBA,NJN,New Jersey Nets,24,58,N,N
+2010-11,2011,NBA,NOJ,Utah Jazz,39,43,N,N
+2010-11,2011,NBA,NOR,New Orleans Hornets,46,36,N,N
+2010-11,2011,NBA,NYK,New York Knicks,42,40,N,N
+2010-11,2011,NBA,OKC,Oklahoma City Thunder,55,27,N,N
+2010-11,2011,NBA,ORL,Orlando Magic,52,30,N,N
+2010-11,2011,NBA,PHE,Phoenix Suns,40,42,N,N
+2010-11,2011,NBA,PHI,Philadelphia 76ers,41,41,N,N
+2010-11,2011,NBA,POR,Portland Trail Blazers,48,34,N,N
+2010-11,2011,NBA,SAC,Sacramento Kings,24,58,N,N
+2010-11,2011,NBA,SAP,San Antonio Spurs,61,21,N,N
+2010-11,2011,NBA,TOR,Toronto Raptors,22,60,N,N
+2010-11,2011,NBA,WAR,Golden State Warriors,36,46,N,N
+2011-12,2012,NBA,ATL,Atlanta Hawks,40,26,N,N
+2011-12,2012,NBA,BOS,Boston Celtics,39,27,N,N
+2011-12,2012,NBA,CHA,Charlotte Bobcats,7,59,N,N
+2011-12,2012,NBA,CHI,Chicago Bulls,50,16,N,N
+2011-12,2012,NBA,CHIP,Washington Wizards,20,46,N,N
+2011-12,2012,NBA,CLE,Cleveland Cavaliers,21,45,N,N
+2011-12,2012,NBA,DALM,Dallas Mavericks,36,30,N,N
+2011-12,2012,NBA,DEN,Denver Nuggets,38,28,N,N
+2011-12,2012,NBA,DET,Detroit Pistons,25,41,N,N
+2011-12,2012,NBA,HOU,Houston Rockets,34,32,N,N
+2011-12,2012,NBA,IND,Indiana Pacers,42,24,N,N
+2011-12,2012,NBA,LAC,Los Angeles Clippers,40,26,N,N
+2011-12,2012,NBA,MEM,Memphis Grizzlies,41,25,N,N
+2011-12,2012,NBA,MIA,Miami Heat,46,20,Y,N
+2011-12,2012,NBA,MIL,Milwaukee Bucks,31,35,N,N
+2011-12,2012,NBA,MIN,Minnesota Timberwolves,26,40,N,N
+2011-12,2012,NBA,MINL,Los Angeles Lakers,41,25,N,N
+2011-12,2012,NBA,NJN,New Jersey Nets,22,44,N,N
+2011-12,2012,NBA,NOJ,Utah Jazz,36,30,N,N
+2011-12,2012,NBA,NOR,New Orleans Hornets,21,45,N,N
+2011-12,2012,NBA,NYK,New York Knicks,36,30,N,N
+2011-12,2012,NBA,OKC,Oklahoma City Thunder,47,19,N,Y
+2011-12,2012,NBA,ORL,Orlando Magic,37,29,N,N
+2011-12,2012,NBA,PHE,Phoenix Suns,33,33,N,N
+2011-12,2012,NBA,PHI,Philadelphia 76ers,35,31,N,N
+2011-12,2012,NBA,POR,Portland Trail Blazers,28,38,N,N
+2011-12,2012,NBA,SAC,Sacramento Kings,22,44,N,N
+2011-12,2012,NBA,SAP,San Antonio Spurs,50,16,N,N
+2011-12,2012,NBA,TOR,Toronto Raptors,23,43,N,N
+2011-12,2012,NBA,WAR,Golden State Warriors,23,43,N,N
+2012-13,2013,NBA,ATL,Atlanta Hawks,44,38,N,N
+2012-13,2013,NBA,BOS,Boston Celtics,41,40,N,N
+2012-13,2013,NBA,CHA,Charlotte Bobcats,21,61,N,N
+2012-13,2013,NBA,CHI,Chicago Bulls,45,37,N,N
+2012-13,2013,NBA,CHIP,Washington Wizards,29,53,N,N
+2012-13,2013,NBA,CLE,Cleveland Cavaliers,24,58,N,N
+2012-13,2013,NBA,DALM,Dallas Mavericks,41,41,N,N
+2012-13,2013,NBA,DEN,Denver Nuggets,57,25,N,N
+2012-13,2013,NBA,DET,Detroit Pistons,29,53,N,N
+2012-13,2013,NBA,HOU,Houston Rockets,45,37,N,N
+2012-13,2013,NBA,IND,Indiana Pacers,49,32,N,N
+2012-13,2013,NBA,LAC,Los Angeles Clippers,56,26,N,N
+2012-13,2013,NBA,MEM,Memphis Grizzlies,56,26,N,N
+2012-13,2013,NBA,MIA,Miami Heat,66,16,Y,N
+2012-13,2013,NBA,MIL,Milwaukee Bucks,38,44,N,N
+2012-13,2013,NBA,MIN,Minnesota Timberwolves,31,51,N,N
+2012-13,2013,NBA,MINL,Los Angeles Lakers,45,37,N,N
+2012-13,2013,NBA,NJN,Brooklyn Nets,49,33,N,N
+2012-13,2013,NBA,NOJ,Utah Jazz,43,39,N,N
+2012-13,2013,NBA,NOR,New Orleans Hornets,27,55,N,N
+2012-13,2013,NBA,NYK,New York Knicks,54,28,N,N
+2012-13,2013,NBA,OKC,Oklahoma City Thunder,60,22,N,N
+2012-13,2013,NBA,ORL,Orlando Magic,20,62,N,N
+2012-13,2013,NBA,PHE,Phoenix Suns,25,57,N,N
+2012-13,2013,NBA,PHI,Philadelphia 76ers,34,48,N,N
+2012-13,2013,NBA,POR,Portland Trail Blazers,33,49,N,N
+2012-13,2013,NBA,SAC,Sacramento Kings,28,54,N,N
+2012-13,2013,NBA,SAP,San Antonio Spurs,58,24,N,Y
+2012-13,2013,NBA,TOR,Toronto Raptors,34,48,N,N
+2012-13,2013,NBA,WAR,Golden State Warriors,47,35,N,N
+2013-14,2014,NBA,ATL,Atlanta Hawks,38,44,N,N
+2013-14,2014,NBA,BOS,Boston Celtics,25,57,N,N
+2013-14,2014,NBA,CHA,Charlotte Bobcats,43,39,N,N
+2013-14,2014,NBA,CHI,Chicago Bulls,48,34,N,N
+2013-14,2014,NBA,CHIP,Washington Wizards,44,38,N,N
+2013-14,2014,NBA,CLE,Cleveland Cavaliers,33,49,N,N
+2013-14,2014,NBA,DALM,Dallas Mavericks,49,33,N,N
+2013-14,2014,NBA,DEN,Denver Nuggets,36,46,N,N
+2013-14,2014,NBA,DET,Detroit Pistons,29,53,N,N
+2013-14,2014,NBA,HOU,Houston Rockets,54,28,N,N
+2013-14,2014,NBA,IND,Indiana Pacers,56,26,N,N
+2013-14,2014,NBA,LAC,Los Angeles Clippers,57,25,N,N
+2013-14,2014,NBA,MEM,Memphis Grizzlies,50,32,N,N
+2013-14,2014,NBA,MIA,Miami Heat,54,28,N,Y
+2013-14,2014,NBA,MIL,Milwaukee Bucks,15,67,N,N
+2013-14,2014,NBA,MIN,Minnesota Timberwolves,40,42,N,N
+2013-14,2014,NBA,MINL,Los Angeles Lakers,27,55,N,N
+2013-14,2014,NBA,NJN,Brooklyn Nets,44,38,N,N
+2013-14,2014,NBA,NOJ,Utah Jazz,25,57,N,N
+2013-14,2014,NBA,NOR,New Orleans Pelicans,34,48,N,N
+2013-14,2014,NBA,NYK,New York Knicks,37,45,N,N
+2013-14,2014,NBA,OKC,Oklahoma City Thunder,59,23,N,N
+2013-14,2014,NBA,ORL,Orlando Magic,23,59,N,N
+2013-14,2014,NBA,PHE,Phoenix Suns,48,34,N,N
+2013-14,2014,NBA,PHI,Philadelphia 76ers,19,63,N,N
+2013-14,2014,NBA,POR,Portland Trail Blazers,54,28,N,N
+2013-14,2014,NBA,SAC,Sacramento Kings,28,54,N,N
+2013-14,2014,NBA,SAP,San Antonio Spurs,62,20,Y,N
+2013-14,2014,NBA,TOR,Toronto Raptors,48,34,N,N
+2013-14,2014,NBA,WAR,Golden State Warriors,51,31,N,N
+2014-15,2015,NBA,ATL,Atlanta Hawks,60,22,N,N
+2014-15,2015,NBA,BOS,Boston Celtics,40,42,N,N
+2014-15,2015,NBA,CHA,Charlotte Hornets,33,49,N,N
+2014-15,2015,NBA,CHI,Chicago Bulls,50,32,N,N
+2014-15,2015,NBA,CHIP,Washington Wizards,46,36,N,N
+2014-15,2015,NBA,CLE,Cleveland Cavaliers,53,29,N,Y
+2014-15,2015,NBA,DALM,Dallas Mavericks,50,32,N,N
+2014-15,2015,NBA,DEN,Denver Nuggets,30,52,N,N
+2014-15,2015,NBA,DET,Detroit Pistons,32,50,N,N
+2014-15,2015,NBA,HOU,Houston Rockets,56,26,N,N
+2014-15,2015,NBA,IND,Indiana Pacers,38,44,N,N
+2014-15,2015,NBA,LAC,Los Angeles Clippers,56,26,N,N
+2014-15,2015,NBA,MEM,Memphis Grizzlies,55,27,N,N
+2014-15,2015,NBA,MIA,Miami Heat,37,45,N,N
+2014-15,2015,NBA,MIL,Milwaukee Bucks,41,41,N,N
+2014-15,2015,NBA,MIN,Minnesota Timberwolves,16,66,N,N
+2014-15,2015,NBA,MINL,Los Angeles Lakers,21,61,N,N
+2014-15,2015,NBA,NJN,Brooklyn Nets,38,44,N,N
+2014-15,2015,NBA,NOJ,Utah Jazz,38,44,N,N
+2014-15,2015,NBA,NOR,New Orleans Pelicans,45,37,N,N
+2014-15,2015,NBA,NYK,New York Knicks,17,65,N,N
+2014-15,2015,NBA,OKC,Oklahoma City Thunder,45,37,N,N
+2014-15,2015,NBA,ORL,Orlando Magic,25,57,N,N
+2014-15,2015,NBA,PHE,Phoenix Suns,39,43,N,N
+2014-15,2015,NBA,PHI,Philadelphia 76ers,18,64,N,N
+2014-15,2015,NBA,POR,Portland Trail Blazers,51,31,N,N
+2014-15,2015,NBA,SAC,Sacramento Kings,29,53,N,N
+2014-15,2015,NBA,SAP,San Antonio Spurs,55,27,N,N
+2014-15,2015,NBA,TOR,Toronto Raptors,49,33,N,N
+2014-15,2015,NBA,WAR,Golden State Warriors,67,15,Y,N
+2015-16,2016,NBA,ATL,Atlanta Hawks,48,34,N,N
+2015-16,2016,NBA,BOS,Boston Celtics,48,34,N,N
+2015-16,2016,NBA,CHA,Charlotte Hornets,48,34,N,N
+2015-16,2016,NBA,CHI,Chicago Bulls,42,40,N,N
+2015-16,2016,NBA,CHIP,Washington Wizards,41,41,N,N
+2015-16,2016,NBA,CLE,Cleveland Cavaliers,57,25,Y,N
+2015-16,2016,NBA,DALM,Dallas Mavericks,42,40,N,N
+2015-16,2016,NBA,DEN,Denver Nuggets,33,49,N,N
+2015-16,2016,NBA,DET,Detroit Pistons,44,38,N,N
+2015-16,2016,NBA,HOU,Houston Rockets,41,41,N,N
+2015-16,2016,NBA,IND,Indiana Pacers,45,37,N,N
+2015-16,2016,NBA,LAC,Los Angeles Clippers,53,29,N,N
+2015-16,2016,NBA,MEM,Memphis Grizzlies,42,40,N,N
+2015-16,2016,NBA,MIA,Miami Heat,48,34,N,N
+2015-16,2016,NBA,MIL,Milwaukee Bucks,33,49,N,N
+2015-16,2016,NBA,MIN,Minnesota Timberwolves,29,53,N,N
+2015-16,2016,NBA,MINL,Los Angeles Lakers,17,65,N,N
+2015-16,2016,NBA,NJN,Brooklyn Nets,21,61,N,N
+2015-16,2016,NBA,NOJ,Utah Jazz,40,42,N,N
+2015-16,2016,NBA,NOR,New Orleans Pelicans,30,52,N,N
+2015-16,2016,NBA,NYK,New York Knicks,32,50,N,N
+2015-16,2016,NBA,OKC,Oklahoma City Thunder,55,27,N,N
+2015-16,2016,NBA,ORL,Orlando Magic,35,47,N,N
+2015-16,2016,NBA,PHE,Phoenix Suns,23,59,N,N
+2015-16,2016,NBA,PHI,Philadelphia 76ers,10,72,N,N
+2015-16,2016,NBA,POR,Portland Trail Blazers,44,38,N,N
+2015-16,2016,NBA,SAC,Sacramento Kings,33,49,N,N
+2015-16,2016,NBA,SAP,San Antonio Spurs,67,15,N,N
+2015-16,2016,NBA,TOR,Toronto Raptors,56,26,N,N
+2015-16,2016,NBA,WAR,Golden State Warriors,73,9,N,Y
+2016-17,2017,NBA,ATL,Atlanta Hawks,43,39,N,N
+2016-17,2017,NBA,BOS,Boston Celtics,53,29,N,N
+2016-17,2017,NBA,CHA,Charlotte Hornets,36,46,N,N
+2016-17,2017,NBA,CHI,Chicago Bulls,41,41,N,N
+2016-17,2017,NBA,CHIP,Washington Wizards,49,33,N,N
+2016-17,2017,NBA,CLE,Cleveland Cavaliers,51,31,N,Y
+2016-17,2017,NBA,DALM,Dallas Mavericks,33,49,N,N
+2016-17,2017,NBA,DEN,Denver Nuggets,40,42,N,N
+2016-17,2017,NBA,DET,Detroit Pistons,37,45,N,N
+2016-17,2017,NBA,HOU,Houston Rockets,55,27,N,N
+2016-17,2017,NBA,IND,Indiana Pacers,42,40,N,N
+2016-17,2017,NBA,LAC,Los Angeles Clippers,51,31,N,N
+2016-17,2017,NBA,MEM,Memphis Grizzlies,43,39,N,N
+2016-17,2017,NBA,MIA,Miami Heat,41,41,N,N
+2016-17,2017,NBA,MIL,Milwaukee Bucks,42,40,N,N
+2016-17,2017,NBA,MIN,Minnesota Timberwolves,31,51,N,N
+2016-17,2017,NBA,MINL,Los Angeles Lakers,26,56,N,N
+2016-17,2017,NBA,NJN,Brooklyn Nets,20,62,N,N
+2016-17,2017,NBA,NOJ,Utah Jazz,51,31,N,N
+2016-17,2017,NBA,NOR,New Orleans Pelicans,34,48,N,N
+2016-17,2017,NBA,NYK,New York Knicks,31,51,N,N
+2016-17,2017,NBA,OKC,Oklahoma City Thunder,47,35,N,N
+2016-17,2017,NBA,ORL,Orlando Magic,29,53,N,N
+2016-17,2017,NBA,PHE,Phoenix Suns,24,58,N,N
+2016-17,2017,NBA,PHI,Philadelphia 76ers,28,54,N,N
+2016-17,2017,NBA,POR,Portland Trail Blazers,41,41,N,N
+2016-17,2017,NBA,SAC,Sacramento Kings,32,50,N,N
+2016-17,2017,NBA,SAP,San Antonio Spurs,61,21,N,N
+2016-17,2017,NBA,TOR,Toronto Raptors,51,31,N,N
+2016-17,2017,NBA,WAR,Golden State Warriors,67,15,Y,N
+2017-18,2018,NBA,ATL,Atlanta Hawks,24,58,N,N
+2017-18,2018,NBA,BOS,Boston Celtics,55,23,N,N
+2017-18,2018,NBA,CHA,Charlotte Hornets,36,46,N,N
+2017-18,2018,NBA,CHI,Chicago Bulls,27,55,N,N
+2017-18,2018,NBA,CHIP,Washington Wizards,43,39,N,N
+2017-18,2018,NBA,CLE,Cleveland Cavaliers,50,32,N,Y
+2017-18,2018,NBA,DALM,Dallas Mavericks,24,58,N,N
+2017-18,2018,NBA,DEN,Denver Nuggets,46,36,N,N
+2017-18,2018,NBA,DET,Detroit Pistons,39,43,N,N
+2017-18,2018,NBA,HOU,Houston Rockets,65,17,N,N
+2017-18,2018,NBA,IND,Indiana Pacers,48,34,N,N
+2017-18,2018,NBA,LAC,Los Angeles Clippers,42,40,N,N
+2017-18,2018,NBA,MEM,Memphis Grizzlies,22,60,N,N
+2017-18,2018,NBA,MIA,Miami Heat,44,38,N,N
+2017-18,2018,NBA,MIL,Milwaukee Bucks,44,38,N,N
+2017-18,2018,NBA,MIN,Minnesota Timberwolves,47,35,N,N
+2017-18,2018,NBA,MINL,Los Angeles Lakers,35,47,N,N
+2017-18,2018,NBA,NJN,Brooklyn Nets,28,54,N,N
+2017-18,2018,NBA,NOJ,Utah Jazz,48,34,N,N
+2017-18,2018,NBA,NOR,New Orleans Pelicans,48,34,N,N
+2017-18,2018,NBA,NYK,New York Knicks,29,53,N,N
+2017-18,2018,NBA,OKC,Oklahoma City Thunder,48,34,N,N
+2017-18,2018,NBA,ORL,Orlando Magic,25,57,N,N
+2017-18,2018,NBA,PHE,Phoenix Suns,21,61,N,N
+2017-18,2018,NBA,PHI,Philadelphia 76ers,52,30,N,N
+2017-18,2018,NBA,POR,Portland Trail Blazers,49,33,N,N
+2017-18,2018,NBA,SAC,Sacramento Kings,27,55,N,N
+2017-18,2018,NBA,SAP,San Antonio Spurs,47,35,N,N
+2017-18,2018,NBA,TOR,Toronto Raptors,59,23,N,N
+2017-18,2018,NBA,WAR,Golden State Warriors,58,24,Y,N
+2018-19,2019,NBA,ATL,Atlanta Hawks,29,53,N,N
+2018-19,2019,NBA,BOS,Boston Celtics,49,33,N,N
+2018-19,2019,NBA,CHA,Charlotte Hornets,39,43,N,N
+2018-19,2019,NBA,CHI,Chicago Bulls,22,60,N,N
+2018-19,2019,NBA,CHIP,Washington Wizards,32,50,N,N
+2018-19,2019,NBA,CLE,Cleveland Cavaliers,19,63,N,N
+2018-19,2019,NBA,DALM,Dallas Mavericks,33,49,N,N
+2018-19,2019,NBA,DEN,Denver Nuggets,54,28,N,N
+2018-19,2019,NBA,DET,Detroit Pistons,41,41,N,N
+2018-19,2019,NBA,HOU,Houston Rockets,53,29,N,N
+2018-19,2019,NBA,IND,Indiana Pacers,48,34,N,N
+2018-19,2019,NBA,LAC,Los Angeles Clippers,48,34,N,N
+2018-19,2019,NBA,MEM,Memphis Grizzlies,33,49,N,N
+2018-19,2019,NBA,MIA,Miami Heat,39,43,N,N
+2018-19,2019,NBA,MIL,Milwaukee Bucks,60,22,N,N
+2018-19,2019,NBA,MIN,Minnesota Timberwolves,36,46,N,N
+2018-19,2019,NBA,MINL,Los Angeles Lakers,37,45,N,N
+2018-19,2019,NBA,NJN,Brooklyn Nets,42,40,N,N
+2018-19,2019,NBA,NOJ,Utah Jazz,50,32,N,N
+2018-19,2019,NBA,NOR,New Orleans Pelicans,33,49,N,N
+2018-19,2019,NBA,NYK,New York Knicks,17,65,N,N
+2018-19,2019,NBA,OKC,Oklahoma City Thunder,49,33,N,N
+2018-19,2019,NBA,ORL,Orlando Magic,42,40,N,N
+2018-19,2019,NBA,PHE,Phoenix Suns,19,63,N,N
+2018-19,2019,NBA,PHI,Philadelphia 76ers,51,31,N,N
+2018-19,2019,NBA,POR,Portland Trail Blazers,53,29,N,N
+2018-19,2019,NBA,SAC,Sacramento Kings,39,43,N,N
+2018-19,2019,NBA,SAP,San Antonio Spurs,48,34,N,N
+2018-19,2019,NBA,TOR,Toronto Raptors,58,24,Y,N
+2018-19,2019,NBA,WAR,Golden State Warriors,57,25,N,Y
+2019-20,2020,NBA,ATL,Atlanta Hawks,20,47,N,N
+2019-20,2020,NBA,BOS,Boston Celtics,48,24,N,N
+2019-20,2020,NBA,CHA,Charlotte Hornets,23,42,N,N
+2019-20,2020,NBA,CHI,Chicago Bulls,22,43,N,N
+2019-20,2020,NBA,CHIP,Washington Wizards,25,47,N,N
+2019-20,2020,NBA,CLE,Cleveland Cavaliers,19,46,N,N
+2019-20,2020,NBA,DALM,Dallas Mavericks,43,32,N,N
+2019-20,2020,NBA,DEN,Denver Nuggets,46,27,N,N
+2019-20,2020,NBA,DET,Detroit Pistons,20,46,N,N
+2019-20,2020,NBA,HOU,Houston Rockets,44,28,N,N
+2019-20,2020,NBA,IND,Indiana Pacers,45,28,N,N
+2019-20,2020,NBA,LAC,Los Angeles Clippers,49,23,N,N
+2019-20,2020,NBA,MEM,Memphis Grizzlies,34,39,N,N
+2019-20,2020,NBA,MIA,Miami Heat,44,29,N,Y
+2019-20,2020,NBA,MIL,Milwaukee Bucks,19,45,N,N
+2019-20,2020,NBA,MIN,Minnesota Timberwolves,19,45,N,N
+2019-20,2020,NBA,MINL,Los Angeles Lakers,52,19,Y,N
+2019-20,2020,NBA,NJN,Brooklyn Nets,35,37,N,N
+2019-20,2020,NBA,NOJ,Utah Jazz,44,28,N,N
+2019-20,2020,NBA,NOR,New Orleans Pelicans,30,42,N,N
+2019-20,2020,NBA,NYK,New York Knicks,21,45,N,N
+2019-20,2020,NBA,OKC,Oklahoma City Thunder,44,28,N,N
+2019-20,2020,NBA,ORL,Orlando Magic,33,40,N,N
+2019-20,2020,NBA,PHE,Phoenix Suns,34,29,N,N
+2019-20,2020,NBA,PHI,Philadelphia 76ers,43,30,N,N
+2019-20,2020,NBA,POR,Portland Trail Blazers,35,39,N,N
+2019-20,2020,NBA,SAC,Sacramento Kings,31,41,N,N
+2019-20,2020,NBA,SAP,San Antonio Spurs,32,39,N,N
+2019-20,2020,NBA,TOR,Toronto Raptors,53,19,N,N
+2019-20,2020,NBA,WAR,Golden State Warriors,15,50,N,N
+2020-21,2021,NBA,ATL,Atlanta Hawks,41,31,N,N
+2020-21,2021,NBA,BOS,Boston Celtics,36,36,N,N
+2020-21,2021,NBA,CHA,Charlotte Hornets,33,39,N,N
+2020-21,2021,NBA,CHI,Chicago Bulls,31,41,N,N
+2020-21,2021,NBA,CHIP,Washington Wizards,34,38,N,N
+2020-21,2021,NBA,CLE,Cleveland Cavaliers,22,50,N,N
+2020-21,2021,NBA,DALM,Dallas Mavericks,42,30,N,N
+2020-21,2021,NBA,DEN,Denver Nuggets,47,25,N,N
+2020-21,2021,NBA,DET,Detroit Pistons,20,52,N,N
+2020-21,2021,NBA,HOU,Houston Rockets,17,55,N,N
+2020-21,2021,NBA,IND,Indiana Pacers,34,38,N,N
+2020-21,2021,NBA,LAC,Los Angeles Clippers,47,25,N,N
+2020-21,2021,NBA,MEM,Memphis Grizzlies,38,34,N,N
+2020-21,2021,NBA,MIA,Miami Heat,40,32,N,N
+2020-21,2021,NBA,MIL,Milwaukee Bucks,46,26,Y,N
+2020-21,2021,NBA,MIN,Minnesota Timberwolves,23,49,N,N
+2020-21,2021,NBA,MINL,Los Angeles Lakers,42,30,N,N
+2020-21,2021,NBA,NJN,Brooklyn Nets,48,24,N,N
+2020-21,2021,NBA,NOJ,Utah Jazz,52,20,N,N
+2020-21,2021,NBA,NOR,New Orleans Pelicans,31,41,N,N
+2020-21,2021,NBA,NYK,New York Knicks,41,31,N,N
+2020-21,2021,NBA,OKC,Oklahoma City Thunder,22,50,N,N
+2020-21,2021,NBA,ORL,Orlando Magic,21,51,N,N
+2020-21,2021,NBA,PHE,Phoenix Suns,51,21,N,Y
+2020-21,2021,NBA,PHI,Philadelphia 76ers,49,23,N,N
+2020-21,2021,NBA,POR,Portland Trail Blazers,42,30,N,N
+2020-21,2021,NBA,SAC,Sacramento Kings,31,41,N,N
+2020-21,2021,NBA,SAP,San Antonio Spurs,33,39,N,N
+2020-21,2021,NBA,TOR,Toronto Raptors,27,45,N,N
+2020-21,2021,NBA,WAR,Golden State Warriors,39,33,N,N

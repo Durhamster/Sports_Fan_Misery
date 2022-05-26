@@ -1,0 +1,117 @@
+yearID,teamID,franchID,name,Rank,W,L,NR,Playoffs,Cwin,CRU
+2008,CSK,CSK,Chennai Super Kings,3,8,6,0,Y,N,Y
+2008,HDC,HDC,Deccan Chargers,8,2,12,0,N,N,N
+2008,DC,DC,Delhi Daredevils,4,7,6,1,Y,N,N
+2008,PBKS,PBKS,Kings XI Punjab,2,10,4,0,Y,N,N
+2008,KKR,KKR,Kolkata Knight Riders,6,6,7,1,N,N,N
+2008,MI,MI,Mumbai Indians,5,7,7,0,N,N,N
+2008,RR,RR,Rajasthan Royals,1,11,3,0,Y,Y,N
+2008,RCB,RCB,Royal Challengers Bangalore,7,4,10,0,N,N,N
+2009,CSK,CSK,Chennai Super Kings,3,8,5,1,Y,N,N
+2009,HDC,HDC,Deccan Chargers,4,7,7,0,Y,Y,N
+2009,DC,DC,Delhi Daredevils,1,10,4,0,Y,N,N
+2009,PBKS,PBKS,Kings XI Punjab,5,7,7,0,N,N,N
+2009,KKR,KKR,Kolkata Knight Riders,8,3,10,1,N,N,N
+2009,MI,MI,Mumbai Indians,7,5,8,1,N,N,N
+2009,RR,RR,Rajasthan Royals,6,6,7,1,N,N,N
+2009,RCB,RCB,Royal Challengers Bangalore,3,8,6,0,Y,N,Y
+2010,CSK,CSK,Chennai Super Kings,3,7,7,0,Y,Y,N
+2010,HDC,HDC,Deccan Chargers,2,8,6,0,Y,N,N
+2010,DC,DC,Delhi Daredevils,5,7,7,0,N,N,N
+2010,PBKS,PBKS,Kings XI Punjab,8,4,10,0,N,N,N
+2010,KKR,KKR,Kolkata Knight Riders,6,7,7,0,N,N,N
+2010,MI,MI,Mumbai Indians,1,10,4,0,Y,N,Y
+2010,RR,RR,Rajasthan Royals,7,6,8,0,N,N,N
+2010,RCB,RCB,Royal Challengers Bangalore,4,7,7,0,Y,N,N
+2011,CSK,CSK,Chennai Super Kings,3,7,7,0,Y,Y,N
+2011,HDC,HDC,Deccan Chargers,7,6,8,0,N,N,N
+2011,DC,DC,Delhi Daredevils,10,4,9,1,N,N,N
+2011,PBKS,PBKS,Kings XI Punjab,5,7,7,0,N,N,N
+2011,KTK,KTK,Kochi Tuckers Kerala,8,6,8,0,N,N,N
+2011,KKR,KKR,Kolkata Knight Riders,4,8,6,0,Y,N,N
+2011,MI,MI,Mumbai Indians,3,9,5,0,Y,N,N
+2011,PWI,PWI,Pune Warriors India,9,4,9,1,N,N,N
+2011,RR,RR,Rajasthan Royals,6,6,7,1,N,N,N
+2011,RCB,RCB,Royal Challengers Bangalore,1,9,4,1,Y,N,Y
+2012,CSK,CSK,Chennai Super Kings,4,8,7,1,Y,N,Y
+2012,HDC,HDC,Deccan Chargers,8,4,11,1,N,N,N
+2012,DC,DC,Delhi Daredevils,1,11,5,0,Y,N,N
+2012,PBKS,PBKS,Kings XI Punjab,6,8,8,0,N,N,N
+2012,KKR,KKR,Kolkata Knight Riders,2,10,5,1,Y,Y,N
+2012,MI,MI,Mumbai Indians,3,10,6,0,Y,N,N
+2012,PWI,PWI,Pune Warriors India,9,4,11,0,N,N,N
+2012,RR,RR,Rajasthan Royals,7,7,9,0,N,N,N
+2012,RCB,RCB,Royal Challengers Bangalore,5,8,7,1,N,N,N
+2013,CSK,CSK,Chennai Super Kings,1,11,5,0,Y,N,Y
+2013,DC,DC,Delhi Daredevils,9,3,13,0,N,N,N
+2013,PBKS,PBKS,Kings XI Punjab,6,8,8,0,N,N,N
+2013,KKR,KKR,Kolkata Knight Riders,7,6,10,0,N,N,N
+2013,MI,MI,Mumbai Indians,2,11,5,0,Y,Y,N
+2013,PWI,PWI,Pune Warriors India,8,4,12,0,N,N,N
+2013,RR,RR,Rajasthan Royals,3,10,6,0,Y,N,N
+2013,RCB,RCB,Royal Challengers Bangalore,5,9,7,0,N,N,N
+2013,HDC,HDC,Sunrisers Hyderabad,4,10,6,0,N,N,N
+2014,CSK,CSK,Chennai Super Kings,3,9,5,0,Y,N,N
+2014,DC,DC,Delhi Daredevils,8,2,12,0,N,N,N
+2014,PBKS,PBKS,Kings XI Punjab,1,11,3,0,Y,N,Y
+2014,KKR,KKR,Kolkata Knight Riders,2,9,5,0,Y,Y,N
+2014,MI,MI,Mumbai Indians,4,7,7,0,Y,N,N
+2014,RR,RR,Rajasthan Royals,5,7,7,0,N,N,N
+2014,RCB,RCB,Royal Challengers Bangalore,7,5,9,0,N,N,N
+2014,HDC,HDC,Sunrisers Hyderabad,6,6,8,0,N,N,N
+2015,CSK,CSK,Chennai Super Kings,1,9,5,0,Y,N,Y
+2015,DC,DC,Delhi Daredevils,7,5,8,1,N,N,N
+2015,PBKS,PBKS,Kings XI Punjab,8,3,11,0,N,N,N
+2015,KKR,KKR,Kolkata Knight Riders,5,7,6,1,N,N,N
+2015,MI,MI,Mumbai Indians,2,8,6,0,Y,Y,N
+2015,RR,RR,Rajasthan Royals,4,7,5,2,Y,N,N
+2015,RCB,RCB,Royal Challengers Bangalore,3,7,5,2,Y,N,N
+2015,HDC,HDC,Sunrisers Hyderabad,6,7,7,0,N,N,N
+2016,DC,DC,Delhi Daredevils,6,7,7,0,N,N,N
+2016,GL,GL,Gujarat Lions,1,9,5,0,Y,N,N
+2016,PBKS,PBKS,Kings XI Punjab,8,4,10,0,N,N,N
+2016,KKR,KKR,Kolkata Knight Riders,4,8,6,0,N,N,N
+2016,MI,MI,Mumbai Indians,5,7,7,0,N,N,N
+2016,RPS,RPS,Rising Pune Supergiants,3,7,5,0,Y,N,N
+2015,RCB,RCB,Royal Challengers Bangalore,2,8,6,0,Y,N,Y
+2016,HDC,HDC,Sunrisers Hyderabad,3,8,6,0,Y,Y,N
+2017,DC,DC,Delhi Daredevils,6,6,8,0,N,N,N
+2017,GL,GL,Gujarat Lions,7,4,10,0,N,N,N
+2017,PBKS,PBKS,Kings XI Punjab,5,7,7,0,N,N,N
+2017,KKR,KKR,Kolkata Knight Riders,4,8,6,0,Y,N,N
+2017,MI,MI,Mumbai Indians,1,10,4,0,Y,Y,N
+2017,RPS,RPS,Rising Pune Supergiants,2,9,5,0,Y,N,Y
+2017,RCB,RCB,Royal Challengers Bangalore,8,3,10,1,N,N,N
+2017,HDC,HDC,Sunrisers Hyderabad,3,8,5,1,Y,N,N
+2018,CSK,CSK,Chennai Super Kings,2,9,5,0,Y,Y,N
+2018,DC,DC,Delhi Daredevils,8,5,9,0,N,N,N
+2018,PBKS,PBKS,Kings XI Punjab,7,6,8,0,N,N,N
+2018,KKR,KKR,Kolkata Knight Riders,3,8,6,0,Y,N,N
+2018,MI,MI,Mumbai Indians,5,6,8,0,N,N,N
+2018,RR,RR,Rajasthan Royals,4,7,7,0,Y,N,N
+2018,RCB,RCB,Royal Challengers Bangalore,6,6,8,0,N,N,N
+2018,HDC,HDC,Sunrisers Hyderabad,1,9,5,0,Y,N,Y
+2019,CSK,CSK,Chennai Super Kings,2,9,5,0,Y,N,Y
+2019,DC,DC,Delhi Capitals,3,9,5,0,Y,N,N
+2019,PBKS,PBKS,Kings XI Punjab,6,6,8,0,N,N,N
+2019,KKR,KKR,Kolkata Knight Riders,5,6,8,0,N,N,N
+2019,MI,MI,Mumbai Indians,1,9,5,0,Y,Y,N
+2019,RR,RR,Rajasthan Royals,7,5,8,1,N,N,N
+2019,RCB,RCB,Royal Challengers Bangalore,8,5,8,0,N,N,N
+2019,HDC,HDC,Sunrisers Hyderabad,4,6,8,0,Y,N,N
+2020,CSK,CSK,Chennai Super Kings,7,6,8,0,N,N,N
+2020,DC,DC,Delhi Capitals,2,8,6,0,Y,N,Y
+2020,PBKS,PBKS,Kings XI Punjab,6,6,8,0,N,N,N
+2020,KKR,KKR,Kolkata Knight Riders,5,7,7,0,N,N,N
+2020,MI,MI,Mumbai Indians,1,9,5,0,Y,Y,N
+2020,RR,RR,Rajasthan Royals,8,6,8,0,N,N,N
+2020,RCB,RCB,Royal Challengers Bangalore,4,7,7,0,Y,N,N
+2020,HDC,HDC,Sunrisers Hyderabad,3,7,7,0,Y,N,N
+2021,CSK,CSK,Chennai Super Kings,2,9,5,0,Y,Y,N
+2021,DC,DC,Delhi Capitals,1,10,4,0,Y,N,N
+2021,PBKS,PBKS,Punjab Kings,6,6,8,0,N,N,N
+2021,KKR,KKR,Kolkata Knight Riders,4,7,7,0,Y,N,Y
+2021,MI,MI,Mumbai Indians,5,7,7,0,N,N,N
+2021,RR,RR,Rajasthan Royals,7,5,9,0,N,N,N
+2021,RCB,RCB,Royal Challengers Bangalore,3,9,5,0,Y,N,N
+2021,HDC,HDC,Sunrisers Hyderabad,8,3,11,0,N,N,N
