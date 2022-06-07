@@ -176,6 +176,10 @@
   background-color: #282968;
 }
 
+#ipl_team_options #GUJ {
+  background-color: #122232;
+}
+
 #ipl_team_options #PBKS {
   background-color: #ed1f27;
 }
@@ -183,6 +187,10 @@
 #ipl_team_options #KKR {
   color: #3a225d;
   background-color: #f3c433;
+}
+
+#ipl_team_options #LUK {
+  background-color: #0254d2;
 }
 
 #ipl_team_options #MI {

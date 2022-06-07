@@ -10,8 +10,10 @@ autocomplete="off">
   <option class="team_selection" id="default" value="default" selected="selected">Choose your IPL Team</option>
   <option class="team_selection" id="CSK" value="CSK">Chennai Super Kings</option>
   <option class="team_selection" id="DC" value="DC">Delhi Capitals</option>
+  <option class="team_selection" id="GUJ" value="GUJ">Gujarat Titans</option>
   <option class="team_selection" id="PBKS" value="PBKS">Punjab Kings</option>
   <option class="team_selection" id="KKR" value="KKR">Kolkata Knight Riders</option>
+  <option class="team_selection" id="LUK" value="LUK">Luknow Super Giants</option>
   <option class="team_selection" id="MI" value="MI">Mumbai Indians</option>
   <option class="team_selection" id="RR" value="RR">Rajasthan Royals</option>
   <option class="team_selection" id="RCB" value="RCB">Royal Challengers Bangalore</option>

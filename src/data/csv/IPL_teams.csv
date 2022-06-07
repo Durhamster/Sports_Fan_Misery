@@ -115,3 +115,13 @@ yearID,teamID,franchID,name,Rank,W,L,NR,Playoffs,Cwin,CRU
 2021,RR,RR,Rajasthan Royals,7,5,9,0,N,N,N
 2021,RCB,RCB,Royal Challengers Bangalore,3,9,5,0,Y,N,N
 2021,HDC,HDC,Sunrisers Hyderabad,8,3,11,0,N,N,N
+2022,GUJ,GUJ,Gujrat Titans,1,10,4,0,Y,Y,N
+2022,RR,RR,Rajasthan Royals,2,9,5,0,Y,N,Y
+2022,LUK,LUK,Luknow Super Giants,3,9,5,0,Y,N,N
+2022,RCB,RCB,Royal Challengers Bangalore,4,8,6,0,Y,N,N
+2022,DC,DC,Delhi Capitals,5,7,7,0,N,N,N
+2022,PBKS,PBKS,Punjab Kings,6,7,7,0,N,N,N
+2022,KKR,KKR,Kolkata Knight Riders,7,6,8,0,N,N,N
+2022,HDC,HDC,Sunrisers Hyderabad,8,6,8,0,N,N,N
+2022,CSK,CSK,Chennai Super Kings,9,4,10,0,N,N,N
+2022,MI,MI,Mumbai Indians,10,4,10,0,N,N,N
