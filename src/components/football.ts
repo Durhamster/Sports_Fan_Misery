@@ -15,21 +15,22 @@ autocomplete="off">
   <option class="team_selection" id="default" value="default" selected="selected">Choose your Premier League Team</option>
   <option class="team_selection" id="Aston_Villa" value="Aston Villa">Aston Villa</option>
   <option class="team_selection" id="Arsenal" value="Arsenal">Arsenal</option>
+  <option class="team_selection" id="Brentford" value="Brentford">Brentford</option>
   <option class="team_selection" id="Brighton" value="Brighton">Brighton</option>
   <option class="team_selection" id="Burnley" value="Burnley">Burnley</option>
   <option class="team_selection" id="Chelsea" value="Chelsea">Chelsea</option>
   <option class="team_selection" id="Crystal_Palace" value="Crystal Palace">Crystal Palace</option>
   <option class="team_selection" id="Everton" value="Everton">Everton</option>
-  <option class="team_selection" id="Fulham" value="Fulham">Fulham</option>
   <option class="team_selection" id="Leeds_United" value="Leeds United">Leeds United</option>
   <option class="team_selection" id="Leicester_City" value="Leicester City">Leicester City</option>
   <option class="team_selection" id="Liverpool" value="Liverpool">Liverpool</option>
   <option class="team_selection" id="Manchester_City" value="Manchester City">Manchester City</option>
   <option class="team_selection" id="Manchester_Utd" value="Manchester Utd">Manchester United</option>
   <option class="team_selection" id="Newcastle_Utd" value="Newcastle Utd">Newcastle United</option>
-  <option class="team_selection" id="Sheffield_Utd" value="Sheffield Utd">Sheffield United</option>
+  <option class="team_selection" id="Norwich_City" value="Norwich City">Norwich City</option>
   <option class="team_selection" id="Southampton" value="Southampton">Southampton</option>
   <option class="team_selection" id="Tottenham" value="Tottenham">Tottenham</option>
+  <option class="team_selection" id="Watford" value="Watford">Watford</option>
   <option class="team_selection" id="West_Ham" value="West Ham">West Ham United</option>
   <option class="team_selection" id="Wolves" value="Wolves">Wolves</option>
   <option class="team_selection" id="West_Brom" value="West Brom">West Brom</option>
@@ -208,3 +209,13 @@ export const NWSLTeamData = function (birth_year: any, franchiseID: any) {
   );
   return { total_games, total_wins, win_rate, ch_wins, ch_apps };
 };
+
+// Teams that have been relegated and may return in future seasons go below here as a comment
+
+// EPL Teams
+// <option class="team_selection" id="Fulham" value="Fulham">Fulham</option>
+// <option class="team_selection" id="Sheffield_Utd" value="Sheffield Utd">Sheffield United</option>
+// <option class="team_selection" id="West_Brom" value="West Brom">West Brom</option>
+
+// La Liga Teams
+// <option class="team_selection" id="Eibar" value="Eibar">Eibar</option>

@@ -54,6 +54,10 @@
   background-color: #db0007;
 }
 
+#epl_team_options #Brentford {
+  background-color: #000000;
+}
+
 #epl_team_options #Brighton {
   background-color: #0057b8;
 }
@@ -103,6 +107,10 @@
   background-color: #000000;
 }
 
+#epl_team_options #Norwich_City {
+  background-color: #00a650;
+}
+
 #epl_team_options #Sheffield_Utd {
   background-color: #ee2737;
 }
@@ -117,6 +125,10 @@
 
 #epl_team_options #West_Ham {
   background-color: #7a263a;
+}
+
+#epl_team_options #Watford {
+  background-color: #ed2127;
 }
 
 #epl_team_options #Wolves {
@@ -281,6 +293,10 @@
 
 #laliga_team_options #Celta_Vigo {
   background-color: #8ac3ee;
+}
+
+#laliga_team_options #Eibar {
+  background-color: #0071b9;
 }
 
 #laliga_team_options #Elche {
