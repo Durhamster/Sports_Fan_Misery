@@ -728,8 +728,114 @@
   background-color: #002b5c;
 }
 
-#ncaaf_team_options .team_selection {
-  color: #000000;
+#ncaaf_team_options {
+  /* ACC */
+  /* AAC */
+}
+
+#ncaaf_team_options #Boston_College {
+  background-color: #8c2232;
+}
+
+#ncaaf_team_options #Clemson {
+  background-color: #f56600;
+}
+
+#ncaaf_team_options #Duke {
+  background-color: #003087;
+}
+
+#ncaaf_team_options #Florida_State {
+  background-color: #782f40;
+}
+
+#ncaaf_team_options #Georgia_Tech {
+  background-color: #003057;
+}
+
+#ncaaf_team_options #Louisville {
+  background-color: #ad0000;
+}
+
+#ncaaf_team_options #Miami_FL {
+  color: #f47321;
+  background-color: #005030;
+}
+
+#ncaaf_team_options #North_Carolina {
+  color: #7bafd4;
+  background-color: #13294b;
+}
+
+#ncaaf_team_options #North_Carolina_State {
+  background-color: #cc0000;
+}
+
+#ncaaf_team_options #Pitt {
+  background-color: #003594;
+}
+
+#ncaaf_team_options #Syracuse {
+  color: #f76900;
+  background-color: #000e54;
+}
+
+#ncaaf_team_options #Virginia {
+  background-color: #232d4b;
+}
+
+#ncaaf_team_options #Virginia_Tech {
+  background-color: #630031;
+}
+
+#ncaaf_team_options #Wake_Forest {
+  background-color: #9e7e38;
+}
+
+#ncaaf_team_options #Cincinnati {
+  background-color: #000000;
+}
+
+#ncaaf_team_options #East_Carolina {
+  background-color: #582c83;
+}
+
+#ncaaf_team_options #Houston {
+  background-color: #c92a39;
+}
+
+#ncaaf_team_options #Memphis {
+  background-color: #0d3182;
+}
+
+#ncaaf_team_options #Navy {
+  color: #b4a87e;
+  background-color: #000048;
+}
+
+#ncaaf_team_options #SMU {
+  background-color: #c8102e;
+}
+
+#ncaaf_team_options #South_Florida {
+  background-color: #006747;
+}
+
+#ncaaf_team_options #Temple {
+  background-color: #981e32;
+}
+
+#ncaaf_team_options #Tulane {
+  background-color: #005837;
+}
+
+#ncaaf_team_options #Tulsa {
+  background-color: #003366;
+}
+
+#ncaaf_team_options #UCF {
+  color: #b7a369;
+  background-color: #000000;
 }
 
 #nhl_team_options #ANA {

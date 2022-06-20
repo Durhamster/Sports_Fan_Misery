@@ -336,6 +336,7 @@ const misery = function () {
   let wnba_DD = document.querySelector<HTMLElement>("#wnba_team_options")!;
 
   // Arrays for total wins, championship wins, etc.
+  let selected_leagues = [];
   let grand_total_games = [];
   let grand_total_wins = [];
   let grand_champs_apps = [];
@@ -359,6 +360,7 @@ const misery = function () {
       franchiseID
     );
 
+    selected_leagues.push("CFL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -380,6 +382,7 @@ const misery = function () {
       franchiseID
     );
 
+    selected_leagues.push("EPL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -402,6 +405,7 @@ const misery = function () {
       franchiseID
     );
 
+    selected_leagues.push("KBO");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -421,6 +425,7 @@ const misery = function () {
     let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
       LALIGATeamData(birth_year, franchiseID);
 
+    selected_leagues.push("LSLIGA");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -442,6 +447,7 @@ const misery = function () {
       franchiseID
     );
 
+    selected_leagues.push("MLB");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -462,6 +468,7 @@ const misery = function () {
 
     fav_teams.push(IPLTeamName);
 
+    selected_leagues.push("IPL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -482,6 +489,7 @@ const misery = function () {
 
     fav_teams.push(ISLTeamName);
 
+    selected_leagues.push("ISL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -502,6 +510,7 @@ const misery = function () {
 
     fav_teams.push(MLSTeamName);
 
+    selected_leagues.push("MLS");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -522,6 +531,7 @@ const misery = function () {
 
     fav_teams.push(NBATeamName);
 
+    selected_leagues.push("NBA");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -529,7 +539,7 @@ const misery = function () {
     win_rates_list.push(win_rate);
   }
 
-  // NFL
+  // NCAAF
   if (ncaaf_DD != null) {
     let franchiseID = (
       document.getElementById("ncaaf_team_options") as HTMLButtonElement
@@ -542,6 +552,7 @@ const misery = function () {
 
     fav_teams.push(NCAAFTeamName);
 
+    selected_leagues.push("NCAAF");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -562,6 +573,7 @@ const misery = function () {
 
     fav_teams.push(NFLTeamName);
 
+    selected_leagues.push("NFL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -582,6 +594,7 @@ const misery = function () {
 
     fav_teams.push(NHLTeamName);
 
+    selected_leagues.push("NHL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -602,6 +615,7 @@ const misery = function () {
 
     fav_teams.push(NWSLTeamName);
 
+    selected_leagues.push("NWSL");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -622,6 +636,7 @@ const misery = function () {
 
     fav_teams.push(WNBATeamName);
 
+    selected_leagues.push("WNBA");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -652,15 +667,9 @@ const misery = function () {
 
   let win_rate = (total_wins / total_games) * 100;
 
-  // Get championship wins per year and potential for rest of life
+  // Get championship wins per year
   let user_age = currentYear - Number(birth_year);
   let years_per_champ = (2021 - Number(birth_year)) / total_champs_wins;
-  let years_left_75 = 75 - (2021 - Number(birth_year));
-  let champs_left_75 = years_left_75 / years_per_champ;
-  let years_left_85 = 85 - (2021 - Number(birth_year));
-  let champs_left_85 = years_left_85 / years_per_champ;
-  let years_left_100 = 100 - (2021 - Number(birth_year));
-  let champs_left_100 = years_left_100 / years_per_champ;
 
   let misery_level = misery_calculation(
     user_age,
@@ -671,24 +680,21 @@ const misery = function () {
 
   if (total_champs_wins == 0) {
     var years_line =
-      "<p>Ouch... normally this line tells you how long you have waited on average for each championship win... but you've seen one...</p>";
-    var lifetime_line =
-      "<p>And this line normally tells you how many more championships to expect in your lifetime, but at the moment for you... it's looking like <b>0</b>...</p>";
+      "<p>Ouch... normally this line tells you how long you have waited on average for each championship win... but you've never seen one...</p>";
   } else {
     var years_line =
       "<p>That's an average of <b>" +
       roundNumber(years_per_champ) +
       " years per every championship/cup/finals win.</b></p>";
+  }
 
-    var lifetime_line =
-      "<p>At this rate if you live to be 75 you will see <b>~" +
-      roundNumber(champs_left_75) +
-      "</b> more championship victories." +
-      " If you live to be 85 you will see <b>~" +
-      roundNumber(champs_left_85) +
-      "</b>. If you live to be 100 you will see <b>~" +
-      roundNumber(champs_left_100) +
-      "</b>.</p>";
+  var asterisk = "";
+  var asterisk_note = "";
+  // Includes asterisk if certain leagues are selected
+  if (selected_leagues.includes("NCAAF")) {
+    var asterisk = "*";
+    var asterisk_note =
+      "*The only championship wins counted for NCAA Football are the National Championship, Rose, Sugar, Orange, Cotton, Peach and Fiesta Bowls.";
   }
 
   // Writes results/misery
@@ -708,9 +714,15 @@ const misery = function () {
     total_champs_apps +
     "</b> time(s) and have won <b>" +
     total_champs_wins +
-    " championships.</b></p>." +
+    " championships.</b>" +
+    asterisk +
+    "</p>" +
+    "<p id='asterisk_note'>" +
+    "<i>" +
+    asterisk_note +
+    "</i>" +
+    "</p>" +
     years_line +
-    lifetime_line +
     "<div id='misery_level'>" +
     misery_level +
     "</div>";

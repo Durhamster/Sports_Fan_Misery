@@ -30,29 +30,29 @@ export const ncaaf_dropdown = `<select
   autocomplete="off">
   <option class="team_selection" id="default" value="default" selected="selected">Choose your NCAAF Team</option>
   <optgroup label="Atlantic Coast Conference">
-  <option class="team_selection" id="Boston College" value="Boston College">Boston College</option>
+  <option class="team_selection" id="Boston_College" value="Boston College">Boston College</option>
   <option class="team_selection" id="Clemson" value="Clemson">Clemson</option>
   <option class="team_selection" id="Duke" value="Duke">Duke</option>
-  <option class="team_selection" id="Florida State" value="Florida State">Florida State</option>
-  <option class="team_selection" id="Georgia Tech" value="Georgia Tech">Georgia Tech</option>
+  <option class="team_selection" id="Florida_State" value="Florida State">Florida State</option>
+  <option class="team_selection" id="Georgia_Tech" value="Georgia Tech">Georgia Tech</option>
   <option class="team_selection" id="Louisville" value="Louisville">Louisville</option>
-  <option class="team_selection" id="Miami (FL)" value="Miami (FL)">Miami (FL)</option>
-  <option class="team_selection" id="North Carolina" value="North Carolina">North Carolina</option>
-  <option class="team_selection" id="North Carolina State" value="North Carolina State">North Carolina State</option>
+  <option class="team_selection" id="Miami_FL" value="Miami (FL)">Miami (FL)</option>
+  <option class="team_selection" id="North_Carolina" value="North Carolina">North Carolina</option>
+  <option class="team_selection" id="North_Carolina_State" value="North Carolina State">North Carolina State</option>
   <option class="team_selection" id="Pitt" value="Pitt">Pitt</option>
   <option class="team_selection" id="Syracuse" value="Syracuse">Syracuse</option>
   <option class="team_selection" id="Virginia" value="Virginia">Virginia</option>
-  <option class="team_selection" id="Virginia Tech" value="Virginia Tech">Virginia Tech</option>
-  <option class="team_selection" id="Wake Forest" value="Wake Forest">Wake Forest</option>
+  <option class="team_selection" id="Virginia_Tech" value="Virginia Tech">Virginia Tech</option>
+  <option class="team_selection" id="Wake_Forest" value="Wake Forest">Wake Forest</option>
 
   <optgroup label="American Athletic Conference">
   <option class="team_selection" id="Cincinnati" value="Cincinnati">Cincinnati</option>
-  <option class="team_selection" id="East Carolina" value="East Carolina">East Carolina</option>
+  <option class="team_selection" id="East_Carolina" value="East Carolina">East Carolina</option>
   <option class="team_selection" id="Houston" value="Houston">Houston</option>
   <option class="team_selection" id="Memphis" value="Memphis">Memphis</option>
   <option class="team_selection" id="Navy" value="Navy">Navy</option>
   <option class="team_selection" id="SMU" value="SMU">SMU</option>
-  <option class="team_selection" id="South Florida" value="South Florida">South Florida</option>
+  <option class="team_selection" id="South_Florida" value="South Florida">South Florida</option>
   <option class="team_selection" id="Temple" value="Temple">Tulsa</option>
   <option class="team_selection" id="Tulane" value="Tulane">Tulane</option>
   <option class="team_selection" id="Tulsa" value="Tulsa">Tulsa</option>
@@ -60,15 +60,15 @@ export const ncaaf_dropdown = `<select
 
   <optgroup label="Big 12 Conference">
   <option class="team_selection" id="Baylor" value="Baylor">Baylor</option>
-  <option class="team_selection" id="Iowa State" value="Iowa State">Iowa State</option>
+  <option class="team_selection" id="Iowa_State" value="Iowa State">Iowa State</option>
   <option class="team_selection" id="Kansas" value="Kansas">Kansas</option>
-  <option class="team_selection" id="Kansas State" value="Kansas State">Kansas State</option>
+  <option class="team_selection" id="Kansas_State" value="Kansas State">Kansas State</option>
   <option class="team_selection" id="Oklahoma" value="Oklahoma">Oklahoma</option>
-  <option class="team_selection" id="Oklahoma State" value="Oklahoma State">Oklahoma State</option>
+  <option class="team_selection" id="Oklahoma_State" value="Oklahoma State">Oklahoma State</option>
   <option class="team_selection" id="Texas" value="Texas">Texas</option>
-  <option class="team_selection" id="Texas Christian" value="Texas Christian">Texas Christian</option>
-  <option class="team_selection" id="Texas Tech" value="Texas Tech">Texas Tech</option>
-  <option class="team_selection" id="West Virginia" value="West Virginia">West Virginia</option>
+  <option class="team_selection" id="Texas_Christian" value="Texas Christian">Texas Christian</option>
+  <option class="team_selection" id="Texas_Tech" value="Texas Tech">Texas Tech</option>
+  <option class="team_selection" id="West_Virginia" value="West Virginia">West Virginia</option>
 
   <optgroup label="Big Ten Conference">
   <option class="team_selection" id="Illinois" value="Illinois">Illinois</option>
@@ -77,11 +77,11 @@ export const ncaaf_dropdown = `<select
   <option class="team_selection" id="Maryland" value="Maryland">Maryland</option>
   <option class="team_selection" id="Michigan" value="Michigan">Michigan</option>
   <option class="team_selection" id="Minnesota" value="Minnesota">Minnesota</option>
-  <option class="team_selection" id="Michigan State" value="Michigan State">Michigan</option>
+  <option class="team_selection" id="Michigan_State" value="Michigan State">Michigan</option>
   <option class="team_selection" id="Nebraska" value="Nebraska">Nebraska</option>
   <option class="team_selection" id="Northwestern" value="Northwestern">Northwestern</option>
-  <option class="team_selection" id="Ohio State" value="Ohio State">Ohio State</option>
-  <option class="team_selection" id="Penn State" value="Penn State">Penn State</option>
+  <option class="team_selection" id="Ohio_State" value="Ohio State">Ohio State</option>
+  <option class="team_selection" id="Penn_State" value="Penn State">Penn State</option>
   <option class="team_selection" id="Purdue" value="Purdue">Purdue</option>
   <option class="team_selection" id="Rutgers" value="Rutgers">Rutgers</option>
   <option class="team_selection" id="Wisconsin" value="Wisconsin">Wisconsin</option>
