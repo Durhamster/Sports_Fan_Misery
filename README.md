@@ -24,6 +24,7 @@ That's what this sets out to do, using the power of data!
 ## Leagues to Be Added in Future Updates
 
 - Bundesliga (1963 - 2021)
+- Liga MX (1943 - 2021)
 - Ligue 1 (Dates TBD)
 - Nippon Professional Baseball (1950 - 2021)
 - Serie A (Dates TBD)
