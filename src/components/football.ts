@@ -1,12 +1,41 @@
 // Data
+import bundesliga_data from "../data/json/bundesliga_data.json";
 import epl_data from "../data/json/epl_data.json";
 import laliga_data from "../data/json/laliga_data.json";
+import ligue1_data from "../data/json/ligue1_data.json";
 import isl_data from "../data/json/isl_data.json";
 import mls_data from "../data/json/mls_data.json";
 import nwsl_data from "../data/json/nwsl_data.json";
+import serie_a_data from "../data/json/serie_a_data.json";
 import { TeamData } from "./all_sports";
 
 // Drop-downs
+export const bundesliga_dropdown = `<select
+name="bundesliga_options"
+class="drop_down"
+id="bundesliga_team_options"
+autocomplete="off">
+  <option class="team_selection" id="default" value="default" selected="selected">Choose your Bundesliga Team</option>
+  <option class="team_selection" id="Arminia" value="Arminia">Arminia</option>
+  <option class="team_selection" id="Augsburg" value="Augsburg">Augsburg</option>
+  <option class="team_selection" id="Bayern_Munich" value="Bayern Munich">Bayern Munich</option>
+  <option class="team_selection" id="Bochum" value="Bochum">Bochum</option>
+  <option class="team_selection" id="Dortmund" value="Dortmund">Dortmund</option>
+  <option class="team_selection" id="Eint_Frankfurt" value="Eint Frankfurt">Eint Frankfurt</option>
+  <option class="team_selection" id="Greuther_Fürth" value="Greuther Fürth">Greuther Fürth</option>
+  <option class="team_selection" id="Hertha_BSC" value="Hertha BSC">Hertha BSC</option>
+  <option class="team_selection" id="Hoffenheim" value="Hoffenheim">Hoffenheim</option>
+  <option class="team_selection" id="Köln" value="Köln">Köln</option>
+  <option class="team_selection" id="Leverkusen" value="Leverkusen">Leverkusen</option>
+  <option class="team_selection" id="M_Gladbach" value="M'Gladbach">M'Gladbach</option>
+  <option class="team_selection" id="Mainz_05" value="Mainz 05">Mainz 05</option>
+  <option class="team_selection" id="RB_Leipzig" value="RB Leipzig">RB Leipzig</option>
+  <option class="team_selection" id="SC_Freiburg" value="SC Freiburg">SC Freiburg</option>
+  <option class="team_selection" id="Stuttgart" value="Stuttgart">Stuttgart</option>
+  <option class="team_selection" id="Union_Berlin" value="Union Berlin">Union Berlin</option>
+  <option class="team_selection" id="Wolfsburg" value="Wolfsburg">Wolfsburg</option>
+</select>`;
+
 export const epl_dropdown = `<select
 name="epl_options"
 class="drop_down"
@@ -63,6 +92,34 @@ autocomplete="off">
   <option class="team_selection" id="Valencia" value="Valencia">Valencia</option>
   <option class="team_selection" id="Villarreal" value="Villarreal">Villarreal</option>
 
+</select>`;
+
+export const ligue1_dropdown = `<select
+name="ligue1_options"
+class="drop_down"
+id="ligue1_team_options"
+autocomplete="off">
+  <option class="team_selection" id="default" value="default" selected="selected">Choose your Ligue 1 Team</option>
+  <option class="team_selection" id="Angers" value="Angers">Angers</option>
+  <option class="team_selection" id="Brest" value="Brest">Brest</option>
+  <option class="team_selection" id="Bordeaux" value="Bordeaux">Bordeaux</option>
+  <option class="team_selection" id="Clermont" value="Clermont">Clermont</option>
+  <option class="team_selection" id="Lens" value="Lens">Lens</option>
+  <option class="team_selection" id="Lille" value="Lille">Lille</option>
+  <option class="team_selection" id="Lorient" value="Lorient">Lorient</option>
+  <option class="team_selection" id="Lyon" value="Lyon">Lyon</option>
+  <option class="team_selection" id="Marseille" value="Marseille">Marseille</option>
+  <option class="team_selection" id="Metz" value="Metz">Metz</option>
+  <option class="team_selection" id="Monaco" value="Monaco">Monaco</option>
+  <option class="team_selection" id="Montepellier" value="Montepellier">Montepellier</option>
+  <option class="team_selection" id="Nantes" value="Nantes">Nantes</option>
+  <option class="team_selection" id="Nice" value="Nice">Nice</option>
+  <option class="team_selection" id="Paris_SG" value="Paris S-G">Paris Saint-Germain</option>
+  <option class="team_selection" id="Rennes" value="Rennes">Rennes</option>
+  <option class="team_selection" id="Saint_Étienne" value="Saint-Étienne">Saint-Étienne</option>
+  <option class="team_selection" id="Strasbourg" value="Strasbourg">Strasbourg</option>
+  <option class="team_selection" id="Reims" value="Reims">Reims</option>
+  <option class="team_selection" id="Troyes" value="Troyes">Troyes</option>
 </select>`;
 
 export const isl_dropdown = `<select
@@ -139,7 +196,49 @@ autocomplete="off">
   <option class="team_selection" id="WAS" value="WAS">Washington Spirit</option>
 </select>`;
 
+export const serie_a_dropdown = `<select
+name="serie_a_options"
+class="drop_down"
+id="serie_a_team_options"
+autocomplete="off">
+  <option class="team_selection" id="default" value="default" selected="selected">Choose your Serie A Team</option>
+  <option class="team_selection" id="Atalanta" value="Atalanta">Atalanta</option>
+  <option class="team_selection" id="Bologna" value="Bologna">Bologna</option>
+  <option class="team_selection" id="Cagliari" value="Cagliari">Cagliari</option>
+  <option class="team_selection" id="Empoli" value="Empoli">Empoli</option>
+  <option class="team_selection" id="Fiorentina" value="Fiorentina">Fiorentina</option>
+  <option class="team_selection" id="Genoa" value="Genoa">Genoa</option>
+  <option class="team_selection" id="Hellas_Verona" value="Hellas Verona">Hellas Verona</option>
+  <option class="team_selection" id="Inter" value="Inter">Inter Milan</option>
+  <option class="team_selection" id="Juventus" value="Juventus">Juventus</option>
+  <option class="team_selection" id="Lazio" value="Lazio">Lazio</option>
+  <option class="team_selection" id="Milan" value="Milan">Milan</option>
+  <option class="team_selection" id="Napoli" value="Napoli">Napoli</option>
+  <option class="team_selection" id="Roma" value="Roma">Roma</option>
+  <option class="team_selection" id="Salernitana" value="Salernitana">Salernitana</option>
+  <option class="team_selection" id="Sampdoria" value="Sampdoria">Sampdoria</option>
+  <option class="team_selection" id="Sassuolo" value="Sassuolo">Sassuolo</option>
+  <option class="team_selection" id="Spezia" value="Spezia">Spezia</option>
+  <option class="team_selection" id="Torino" value="Torino">Torino</option>
+  <option class="team_selection" id="Udinese" value="Udinese">Udinese</option>
+  <option class="team_selection" id="Venezia" value="Venezia">Venezia</option>
+</select>`;
+
 // Team Data Funcs
+export const BUNDESLIGATeamData = function (birth_year: any, franchiseID: any) {
+  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
+    "BUNDESLIGA",
+    birth_year,
+    franchiseID,
+    bundesliga_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
+  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+};
+
 export const EPLTeamData = function (birth_year: any, franchiseID: any) {
   let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
     "PREMIER",
@@ -160,6 +259,20 @@ export const LALIGATeamData = function (birth_year: any, franchiseID: any) {
     birth_year,
     franchiseID,
     laliga_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
+  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+};
+
+export const LIGUE1TeamData = function (birth_year: any, franchiseID: any) {
+  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
+    "LIGUE1",
+    birth_year,
+    franchiseID,
+    ligue1_data,
     "LgRk",
     "1",
     "LgRK",
@@ -202,6 +315,20 @@ export const NWSLTeamData = function (birth_year: any, franchiseID: any) {
     birth_year,
     franchiseID,
     nwsl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
+  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+};
+
+export const SERIEATeamData = function (birth_year: any, franchiseID: any) {
+  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
+    "SERIEA",
+    birth_year,
+    franchiseID,
+    serie_a_data,
     "Cwin",
     "Y",
     "CRU",

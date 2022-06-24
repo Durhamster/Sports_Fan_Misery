@@ -10,6 +10,65 @@ $white: #ffffff;
   font-weight: bold !important;
 }
 
+#bundesliga_team_options {
+  #Arminia {
+    background-color: #004e95;
+  }
+  #Augsburg {
+    background-color: #ba3733;
+  }
+  #Bayern_Munich {
+    background-color: #0066b2;
+  }
+  #Bochum {
+    background-color: #005ca9;
+  }
+  #Dortmund {
+    color: $black;
+    background-color: #fde100;
+  }
+  #Eint_Frankfurt {
+    background-color: #e1000f;
+  }
+  #Greuther_Fürth {
+    background-color: #009932;
+  }
+  #Hertha_BSC {
+    background-color: #004d9e;
+  }
+  #Hoffenheim {
+    background-color: #1961b5;
+  }
+  #Köln {
+    background-color: #ed1c24;
+  }
+  #Leverkusen {
+    background-color: #e32221;
+  }
+  #M_Gladbach {
+    background-color: $black;
+  }
+  #Mainz_05 {
+    background-color: #c3141e;
+  }
+  #RB_Leipzig {
+    color: #0c2043;
+    background-color: #dd013f;
+  }
+  #SC_Freiburg {
+    background-color: $black;
+  }
+  #Stuttgart {
+    background-color: #e32219;
+  }
+  #Union_Berlin {
+    background-color: #eb1923;
+  }
+  #Wolfsburg {
+    background-color: #65b32e;
+  }
+}
+
 #cfl_team_options {
   #BCL {
     color: $black;
@@ -291,6 +350,69 @@ $white: #ffffff;
   }
   #Villarreal {
     background-color: #005187;
+  }
+}
+
+#ligue1_team_options {
+  #Angers {
+    background-color: $black;
+  }
+  #Brest {
+    background-color: #ed1c24;
+  }
+  #Bordeaux {
+    background-color: #001b50;
+  }
+  #Clermont {
+    background-color: #c50c46;
+  }
+  #Lens {
+    background-color: #ec1c24;
+  }
+  #Lille {
+    background-color: #24216a;
+  }
+  #Lorient {
+    background-color: #f58113;
+  }
+  #Lyon {
+    background-color: #da0812;
+  }
+  #Marseille {
+    background-color: #2faee0;
+  }
+  #Metz {
+    background-color: #6e0f12;
+  }
+  #Monaco {
+    background-color: #e51b22;
+  }
+  #Montepellier {
+    background-color: #344575;
+  }
+  #Nantes {
+    background-color: #1b8f3a;
+  }
+  #Nice {
+    background-color: $black;
+  }
+  #Paris_SG {
+    background-color: #004170;
+  }
+  #Rennes {
+    background-color: #e13327;
+  }
+  #Saint_Étienne {
+    background-color: #008d3f;
+  }
+  #Strasbourg {
+    background-color: #009fe3;
+  }
+  #Reims {
+    background-color: #ee2223;
+  }
+  #Troyes {
+    background-color: #006eb2;
   }
 }
 
@@ -586,171 +708,6 @@ $white: #ffffff;
   }
 }
 
-#ncaaf_team_options {
-  /* ACC */
-  #Boston_College {
-    background-color: #8c2232;
-  }
-  #Clemson {
-    background-color: #f56600;
-  }
-  #Duke {
-    background-color: #003087;
-  }
-  #Florida_State {
-    background-color: #782f40;
-  }
-  #Georgia_Tech {
-    background-color: #003057;
-  }
-  #Louisville {
-    background-color: #ad0000;
-  }
-  #Miami_FL {
-    color: #f47321;
-    background-color: #005030;
-  }
-  #North_Carolina {
-    color: #7bafd4;
-    background-color: #13294b;
-  }
-  #North_Carolina_State {
-    background-color: #cc0000;
-  }
-  #Pitt {
-    background-color: #003594;
-  }
-  #Syracuse {
-    color: #f76900;
-    background-color: #000e54;
-  }
-  #Virginia {
-    background-color: #232d4b;
-  }
-  #Virginia_Tech {
-    background-color: #630031;
-  }
-  #Wake_Forest {
-    background-color: #9e7e38;
-  }
-  /* AAC */
-  #Cincinnati {
-    background-color: $black;
-  }
-  #East_Carolina {
-    background-color: #582c83;
-  }
-  #Houston {
-    background-color: #c92a39;
-  }
-  #Memphis {
-    background-color: #0d3182;
-  }
-  #Navy {
-    color: #b4a87e;
-    background-color: #000048;
-  }
-  #SMU {
-    background-color: #c8102e;
-  }
-  #South_Florida {
-    background-color: #006747;
-  }
-  #Temple {
-    background-color: #981e32;
-  }
-  #Tulane {
-    background-color: #005837;
-  }
-  #Tulsa {
-    background-color: #003366;
-  }
-  #UCF {
-    color: #b7a369;
-    background-color: $black;
-  }
-  /* Big 12 */
-  #Baylor {
-    background-color: #003015;
-  }
-  #Iowa_State {
-    background-color: #c8102e;
-  }
-  #Kansas {
-    background-color: #0051ba;
-  }
-  #Kansas_State {
-    background-color: #512888;
-  }
-  #Oklahoma {
-    background-color: #841617;
-  }
-  #Oklahoma_State {
-    color: $black;
-    background-color: #ff7300;
-  }
-  #Texas {
-    background-color: #bf5700;
-  }
-  #Texas_Christian {
-    background-color: #4d1979;
-  }
-  #Texas_Tech {
-    background-color: #cc0000;
-  }
-  #West_Virginia {
-    color: #eaaa00;
-    background-color: #002855;
-  }
-  /* Big 10 */
-  #Illinois {
-    color: #e84a27;
-    background-color: #13294b;
-  }
-  #Indiana {
-    background-color: #990000;
-  }
-  #Iowa {
-    color: #fcd116;
-    background-color: $black;
-  }
-  #Maryland {
-    background-color: #cf102d;
-  }
-  #Michigan {
-    color: #ffcb05;
-    background-color: #00274c;
-  }
-  #Michigan_State {
-    background-color: #18453b;
-  }
-  #Minnesota {
-    background-color: #862334;
-  }
-  #Nebraska {
-    background-color: #e41c38;
-  }
-  #Northwestern {
-    background-color: #59118e;
-  }
-  #Ohio_State {
-    background-color: #ce0f3d;
-  }
-  #Penn_State {
-    background-color: #002d62;
-  }
-  #Purdue {
-    color: #ceb888;
-    background-color: $black;
-  }
-  #Rutgers {
-    background-color: #cc0033;
-  }
-  #Wisconsin {
-    background-color: #c4012f;
-  }
-}
-
 #nhl_team_options {
   #ANA {
     background-color: $black;
@@ -983,6 +940,70 @@ $white: #ffffff;
   }
   #WAS {
     background-color: #c8102e;
+  }
+}
+
+#serie_a_team_options {
+  #Atalanta {
+    background-color: #1e71b8;
+  }
+  #Bologna {
+    background-color: #1a2f48;
+  }
+  #Cagliari {
+    background-color: #ad002a;
+  }
+  #Empoli {
+    background-color: #00579c;
+  }
+  #Fiorentina {
+    background-color: #482e92;
+  }
+  #Genoa {
+    background-color: #ad1919;
+  }
+  #Hellas_Verona {
+    background-color: #005395;
+  }
+  #Inter {
+    background-color: #010e80;
+  }
+  #Juventus {
+    background-color: $black;
+  }
+  #Lazio {
+    color: $black;
+    background-color: #87d8f7;
+  }
+  #Milan {
+    background-color: $black;
+  }
+  #Napoli {
+    background-color: #003c82;
+  }
+  #Roma {
+    background-color: #8e1f2f;
+  }
+  #Salernitana {
+    background-color: #681a12;
+  }
+  #Sampdoria {
+    background-color: #1b5497;
+  }
+  #Sassuolo {
+    background-color: #00a752;
+  }
+  #Spezia {
+    background-color: #99834a;
+  }
+  #Torino {
+    background-color: #8a1e03;
+  }
+  #Udinese {
+    background-color: $black;
+  }
+  #Venezia {
+    background-color: $black;
   }
 }
 

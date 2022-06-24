@@ -6,28 +6,34 @@ That's what this sets out to do, using the power of data!
 
 ## Leagues Currently Available
 
+- Bundesliga (1996 - 2022, more dates to come)
 - Canadian Football League (1945 - 2021)
 - Indian Premier League (2008 - 2021)
 - Indian Super League (2014 - 2021)
 - KBO League (1982 - 2021)
 - La Liga (1996 - 2021, more dates to come)
+- Ligue 1 (1996 - 2022, more dates to come)
 - Major League Baseball (1920 - 2021)
 - Major League Soccer (1996 - 2021)
 - National Basketball Association (1947 - 2021)
 - National Football League (1932 - 2021)
 - National Hockey League (1918 - 2021)
 - National Women's Soccer League (2013 - 2021)
-- NCAA Football (Dates vary by Conference)
-- Premier league (1996 - 2021, more dates to come)
+- Premier league (1996 - 2022, more dates to come)
+- Serie A (1996 - 2022, more dates to come)
 - Women's National Basketball Association (1997 - 2021)
 
 ## Leagues to Be Added in Future Updates
 
-- Bundesliga (1963 - 2021)
+- Australian Football League (Dates TBD)
+- Big Bash League (2011 - 2022)
+- Brasileirão (Dates TBD)
+- Eredivisie (1956 - 2021)
 - Liga MX (1943 - 2021)
-- Ligue 1 (Dates TBD)
+- Primeira Liga (Dates TBD)
+- National Rugby League (1998 - 2022)
+- NCAA Football (Dates vary by Conference)
 - Nippon Professional Baseball (1950 - 2021)
-- Serie A (Dates TBD)
 
 ## Leagues With No Current Plans to be added in Future Updates
 

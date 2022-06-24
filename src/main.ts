@@ -1,17 +1,19 @@
 // imgs
+import bungesliga_url from "./img/bundesliga.png";
 import cfl_url from "./img/cfl.png";
 import epl_url from "./img/epl.png";
 import ipl_url from "./img/ipl.png";
 import isl_url from "./img/isl.png";
 import kbo_url from "./img/kbo.png";
 import laliga_url from "./img/laliga.png";
+import ligue1_url from "./img/ligue1.png";
 import mlb_url from "./img/mlb.png";
 import mls_url from "./img/mls.png";
 import nba_url from "./img/nba.png";
-import ncaaf_url from "./img/ncaaf.png";
 import nhl_url from "./img/nhl.png";
 import nfl_url from "./img/nfl.png";
 import nwsl_url from "./img/nwsl.png";
+import serie_a_url from "./img/serie_a.png";
 import wnba_url from "./img/wnba.png";
 // styles
 import "./styles/misery.css";
@@ -34,9 +36,7 @@ import {
 import {
   cfl_dropdown,
   CFLTeamData,
-  ncaaf_dropdown,
   nfl_dropdown,
-  NCAAFTeamData,
   NFLTeamData,
 } from "./components/am_football";
 import {
@@ -47,8 +47,12 @@ import {
 } from "./components/basketball";
 import { ipl_dropdown, IPLTeamData } from "./components/cricket";
 import {
+  BUNDESLIGATeamData,
+  bundesliga_dropdown,
   LALIGATeamData,
   laliga_dropdown,
+  LIGUE1TeamData,
+  ligue1_dropdown,
   isl_dropdown,
   ISLTeamData,
   mls_dropdown,
@@ -57,6 +61,8 @@ import {
   NWSLTeamData,
   epl_dropdown,
   EPLTeamData,
+  SERIEATeamData,
+  serie_a_dropdown,
 } from "./components/football";
 import { nhl_dropdown, NHLTeamData } from "./components/hockey";
 import { misery_calculation } from "./components/misery";
@@ -75,12 +81,24 @@ main_app.innerHTML =
   <p>Select every league you have a favorite team in</p>
   <ul>
     <li>
+      <input class="sports_checkbox" type="checkbox" name="sports_check" id="bundesliga" value="bundesliga"/>
+      <label id="bundesliga_label" for="bundesliga"><img id="bundesliga_logo" /></label>
+    </li>
+    <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="cfl" value="cfl"/>
       <label id="cfl_label" for="cfl"><img id="cfl_logo" /></label>
     </li>
     <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="epl" value="epl"/>
     <label id="epl_label" for="epl"><img id="epl_logo" /></label>
+    </li>
+    <li>
+      <input class="sports_checkbox" type="checkbox" name="sports_check" id="ipl" value="ipl"/>
+      <label id="ipl_label" for="ipl"><img id="ipl_logo" /></label>
+    </li>
+    <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="isl" value="isl"/>
+    <label id="isl_label" for="isl"><img id="isl_logo" /></label>
     </li>
     <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="kbo" value="kbo"/>
@@ -91,12 +109,8 @@ main_app.innerHTML =
     <label id="laliga_label" for="laliga"><img id="laliga_logo" /></label>
     </li>
     <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="ipl" value="ipl"/>
-      <label id="ipl_label" for="ipl"><img id="ipl_logo" /></label>
-    </li>
-    <li>
-    <input class="sports_checkbox" type="checkbox" name="sports_check" id="isl" value="isl"/>
-    <label id="isl_label" for="isl"><img id="isl_logo" /></label>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="ligue1" value="ligue1"/>
+    <label id="ligue1_label" for="ligue1"><img id="ligue1_logo" /></label>
     </li>
     <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="nba" value="nba"/>
@@ -111,10 +125,6 @@ main_app.innerHTML =
       <label id="mls_label" for="mls"><img id="mls_logo" /></label>
     </li>
     <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="ncaaf" value="ncaaf"/>
-      <label id="ncaaf_label" for="ncaaf"><img id="ncaaf_logo" /></label>
-    </li>
-    <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="nfl" value="nfl"/>
       <label id="nfl_label" for="nfl"><img id="nfl_logo" /></label>
     </li>
@@ -125,6 +135,10 @@ main_app.innerHTML =
     <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="nwsl" value="nwsl"/>
       <label id="nwsl_label" for="nwsl"><img id="nwsl_logo" /></label>
+    </li>
+    <li>
+      <input class="sports_checkbox" type="checkbox" name="sports_check" id="serie_a" value="serie_a"/>
+      <label id="serie_a_label" for="serie_a"><img id="serie_a_logo" /></label>
     </li>
     <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="wnba" value="wnba"/>
@@ -154,19 +168,21 @@ footer.innerHTML = footer_content;
 // END HTML SECTION
 
 // League Icons
+document.getElementById("bundesliga_logo")!.setAttribute("src", bungesliga_url);
 document.getElementById("cfl_logo")!.setAttribute("src", cfl_url);
 document.getElementById("epl_logo")!.setAttribute("src", epl_url);
 document.getElementById("ipl_logo")!.setAttribute("src", ipl_url);
 document.getElementById("isl_logo")!.setAttribute("src", isl_url);
 document.getElementById("kbo_logo")!.setAttribute("src", kbo_url);
 document.getElementById("laliga_logo")!.setAttribute("src", laliga_url);
+document.getElementById("ligue1_logo")!.setAttribute("src", ligue1_url);
 document.getElementById("mlb_logo")!.setAttribute("src", mlb_url);
 document.getElementById("mls_logo")!.setAttribute("src", mls_url);
 document.getElementById("nba_logo")!.setAttribute("src", nba_url);
-document.getElementById("ncaaf_logo")!.setAttribute("src", ncaaf_url);
 document.getElementById("nfl_logo")!.setAttribute("src", nfl_url);
 document.getElementById("nhl_logo")!.setAttribute("src", nhl_url);
 document.getElementById("nwsl_logo")!.setAttribute("src", nwsl_url);
+document.getElementById("serie_a_logo")!.setAttribute("src", serie_a_url);
 document.getElementById("wnba_logo")!.setAttribute("src", wnba_url);
 
 let sports_selection_error = <HTMLElement>(
@@ -257,6 +273,9 @@ const sports_check = function () {
 
       let misery_div_items = `<p>Select your team(s) and the year you were born</p>`;
 
+      if (checked_sports.includes("bundesliga")) {
+        misery_div_items = misery_div_items + bundesliga_dropdown;
+      }
       if (checked_sports.includes("cfl")) {
         misery_div_items = misery_div_items + cfl_dropdown;
       }
@@ -266,8 +285,17 @@ const sports_check = function () {
       if (checked_sports.includes("kbo")) {
         misery_div_items = misery_div_items + kbo_dropdown;
       }
+      if (checked_sports.includes("isl")) {
+        misery_div_items = misery_div_items + isl_dropdown;
+      }
+      if (checked_sports.includes("ipl")) {
+        misery_div_items = misery_div_items + ipl_dropdown;
+      }
       if (checked_sports.includes("laliga")) {
         misery_div_items = misery_div_items + laliga_dropdown;
+      }
+      if (checked_sports.includes("ligue1")) {
+        misery_div_items = misery_div_items + ligue1_dropdown;
       }
       if (checked_sports.includes("mlb")) {
         misery_div_items = misery_div_items + mlb_dropdown;
@@ -275,26 +303,20 @@ const sports_check = function () {
       if (checked_sports.includes("nba")) {
         misery_div_items = misery_div_items + nba_dropdown;
       }
-      if (checked_sports.includes("isl")) {
-        misery_div_items = misery_div_items + isl_dropdown;
-      }
-      if (checked_sports.includes("ipl")) {
-        misery_div_items = misery_div_items + ipl_dropdown;
-      }
       if (checked_sports.includes("mls")) {
         misery_div_items = misery_div_items + mls_dropdown;
       }
       if (checked_sports.includes("nhl")) {
         misery_div_items = misery_div_items + nhl_dropdown;
       }
-      if (checked_sports.includes("ncaaf")) {
-        misery_div_items = misery_div_items + ncaaf_dropdown;
-      }
       if (checked_sports.includes("nfl")) {
         misery_div_items = misery_div_items + nfl_dropdown;
       }
       if (checked_sports.includes("nwsl")) {
         misery_div_items = misery_div_items + nwsl_dropdown;
+      }
+      if (checked_sports.includes("serie_a")) {
+        misery_div_items = misery_div_items + serie_a_dropdown;
       }
       if (checked_sports.includes("wnba")) {
         misery_div_items = misery_div_items + wnba_dropdown;
@@ -320,19 +342,25 @@ const misery = function () {
     .value;
 
   // Checks which sports drop down(s) are visible
-  let laliga_DD = document.querySelector<HTMLElement>("#laliga_team_options")!;
-  let epl_DD = document.querySelector<HTMLElement>("#epl_team_options")!;
+  let bundesliga_DD = document.querySelector<HTMLElement>(
+    "#bundesliga_team_options"
+  )!;
   let cfl_DD = document.querySelector<HTMLElement>("#cfl_team_options")!;
-  let kbo_DD = document.querySelector<HTMLElement>("#kbo_team_options")!;
-  let mlb_DD = document.querySelector<HTMLElement>("#mlb_team_options")!;
+  let epl_DD = document.querySelector<HTMLElement>("#epl_team_options")!;
   let ipl_DD = document.querySelector<HTMLElement>("#ipl_team_options")!;
   let isl_DD = document.querySelector<HTMLElement>("#isl_team_options")!;
+  let laliga_DD = document.querySelector<HTMLElement>("#laliga_team_options")!;
+  let ligue1_DD = document.querySelector<HTMLElement>("#ligue1_team_options")!;
+  let kbo_DD = document.querySelector<HTMLElement>("#kbo_team_options")!;
+  let mlb_DD = document.querySelector<HTMLElement>("#mlb_team_options")!;
   let mls_DD = document.querySelector<HTMLElement>("#mls_team_options")!;
   let nba_DD = document.querySelector<HTMLElement>("#nba_team_options")!;
   let nhl_DD = document.querySelector<HTMLElement>("#nhl_team_options")!;
-  let ncaaf_DD = document.querySelector<HTMLElement>("#ncaaf_team_options")!;
   let nfl_DD = document.querySelector<HTMLElement>("#nfl_team_options")!;
   let nwsl_DD = document.querySelector<HTMLElement>("#nwsl_team_options")!;
+  let serie_a_DD = document.querySelector<HTMLElement>(
+    "#serie_a_team_options"
+  )!;
   let wnba_DD = document.querySelector<HTMLElement>("#wnba_team_options")!;
 
   // Arrays for total wins, championship wins, etc.
@@ -361,6 +389,26 @@ const misery = function () {
     );
 
     selected_leagues.push("CFL");
+    grand_total_games.push(total_games);
+    grand_total_wins.push(total_wins);
+    grand_champs_apps.push(ch_apps);
+    grand_champs_wins.push(ch_wins);
+    win_rates_list.push(win_rate);
+  }
+
+  // BUNDESLIGA
+  if (bundesliga_DD != null) {
+    let franchiseID = (
+      document.getElementById("bundesliga_team_options") as HTMLButtonElement
+    ).value;
+    let BUNDESLIGATeamName = document!.getElementById(franchiseID)?.textContent;
+
+    fav_teams.push(BUNDESLIGATeamName);
+
+    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
+      BUNDESLIGATeamData(birth_year, franchiseID);
+
+    selected_leagues.push("BUNDESLIGA");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -425,7 +473,27 @@ const misery = function () {
     let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
       LALIGATeamData(birth_year, franchiseID);
 
-    selected_leagues.push("LSLIGA");
+    selected_leagues.push("LALIGA");
+    grand_total_games.push(total_games);
+    grand_total_wins.push(total_wins);
+    grand_champs_apps.push(ch_apps);
+    grand_champs_wins.push(ch_wins);
+    win_rates_list.push(win_rate);
+  }
+
+  // Ligue 1
+  if (ligue1_DD != null) {
+    let franchiseID = (
+      document.getElementById("ligue1_team_options") as HTMLButtonElement
+    ).value;
+    let LIGUE1TeamName = document!.getElementById(franchiseID)?.textContent;
+
+    fav_teams.push(LIGUE1TeamName);
+
+    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
+      LIGUE1TeamData(birth_year, franchiseID);
+
+    selected_leagues.push("LIGUE1");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -539,27 +607,6 @@ const misery = function () {
     win_rates_list.push(win_rate);
   }
 
-  // NCAAF
-  if (ncaaf_DD != null) {
-    let franchiseID = (
-      document.getElementById("ncaaf_team_options") as HTMLButtonElement
-    ).value;
-    let NCAAFTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = NCAAFTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(NCAAFTeamName);
-
-    selected_leagues.push("NCAAF");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
-  }
-
   // NFL
   if (nfl_DD != null) {
     let franchiseID = (
@@ -616,6 +663,25 @@ const misery = function () {
     fav_teams.push(NWSLTeamName);
 
     selected_leagues.push("NWSL");
+    grand_total_games.push(total_games);
+    grand_total_wins.push(total_wins);
+    grand_champs_apps.push(ch_apps);
+    grand_champs_wins.push(ch_wins);
+    win_rates_list.push(win_rate);
+  }
+
+  // Serie A
+  if (serie_a_DD != null) {
+    let franchiseID = (
+      document.getElementById("serie_a_team_options") as HTMLButtonElement
+    ).value;
+    let SERIE_A_TeamName = document!.getElementById(franchiseID)?.textContent;
+    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
+      SERIEATeamData(birth_year, franchiseID);
+
+    fav_teams.push(SERIE_A_TeamName);
+
+    selected_leagues.push("SERIE_A");
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
     grand_champs_apps.push(ch_apps);
@@ -691,10 +757,16 @@ const misery = function () {
   var asterisk = "";
   var asterisk_note = "";
   // Includes asterisk if certain leagues are selected
-  if (selected_leagues.includes("NCAAF")) {
+  if (
+    selected_leagues.includes("BUNDESLIGA") ||
+    selected_leagues.includes("EPL") ||
+    selected_leagues.includes("LALIGA") ||
+    selected_leagues.includes("LIGUE1") ||
+    selected_leagues.includes("SERIE_A")
+  ) {
     var asterisk = "*";
     var asterisk_note =
-      "*The only championship wins counted for NCAA Football are the National Championship, Rose, Sugar, Orange, Cotton, Peach and Fiesta Bowls.";
+      "*At this point in time Bundesliga, EPL, and La Liga data only includes 1996 - 2022. More seasons will be added soon.";
   }
 
   // Writes results/misery

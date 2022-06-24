@@ -9,10 +9,43 @@ export const misery_calculation = function (
 
   // Check for Band wagon teams
   let band_wagon_index = 0;
-  if (fav_teams.includes("New York Yankees")) {
+  // Bundesliga
+  if (fav_teams.includes("Bayern Munich")) {
     band_wagon_index += 1;
   }
-  if (fav_teams.includes("New England Patriots")) {
+  // EPL
+  if (fav_teams.includes("Chelsea")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Liverpool")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Manchester City")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Manchester United")) {
+    band_wagon_index += 1;
+  }
+  // LA LIGA
+  if (fav_teams.includes("Barcelona")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Real Madrid")) {
+    band_wagon_index += 1;
+  }
+  // LIGUE 1
+  if (fav_teams.includes("Paris S-G")) {
+    band_wagon_index += 1;
+  }
+  // IPL
+  if (fav_teams.includes("Chennai Super Kings")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Mumbai Indians")) {
+    band_wagon_index += 1;
+  }
+  // MLB
+  if (fav_teams.includes("New York Yankees")) {
     band_wagon_index += 1;
   }
   if (fav_teams.includes("Boston Red Sox")) {
@@ -21,6 +54,11 @@ export const misery_calculation = function (
   if (fav_teams.includes("San Francisco Giants")) {
     band_wagon_index += 1;
   }
+  // MLS
+  if (fav_teams.includes("Los Angeles Galaxy")) {
+    band_wagon_index += 1;
+  }
+  // NBA
   if (fav_teams.includes("Los Angeles Lakers")) {
     band_wagon_index += 1;
   }
@@ -33,28 +71,31 @@ export const misery_calculation = function (
   if (fav_teams.includes("Miami Heat")) {
     band_wagon_index += 1;
   }
+  // NFL
+  if (fav_teams.includes("New England Patriots")) {
+    band_wagon_index += 1;
+  }
   if (fav_teams.includes("Pittsburgh Penguins")) {
     band_wagon_index += 1;
   }
+  // NHL
   if (fav_teams.includes("Chicago Blackhawks")) {
+    band_wagon_index += 1;
+  }
+  if (fav_teams.includes("Pittsburgh Penguins")) {
     band_wagon_index += 1;
   }
   if (fav_teams.includes("Tampa Bay Lightning")) {
     band_wagon_index += 1;
   }
-  if (fav_teams.includes("Los Angeles Galaxy")) {
+  // SERIE A
+  if (fav_teams.includes("Inter")) {
     band_wagon_index += 1;
   }
-  if (fav_teams.includes("Chennai Super Kings")) {
+  if (fav_teams.includes("Juventus")) {
     band_wagon_index += 1;
   }
-  if (fav_teams.includes("Mumbai Indians")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Alabama")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Clemson")) {
+  if (fav_teams.includes("Milan")) {
     band_wagon_index += 1;
   }
 
