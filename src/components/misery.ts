@@ -7,101 +7,54 @@ export const misery_calculation = function (
 ) {
   var misery_level: string;
 
-  // Check for Band wagon teams
-  let band_wagon_index = 0;
-  // Bundesliga
-  if (fav_teams.includes("Bayern Munich")) {
-    band_wagon_index += 1;
-  }
-  // EPL
-  if (fav_teams.includes("Chelsea")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Liverpool")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Manchester City")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Manchester United")) {
-    band_wagon_index += 1;
-  }
-  // LA LIGA
-  if (fav_teams.includes("Barcelona")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Real Madrid")) {
-    band_wagon_index += 1;
-  }
-  // LIGUE 1
-  if (fav_teams.includes("Paris S-G")) {
-    band_wagon_index += 1;
-  }
-  // IPL
-  if (fav_teams.includes("Chennai Super Kings")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Mumbai Indians")) {
-    band_wagon_index += 1;
-  }
-  // MLB
-  if (fav_teams.includes("New York Yankees")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Boston Red Sox")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("San Francisco Giants")) {
-    band_wagon_index += 1;
-  }
-  // MLS
-  if (fav_teams.includes("Los Angeles Galaxy")) {
-    band_wagon_index += 1;
-  }
-  // NBA
-  if (fav_teams.includes("Los Angeles Lakers")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Golden State Warriors")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("San Antonio Spurs")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Miami Heat")) {
-    band_wagon_index += 1;
-  }
-  // NFL
-  if (fav_teams.includes("New England Patriots")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Pittsburgh Penguins")) {
-    band_wagon_index += 1;
-  }
-  // NHL
-  if (fav_teams.includes("Chicago Blackhawks")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Pittsburgh Penguins")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Tampa Bay Lightning")) {
-    band_wagon_index += 1;
-  }
-  // SERIE A
-  if (fav_teams.includes("Inter")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Juventus")) {
-    band_wagon_index += 1;
-  }
-  if (fav_teams.includes("Milan")) {
-    band_wagon_index += 1;
-  }
+  // Check for band wagon teams
+  const band_wagon_list = [
+    // Bundesliga
+    "Bayern Munich",
+    // EPL
+    "Chelsea",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    // La Liga
+    "Barcelona",
+    "Real Madrid",
+    // Ligue 1
+    "Paris S-G",
+    // IPL
+    "Chennai Super Kings",
+    "Mumbai Indians",
+    // MLB
+    "Boston Red Sox",
+    "New York Yankees",
+    "San Francisco Giants",
+    // MLS
+    "Los Angeles Galaxy",
+    // NBA
+    "Los Angles Lakers",
+    "Golden State Warriors",
+    "Miami Heat",
+    // NFL
+    "Dallas Cowboys",
+    "New England Patriots",
+    "Pittsburgh Steelers",
+    // NHL
+    "Chicago Blackhawks",
+    "Pittsburgh Penguins",
+    "Tampa Bay Lightning",
+    // SERIE A
+    "Inter",
+    "Juventus",
+    "Milan",
+  ];
 
-  let bandwanger = false;
+  let band_wagon_check = band_wagon_list.filter((i) => fav_teams.includes(i));
+
+  let band_wagon_index = band_wagon_check.length;
+
+  let band_wanger = false;
   if (band_wagon_index >= 4) {
-    bandwanger = true;
+    band_wanger = true;
   }
 
   // One who has Never Experience Victory
@@ -115,13 +68,13 @@ export const misery_calculation = function (
       " is not doing your mental health any favors, unless you are a masochist and if you are no judgment.</p>";
   }
   // Band Wagoner
-  else if (bandwanger == true) {
+  else if (band_wanger == true) {
     var misery_level =
       "<h2>Misery Level: 🚨🚨🚨 BAND WAGONER ALERT 🚨🚨🚨</h2><p>You're a band wagoner. The worst kind of fan. Yes, even worse than the ones who start riots." +
       " At least they're willing to take a tear gas canister to the face for the team. You on the other hand aren't.</p> <p>Your loyalties are as loose and worn out as " +
       " the dozens of jerseys in the back of your closet from past teams who 'repped' right after their victory. You're the most miserable fan of all and you deserve it." +
       " You're miserable because no matter how many times you hop from one team to another, you know deep down inside you'll never truly belong to any fandom, any tribe." +
-      " You will wander the world of fandom, unloved, unless you clean up your act.</p>";
+      " You will wander the world of fandom unloved and unwanted unless you clean up your act.</p>";
   }
   // One Hit Wonder
   else if (ch_wins == 1) {
@@ -166,9 +119,9 @@ export const misery_calculation = function (
     var misery_level =
       "<h2>Misery Level: Moderately Happy</h2><p>About once every 5-7 years your team(s) bring one home." +
       " They're not the best, but they're relatively dependable." +
-      " They hurt you occasionally, but you know they only need to make a few adjustments and they'll win it all again." +
+      " They hurt you occasionally and let you down a lot of the time, but you know they only need to make a few adjustments and they'll win it all again." +
       " <br>You picked good team(s) to follow or maybe your parents chose the right place to raise a family." +
-      " Sports misery is often a factor, along with quality of schools, that a couple should consider when they settle down and raise a family.</p>";
+      " Sports misery is often a factor, along with quality of schools, that good parents consider when they settle down and raise a family.</p>";
   }
   // Happy Sports Fan
   else if (ch_wins >= 2 && time_per_ch >= 0 && time_per_ch <= 4) {

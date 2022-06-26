@@ -398,9 +398,23 @@ const misery = function () {
     let franchiseID = (
       document.getElementById(team_options) as HTMLButtonElement
     ).value;
-    let TeamName = document!.getElementById(franchiseID)?.textContent;
 
-    fav_teams.push(TeamName);
+    if (
+      league == "CFL" ||
+      league == "IPL" ||
+      league == "ISL" ||
+      league == "KBO" ||
+      league == "MLB" ||
+      league == "MLS" ||
+      league == "NBA" ||
+      league == "NFL" ||
+      league == "NWSL" ||
+      league == "NHL" ||
+      league == "WNBA"
+    ) {
+      let TeamName = document!.getElementById(franchiseID)?.textContent;
+      fav_teams.push(TeamName);
+    } else fav_teams.push(franchiseID);
 
     let {
       total_games,
