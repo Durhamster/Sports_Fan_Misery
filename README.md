@@ -4,6 +4,8 @@ Being a sports fan can be a painful experience, but some fan bases have it far w
 
 That's what this sets out to do, using the power of data!
 
+[Demo Link](https://durhamster.github.io/Sports_Fan_Misery/)
+
 ## Leagues Currently Available
 
 - Big Bash League (2011 - 2021)
