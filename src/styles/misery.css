@@ -134,11 +134,11 @@ select:focus option:first-of-type {
   font-weight: bold;
   display: inline-block;
   font-size: 18px;
+  cursor: pointer;
 }
 #sports_input:hover,
 #submit_btn:hover {
   background-color: #428a44;
-  cursor: pointer;
 }
 
 #birth_year {
@@ -200,8 +200,9 @@ select:focus option:first-of-type {
   display: none;
 }
 
-#sports_selection ul {
-  list-style-type: none;
+#sports_selection {
+  margin-left: auto;
+  margin-right: auto;
 }
 #sports_selection li {
   display: inline-block;
@@ -212,8 +213,7 @@ select:focus option:first-of-type {
   display: none;
 }
 #sports_selection label {
-  border: 1px solid #fff;
-  padding: 6px;
+  padding: 1px;
   display: inline-block;
   position: relative;
   cursor: pointer;
@@ -252,6 +252,7 @@ select:focus option:first-of-type {
   content: "✓";
   background-color: #4caf50;
   transform: scale(1);
+  z-index: 1;
 }
 #sports_selection :checked + label img {
   transform: scale(0.9);

@@ -93,8 +93,8 @@ export const misery_calculation = function (
     var misery_level =
       "<h2>Misery Level: Once a Decade Dan/Danielle</h2><p>About once every decade your team(s) bring one home." +
       " You savor those moments because you know the next time you get that feeling, the world will be a different place." +
-      " In the meantime be at peace knowing you're not your neighbor, you know the guy who passionately follows 10+ teams. All of whom never bring him" +
-      " anything but misery years after year, with some false hope sprinkled in. You're not him. Good for you. </p>";
+      " In the meantime be at peace knowing you're not your neighbor, you know the guy who passionately follow teams who haven't won a championship in decades." +
+      " All he gets misery year after year, with a little false hope sprinkled in every once in awhile. You're not him. Good for you. 👍</p>";
   }
   // The Patient One
   else if (ch_wins >= 2 && time_per_ch >= 13 && time_per_ch <= 21) {

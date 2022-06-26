@@ -85,79 +85,78 @@ main_app.innerHTML =
 <h1>🚩 Sports Fan Misery Calculator 😔</h1>
 <div id="sports_selection">
   <p>Select every league you have a favorite team in</p>
-  <ul>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="bbl" value="bbl"/>
-      <label id="bbl_label" for="bbl"><img id="bbl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="bundesliga" value="bundesliga"/>
-      <label id="bundesliga_label" for="bundesliga"><img id="bundesliga_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="cfl" value="cfl"/>
-      <label id="cfl_label" for="cfl"><img id="cfl_logo" /></label>
-    </li>
-    <li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="bbl" value="bbl"/>
+    <label id="bbl_label" for="bbl"><img id="bbl_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="bundesliga" value="bundesliga"/>
+    <label id="bundesliga_label" for="bundesliga"><img id="bundesliga_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="cfl" value="cfl"/>
+    <label id="cfl_label" for="cfl"><img id="cfl_logo" /></label>
+  </li>
+  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="epl" value="epl"/>
     <label id="epl_label" for="epl"><img id="epl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="ipl" value="ipl"/>
-      <label id="ipl_label" for="ipl"><img id="ipl_logo" /></label>
-    </li>
-    <li>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="ipl" value="ipl"/>
+    <label id="ipl_label" for="ipl"><img id="ipl_logo" /></label>
+  </li>
+  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="isl" value="isl"/>
     <label id="isl_label" for="isl"><img id="isl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="kbo" value="kbo"/>
-      <label id="kbo_label" for="kbo"><img id="kbo_logo" /></label>
-    </li>
-    <li>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="kbo" value="kbo"/>
+    <label id="kbo_label" for="kbo"><img id="kbo_logo" /></label>
+  </li>
+  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="laliga" value="laliga"/>
     <label id="laliga_label" for="laliga"><img id="laliga_logo" /></label>
-    </li>
-    <li>
+  </li>
+  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="ligue1" value="ligue1"/>
     <label id="ligue1_label" for="ligue1"><img id="ligue1_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="nba" value="nba"/>
-      <label id="nba_label" for="nba"><img id="nba_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="mlb" value="mlb"/>
-      <label id="mlb_label" for="mlb"><img id="mlb_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="mls" value="mls"/>
-      <label id="mls_label" for="mls"><img id="mls_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="nfl" value="nfl"/>
-      <label id="nfl_label" for="nfl"><img id="nfl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="nhl" value="nhl"/>
-      <label id="nhl_label" for="nhl"><img id="nhl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="nwsl" value="nwsl"/>
-      <label id="nwsl_label" for="nwsl"><img id="nwsl_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="serie_a" value="serie_a"/>
-      <label id="serie_a_label" for="serie_a"><img id="serie_a_logo" /></label>
-    </li>
-    <li>
-      <input class="sports_checkbox" type="checkbox" name="sports_check" id="wnba" value="wnba"/>
-      <label id="wnba_label" for="wnba"><img id="wnba_logo" /></label>
-    </li>
-    </ul>` +
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nba" value="nba"/>
+    <label id="nba_label" for="nba"><img id="nba_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="mlb" value="mlb"/>
+    <label id="mlb_label" for="mlb"><img id="mlb_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="mls" value="mls"/>
+    <label id="mls_label" for="mls"><img id="mls_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nfl" value="nfl"/>
+    <label id="nfl_label" for="nfl"><img id="nfl_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nhl" value="nhl"/>
+    <label id="nhl_label" for="nhl"><img id="nhl_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nwsl" value="nwsl"/>
+    <label id="nwsl_label" for="nwsl"><img id="nwsl_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="serie_a" value="serie_a"/>
+    <label id="serie_a_label" for="serie_a"><img id="serie_a_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="wnba" value="wnba"/>
+    <label id="wnba_label" for="wnba"><img id="wnba_logo" /></label>
+  </li>
+  <p>` +
   sports_input +
-  `
-    <p id="sports_selection_error"></p>
+  `</p>
+  <p id="sports_selection_error"></p>
     </div>
     `;
 
