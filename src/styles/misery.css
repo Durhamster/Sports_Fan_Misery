@@ -205,6 +205,8 @@ select:focus option:first-of-type {
 }
 #sports_selection li {
   display: inline-block;
+  padding: 0;
+  margin: 0;
 }
 #sports_selection input[type=checkbox][id^=cb] {
   display: none;
@@ -225,7 +227,7 @@ select:focus option:first-of-type {
   background-color: white;
   color: white;
   content: " ";
-  display: block;
+  display: inline-block;
   border-radius: 50%;
   border: 1px solid grey;
   position: absolute;

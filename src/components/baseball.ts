@@ -30,6 +30,7 @@ autocomplete="off">
   <option class="team_selection" id="default" value="default" selected="selected">Choose your MLB Team</option>
   <option class="team_selection" id="ARI" value="ARI">Arizona Diamondbacks</option>
   <option class="team_selection" id="ATL" value="ATL">Atlanta Braves</option>
+  <option class="team_selection" id="BAL" value="BAL">Baltimore Orioles</option>
   <option class="team_selection" id="BOS" value="BOS">Boston Red Socks</option>
   <option class="team_selection" id="CHC" value="CHC">Chicago Cubs</option>
   <option class="team_selection" id="CHW" value="CHW">Chicago White Socks</option>
@@ -61,29 +62,47 @@ autocomplete="off">
 
 // Team Data Funcs
 export const KBOTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "MLB",
-    birth_year,
-    franchiseID,
-    kbo_data,
-    "ch_win",
-    "Y",
-    "ch_app",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "baseball",
+      "MLB",
+      birth_year,
+      franchiseID,
+      kbo_data,
+      "ch_win",
+      "Y",
+      "ch_app",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const MLBTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "MLB",
-    birth_year,
-    franchiseID,
-    mlb_data,
-    "WSWin",
-    "Y",
-    "LgWin",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "baseball",
+      "MLB",
+      birth_year,
+      franchiseID,
+      mlb_data,
+      "WSWin",
+      "Y",
+      "LgWin",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };

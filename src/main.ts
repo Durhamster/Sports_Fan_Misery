@@ -1,4 +1,5 @@
 // imgs
+import bbl_url from "./img/bbl.png";
 import bungesliga_url from "./img/bundesliga.png";
 import cfl_url from "./img/cfl.png";
 import epl_url from "./img/epl.png";
@@ -45,7 +46,12 @@ import {
   wnba_dropdown,
   WNBATeamData,
 } from "./components/basketball";
-import { ipl_dropdown, IPLTeamData } from "./components/cricket";
+import {
+  bbl_dropdown,
+  BBLTeamData,
+  ipl_dropdown,
+  IPLTeamData,
+} from "./components/cricket";
 import {
   BUNDESLIGATeamData,
   bundesliga_dropdown,
@@ -80,6 +86,10 @@ main_app.innerHTML =
 <div id="sports_selection">
   <p>Select every league you have a favorite team in</p>
   <ul>
+    <li>
+      <input class="sports_checkbox" type="checkbox" name="sports_check" id="bbl" value="bbl"/>
+      <label id="bbl_label" for="bbl"><img id="bbl_logo" /></label>
+    </li>
     <li>
       <input class="sports_checkbox" type="checkbox" name="sports_check" id="bundesliga" value="bundesliga"/>
       <label id="bundesliga_label" for="bundesliga"><img id="bundesliga_logo" /></label>
@@ -168,6 +178,7 @@ footer.innerHTML = footer_content;
 // END HTML SECTION
 
 // League Icons
+document.getElementById("bbl_logo")!.setAttribute("src", bbl_url);
 document.getElementById("bundesliga_logo")!.setAttribute("src", bungesliga_url);
 document.getElementById("cfl_logo")!.setAttribute("src", cfl_url);
 document.getElementById("epl_logo")!.setAttribute("src", epl_url);
@@ -273,6 +284,9 @@ const sports_check = function () {
 
       let misery_div_items = `<p>Select your team(s) and the year you were born</p>`;
 
+      if (checked_sports.includes("bbl")) {
+        misery_div_items = misery_div_items + bbl_dropdown;
+      }
       if (checked_sports.includes("bundesliga")) {
         misery_div_items = misery_div_items + bundesliga_dropdown;
       }
@@ -342,6 +356,7 @@ const misery = function () {
     .value;
 
   // Checks which sports drop down(s) are visible
+  let bbl_DD = document.querySelector<HTMLElement>("#bbl_team_options")!;
   let bundesliga_DD = document.querySelector<HTMLElement>(
     "#bundesliga_team_options"
   )!;
@@ -364,353 +379,136 @@ const misery = function () {
   let wnba_DD = document.querySelector<HTMLElement>("#wnba_team_options")!;
 
   // Arrays for total wins, championship wins, etc.
-  let selected_leagues = [];
-  let grand_total_games = [];
-  let grand_total_wins = [];
-  let grand_champs_apps = [];
-  let grand_champs_wins = [];
-  let win_rates_list = [];
+  let selected_leagues: any = [];
+  let grand_total_games: any = [];
+  let grand_total_wins: any = [];
+  let grand_total_draws: any = [];
+  let grand_champs_apps: any = [];
+  let grand_champs_wins: any = [];
+  let grand_total_losses: any = [];
   // Names of chosen teams
-  let fav_teams = [];
+  let fav_teams: any = [];
 
-  // CFL
-  if (cfl_DD != null) {
+  // Gets the drop downs and league data
+  const get_team_selections = function (
+    team_options: string,
+    team_data: any,
+    league: string
+  ) {
     let franchiseID = (
-      document.getElementById("cfl_team_options") as HTMLButtonElement
+      document.getElementById(team_options) as HTMLButtonElement
     ).value;
-    let CFLTeamName = document!.getElementById(franchiseID)?.textContent;
+    let TeamName = document!.getElementById(franchiseID)?.textContent;
 
-    fav_teams.push(CFLTeamName);
+    fav_teams.push(TeamName);
 
-    // Retrieve data for baseball team
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = CFLTeamData(
-      birth_year,
-      franchiseID
-    );
+    let {
+      total_games,
+      total_wins,
+      total_draws,
+      total_losses,
+      ch_wins,
+      ch_apps,
+    } = team_data(birth_year, franchiseID);
 
-    selected_leagues.push("CFL");
+    selected_leagues.push(league);
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
+    grand_total_draws.push(total_draws);
     grand_champs_apps.push(ch_apps);
     grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    grand_total_losses.push(total_losses);
+  };
+  // BBL
+  if (bbl_DD != null) {
+    get_team_selections("bbl_team_options", BBLTeamData, "BBL");
   }
 
   // BUNDESLIGA
   if (bundesliga_DD != null) {
-    let franchiseID = (
-      document.getElementById("bundesliga_team_options") as HTMLButtonElement
-    ).value;
-    let BUNDESLIGATeamName = document!.getElementById(franchiseID)?.textContent;
+    get_team_selections(
+      "bundesliga_team_options",
+      BUNDESLIGATeamData,
+      "BUNDESLIGA"
+    );
+  }
 
-    fav_teams.push(BUNDESLIGATeamName);
-
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
-      BUNDESLIGATeamData(birth_year, franchiseID);
-
-    selected_leagues.push("BUNDESLIGA");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+  // CFL
+  if (cfl_DD != null) {
+    get_team_selections("cfl_team_options", CFLTeamData, "CFL");
   }
 
   // EPL
   if (epl_DD != null) {
-    let franchiseID = (
-      document.getElementById("epl_team_options") as HTMLButtonElement
-    ).value;
-    let EPLTeamName = document!.getElementById(franchiseID)?.textContent;
-
-    fav_teams.push(EPLTeamName);
-
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = EPLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    selected_leagues.push("EPL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("epl_team_options", EPLTeamData, "EPL");
   }
 
   // KBO
   if (kbo_DD != null) {
-    let franchiseID = (
-      document.getElementById("kbo_team_options") as HTMLButtonElement
-    ).value;
-    let KBOTeamName = document!.getElementById(franchiseID)?.textContent;
-
-    fav_teams.push(KBOTeamName);
-
-    // Retrieve data for baseball team
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = KBOTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    selected_leagues.push("KBO");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("kbo_team_options", KBOTeamData, "KBO");
   }
 
   // La Liga
   if (laliga_DD != null) {
-    let franchiseID = (
-      document.getElementById("laliga_team_options") as HTMLButtonElement
-    ).value;
-    let LALIGATeamName = document!.getElementById(franchiseID)?.textContent;
-
-    fav_teams.push(LALIGATeamName);
-
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
-      LALIGATeamData(birth_year, franchiseID);
-
-    selected_leagues.push("LALIGA");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("laliga_team_options", LALIGATeamData, "LALIGA");
   }
 
   // Ligue 1
   if (ligue1_DD != null) {
-    let franchiseID = (
-      document.getElementById("ligue1_team_options") as HTMLButtonElement
-    ).value;
-    let LIGUE1TeamName = document!.getElementById(franchiseID)?.textContent;
-
-    fav_teams.push(LIGUE1TeamName);
-
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
-      LIGUE1TeamData(birth_year, franchiseID);
-
-    selected_leagues.push("LIGUE1");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("ligue1_team_options", LIGUE1TeamData, "LIGUE1");
   }
 
   // MLB
   if (mlb_DD != null) {
-    let franchiseID = (
-      document.getElementById("mlb_team_options") as HTMLButtonElement
-    ).value;
-    let MLBTeamName = document!.getElementById(franchiseID)?.textContent;
-
-    fav_teams.push(MLBTeamName);
-
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = MLBTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    selected_leagues.push("MLB");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("mlb_team_options", MLBTeamData, "MLB");
   }
 
   // IPL
   if (ipl_DD != null) {
-    let franchiseID = (
-      document.getElementById("ipl_team_options") as HTMLButtonElement
-    ).value;
-    let IPLTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = IPLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(IPLTeamName);
-
-    selected_leagues.push("IPL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("ipl_team_options", IPLTeamData, "IPL");
   }
 
   // ISL
   if (isl_DD != null) {
-    let franchiseID = (
-      document.getElementById("isl_team_options") as HTMLButtonElement
-    ).value;
-    let ISLTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = ISLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(ISLTeamName);
-
-    selected_leagues.push("ISL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("isl_team_options", ISLTeamData, "ISL");
   }
 
   // MLS
   if (mls_DD != null) {
-    let franchiseID = (
-      document.getElementById("mls_team_options") as HTMLButtonElement
-    ).value;
-    let MLSTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = MLSTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(MLSTeamName);
-
-    selected_leagues.push("MLS");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("mls_team_options", MLSTeamData, "MLS");
   }
 
   // NBA
   if (nba_DD != null) {
-    let franchiseID = (
-      document.getElementById("nba_team_options") as HTMLButtonElement
-    ).value;
-    let NBATeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = NBATeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(NBATeamName);
-
-    selected_leagues.push("NBA");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("nba_team_options", NBATeamData, "NBA");
   }
 
   // NFL
   if (nfl_DD != null) {
-    let franchiseID = (
-      document.getElementById("nfl_team_options") as HTMLButtonElement
-    ).value;
-    let NFLTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = NFLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(NFLTeamName);
-
-    selected_leagues.push("NFL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("nfl_team_options", NFLTeamData, "NFL");
   }
 
   // NHL
   if (nhl_DD != null) {
-    let franchiseID = (
-      document.getElementById("nhl_team_options") as HTMLButtonElement
-    ).value;
-    let NHLTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = NHLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(NHLTeamName);
-
-    selected_leagues.push("NHL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("nhl_team_options", NHLTeamData, "NHL");
   }
 
   // NWSL
   if (nwsl_DD != null) {
-    let franchiseID = (
-      document.getElementById("nwsl_team_options") as HTMLButtonElement
-    ).value;
-    let NWSLTeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = NWSLTeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(NWSLTeamName);
-
-    selected_leagues.push("NWSL");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("nwsl_team_options", NWSLTeamData, "NWSL");
   }
 
   // Serie A
   if (serie_a_DD != null) {
-    let franchiseID = (
-      document.getElementById("serie_a_team_options") as HTMLButtonElement
-    ).value;
-    let SERIE_A_TeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } =
-      SERIEATeamData(birth_year, franchiseID);
-
-    fav_teams.push(SERIE_A_TeamName);
-
-    selected_leagues.push("SERIE_A");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("serie_a_team_options", SERIEATeamData, "SERIE_A");
   }
 
   // WNBA
   if (wnba_DD != null) {
-    let franchiseID = (
-      document.getElementById("wnba_team_options") as HTMLButtonElement
-    ).value;
-    let WNBATeamName = document!.getElementById(franchiseID)?.textContent;
-    let { total_games, total_wins, win_rate, ch_wins, ch_apps } = WNBATeamData(
-      birth_year,
-      franchiseID
-    );
-
-    fav_teams.push(WNBATeamName);
-
-    selected_leagues.push("WNBA");
-    grand_total_games.push(total_games);
-    grand_total_wins.push(total_wins);
-    grand_champs_apps.push(ch_apps);
-    grand_champs_wins.push(ch_wins);
-    win_rates_list.push(win_rate);
+    get_team_selections("bbl_team_options", WNBATeamData, "BBL");
   }
 
-  // Adds up all the wins and championships
+  // Adds up all the wins, draws, and championships
   let total_games = 0;
   for (let i = 0; i < grand_total_games.length; i++) {
     total_games += grand_total_games[i];
@@ -719,6 +517,16 @@ const misery = function () {
   let total_wins = 0;
   for (let i = 0; i < grand_total_wins.length; i++) {
     total_wins += grand_total_wins[i];
+  }
+
+  let total_draws = 0;
+  for (let i = 0; i < grand_total_draws.length; i++) {
+    total_draws += grand_total_draws[i];
+  }
+
+  let total_losses = 0;
+  for (let i = 0; i < grand_total_losses.length; i++) {
+    total_losses += grand_total_losses[i];
   }
 
   let total_champs_apps = 0;
@@ -732,6 +540,10 @@ const misery = function () {
   }
 
   let win_rate = (total_wins / total_games) * 100;
+
+  let draw_rate = (total_draws / total_games) * 100;
+
+  let loss_rate = (total_losses / total_games) * 100;
 
   // Get championship wins per year
   let user_age = currentYear - Number(birth_year);
@@ -766,7 +578,9 @@ const misery = function () {
   ) {
     var asterisk = "*";
     var asterisk_note =
-      "*At this point in time Bundesliga, EPL, and La Liga data only includes 1996 - 2022. More seasons will be added soon.";
+      "*At this point in time Bundesliga, EPL, La Liga, Ligue 1, & Serie A data only includes 1996 - 2022." +
+      "More seasons will be added soon. Data ONLY includes wins from the top league. Wins from other leagues are currently not counted." +
+      " Champions league match data will be added in the future.";
   }
 
   // Writes results/misery
@@ -774,14 +588,24 @@ const misery = function () {
     "<p>Since you were born in " +
     birth_year +
     "...</p>" +
-    "<p>Your team(s), have won a total of <b>" +
+    "<p>Out of <b>" +
+    total_games.toLocaleString("en-US") +
+    " games played</b> your team(s), have won <b>" +
     total_wins.toLocaleString("en-US") +
     " (" +
     roundNumber(win_rate) +
-    "%)</b>" +
-    " games out of <b>" +
-    total_games.toLocaleString("en-US") +
-    " games played.</b></p>" +
+    "%)</b> games" +
+    ", tied <b>" +
+    total_draws.toLocaleString("en-US") +
+    " (" +
+    roundNumber(draw_rate) +
+    "%)" +
+    "</b>, and lost <b>" +
+    total_losses.toLocaleString("en-US") +
+    " (" +
+    roundNumber(loss_rate) +
+    "%)" +
+    "</b>.</p>" +
     "<p>During this time they been the runner-up <b>" +
     total_champs_apps +
     "</b> time(s) and have won <b>" +

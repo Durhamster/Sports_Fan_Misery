@@ -6,12 +6,13 @@ That's what this sets out to do, using the power of data!
 
 ## Leagues Currently Available
 
+- Big Bash League (2011 - 2021)
 - Bundesliga (1996 - 2022, more dates to come)
 - Canadian Football League (1945 - 2021)
 - Indian Premier League (2008 - 2021)
 - Indian Super League (2014 - 2021)
 - KBO League (1982 - 2021)
-- La Liga (1996 - 2021, more dates to come)
+- La Liga (1996 - 2022, more dates to come)
 - Ligue 1 (1996 - 2022, more dates to come)
 - Major League Baseball (1920 - 2021)
 - Major League Soccer (1996 - 2021)
@@ -26,7 +27,6 @@ That's what this sets out to do, using the power of data!
 ## Leagues to Be Added in Future Updates
 
 - Australian Football League (Dates TBD)
-- Big Bash League (2011 - 2022)
 - Brasileirão (Dates TBD)
 - Eredivisie (1956 - 2021)
 - Liga MX (1943 - 2021)

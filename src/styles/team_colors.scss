@@ -10,6 +10,34 @@ $white: #ffffff;
   font-weight: bold !important;
 }
 
+#bbl_team_options {
+  #Adelaide_Strikers {
+    background-color: #004e92;
+  }
+  #Brisbane_Heat {
+    background-color: #00a3ad;
+  }
+  #Hobart_Hurricanes {
+    background-color: #5f259f;
+  }
+  #Melbourne_Renegades {
+    background-color: #e3002a;
+  }
+  #Melbourne_Stars {
+    background-color: #009245;
+  }
+  #Perth_Scorchers {
+    background-color: #ce661e;
+  }
+  #Sydney_Sixers {
+    background-color: #ea008a;
+  }
+  #Sydney_Thunder {
+    color: $black;
+    background-color: #97d700;
+  }
+}
+
 #bundesliga_team_options {
   #Arminia {
     background-color: #004e95;
@@ -387,7 +415,7 @@ $white: #ffffff;
   #Monaco {
     background-color: #e51b22;
   }
-  #Montepellier {
+  #Montpellier {
     background-color: #344575;
   }
   #Nantes {
@@ -425,8 +453,8 @@ $white: #ffffff;
     background-color: #ce1141;
   }
   #BAL {
-    color: #df4601;
-    background-color: $black;
+    color: $black;
+    background-color: #df4601;
   }
   #BOS {
     background-color: #0c2340;

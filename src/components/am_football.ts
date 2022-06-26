@@ -64,29 +64,47 @@ export const nfl_dropdown = `<select
 
 // Team Data Funcs
 export const CFLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "CFL",
-    birth_year,
-    franchiseID,
-    cfl_data,
-    "CH",
-    "Won Grey Cup",
-    "CH",
-    "Lost Grey Cup"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "am_football",
+      "CFL",
+      birth_year,
+      franchiseID,
+      cfl_data,
+      "CH",
+      "Won Grey Cup",
+      "CH",
+      "Lost Grey Cup"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const NFLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "NFL",
-    birth_year,
-    franchiseID,
-    nfl_data,
-    "ch_sb_win",
-    "Y",
-    "ch_sb_app",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "am_football",
+      "NFL",
+      birth_year,
+      franchiseID,
+      nfl_data,
+      "ch_sb_win",
+      "Y",
+      "ch_sb_app",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };

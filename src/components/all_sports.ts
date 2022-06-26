@@ -26,6 +26,7 @@ const findYear = function (year: number, team_dict: any) {
 
 // Get all wins, losses, championship wins, etc. for given team
 export const TeamData = function (
+  sport: string,
   league: string,
   birth_year: number,
   franchiseID: any,
@@ -38,7 +39,7 @@ export const TeamData = function (
   // Get dict of selected team & birth year
   let team_dict = findTeam(league, franchiseID, data);
   let team_year_dict = findYear(birth_year, team_dict);
-  // Get wins, losses, World Series appearance & victories
+  // Get wins, losses, Championship appearances & victories
   let team_wins: any = team_year_dict.map((o: any) => o.W);
   let team_losses: any = team_year_dict.map((o: any) => o.L);
   let team_ch_wins: any = team_year_dict.filter(
@@ -49,10 +50,28 @@ export const TeamData = function (
   team_wins = team_wins.map(Number);
   team_losses = team_losses.map(Number);
 
-  // Get total wins & losses
+  // Get total wins, draws, & losses
   let total_wins = 0;
   for (let wins of team_wins) {
     total_wins += wins;
+  }
+
+  if (sport == "am_football") {
+    let team_draws: any = team_year_dict.map((o: any) => o.T);
+    team_draws.map(Number);
+    var total_draws: any = 0;
+    for (let draws of team_draws) {
+      total_draws += draws;
+    }
+  } else if (sport == "football") {
+    let team_draws: any = team_year_dict.map((o: any) => o.D);
+    team_draws.map(Number);
+    var total_draws: any = 0;
+    for (let draws of team_draws) {
+      total_draws += draws;
+    }
+  } else {
+    var total_draws: any = 0;
   }
 
   let total_losses = 0;
@@ -74,7 +93,13 @@ export const TeamData = function (
   }
 
   // Total games played & win rate
-  let total_games = total_wins + total_losses;
-  let win_rate = (total_wins / total_games) * 100;
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let total_games = total_wins + total_draws + total_losses;
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };

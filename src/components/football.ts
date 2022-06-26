@@ -30,7 +30,7 @@ autocomplete="off">
   <option class="team_selection" id="M_Gladbach" value="M'Gladbach">M'Gladbach</option>
   <option class="team_selection" id="Mainz_05" value="Mainz 05">Mainz 05</option>
   <option class="team_selection" id="RB_Leipzig" value="RB Leipzig">RB Leipzig</option>
-  <option class="team_selection" id="SC_Freiburg" value="SC Freiburg">SC Freiburg</option>
+  <option class="team_selection" id="SC_Freiburg" value="Freiburg">SC Freiburg</option>
   <option class="team_selection" id="Stuttgart" value="Stuttgart">Stuttgart</option>
   <option class="team_selection" id="Union_Berlin" value="Union Berlin">Union Berlin</option>
   <option class="team_selection" id="Wolfsburg" value="Wolfsburg">Wolfsburg</option>
@@ -103,7 +103,7 @@ autocomplete="off">
   <option class="team_selection" id="Angers" value="Angers">Angers</option>
   <option class="team_selection" id="Brest" value="Brest">Brest</option>
   <option class="team_selection" id="Bordeaux" value="Bordeaux">Bordeaux</option>
-  <option class="team_selection" id="Clermont" value="Clermont">Clermont</option>
+  <option class="team_selection" id="Clermont" value="Clermont Foot">Clermont</option>
   <option class="team_selection" id="Lens" value="Lens">Lens</option>
   <option class="team_selection" id="Lille" value="Lille">Lille</option>
   <option class="team_selection" id="Lorient" value="Lorient">Lorient</option>
@@ -111,7 +111,7 @@ autocomplete="off">
   <option class="team_selection" id="Marseille" value="Marseille">Marseille</option>
   <option class="team_selection" id="Metz" value="Metz">Metz</option>
   <option class="team_selection" id="Monaco" value="Monaco">Monaco</option>
-  <option class="team_selection" id="Montepellier" value="Montepellier">Montepellier</option>
+  <option class="team_selection" id="Montpellier" value="Montpellier">Montpellier</option>
   <option class="team_selection" id="Nantes" value="Nantes">Nantes</option>
   <option class="team_selection" id="Nice" value="Nice">Nice</option>
   <option class="team_selection" id="Paris_SG" value="Paris S-G">Paris Saint-Germain</option>
@@ -226,115 +226,187 @@ autocomplete="off">
 
 // Team Data Funcs
 export const BUNDESLIGATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "BUNDESLIGA",
-    birth_year,
-    franchiseID,
-    bundesliga_data,
-    "LgRk",
-    "1",
-    "LgRK",
-    "2"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "BUNDESLIGA",
+      birth_year,
+      franchiseID,
+      bundesliga_data,
+      "LgRk",
+      "1",
+      "LgRK",
+      "2"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const EPLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "PREMIER",
-    birth_year,
-    franchiseID,
-    epl_data,
-    "LgRk",
-    "1",
-    "LgRK",
-    "2"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "PREMIER",
+      birth_year,
+      franchiseID,
+      epl_data,
+      "LgRk",
+      "1",
+      "LgRK",
+      "2"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const LALIGATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "LALIGA",
-    birth_year,
-    franchiseID,
-    laliga_data,
-    "LgRk",
-    "1",
-    "LgRK",
-    "2"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "LALIGA",
+      birth_year,
+      franchiseID,
+      laliga_data,
+      "LgRk",
+      "1",
+      "LgRK",
+      "2"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const LIGUE1TeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "LIGUE1",
-    birth_year,
-    franchiseID,
-    ligue1_data,
-    "LgRk",
-    "1",
-    "LgRK",
-    "2"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "LIGUE1",
+      birth_year,
+      franchiseID,
+      ligue1_data,
+      "LgRk",
+      "1",
+      "LgRK",
+      "2"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const ISLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "ISL",
-    birth_year,
-    franchiseID,
-    isl_data,
-    "Cwin",
-    "Y",
-    "CRU",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "ISL",
+      birth_year,
+      franchiseID,
+      isl_data,
+      "Cwin",
+      "Y",
+      "CRU",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const MLSTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "MLS",
-    birth_year,
-    franchiseID,
-    mls_data,
-    "ch_win",
-    "Y",
-    "ch_app",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "MLS",
+      birth_year,
+      franchiseID,
+      mls_data,
+      "ch_win",
+      "Y",
+      "ch_app",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const NWSLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "NWSL",
-    birth_year,
-    franchiseID,
-    nwsl_data,
-    "Cwin",
-    "Y",
-    "CRU",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "NWSL",
+      birth_year,
+      franchiseID,
+      nwsl_data,
+      "Cwin",
+      "Y",
+      "CRU",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const SERIEATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "SERIEA",
-    birth_year,
-    franchiseID,
-    serie_a_data,
-    "Cwin",
-    "Y",
-    "CRU",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "football",
+      "SERIEA",
+      birth_year,
+      franchiseID,
+      serie_a_data,
+      "Cwin",
+      "Y",
+      "CRU",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 // Teams that have been relegated and may return in future seasons go below here as a comment

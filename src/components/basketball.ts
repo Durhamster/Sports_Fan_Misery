@@ -64,29 +64,47 @@ autocomplete="off">
 
 // Team Data Funcs
 export const NBATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "NBA",
-    birth_year,
-    franchiseID,
-    nba_data,
-    "Finals_W",
-    "Y",
-    "Finals_RU",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "basketball",
+      "NBA",
+      birth_year,
+      franchiseID,
+      nba_data,
+      "Finals_W",
+      "Y",
+      "Finals_RU",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };
 
 export const WNBATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "WNBA",
-    birth_year,
-    franchiseID,
-    wnba_data,
-    "ch_win",
-    "Y",
-    "ch_ru",
-    "Y"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "basketball",
+      "WNBA",
+      birth_year,
+      franchiseID,
+      wnba_data,
+      "ch_win",
+      "Y",
+      "ch_ru",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };

@@ -44,15 +44,24 @@ autocomplete="off">
 
 // Team Data Funcs
 export const NHLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, win_rate, ch_wins, ch_apps } = TeamData(
-    "NHL",
-    birth_year,
-    franchiseID,
-    nhl_data,
-    "playoff",
-    "SC",
-    "playoff",
-    "F"
-  );
-  return { total_games, total_wins, win_rate, ch_wins, ch_apps };
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "hockey",
+      "NHL",
+      birth_year,
+      franchiseID,
+      nhl_data,
+      "playoff",
+      "SC",
+      "playoff",
+      "F"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
 };

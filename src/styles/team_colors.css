@@ -8,6 +8,32 @@
   font-weight: bold !important;
 }
 
+#bbl_team_options #Adelaide_Strikers {
+  background-color: #004e92;
+}
+#bbl_team_options #Brisbane_Heat {
+  background-color: #00a3ad;
+}
+#bbl_team_options #Hobart_Hurricanes {
+  background-color: #5f259f;
+}
+#bbl_team_options #Melbourne_Renegades {
+  background-color: #e3002a;
+}
+#bbl_team_options #Melbourne_Stars {
+  background-color: #009245;
+}
+#bbl_team_options #Perth_Scorchers {
+  background-color: #ce661e;
+}
+#bbl_team_options #Sydney_Sixers {
+  background-color: #ea008a;
+}
+#bbl_team_options #Sydney_Thunder {
+  color: #000000;
+  background-color: #97d700;
+}
+
 #bundesliga_team_options #Arminia {
   background-color: #004e95;
 }
@@ -370,7 +396,7 @@
 #ligue1_team_options #Monaco {
   background-color: #e51b22;
 }
-#ligue1_team_options #Montepellier {
+#ligue1_team_options #Montpellier {
   background-color: #344575;
 }
 #ligue1_team_options #Nantes {
@@ -406,8 +432,8 @@
   background-color: #ce1141;
 }
 #mlb_team_options #BAL {
-  color: #df4601;
-  background-color: #000000;
+  color: #000000;
+  background-color: #df4601;
 }
 #mlb_team_options #BOS {
   background-color: #0c2340;
