@@ -1,5 +1,5 @@
 // Functions used in multiple pages
-import "../styles/main.css";
+import "../styles/main.scss";
 
 // Misc. Vars
 export const data_year = 2022;

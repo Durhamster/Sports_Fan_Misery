@@ -33,6 +33,7 @@ autocomplete="off">
   <option class="team_selection" id="PHI" value="PHI">Philadelphia Flyers</option>
   <option class="team_selection" id="PIT" value="PIT">Pittsburgh Penguins</option>
   <option class="team_selection" id="SJS" value="SJS">San Jose Sharks</option>
+  <option class="team_selection" id="SEA" value="SEA">Seattle Kraken</option>
   <option class="team_selection" id="STL" value="STL">St. Louis Blues</option>
   <option class="team_selection" id="TBL" value="TBL">Tampa Bay Lightning</option>
   <option class="team_selection" id="TOR" value="TOR">Toronto Maple Leafs</option>

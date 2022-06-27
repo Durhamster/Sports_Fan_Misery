@@ -17,8 +17,8 @@ import nwsl_url from "./img/nwsl.png";
 import serie_a_url from "./img/serie_a.png";
 import wnba_url from "./img/wnba.png";
 // styles
-import "./styles/misery.css";
-import "./styles/team_colors.css";
+import "./styles/misery.scss";
+import "./styles/team_colors.scss";
 // components
 import {
   currentYear,

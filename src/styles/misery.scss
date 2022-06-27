@@ -108,8 +108,6 @@ select {
 }
 
 #sports_selection {
-  margin-left: auto;
-  margin-right: auto;
 
   li {
     display: inline-block;
@@ -155,7 +153,6 @@ select {
   label img {
     height: 100px;
     width: 150px;
-    // margin-right: 1em;
     transition-duration: 0.2s;
     transform-origin: 50% 50%;
     border: 2px solid rgb(158, 158, 158);

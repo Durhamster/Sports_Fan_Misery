@@ -1,7 +1,7 @@
 // imgs
 import flowchart_url from "./img/flowchart.jpg";
 // styles
-import "./styles/about.css";
+import "./styles/about.scss";
 // components
 import {
   footer,
