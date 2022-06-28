@@ -30,6 +30,7 @@ export const misery_calculation = function (
     "San Francisco Giants",
     // MLS
     "Los Angeles Galaxy",
+    "New York City FC",
     // NBA
     "Los Angles Lakers",
     "Golden State Warriors",
@@ -89,7 +90,7 @@ export const misery_calculation = function (
       " Good luck buddy, you and your team(s) are gonna need it.</p>";
   }
   // Once a Decade Dan
-  else if (ch_wins >= 2 && time_per_ch >= 10 && time_per_ch <= 12) {
+  else if (ch_wins >= 2 && time_per_ch > 10 && time_per_ch < 13) {
     var misery_level =
       "<h2>Misery Level: Once a Decade Dan/Danielle</h2><p>About once every decade your team(s) bring one home." +
       " You savor those moments because you know the next time you get that feeling, the world will be a different place." +
@@ -97,7 +98,7 @@ export const misery_calculation = function (
       " All he gets misery year after year, with a little false hope sprinkled in every once in awhile. You're not him. Good for you. 👍</p>";
   }
   // The Patient One
-  else if (ch_wins >= 2 && time_per_ch >= 13 && time_per_ch <= 21) {
+  else if (ch_wins >= 2 && time_per_ch >= 13 && time_per_ch < 22) {
     var misery_level =
       "<h2>Misery Level: The Patient One</h2><p>About once every other decade your team(s) bring one home." +
       " You savor those moments because you know the next time you get that feeling may not be until your toddler is putting you in debt with their college tuition" +
@@ -106,7 +107,7 @@ export const misery_calculation = function (
       " Here's to you oh loyal fan. </p>";
   }
   // The One Realizing It's Not a Phase
-  else if (ch_wins >= 2 && time_per_ch >= 22 && time_per_ch <= 50) {
+  else if (ch_wins >= 2 && time_per_ch >= 22 && time_per_ch <= 65) {
     var misery_level =
       "<h2>Misery Level: The One Realizing Your Team(s) Bad Luck isn't 'Just a Phase'</h2><p>About once every quarter century or so your team(s) bring one home." +
       "Your team(s) are the ones who will spend everything they have on one season, once every few years, only to blow it, sell off all the good players," +
@@ -115,7 +116,7 @@ export const misery_calculation = function (
       " enough to pay off all the debts and time spent since the last big win.</p>";
   }
   // Moderately Happy
-  else if (ch_wins >= 2 && time_per_ch >= 5 && time_per_ch <= 9) {
+  else if (ch_wins >= 2 && time_per_ch >= 5 && time_per_ch <= 10) {
     var misery_level =
       "<h2>Misery Level: Moderately Happy</h2><p>About once every 5-7 years your team(s) bring one home." +
       " They're not the best, but they're relatively dependable." +
@@ -124,7 +125,7 @@ export const misery_calculation = function (
       " Sports misery is often a factor, along with quality of schools, that good parents consider when they settle down and raise a family.</p>";
   }
   // Happy Sports Fan
-  else if (ch_wins >= 2 && time_per_ch >= 0 && time_per_ch <= 4) {
+  else if (ch_wins >= 2 && time_per_ch >= 0 && time_per_ch < 5) {
     var misery_level =
       "<h2>Misery Level: The Happy Sports Fan</h2><p>The time you spend waiting for one of your team(s) to bring home the big one are few and far between." +
       " Your friends and other fans see you as spoiled, but you know they're jealous. The secret isn't that you're a band wagon fan. The secret to their success" +
