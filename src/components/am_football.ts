@@ -55,7 +55,7 @@ export const nfl_dropdown = `<select
   <option class="team_selection" id="NYJ" value="NYJ">New York Jets</option>
   <option class="team_selection" id="PHI" value="PHI">Philadelphia Eagles</option>
   <option class="team_selection" id="PIT" value="PIT">Pittsburgh Steelers</option>
-  <option class="team_selection" id="SFC" value="SFC">San Francisco 49ners</option>
+  <option class="team_selection" id="SFC" value="SFC">San Francisco 49ers</option>
   <option class="team_selection" id="SEA" value="SEA">Seattle Seahawks</option>
   <option class="team_selection" id="TBB" value="TBB">Tampa Bay Buccaneers</option>
   <option class="team_selection" id="TEN" value="TEN">Tennessee Titans</option>

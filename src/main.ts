@@ -163,12 +163,13 @@ main_app.innerHTML =
 misery_calc.innerHTML =
   `
     <p>
+    Enter the year you were born:
     <input
     name="birth_year"
     maxlength="4"
     id="birth_year"
     />
-    <button id="submit_btn">Find out how miserable you are!</button>` +
+    </p><p><button id="submit_btn">Find out how miserable you are!</button></p>` +
   result_sentences +
   `</p>
 `;
@@ -281,7 +282,7 @@ const sports_check = function () {
       sports_selection_div.style.display = "none";
       // Checks which sports have been selected & produces correct dropdown menus
 
-      let misery_div_items = `<p>Select your team(s) and the year you were born</p>`;
+      let misery_div_items = `<p>Select your team(s)</p>`;
 
       if (checked_sports.includes("bbl")) {
         misery_div_items = misery_div_items + bbl_dropdown;
