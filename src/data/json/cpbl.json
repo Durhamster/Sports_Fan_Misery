@@ -1,0 +1,1562 @@
+[
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1990,
+    "W": 52,
+    "L": 34,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1990,
+    "W": 47,
+    "L": 38,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1990,
+    "W": 37,
+    "L": 49,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1990,
+    "W": 34,
+    "L": 49,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1991,
+    "W": 46,
+    "L": 36,
+    "T": 8,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1991,
+    "W": 35,
+    "L": 46,
+    "T": 9,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1991,
+    "W": 46,
+    "L": 34,
+    "T": 10,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1991,
+    "W": 38,
+    "L": 49,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1992,
+    "W": 41,
+    "L": 42,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1992,
+    "W": 36,
+    "L": 47,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1992,
+    "W": 41,
+    "L": 45,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1992,
+    "W": 51,
+    "L": 35,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1993,
+    "W": 48,
+    "L": 40,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1993,
+    "W": 33,
+    "L": 54,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1993,
+    "W": 54,
+    "L": 34,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1993,
+    "W": 52,
+    "L": 36,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "EAG",
+    "name": "China Times Eagles",
+    "yearID": 1993,
+    "W": 36,
+    "L": 52,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Jungo Bears",
+    "yearID": 1993,
+    "W": 40,
+    "L": 47,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1994,
+    "W": 36,
+    "L": 52,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1994,
+    "W": 40,
+    "L": 47,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1994,
+    "W": 48,
+    "L": 38,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1994,
+    "W": 64,
+    "L": 24,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "EAG",
+    "name": "China Times Eagles",
+    "yearID": 1994,
+    "W": 46,
+    "L": 43,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Jungo Bears",
+    "yearID": 1994,
+    "W": 29,
+    "L": 59,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1995,
+    "W": 47,
+    "L": 52,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1995,
+    "W": 49,
+    "L": 48,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1995,
+    "W": 62,
+    "L": 36,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1995,
+    "W": 48,
+    "L": 51,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "EAG",
+    "name": "China Times Eagles",
+    "yearID": 1995,
+    "W": 49,
+    "L": 50,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Jungo Bears",
+    "yearID": 1995,
+    "W": 40,
+    "L": 58,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1996,
+    "W": 60,
+    "L": 37,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "EAG",
+    "name": "China Times Eagles",
+    "yearID": 1996,
+    "W": 56,
+    "L": 41,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1996,
+    "W": 55,
+    "L": 43,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1996,
+    "W": 52,
+    "L": 43,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1996,
+    "W": 39,
+    "L": 57,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 1996,
+    "W": 28,
+    "L": 69,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1997,
+    "W": 58,
+    "L": 31,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1997,
+    "W": 46,
+    "L": 44,
+    "T": 6,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1997,
+    "W": 45,
+    "L": 44,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1997,
+    "W": 46,
+    "L": 46,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 1997,
+    "W": 45,
+    "L": 48,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "EAG",
+    "name": "China Times Eagles",
+    "yearID": 1997,
+    "W": 41,
+    "L": 51,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 1997,
+    "W": 39,
+    "L": 56,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 1998,
+    "W": 58,
+    "L": 45,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1998,
+    "W": 57,
+    "L": 45,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1998,
+    "W": 56,
+    "L": 48,
+    "T": 1,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 1998,
+    "W": 54,
+    "L": 49,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1998,
+    "W": 50,
+    "L": 52,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1998,
+    "W": 33,
+    "L": 69,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 1999,
+    "W": 60,
+    "L": 29,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 1999,
+    "W": 56,
+    "L": 37,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 1999,
+    "W": 49,
+    "L": 39,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "TIG",
+    "name": "Mercuries Tigers",
+    "yearID": 1999,
+    "W": 39,
+    "L": 52,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 1999,
+    "W": 37,
+    "L": 53,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 1999,
+    "W": 30,
+    "L": 61,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2000,
+    "W": 51,
+    "L": 38,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2000,
+    "W": 44,
+    "L": 43,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2000,
+    "W": 41,
+    "L": 45,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2000,
+    "W": 38,
+    "L": 48,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2001,
+    "W": 49,
+    "L": 37,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2001,
+    "W": 44,
+    "L": 39,
+    "T": 7,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2001,
+    "W": 45,
+    "L": 45,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2001,
+    "W": 34,
+    "L": 51,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2002,
+    "W": 53,
+    "L": 33,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2002,
+    "W": 45,
+    "L": 42,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2002,
+    "W": 44,
+    "L": 45,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2002,
+    "W": 32,
+    "L": 54,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2003,
+    "W": 63,
+    "L": 31,
+    "T": 6,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2003,
+    "W": 62,
+    "L": 32,
+    "T": 6,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2003,
+    "W": 54,
+    "L": 39,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2003,
+    "W": 51,
+    "L": 43,
+    "T": 6,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "Macoto Gida",
+    "yearID": 2003,
+    "W": 30,
+    "L": 64,
+    "T": 6,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "First Financial Holdings Agan",
+    "yearID": 2003,
+    "W": 20,
+    "L": 71,
+    "T": 9,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2004,
+    "W": 54,
+    "L": 40,
+    "T": 6,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2004,
+    "W": 52,
+    "L": 43,
+    "T": 5,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2004,
+    "W": 54,
+    "L": 45,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2004,
+    "W": 45,
+    "L": 50,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "Macoto Cobras",
+    "yearID": 2004,
+    "W": 43,
+    "L": 54,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2004,
+    "W": 40,
+    "L": 56,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2005,
+    "W": 53,
+    "L": 42,
+    "T": 6,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "Macoto Cobras",
+    "yearID": 2005,
+    "W": 50,
+    "L": 43,
+    "T": 8,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2005,
+    "W": 48,
+    "L": 49,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2005,
+    "W": 47,
+    "L": 49,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2005,
+    "W": 47,
+    "L": 49,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2005,
+    "W": 42,
+    "L": 55,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2006,
+    "W": 62,
+    "L": 34,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2006,
+    "W": 48,
+    "L": 45,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2006,
+    "W": 48,
+    "L": 49,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "Macoto Cobras",
+    "yearID": 2006,
+    "W": 48,
+    "L": 50,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2006,
+    "W": 42,
+    "L": 51,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2006,
+    "W": 40,
+    "L": 59,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2007,
+    "W": 58,
+    "L": 41,
+    "T": 1,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2007,
+    "W": 58,
+    "L": 42,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2007,
+    "W": 49,
+    "L": 50,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2007,
+    "W": 46,
+    "L": 52,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "Macoto Cobras",
+    "yearID": 2007,
+    "W": 44,
+    "L": 55,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2007,
+    "W": 42,
+    "L": 57,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2008,
+    "W": 67,
+    "L": 33,
+    "T": 0,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2008,
+    "W": 61,
+    "L": 35,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2008,
+    "W": 52,
+    "L": 42,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "WHA",
+    "name": "Chinatrust Wales",
+    "yearID": 2008,
+    "W": 39,
+    "L": 61,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "GID",
+    "name": "dMedia T-Rex",
+    "yearID": 2008,
+    "W": 37,
+    "L": 60,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2008,
+    "W": 37,
+    "L": 62,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2009,
+    "W": 63,
+    "L": 54,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2009,
+    "W": 61,
+    "L": 58,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2009,
+    "W": 57,
+    "L": 60,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2009,
+    "W": 54,
+    "L": 63,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2010,
+    "W": 65,
+    "L": 53,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2010,
+    "W": 61,
+    "L": 57,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "La New Bears",
+    "yearID": 2010,
+    "W": 55,
+    "L": 62,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2010,
+    "W": 54,
+    "L": 63,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2011,
+    "W": 66,
+    "L": 52,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2011,
+    "W": 65,
+    "L": 52,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2011,
+    "W": 60,
+    "L": 60,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2011,
+    "W": 45,
+    "L": 72,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2012,
+    "W": 71,
+    "L": 48,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2012,
+    "W": 66,
+    "L": 52,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2012,
+    "W": 60,
+    "L": 58,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Sinon Bulls",
+    "yearID": 2012,
+    "W": 38,
+    "L": 77,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2013,
+    "W": 62,
+    "L": 55,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "EDA Rhinos",
+    "yearID": 2013,
+    "W": 62,
+    "L": 57,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2013,
+    "W": 58,
+    "L": 60,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Brother Elephants",
+    "yearID": 2013,
+    "W": 55,
+    "L": 65,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2014,
+    "W": 66,
+    "L": 51,
+    "T": 3,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2014,
+    "W": 58,
+    "L": 55,
+    "T": 7,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "EDA Rhinos",
+    "yearID": 2014,
+    "W": 58,
+    "L": 60,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2014,
+    "W": 50,
+    "L": 66,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2015,
+    "W": 68,
+    "L": 52,
+    "T": 0,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2015,
+    "W": 63,
+    "L": 56,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "EDA Rhinos",
+    "yearID": 2015,
+    "W": 58,
+    "L": 61,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2015,
+    "W": 49,
+    "L": 69,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2016,
+    "W": 68,
+    "L": 50,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "EDA Rhinos",
+    "yearID": 2016,
+    "W": 61,
+    "L": 58,
+    "T": 1,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2016,
+    "W": 55,
+    "L": 65,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2016,
+    "W": 53,
+    "L": 64,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2017,
+    "W": 78,
+    "L": 41,
+    "T": 1,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2017,
+    "W": 57,
+    "L": 61,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2017,
+    "W": 53,
+    "L": 64,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2017,
+    "W": 48,
+    "L": 70,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2018,
+    "W": 73,
+    "L": 47,
+    "T": 0,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2018,
+    "W": 64,
+    "L": 55,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2018,
+    "W": 54,
+    "L": 66,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2018,
+    "W": 48,
+    "L": 71,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2019,
+    "W": 63,
+    "L": 55,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Lamigo Monkeys",
+    "yearID": 2019,
+    "W": 63,
+    "L": 55,
+    "T": 2,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "Chinatrust Brothers",
+    "yearID": 2019,
+    "W": 62,
+    "L": 56,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2019,
+    "W": 48,
+    "L": 70,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "CTBC Brothers",
+    "yearID": 2020,
+    "W": 67,
+    "L": 51,
+    "T": 2,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "MON",
+    "name": "Rakuten Monkeys",
+    "yearID": 2020,
+    "W": 59,
+    "L": 61,
+    "T": 0,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2020,
+    "W": 58,
+    "L": 61,
+    "T": 1,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2020,
+    "W": 54,
+    "L": 65,
+    "T": 1,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "CTBC Brothers",
+    "yearID": 2021,
+    "W": 66,
+    "L": 49,
+    "T": 5,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2021,
+    "W": 64,
+    "L": 51,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "MON",
+    "name": "Rakuten Monkeys",
+    "yearID": 2021,
+    "W": 56,
+    "L": 61,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2021,
+    "W": 54,
+    "L": 62,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 2021,
+    "W": 50,
+    "L": 67,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  }
+]

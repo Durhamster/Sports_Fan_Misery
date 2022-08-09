@@ -1,0 +1,880 @@
+﻿franchID,City,Team,yearID,LG,Ord,G,W,L,T,Cwin,CRU
+SHR,Shochiku,Robins,1950,C,1,137,98,35,4,N,Y
+CDR,Chuncihi,Dragons,1950,C,2,137,89,44,4,N,N
+YMG,Yomiuri,Giants,1950,C,3,140,82,54,4,N,N
+HAN,Osaka,Tigers,1950,C,4,140,70,67,3,N,N
+YOK,Taiyo,Whales,1950,C,5,140,69,68,3,N,N
+NPR,Nishi Nippon,Pirates,1950,C,6,136,50,83,3,N,N
+TYS,Kokutetsu,Swallows,1950,C,7,138,42,94,2,N,N
+HIR,Hiroshima,Carp,1950,C,8,138,41,96,1,N,N
+CLM,Manichi,Orions,1950,P,1,120,81,34,5,Y,N
+FUK,Nankai,Hawks,1950,P,2,120,66,49,5,N,N
+DAI,Daiei,Stars,1950,P,3,120,62,54,4,N,N
+BUF,Hankyu,Braves,1950,P,4,120,54,64,2,N,N
+SSL,Nishitetsu,Clippers,1950,P,5,120,51,67,2,N,N
+HNF,Tokyo,Flyers,1950,P,6,120,51,69,0,N,N
+KIN,Kintetsu,Pearls,1950,P,7,120,44,72,4,N,N
+YMG,Yomiuri,Giants,1951,C,1,114,79,29,6,Y,N
+CDR,Nagoya,Dragons,1951,C,2,113,62,48,3,N,N
+HAN,Osaka,Tigers,1951,C,3,116,61,52,3,N,N
+SHR,Shochiku,Robins,1951,C,4,115,53,57,5,N,N
+TYS,Koketsu,Swallows,1951,C,5,107,46,59,2,N,N
+YOK,Taiyo,Whales,1951,C,6,108,40,64,4,N,N
+HIR,Hiroshima,Carp,1951,C,7,99,32,64,3,N,N
+FUK,Nankai,Hawks,1951,P,1,104,72,24,8,N,Y
+SSL,Nishitetsu,Lions,1951,P,2,105,53,42,10,N,N
+CLM,Manichi,Orions,1951,P,3,110,54,51,5,N,N
+DAI,Daiei,Stars,1951,P,4,101,41,52,8,N,N
+BUF,Hankyu,Braves,1951,P,5,96,37,51,8,N,N
+HNF,Tokyo,Flyers,1951,P,6,102,38,56,8,N,N
+KIN,Kintetsu,Pearls,1951,P,7,98,37,56,5,N,N
+YMG,Yomiuri,Giants,1952,C,1,120,83,37,0,Y,N
+HAN,Osaka,Tigers,1952,C,2,120,79,40,1,N,N
+CDR,Nagoya,Dragons,1952,C,3,120,75,43,2,N,N
+YOK,Taiyo,Whales,1952,C,4,120,58,62,0,N,N
+TYS,Koketsu,Swallows,1952,C,5,120,50,70,0,N,N
+HIR,Hiroshima,Carp,1952,C,6,120,37,80,3,N,N
+SHR,Shochiku,Robins,1952,C,7,120,34,84,2,N,N
+FUK,Nankai,Hawks,1952,P,1,121,76,44,1,N,Y
+CDR,Manichi,Dragons,1952,P,2,120,75,45,0,N,N
+SSL,Nishitetsu,Lions,1952,P,3,120,67,52,1,N,N
+DAI,Daiei,Stars,1952,P,4,121,55,65,1,N,N
+BUF,Hankyu,Braves,1952,P,5,108,49,58,1,N,N
+HNF,Tokyo,Flyers,1952,P,6,108,49,59,0,N,N
+KIN,Kintetsu,Pearls,1952,P,7,108,30,78,0,N,N
+YMG,Yomiuri,Giants,1953,C,1,125,87,37,1,Y,N
+HAN,Osaka,Tigers,1953,C,2,130,74,56,0,N,N
+CDR,Chuncihi,Dragons,1953,C,3,130,70,57,3,N,N
+HIR,Hiroshima,Carp,1953,C,4,130,53,75,2,N,N
+YOK,Taiyo,Robins,1953,C,5,130,52,77,1,N,N
+TYS,Kokutetsu,Swallows,1953,C,6,125,45,79,1,N,N
+FUK,Nankai,Hawks,1953,P,1,120,71,48,1,N,Y
+BUF,Hankyu,Braves,1953,P,2,120,67,52,1,N,N
+DAI,Daiei,Stars,1953,P,3,120,63,53,4,N,N
+SSL,Nishitetsu,Lions,1953,P,4,120,57,61,2,N,N
+CLM,Manichi,Orions,1953,P,5,120,56,62,2,N,N
+HNF,Tokyo,Flyers,1953,P,6,120,50,67,3,N,N
+KIN,Kintetsu,Pearls,1953,P,7,120,48,69,3,N,N
+CDR,Chuncihi,Dragons,1954,C,1,130,86,40,4,Y,N
+CDR,Yomiuri,Dragons,1954,C,2,130,82,47,1,N,N
+HAN,Osaka,Tigers,1954,C,3,130,71,57,2,N,N
+HIR,Hiroshima,Carp,1954,C,4,130,56,69,5,N,N
+TYS,Kokutetsu,Swallows,1954,C,5,130,55,73,2,N,N
+YMG,Yomiuri,Giants,1954,C,6,130,32,96,2,N,N
+SSL,Nishitetsu,Lions,1954,P,1,140,90,47,3,N,Y
+FUK,Nankai,Hawks,1954,P,2,140,91,49,0,N,N
+CLM,Manichi,Orions,1954,P,3,140,79,57,4,N,N
+KIN,Kintetsu,Pearls,1954,P,4,140,74,63,3,N,N
+BUF,Hankyu,Braves,1954,P,5,140,66,70,4,N,N
+TUN,Takahashi,Unions,1954,P,6,140,53,84,3,N,N
+HNF,Toei,Flyers,1954,P,7,140,52,86,2,N,N
+DAI,Daiei,Stars,1954,P,8,140,43,92,5,N,N
+YMG,Yomiuri,Giants,1955,C,1,130,92,37,1,Y,N
+HAN,Osaka,Tigers,1955,C,2,130,77,52,1,N,N
+CDR,Chuncihi,Dragons,1955,C,3,130,71,57,2,N,N
+HIR,Hiroshima,Carp,1955,C,4,130,58,70,2,N,N
+TYS,Kokutetsu,Swallows,1955,C,5,130,57,71,2,N,N
+YOK,Taiyo,Whales,1955,C,6,130,31,99,0,N,N
+FUK,Nankai,Hawks,1955,P,1,143,99,41,3,N,Y
+SSL,Nishitetsu,Lions,1955,P,2,144,90,50,4,N,N
+CLM,Manichi,Orions,1955,P,3,142,85,55,2,N,N
+BUF,Hankyu,Braves,1955,P,4,142,80,60,2,N,N
+KIN,Kintetsu,Pearls,1955,P,5,142,60,80,2,N,N
+DAI,Daiei,Stars,1955,P,6,141,53,87,1,N,N
+HNF,Toei,Flyers,1955,P,7,143,51,89,3,N,N
+TUN,Tombo,Unions,1955,P,8,141,42,98,1,N,N
+YMG,Yomiuri,Giants,1956,C,1,130,82,44,4,N,Y
+HAN,Osaka,Tigers,1956,C,2,130,79,50,1,N,N
+CDR,Chuncihi,Dragons,1956,C,3,130,74,56,0,N,N
+TYS,Kokutetsu,Swallows,1956,C,4,130,61,65,4,N,N
+HIR,Hiroshima,Carp,1956,C,5,130,45,82,3,N,N
+YOK,Taiyo,Whales,1956,C,6,130,43,87,0,N,N
+SSL,Nishitetsu,Lions,1956,P,1,154,96,51,7,Y,N
+FUK,Nankai,Hawks,1956,P,2,154,96,52,6,N,N
+BUF,Hankyu,Braves,1956,P,3,154,88,64,2,N,N
+CLM,Manichi,Orions,1956,P,4,154,84,66,4,N,N
+KIN,Kintetsu,Pearls,1956,P,5,154,68,82,4,N,N
+HNF,Toei,Flyers,1956,P,6,154,58,92,4,N,N
+DAI,Daiei,Stars,1956,P,7,154,57,94,3,N,N
+TUN,Takahashi,Unions,1956,P,8,154,52,98,4,N,N
+YMG,Yomiuri,Giants,1957,C,1,130,74,53,3,N,Y
+HAN,Osaka,Tigers,1957,C,2,130,73,54,3,N,N
+CDR,Chuncihi,Dragons,1957,C,3,130,70,57,3,N,N
+TYS,Kokutetsu,Swallows,1957,C,4,130,58,68,4,N,N
+HIR,Hiroshima,Carp,1957,C,5,130,54,75,1,N,N
+YOK,Taiyo,Whales,1957,C,6,130,52,74,4,N,N
+SSL,Nishitetsu,Lions,1957,P,1,132,83,44,5,Y,N
+FUK,Nankai,Hawks,1957,P,2,132,78,53,1,N,N
+CLM,Manichi,Orions,1957,P,3,132,75,52,5,N,N
+BUF,Hankyu,Braves,1957,P,4,132,71,55,6,N,N
+HNF,Toei,Flyers,1957,P,5,132,56,73,3,N,N
+KIN,Kintetsu,Pearls,1957,P,6,132,44,82,6,N,N
+DAI,Daiei,Unions,1957,P,7,132,41,89,2,N,N
+YMG,Yomiuri,Giants,1958,C,1,130,77,52,1,N,Y
+HAN,Osaka,Tigers,1958,C,2,130,72,58,0,N,N
+CDR,Chuncihi,Dragons,1958,C,3,130,66,59,5,N,N
+TYS,Kokutetsu,Swallows,1958,C,4,130,58,68,4,N,N
+HIR,Hiroshima,Carp,1958,C,5,130,54,68,8,N,N
+YOK,Taiyo,Whales,1958,C,6,130,51,73,6,N,N
+SSL,Nishitetsu,Lions,1958,P,1,130,78,47,5,Y,N
+FUK,Nankai,Hawks,1958,P,2,130,77,48,5,N,N
+BUF,Hankyu,Braves,1958,P,3,130,73,51,6,N,N
+CLM,Daimai,Orions,1958,P,4,130,62,63,5,N,N
+HNF,Toei,Flyers,1958,P,5,130,57,70,3,N,N
+KIN,Kintetsu,Pearls,1958,P,6,130,29,97,4,N,N
+YMG,Yomiuri,Giants,1959,C,1,130,77,48,5,N,Y
+HAN,Osaka,Tigers,1959,C,2,130,62,59,9,N,N
+CDR,Chuncihi,Dragons,1959,C,3,130,64,61,5,N,N
+TYS,Kokutetsu,Swallows,1959,C,4,130,63,65,2,N,N
+HIR,Hiroshima,Carp,1959,C,5,130,59,64,7,N,N
+YOK,Taiyo,Whales,1959,C,6,130,49,77,4,N,N
+FUK,Nankai,Hawks,1959,P,1,134,88,42,4,Y,N
+CLM,Daimai,Orions,1959,P,2,136,82,48,6,N,N
+HNF,Toei,Flyers,1959,P,3,135,67,63,5,N,N
+SSL,Nishitetsu,Lions,1959,P,4,144,66,64,14,N,N
+BUF,Hankyu,Braves,1959,P,5,134,48,82,4,N,N
+KIN,Kintetsu,Buffaloes,1959,P,6,133,39,91,3,N,N
+YOK,Taiyo,Whales,1960,C,1,130,70,56,4,Y,N
+YMG,Yomiuri,Giants,1960,C,2,130,66,61,3,N,N
+HAN,Osaka,Tigers,1960,C,3,130,64,62,4,N,N
+HIR,Hiroshima,Carp,1960,C,4,130,62,61,7,N,N
+CDR,Chuncihi,Dragons,1960,C,5,130,63,67,0,N,N
+TYS,Kokutetsu,Swallows,1960,C,6,130,54,72,4,N,N
+CLM,Daimai,Orions,1960,P,1,133,82,48,3,N,Y
+FUK,Nankai,Hawks,1960,P,2,136,78,52,6,N,N
+SSL,Nishitetsu,Lions,1960,P,3,136,70,60,6,N,N
+BUF,Hankyu,Braves,1960,P,4,136,65,65,6,N,N
+HNF,Toei,Flyers,1960,P,5,132,52,78,2,N,N
+KIN,Kintetsu,Buffaloes,1960,P,6,131,43,87,1,N,N
+YMG,Yomiuri,Giants,1961,C,1,130,71,53,6,Y,N
+CDR,Chuncihi,Dragons,1961,C,2,130,72,56,2,N,N
+TYS,Kokuke,Swallows,1961,C,3,130,67,60,3,N,N
+HAN,Hanshin,Tigers,1961,C,4,130,60,67,3,N,N
+HIR,Hiroshima,Carp,1961,C,5,130,58,67,5,N,N
+YOK,Taiyo,Whales,1961,C,6,130,50,75,5,N,N
+FUK,Nankai,Hawks,1961,P,1,140,85,49,6,N,Y
+HNF,Toei,Flyers,1961,P,2,140,83,52,5,N,N
+SSL,Nishitetsu,Lions,1961,P,3,140,81,56,3,N,N
+CLM,Daimai,Orions,1961,P,4,140,72,66,2,N,N
+BUF,Hankyu,Braves,1961,P,5,140,53,84,3,N,N
+KIN,Kintetsu,Buffaloes,1961,P,6,140,36,103,1,N,N
+HAN,Hanshin,Tigers,1962,C,1,133,75,55,3,N,Y
+YOK,Taiyo,Whales,1962,C,2,134,71,59,4,N,N
+CDR,Chuncihi,Dragons,1962,C,3,133,70,60,3,N,N
+YMG,Yomiuri,Giants,1962,C,4,134,67,63,4,N,N
+HIR,Hiroshima,Carp,1962,C,5,134,56,74,4,N,N
+TYS,Kokutetsu,Swallows,1962,C,6,134,51,79,4,N,N
+HNF,Toei,Flyers,1962,P,1,133,78,52,3,Y,N
+FUK,Nankai,Hawks,1962,P,2,133,73,57,3,N,N
+SSL,Nishitetsu,Lions,1962,P,3,136,62,68,6,N,N
+CLM,Daimai,Orions,1962,P,4,132,60,70,2,N,N
+BUF,Hankyu,Braves,1962,P,5,131,60,70,1,N,N
+KIN,Kintetsu,Buffaloes,1962,P,6,131,57,73,1,N,N
+YMG,Yomiuri,Giants,1963,C,1,140,83,55,2,Y,N
+CDR,Chuncihi,Dragons,1963,C,2,140,80,57,3,N,N
+HAN,Hanshin,Tigers,1963,C,3,140,69,70,1,N,N
+TYS,Kokutetsu,Swallows,1963,C,4,140,65,73,2,N,N
+YOK,Taiyo,Whales,1963,C,5,140,59,79,2,N,N
+HIR,Hiroshima,Carp,1963,C,6,140,58,80,2,N,N
+SSL,Nishitetsu,Lions,1963,P,1,150,86,60,4,N,Y
+FUK,Nankai,Hawks,1963,P,2,150,85,61,4,N,N
+HNF,Toei,Flyers,1963,P,3,150,76,71,3,N,N
+KIN,Kintetsu,Buffaloes,1963,P,4,150,74,73,3,N,N
+CLM,Daimai,Orions,1963,P,5,150,64,85,1,N,N
+BUF,Hankyu,Braves,1963,P,6,150,57,92,1,N,N
+HAN,Hanshin,Tigers,1964,C,1,140,80,56,4,N,Y
+YOK,Taiyo,Whales,1964,C,2,140,80,58,2,N,N
+YMG,Yomiuri,Giants,1964,C,3,140,71,69,0,N,N
+HIR,Hiroshima,Carp,1964,C,4,140,64,73,3,N,N
+TYS,Kokutetsu,Swallows,1964,C,5,140,61,74,5,N,N
+CDR,Chuncihi,Dragons,1964,C,6,140,57,83,0,N,N
+FUK,Nankai,Hawks,1964,P,1,150,84,63,3,Y,N
+BUF,Hankyu,Braves,1964,P,2,150,79,65,6,N,N
+HNF,Toei,Flyers,1964,P,3,150,78,68,4,N,N
+CLM,Tokyo,Orions,1964,P,4,150,77,68,5,N,N
+SSL,Nishitetsu,Lions,1964,P,5,150,63,81,6,N,N
+KIN,Kintetsu,Buffaloes,1964,P,6,150,55,91,4,N,N
+YMG,Yomiuri,Giants,1965,C,1,140,91,47,2,Y,N
+CDR,Chuncihi,Dragons,1965,C,2,140,77,59,4,N,N
+HAN,Hanshin,Tigers,1965,C,3,140,71,66,3,N,N
+YOK,Taiyo,Whales,1965,C,4,140,68,70,2,N,N
+HIR,Hiroshima,Carp,1965,C,5,140,59,77,4,N,N
+TYS,Sankei,Swallows,1965,C,6,140,44,91,5,N,N
+FUK,Nankai,Hawks,1965,P,1,140,88,49,3,N,Y
+HNF,Toei,Flyers,1965,P,2,140,76,61,3,N,N
+SSL,Nishitetsu,Lions,1965,P,3,140,72,64,4,N,N
+BUF,Hankyu,Braves,1965,P,4,140,67,71,2,N,N
+CLM,Tokyo,Orions,1965,P,5,140,62,74,4,N,N
+KIN,Kintetsu,Buffaloes,1965,P,6,140,46,92,2,N,N
+YMG,Yomiuri,Giants,1966,C,1,134,89,41,4,Y,N
+CDR,Chuncihi,Dragons,1966,C,2,132,76,54,2,N,N
+HAN,Hanshin,Tigers,1966,C,3,135,64,66,5,N,N
+HIR,Hiroshima,Carp,1966,C,4,136,57,73,6,N,N
+YOK,Taiyo,Whales,1966,C,5,130,52,78,0,N,N
+TYS,Sankei,Atoms,1966,C,6,135,52,78,5,N,N
+FUK,Nankai,Hawks,1966,P,1,133,79,51,3,N,Y
+SSL,Nishitetsu,Lions,1966,P,2,138,75,55,8,N,N
+HNF,Toei,Flyers,1966,P,3,136,70,60,6,N,N
+CLM,Tokyo,Orions,1966,P,4,134,61,69,4,N,N
+BUF,Hankyu,Braves,1966,P,5,134,57,73,4,N,N
+KIN,Kintetsu,Buffaloes,1966,P,6,133,48,82,3,N,N
+YMG,Yomiuri,Giants,1967,C,1,134,84,46,4,Y,N
+CDR,Chuncihi,Dragons,1967,C,2,134,72,58,4,N,N
+HAN,Hanshin,Tigers,1967,C,3,136,70,60,6,N,N
+YOK,Taiyo,Whales,1967,C,4,135,59,71,5,N,N
+TYS,Sankei,Atoms,1967,C,5,135,58,72,5,N,N
+HIR,Hiroshima,Carp,1967,C,6,138,47,83,8,N,N
+BUF,Hankyu,Braves,1967,P,1,134,75,55,4,N,Y
+SSL,Nishitetsu,Lions,1967,P,2,140,66,64,10,N,N
+HNF,Toei,Flyers,1967,P,3,135,65,65,4,N,N
+FUK,Nankai,Hawks,1967,P,4,133,64,66,3,N,N
+CLM,Tokyo,Orions,1967,P,5,137,51,69,7,N,N
+KIN,Kintetsu,Buffaloes,1967,P,6,132,59,71,2,N,N
+YMG,Yomiuri,Giants,1968,C,1,134,77,53,4,Y,N
+HAN,Hanshin,Tigers,1968,C,2,133,72,58,3,N,N
+HIR,Hiroshima Toyo,Carp,1968,C,3,134,68,62,4,N,N
+TYS,Sankei,Atoms,1968,C,4,134,64,66,4,N,N
+YOK,Taiyo,Whales,1968,C,5,133,59,71,3,N,N
+CDR,Chuncihi,Dragons,1968,C,6,134,50,80,4,N,N
+BUF,Hankyu,Braves,1968,P,1,134,80,50,4,N,Y
+FUK,Nankai,Hawks,1968,P,2,136,79,51,6,N,N
+CLM,Tokyo,Orions,1968,P,3,139,67,63,9,N,N
+KIN,Kintetsu,Buffaloes,1968,P,4,135,57,73,5,N,N
+SSL,Nishitetsu,Lions,1968,P,5,133,56,74,3,N,N
+HNF,Toei,Flyers,1968,P,6,135,51,79,5,N,N
+YMG,Yomiuri,Giants,1969,C,1,130,73,51,6,Y,N
+HAN,Hanshin,Tigers,1969,C,2,130,68,59,3,N,N
+YOK,Taiyo,Whales,1969,C,3,130,61,61,8,N,N
+CDR,Chuncihi,Dragons,1969,C,4,130,59,65,6,N,N
+TYS,Sankei,Atoms,1969,C,5,130,58,69,3,N,N
+HIR,Hiroshima Toyo,Carp,1969,C,6,130,56,70,4,N,N
+BUF,Hankyu,Braves,1969,P,1,130,76,50,4,N,Y
+KIN,Kintetsu,Buffaloes,1969,P,2,130,73,51,6,N,N
+CLM,Lotte,Orions,1969,P,3,130,69,54,7,N,N
+HNF,Toei,Flyers,1969,P,4,130,57,70,3,N,N
+SSL,Nishitetsu,Lions,1969,P,5,130,51,75,4,N,N
+FUK,Nankai,Hawks,1969,P,6,130,50,76,4,N,N
+YMG,Yomiuri,Giants,1970,C,1,130,79,47,4,Y,N
+HAN,Hanshin,Tigers,1970,C,2,130,77,49,4,N,N
+YOK,Taiyo,Whales,1970,C,3,130,69,57,4,N,N
+HIR,Hiroshima Toyo,Carp,1970,C,4,130,62,60,8,N,N
+CDR,Chuncihi,Dragons,1970,C,5,130,55,70,5,N,N
+TYS,Yakult,Atoms,1970,C,6,130,33,92,5,N,N
+CLM,Lotte,Orions,1970,P,1,130,80,47,3,N,Y
+FUK,Nankai,Hawks,1970,P,2,130,69,57,4,N,N
+KIN,Kintetsu,Buffaloes,1970,P,3,130,65,59,6,N,N
+BUF,Hankyu,Braves,1970,P,4,130,64,64,2,N,N
+HNF,Toei,Flyers,1970,P,5,130,54,70,6,N,N
+SSL,Nishitetsu,Lions,1970,P,6,130,43,78,9,N,N
+YMG,Yomiuri,Giants,1971,C,1,130,70,52,8,Y,N
+CDR,Chuncihi,Dragons,1971,C,2,130,65,60,5,N,N
+YOK,Taiyo,Whales,1971,C,3,130,61,59,10,N,N
+HIR,Hiroshima Toyo,Carp,1971,C,4,130,63,61,6,N,N
+HAN,Hanshin,Tigers,1971,C,5,130,57,64,9,N,N
+TYS,Yakult,Atoms,1971,C,6,130,52,72,6,N,N
+BUF,Hankyu,Braves,1971,P,1,130,80,39,11,N,Y
+CLM,Lotte,Orions,1971,P,2,130,80,46,4,N,N
+KIN,Kintetsu,Buffaloes,1971,P,3,130,65,60,5,N,N
+FUK,Nankai,Hawks,1971,P,4,130,61,65,4,N,N
+HNF,Toei,Flyers,1971,P,5,130,44,74,12,N,N
+SSL,Nishitetsu,Lions,1971,P,6,130,38,84,8,N,N
+YMG,Yomiuri,Giants,1972,C,1,130,74,52,4,Y,N
+HAN,Hanshin,Tigers,1972,C,2,130,71,56,3,N,N
+CDR,Chuncihi,Dragons,1972,C,3,130,67,59,4,N,N
+TYS,Yakult,Atoms,1972,C,4,130,60,67,3,N,N
+YOK,Taiyo,Whales,1972,C,5,130,57,69,4,N,N
+HIR,Hiroshima Toyo,Carp,1972,C,6,130,49,75,6,N,N
+BUF,Hankyu,Braves,1972,P,1,130,80,48,2,N,Y
+KIN,Kintetsu,Buffaloes,1972,P,2,130,64,60,6,N,N
+FUK,Nankai,Hawks,1972,P,3,130,65,61,4,N,N
+HNF,Toei,Flyers,1972,P,4,130,63,61,6,N,N
+CLM,Lotte,Orions,1972,P,5,130,59,68,3,N,N
+SSL,Nishitetsu,Lions,1972,P,6,130,47,80,3,N,N
+YMG,Yomiuri,Giants,1973,C,1,130,66,60,4,Y,N
+HAN,Hanshin,Tigers,1973,C,2,130,64,59,7,N,N
+CDR,Chuncihi,Dragons,1973,C,3,130,64,61,5,N,N
+TYS,Yakult,Atoms,1973,C,4,130,62,65,3,N,N
+YOK,Taiyo,Whales,1973,C,5,130,60,64,6,N,N
+HIR,Hiroshima Toyo,Carp,1973,C,6,130,60,67,3,N,N
+FUK,Nankai,Hawks,1973,P,1,130,68,58,4,N,Y
+BUF,Hankyu,Braves,1973,P,2,130,77,48,5,N,N
+CLM,Lotte,Orions,1973,P,3,130,70,49,11,N,N
+SSL,Taiheiyo,Club Lions,1973,P,4,130,59,64,7,N,N
+HNF,Nitaku Home flyers,Flyers,1973,P,5,130,55,69,6,N,N
+KIN,Kintetsu,Buffaloes,1973,P,6,130,42,83,5,N,N
+CDR,Chuncihi,Dragons,1974,C,1,130,70,49,11,N,Y
+YMG,Yomiuri,Giants,1974,C,2,130,71,50,9,N,N
+TYS,Yakult,Swallows,1974,C,3,130,60,63,7,N,N
+HAN,Hanshin,Tigers,1974,C,4,130,57,64,9,N,N
+YOK,Taiyo,Whales,1974,C,5,130,55,69,6,N,N
+HIR,Hiroshima Toyo,Carp,1974,C,6,130,54,72,4,N,N
+CLM,Lotte,Orions,1974,P,1,130,69,50,11,Y,N
+BUF,Hankyu,Braves,1974,P,2,130,69,51,50,N,N
+FUK,Nankai,Hawks,1974,P,3,130,59,55,16,N,N
+SSL,Taiheiyo,Club Lions,1974,P,4,130,59,64,7,N,N
+KIN,Kintetsu,Buffaloes,1974,P,5,130,56,66,8,N,N
+HNF,Nippon Ham,Flyers,1974,P,6,130,49,75,6,N,N
+HIR,Hiroshima Toyo,Carp,1975,C,1,130,72,47,11,N,Y
+CDR,Chuncihi,Dragons,1975,C,2,130,69,53,8,N,N
+HAN,Hanshin,Tigers,1975,C,3,130,68,55,7,N,N
+TYS,Yakult,Swallows,1975,C,4,130,57,64,9,N,N
+YOK,Taiyo,Whales,1975,C,5,130,51,69,10,N,N
+YMG,Yomiuri,Giants,1975,C,6,130,47,76,7,N,N
+BUF,Hankyu,Braves,1975,P,1,130,64,59,7,Y,N
+KIN,Kintetsu,Buffaloes,1975,P,2,130,71,50,9,N,N
+SSL,Taiheiyo,Club Lions,1975,P,3,130,58,62,10,N,N
+CLM,Lotte,Orions,1975,P,4,130,59,65,6,N,N
+FUK,Nankai,Hawks,1975,P,5,130,57,65,8,N,N
+HNF,Nippon Ham,Fighters,1975,P,6,130,55,63,12,N,N
+YMG,Yomiuri,Giants,1976,C,1,130,76,45,9,N,Y
+HAN,Hanshin,Tigers,1976,C,2,130,72,45,13,N,N
+HIR,Hiroshima Toyo,Carp,1976,C,3,130,61,58,11,N,N
+CDR,Chuncihi,Dragons,1976,C,4,130,54,66,10,N,N
+TYS,Yakult,Swallows,1976,C,5,130,52,68,10,N,N
+YOK,Taiyo,Whales,1976,C,6,130,45,78,7,N,N
+BUF,Hankyu,Braves,1976,P,1,130,79,45,6,Y,N
+FUK,Nankai,Hawks,1976,P,2,130,71,56,3,N,N
+CLM,Lotte,Orions,1976,P,3,130,63,56,11,N,N
+KIN,Kintetsu,Buffaloes,1976,P,4,130,57,66,7,N,N
+HNF,Nippon Ham,Fighters,1976,P,5,130,52,67,11,N,N
+SSL,Taiheiyo,Club Lions,1976,P,6,130,44,76,10,N,N
+YMG,Yomiuri,Giants,1977,C,1,130,80,46,4,N,Y
+TYS,Yakult,Swallows,1977,C,2,130,62,58,10,N,N
+CDR,Chuncihi,Dragons,1977,C,3,130,64,61,5,N,N
+HAN,Hanshin,Tigers,1977,C,4,130,55,63,12,N,N
+HIR,Hiroshima Toyo,Carp,1977,C,5,130,51,67,12,N,N
+YOK,Taiyo,Whales,1977,C,6,130,51,68,11,N,N
+KIN,Hankyu,Braves,1977,P,1,130,69,51,10,Y,N
+FUK,Nankai,Hawks,1977,P,2,130,63,55,12,N,N
+CLM,Lotte,Orions,1977,P,3,130,60,57,13,N,N
+KIN,Kintetsu,Buffaloes,1977,P,4,130,59,61,10,N,N
+HNF,Nippon Ham,Fighters,1977,P,5,130,58,61,11,N,N
+SSL,Crown Lighter,Lions,1977,P,6,130,49,73,8,N,N
+TYS,Yakult,Swallows,1978,C,1,130,58,46,16,Y,N
+YMG,Yomiuri,Giants,1978,C,2,130,65,49,16,N,N
+HIR,Hiroshima Toyo,Carp,1978,C,3,130,62,50,18,N,N
+YOK,Yokohoma Taiyo,Whales,1978,C,4,130,64,57,9,N,N
+CDR,Chuncihi,Dragons,1978,C,5,130,53,71,6,N,N
+HAN,Hanshin,Tigers,1978,C,6,130,41,80,9,N,N
+BUF,Hankyu,Braves,1978,P,1,130,82,39,9,N,Y
+KIN,Kintetsu,Buffaloes,1978,P,2,130,71,46,13,N,N
+HNF,Nippon Ham,Fighters,1978,P,3,130,55,63,12,N,N
+CLM,Lotte,Orions,1978,P,4,130,53,62,15,N,N
+SSL,Crown Lighter,Lions,1978,P,5,130,51,67,12,N,N
+FUK,Nankai,Hawks,1978,P,6,130,42,77,11,N,N
+HIR,Hiroshima Toyo,Carp,1979,C,1,130,67,50,13,Y,N
+YOK,Yokohoma Taiyo,Whales,1979,C,2,130,59,54,17,N,N
+CDR,Chuncihi,Dragons,1979,C,3,130,59,57,14,N,N
+HAN,Hanshin,Tigers,1979,C,4,130,61,60,9,N,N
+YMG,Yomiuri,Giants,1979,C,5,130,58,62,10,N,N
+TYS,Yakult,Swallows,1979,C,6,130,48,69,13,N,N
+KIN,Kintetsu,Buffaloes,1979,P,1,130,74,45,11,N,Y
+BUF,Hankyu,Braves,1979,P,2,130,75,44,11,N,N
+HNF,Nippon Ham,Fighters,1979,P,3,130,63,60,7,N,N
+CLM,Lotte,Orions,1979,P,4,130,55,63,12,N,N
+FUK,Nankai,Hawks,1979,P,5,130,46,73,11,N,N
+SSL,Seibu,Lions,1979,P,6,130,45,73,12,N,N
+HIR,Hiroshima Toyo,Carp,1980,C,1,130,73,44,13,Y,N
+TYS,Yakult,Swallows,1980,C,2,130,68,52,10,N,N
+YMG,Yomiuri,Giants,1980,C,3,130,61,60,9,N,N
+YOK,Yokohoma Taiyo,Whales,1980,C,4,130,59,62,9,N,N
+HAN,Hanshin,Tigers,1980,C,5,130,54,66,10,N,N
+CDR,Chuncihi,Dragons,1980,C,6,130,45,76,9,N,N
+KIN,Kintetsu,Buffaloes,1980,P,1,130,68,54,8,N,Y
+CLM,Lotte,Orions,1980,P,2,130,64,51,15,N,N
+HNF,Nippon Ham,Fighters,1980,P,3,130,66,53,11,N,N
+SSL,Seibu,Lions,1980,P,4,130,62,64,4,N,N
+BUF,Hankyu,Braves,1980,P,5,130,58,67,5,N,N
+FUK,Nankai,Hawks,1980,P,6,130,48,77,5,N,N
+YMG,Yomiuri,Giants,1981,C,1,130,73,48,9,Y,N
+HIR,Hiroshima Toyo,Carp,1981,C,2,130,67,54,9,N,N
+HAN,Hanshin,Tigers,1981,C,3,130,67,58,5,N,N
+TYS,Yakult,Swallows,1981,C,4,130,56,58,16,N,N
+CDR,Chuncihi,Dragons,1981,C,5,130,58,65,7,N,N
+YOK,Yokohoma Taiyo,Whales,1981,C,6,130,42,80,8,N,N
+HNF,Nippon Ham,Fighters,1981,P,1,130,68,54,8,N,Y
+BUF,Hankyu,Braves,1981,P,2,130,68,58,4,N,N
+CLM,Lotte,Orions,1981,P,3,130,63,57,10,N,N
+SSL,Seibu,Lions,1981,P,4,130,61,61,8,N,N
+FUK,Nankai,Hawks,1981,P,5,130,53,65,12,N,N
+KIN,Kintetsu,Buffaloes,1981,P,6,130,54,72,4,N,N
+CDR,Chuncihi,Dragons,1982,C,1,130,64,47,19,N,Y
+YMG,Yomiuri,Giants,1982,C,2,130,66,50,14,N,N
+HAN,Hanshin,Tigers,1982,C,3,130,65,57,8,N,N
+HIR,Hiroshima Toyo,Carp,1982,C,4,130,59,58,13,N,N
+YOK,Yokohoma Taiyo,Whales,1982,C,5,130,53,65,12,N,N
+TYS,Yakult,Swallows,1982,C,6,130,45,75,10,N,N
+SSL,Seibu,Lions,1982,P,1,130,68,58,4,Y,N
+HNF,Nippon Ham,Fighters,1982,P,2,130,67,52,11,N,N
+KIN,Kintetsu,Buffaloes,1982,P,3,130,63,57,10,N,N
+BUF,Hankyu,Braves,1982,P,4,130,62,60,8,N,N
+CLM,Lotte,Orions,1982,P,5,130,54,69,7,N,N
+FUK,Nankai,Hawks,1982,P,6,130,53,71,6,N,N
+YMG,Yomiuri,Giants,1983,C,1,130,72,50,8,N,Y
+HIR,Hiroshima Toyo,Carp,1983,C,2,130,65,55,10,N,N
+YOK,Yokohoma Taiyo,Whales,1983,C,3,130,61,61,8,N,N
+HAN,Hanshin,Tigers,1983,C,4,130,62,63,5,N,N
+CDR,Chuncihi,Dragons,1983,C,5,130,54,69,7,N,N
+TYS,Yakult,Swallows,1983,C,6,130,53,69,8,N,N
+SSL,Seibu,Lions,1983,P,1,130,86,40,4,Y,N
+BUF,Hankyu,Braves,1983,P,2,130,67,55,8,N,N
+HNF,Nippon Ham,Fighters,1983,P,3,130,64,59,7,N,N
+KIN,Kintetsu,Buffaloes,1983,P,4,130,52,65,13,N,N
+FUK,Nankai,Hawks,1983,P,5,130,52,69,9,N,N
+CLM,Lotte,Orions,1983,P,6,130,43,76,11,N,N
+HIR,Hiroshima Toyo,Carp,1984,C,1,130,75,45,10,Y,N
+CDR,Chuncihi,Dragons,1984,C,2,130,73,49,8,N,N
+YMG,Yomiuri,Giants,1984,C,3,130,67,54,9,N,N
+HAN,Hanshin,Tigers,1984,C,4,130,53,69,8,N,N
+TYS,Yakult,Swallows,1984,C,5,130,51,71,8,N,N
+YOK,Yokohoma Taiyo,Whales,1984,C,6,130,46,77,7,N,N
+BUF,Hankyu,Braves,1984,P,1,130,75,45,40,N,Y
+CLM,Lotte,Orions,1984,P,2,130,64,51,15,N,N
+SSL,Seibu,Lions,1984,P,3,130,62,61,7,N,N
+KIN,Kintetsu,Buffaloes,1984,P,4,130,58,61,11,N,N
+FUK,Nankai,Hawks,1984,P,5,130,53,65,12,N,N
+HNF,Nippon Ham,Fighters,1984,P,6,130,44,73,13,N,N
+HAN,Hanshin,Tigers,1985,C,1,130,74,49,7,Y,N
+HIR,Hiroshima Toyo,Carp,1985,C,2,130,68,57,5,N,N
+YMG,Yomiuri,Giants,1985,C,3,130,61,60,9,N,N
+YOK,Yokohoma Taiyo,Whales,1985,C,4,130,57,61,12,N,N
+CDR,Chuncihi,Dragons,1985,C,5,130,56,61,13,N,N
+TYS,Yakult,Swallows,1985,C,6,130,46,74,10,N,N
+SSL,Seibu,Lions,1985,P,1,130,76,45,6,N,Y
+CLM,Lotte,Orions,1985,P,2,130,64,60,6,N,N
+KIN,Kintetsu,Buffaloes,1985,P,3,130,63,60,7,N,N
+BUF,Hankyu,Braves,1985,P,4,130,64,61,5,N,N
+HNF,Nippon Ham,Fighters,1985,P,5,130,53,65,12,N,N
+FUK,Nankai,Hawks,1985,P,6,130,44,76,10,N,N
+HIR,Hiroshima Toyo,Carp,1986,C,1,130,73,46,11,N,Y
+YMG,Yomiuri,Giants,1986,C,2,130,75,48,7,N,N
+HAN,Hanshin,Tigers,1986,C,3,130,60,60,10,N,N
+YOK,Yokohoma Taiyo,Whales,1986,C,4,130,59,69,5,N,N
+CDR,Chuncihi,Dragons,1986,C,5,130,54,67,9,N,N
+TYS,Yakult,Swallows,1986,C,6,130,49,77,4,N,N
+SSL,Seibu,Lions,1986,P,1,130,68,49,13,Y,N
+KIN,Kintetsu,Buffaloes,1986,P,2,130,66,52,12,N,N
+BUF,Hankyu,Braves,1986,P,3,130,63,57,10,N,N
+CLM,Lotte,Orions,1986,P,4,130,57,64,9,N,N
+HNF,Nippon Ham,Fighters,1986,P,5,130,57,65,8,N,N
+FUK,Nankai,Hawks,1986,P,6,130,49,73,8,N,N
+YMG,Yomiuri,Giants,1987,C,1,130,76,43,11,N,Y
+CDR,Chuncihi,Dragons,1987,C,2,130,68,51,11,N,N
+HIR,Hiroshima Toyo,Carp,1987,C,3,130,65,55,10,N,N
+TYS,Yakult,Swallows,1987,C,4,130,58,64,8,N,N
+YOK,Yokohoma Taiyo,Whales,1987,C,5,130,56,68,6,N,N
+HAN,Hanshin,Tigers,1987,C,6,130,41,83,6,N,N
+SSL,Seibu,Lions,1987,P,1,130,71,45,14,Y,N
+BUF,Hankyu,Braves,1987,P,2,130,64,56,10,N,N
+HNF,Nippon Ham,Fighters,1987,P,3,130,63,60,7,N,N
+FUK,Nankai,Hawks,1987,P,4,130,57,63,10,N,N
+CLM,Lotte,Orions,1987,P,5,130,51,65,14,N,N
+KIN,Kintetsu,Buffaloes,1987,P,6,130,52,69,9,N,N
+CDR,Chuncihi,Dragons,1988,C,1,130,79,46,5,N,Y
+YMG,Yomiuri,Giants,1988,C,2,130,68,59,3,N,N
+HIR,Hiroshima Toyo,Carp,1988,C,3,130,65,62,3,N,N
+YOK,Yokohoma Taiyo,Whales,1988,C,4,130,59,67,4,N,N
+TYS,Yakult,Swallows,1988,C,5,130,58,69,3,N,N
+HAN,Hanshin,Tigers,1988,C,6,130,51,77,2,N,N
+SSL,Seibu,Lions,1988,P,1,130,73,51,6,Y,N
+KIN,Kintetsu,Buffaloes,1988,P,2,130,74,52,4,N,N
+HNF,Nippon Ham,Fighters,1988,P,3,130,62,65,3,N,N
+BUF,Hankyu,Braves,1988,P,4,130,60,68,2,N,N
+FUK,Nankai,Hawks,1988,P,5,130,58,71,1,N,N
+CLM,Lotte,Orions,1988,P,6,130,54,74,2,N,N
+YMG,Yomiuri,Giants,1989,C,1,130,84,44,2,Y,N
+HIR,Hiroshima Toyo,Carp,1989,C,2,130,73,51,6,N,N
+CDR,Chuncihi,Dragons,1989,C,3,130,68,59,3,N,N
+TYS,Yakult,Swallows,1989,C,4,130,55,72,3,N,N
+HAN,Hanshin,Tigers,1989,C,5,130,54,75,1,N,N
+YOK,Yokohoma Taiyo,Whales,1989,C,6,130,47,80,3,N,N
+KIN,Kintetsu,Buffaloes,1989,P,1,130,71,54,5,N,Y
+BUF,Orix,Blue Wave,1989,P,2,130,72,55,3,N,N
+SSL,Seibu,Lions,1989,P,3,130,69,53,8,N,N
+FUK,Fukuoka Daiei,Hawks,1989,P,4,130,59,64,7,N,N
+HNF,Nippon Ham,Fighters,1989,P,5,130,54,73,3,N,N
+CLM,Lotte,Orions,1989,P,6,130,48,74,8,N,N
+YMG,Yomiuri,Giants,1990,C,1,130,88,42,0,N,Y
+HIR,Hiroshima Toyo,Carp,1990,C,2,132,66,64,2,N,N
+YOK,Yokohoma Taiyo,Whales,1990,C,3,133,64,66,3,N,N
+CDR,Chuncihi,Dragons,1990,C,4,131,62,68,1,N,N
+TYS,Yakult,Swallows,1990,C,5,130,58,72,0,N,N
+HAN,Hanshin,Tigers,1990,C,6,130,52,78,0,N,N
+SSL,Seibu,Lions,1990,P,1,130,81,45,4,Y,N
+BUF,Orix,Braves,1990,P,2,130,69,57,4,N,N
+KIN,Kintetsu,Buffaloes,1990,P,3,130,67,60,3,N,N
+HNF,Nippon Ham,Fighters,1990,P,4,130,66,63,1,N,N
+CLM,Lotte,Orions,1990,P,5,130,57,71,2,N,N
+FUK,Fukuoka Daiei,Hawks,1990,P,6,130,41,85,4,N,N
+HIR,Hiroshima Toyo,Carp,1991,C,1,132,74,56,2,N,Y
+CDR,Chuncihi,Dragons,1991,C,2,131,71,59,1,N,N
+TYS,Yakult,Swallows,1991,C,3,132,67,63,2,N,N
+YMG,Yomiuri,Giants,1991,C,4,130,66,64,0,N,N
+YOK,Yokohoma Taiyo,Whales,1991,C,5,131,64,66,1,N,N
+HAN,Hanshin,Tigers,1991,C,6,130,48,82,0,N,N
+SSL,Seibu,Lions,1991,P,1,130,81,43,6,Y,N
+KIN,Kintetsu,Buffaloes,1991,P,2,130,77,48,5,N,N
+BUF,Orix,Blue Wave,1991,P,3,130,64,63,3,N,N
+HNF,Nippon Ham,Fighters,1991,P,4,130,53,72,5,N,N
+FUK,Fukuoka Daiei,Hawks,1991,P,5,130,53,73,4,N,N
+CLM,Lotte,Orions,1991,P,6,130,48,77,5,N,N
+TYS,Yakult,Swallows,1992,C,1,131,69,61,1,N,Y
+YMG,Yomiuri,Giants,1992,C,2,130,67,63,0,N,N
+HAN,Hanshin,Tigers,1992,C,3,132,67,63,2,N,N
+HIR,Hiroshima Toyo,Carp,1992,C,4,130,66,64,0,N,N
+YOK,Yokohoma Taiyo,Whales,1992,C,5,131,61,69,1,N,N
+CDR,Chuncihi,Dragons,1992,C,6,130,60,70,0,N,N
+SSL,Seibu,Lions,1992,P,1,130,80,47,3,Y,N
+KIN,Kintetsu,Buffaloes,1992,P,2,130,74,50,6,N,N
+BUF,Orix,Blue Wave,1992,P,3,130,61,64,5,N,N
+FUK,Fukuoka Daiei,Hawks,1992,P,4,130,57,72,1,N,N
+HNF,Nippon Ham,Fighters,1992,P,5,130,54,73,3,N,N
+CLM,Chiba Lotte,Marines,1992,P,6,130,54,74,2,N,N
+TYS,Yakult,Swallows,1993,C,1,132,80,50,2,Y,N
+CDR,Chuncihi,Dragons,1993,C,2,132,73,57,2,N,N
+YMG,Yomiuri,Giants,1993,C,3,131,64,66,1,N,N
+HAN,Hanshin,Tigers,1993,C,4,132,63,67,2,N,N
+YOK,Yokohoma,Bay Stars,1993,C,5,130,57,73,0,N,N
+HIR,Hiroshima Toyo,Carp,1993,C,6,131,53,77,1,N,N
+SSL,Seibu,Lions,1993,P,1,130,74,53,3,N,Y
+HNF,Nippon Ham,Fighters,1993,P,2,130,71,52,7,N,N
+BUF,Orix,Blue Wave,1993,P,3,130,70,56,4,N,N
+KIN,Kintetsu,Buffaloes,1993,P,4,130,66,59,5,N,N
+CLM,Chiba Lotte,Marines,1993,P,5,130,51,77,2,N,N
+FUK,Fukuoka Daiei,Hawks,1993,P,6,130,45,80,5,N,N
+YMG,Yomiuri,Giants,1994,C,1,130,70,60,0,Y,N
+CDR,Chuncihi,Dragons,1994,C,2,130,69,61,0,N,N
+HIR,Hiroshima Toyo,Carp,1994,C,3,130,66,64,0,N,N
+TYS,Yakult,Swallows,1994,C,4,130,62,68,0,N,N
+HAN,Hanshin,Tigers,1994,C,5,130,62,68,0,N,N
+YOK,Yokohoma,Bay Stars,1994,C,6,130,61,69,0,N,N
+SSL,Seibu,Lions,1994,P,1,130,76,52,2,N,Y
+BUF,Orix,Blue Wave,1994,P,2,130,68,59,3,N,N
+KIN,Kintetsu,Buffaloes,1994,P,3,130,68,59,3,N,N
+FUK,Fukuoka Daiei,Hawks,1994,P,4,130,69,60,1,N,N
+CLM,Chiba Lotte,Marines,1994,P,5,130,55,73,2,N,N
+HNF,Nippon Ham,Fighters,1994,P,6,130,46,79,5,N,N
+TYS,Yakult,Swallows,1995,C,1,130,82,48,0,Y,N
+HIR,Hiroshima Toyo,Carp,1995,C,2,131,74,56,1,N,N
+YMG,Yomiuri,Giants,1995,C,3,131,72,58,1,N,N
+YOK,Yokohoma,Bay Stars,1995,C,4,130,66,64,0,N,N
+CDR,Chuncihi,Dragons,1995,C,5,130,50,80,0,N,N
+HAN,Hanshin,Tigers,1995,C,6,130,46,84,0,N,N
+BUF,Orix,Blue Wave,1995,P,1,130,82,47,1,N,Y
+CLM,Chiba Lotte,Marines,1995,P,2,130,69,58,3,N,N
+SSL,Seibu,Lions,1995,P,3,130,67,57,6,N,N
+HNF,Nippon Ham,Fighters,1995,P,4,130,59,68,3,N,N
+FUK,Fukuoka Daiei,Hawks,1995,P,5,130,54,72,4,N,N
+KIN,Kintetsu,Buffaloes,1995,P,6,130,49,78,3,N,N
+YMG,Yomiuri,Giants,1996,C,1,130,77,53,0,N,Y
+CDR,Chuncihi,Dragons,1996,C,2,130,72,58,0,N,N
+HIR,Hiroshima,Carp,1996,C,3,130,71,59,0,N,N
+TYS,Yakult,Swallows,1996,C,4,130,61,69,0,N,N
+YOK,Yokohoma,Bay Stars,1996,C,5,130,55,75,0,N,N
+HAN,Hanshin,Tigers,1996,C,6,130,54,76,0,N,N
+BUF,Orix,Blue Wave,1996,P,1,130,74,50,6,Y,N
+HNF,Nippon Ham,Fighters,1996,P,2,130,68,58,4,N,N
+SSL,Seibu,Lions,1996,P,3,130,62,64,4,N,N
+KIN,Kintetsu,Buffaloes,1996,P,4,130,62,67,1,N,N
+CLM,Lotte,Marines,1996,P,5,130,60,67,3,N,N
+FUK,Daiei,Hawks,1996,P,6,130,54,74,2,N,N
+TYS,Yakult,Swallows,1997,C,1,137,83,52,2,Y,N
+YOK,Yokohoma,Bay Stars,1997,C,2,135,72,63,0,N,N
+HIR,Hiroshima Toyo,Carp,1997,C,3,135,66,69,0,N,N
+YMG,Yomiuri,Giants,1997,C,4,135,63,72,0,N,N
+HAN,Hanshin,Tigers,1997,C,5,136,62,73,1,N,N
+CDR,Chuncihi,Dragons,1997,C,6,136,59,76,1,N,N
+SSL,Seibu,Lions,1997,P,1,135,76,56,3,N,Y
+BUF,Orix,Blue Wave,1997,P,2,135,71,61,3,N,N
+KIN,Kintetsu,Buffaloes,1997,P,3,135,68,63,4,N,N
+FUK,Fukuoka Daiei,Hawks,1997,P,4,135,63,71,1,N,N
+HNF,Nippon Ham,Fighters,1997,P,5,135,63,71,1,N,N
+CLM,Chiba Lotte,Marines,1997,P,6,135,57,76,2,N,N
+YOK,Yokohoma,Bay Stars,1998,C,1,136,79,56,1,Y,N
+CDR,Chuncihi,Dragons,1998,C,2,136,75,60,1,N,N
+YMG,Yomiuri,Giants,1998,C,3,135,73,62,0,N,N
+TYS,Yakult,Swallows,1998,C,4,135,66,69,0,N,N
+HIR,Hiroshima,Carp,1998,C,5,135,60,75,0,N,N
+HAN,Hanshin,Tigers,1998,C,6,135,52,83,0,N,N
+SSL,Seibu,Lions,1998,P,1,135,70,61,4,N,Y
+HNF,Nippon Ham,Fighters,1998,P,2,135,67,65,3,N,N
+BUF,Orix,Blue Wave,1998,P,3,135,66,66,3,N,N
+FUK,Daiei,Hawks,1998,P,4,135,67,67,1,N,N
+KIN,Kintetsu,Buffaloes,1998,P,5,135,66,67,2,N,N
+CLM,Lotte,Marines,1998,P,6,135,61,71,3,N,N
+CDR,Chuncihi,Dragons,1999,C,1,135,81,54,0,N,Y
+YMG,Yomiuri,Giants,1999,C,2,135,75,60,0,N,N
+YOK,Yokohoma,Bay Stars,1999,C,3,135,71,64,0,N,N
+TYS,Yakult,Swallows,1999,C,4,135,66,69,0,N,N
+HIR,Hiroshima Toyo,Carp,1999,C,5,135,57,78,0,N,N
+HAN,Hanshin,Tigers,1999,C,6,135,55,80,0,N,N
+FUK,Fukuoka Daiei,Hawks,1999,P,1,135,78,54,3,Y,N
+SSL,Seibu,Lions,1999,P,2,135,75,59,1,N,N
+BUF,Orix,Blue Wave,1999,P,3,135,68,65,2,N,N
+CLM,Chiba Lotte,Marines,1999,P,4,135,63,70,2,N,N
+HNF,Nippon Ham,Fighters,1999,P,5,135,60,73,2,N,N
+KIN,Osaka Kintetsu,Buffaloes,1999,P,6,135,54,77,4,N,N
+YMG,Yomiuri,Giants,2000,C,1,135,78,57,0,Y,N
+CDR,Chuncihi,Dragons,2000,C,2,135,70,65,0,N,N
+YOK,Yokohoma,Bay Stars,2000,C,3,136,69,66,1,N,N
+TYS,Yakult,Swallows,2000,C,4,136,66,69,1,N,N
+HIR,Hiroshima Toyo,Carp,2000,C,5,136,65,70,1,N,N
+HAN,Hanshin,Tigers,2000,C,6,136,57,78,1,N,N
+FUK,Fukuoka Daiei,Hawks,2000,P,1,135,73,60,2,N,Y
+SSL,Seibu,Lions,2000,P,2,135,69,61,5,N,N
+HNF,Nippon Ham,Fighters,2000,P,3,135,69,65,1,N,N
+BUF,Orix,Blue Wave,2000,P,4,135,64,67,4,N,N
+CLM,Chiba Lotte,Marines,2000,P,5,135,62,67,6,N,N
+KIN,Osaka Kintetsu,Buffaloes,2000,P,6,135,58,75,2,N,N
+TYS,Yakult,Swallows,2001,C,1,140,76,58,6,Y,N
+YMG,Yomiuri,Giants,2001,C,2,140,75,63,2,N,N
+YOK,Yokohoma,Bay Stars,2001,C,3,140,69,67,4,N,N
+HIR,Hiroshima,Carp,2001,C,4,140,68,65,7,N,N
+CDR,Chuncihi,Dragons,2001,C,5,140,62,74,4,N,N
+HAN,Hanshin,Tigers,2001,C,6,140,57,80,3,N,N
+KIN,Kintetsu,Buffaloes,2001,P,1,140,78,60,2,N,Y
+FUK,Daiei,Hawks,2001,P,2,140,76,63,1,N,N
+SSL,Seibu,Lions,2001,P,3,140,73,67,0,N,N
+BUF,Orix,Blue Wave,2001,P,4,140,70,66,4,N,N
+CLM,Lotte,Marines,2001,P,5,140,64,74,2,N,N
+HNF,Nippon Ham,Fighters,2001,P,6,140,53,84,3,N,N
+YMG,Yomiuri,Giants,2002,C,1,140,86,52,2,Y,N
+TYS,Yakult,Swallows,2002,C,2,140,74,62,4,N,N
+CDR,Chunichi,Dragons,2002,C,3,140,69,66,5,N,N
+HAN,Hanshin,Tigers,2002,C,4,140,66,70,4,N,N
+HIR,Hiroshima,Carp,2002,C,5,140,64,72,4,N,N
+YOK,Yokohoma,Bay Stars,2002,C,6,140,49,86,5,N,N
+SSL,Seibu,Lions,2002,P,1,140,90,49,1,N,Y
+KIN,Kintetsu,Buffaloes,2002,P,2,140,73,65,2,N,N
+FUK,Daiei,Hawks,2002,P,3,140,73,65,2,N,N
+CLM,Chiba Lotte,Marines,2002,P,4,140,67,72,1,N,N
+HNF,Nippon Ham,Fighters,2002,P,5,140,61,76,3,N,N
+BUF,Orix,Blue Wave,2002,P,6,140,50,87,3,N,N
+HAN,Hanshin,Tigers,2003,C,1,140,87,51,2,N,Y
+CDR,Chunichi,Dragons,2003,C,2,140,73,66,1,N,N
+YMG,Yomiuri,Giants,2003,C,3,140,71,66,3,N,N
+TYS,Yakult,Swallows,2003,C,4,140,71,66,3,N,N
+HIR,Hiroshima,Carp,2003,C,5,140,67,71,2,N,N
+YOK,Yokohama,Bay Stars,2003,C,6,140,45,94,1,N,N
+FUK,Daiei,Hawks,2003,P,1,140,82,55,3,Y,N
+SSL,Seibu,Lions,2003,P,2,140,77,61,2,N,N
+KIN,Kintetsu,Buffaloes,2003,P,3,140,74,64,2,N,N
+CLM,Lotte,Marines,2003,P,4,140,68,69,3,N,N
+HNF,Nippon Ham,Fighters,2003,P,5,140,62,74,4,N,N
+BUF,Orix,Blue Wave,2003,P,6,140,48,88,4,N,N
+CDR,Chunichi,Dragons,2004,C,1,138,79,56,3,N,Y
+TYS,Yakult,Swallows,2004,C,2,138,72,64,2,N,N
+YMG,Yomiuri,Giants,2004,C,3,138,71,64,3,N,N
+HAN,Hanshin,Tigers,2004,C,4,138,66,70,2,N,N
+HIR,Hiroshima,Carp,2004,C,5,138,60,77,1,N,N
+YOK,Yokohoma,Bay Stars,2004,C,6,138,49,76,3,N,N
+FUK,Daiei,Hawks,2004,P,1,133,77,52,4,Y,N
+SSL,Seibu,Lions,2004,P,2,133,74,58,1,N,N
+HNF,Nippon Ham,Fighters,2004,P,3,133,66,65,2,N,N
+CLM,Lotte,Marines,2004,P,4,133,65,65,3,N,N
+KIN,Kintetsu,Buffaloes,2004,P,5,133,61,70,2,N,N
+BUF,Orix,Blue Wave,2004,P,6,133,49,82,2,N,N
+HAN,Hanshin,Tigers,2005,C,1,146,87,54,5,N,Y
+CDR,Chunichi,Dragons,2005,C,2,146,79,66,1,N,N
+YOK,Yokohama,Bay Stars,2005,C,3,146,69,70,7,N,N
+TYS,Yakult,Swallows,2005,C,4,146,71,73,2,N,N
+YMG,Yomiuri,Giants,2005,C,5,146,62,80,4,N,N
+HIR,Hiroshima,Carp,2005,C,6,146,58,84,4,N,N
+FUK,Fukuoka,Hawks,2005,P,1,136,89,45,2,N,N
+CLM,Lotte,Marines,2005,P,2,136,84,49,3,Y,N
+SSL,Seibu,Lions,2005,P,3,136,67,69,0,N,N
+BUF,Orix,Buffaloes,2005,P,4,136,62,70,4,N,N
+HNF,Nippon Ham,Fighters,2005,P,5,136,62,71,3,N,N
+TRE,Tohoku,Eagles,2005,P,6,136,38,97,1,N,N
+CDR,Chunichi,Dragons,2006,C,1,146,87,54,5,N,Y
+HAN,Hanshin,Tigers,2006,C,2,146,84,58,4,N,N
+TYS,Yakult,Swallows,2006,C,3,146,70,73,3,N,N
+YMG,Yomiuri,Giants,2006,C,4,146,65,79,3,N,N
+HIR,Hiroshima,Carp,2006,C,5,146,62,79,5,N,N
+YOK,Yokohama,Bay Stars,2006,C,6,146,58,84,4,N,N
+NIP,Nippon Ham,Fighters,2006,P,1,136,82,54,0,Y,N
+SSL,Seibu,Lions,2006,P,2,136,80,54,2,N,N
+FUK,Fukuoka,Hawks,2006,P,3,136,75,56,2,N,N
+CLM,Lotte,Marines,2006,P,4,136,65,70,1,N,N
+BUF,Orix,Buffaloes,2006,P,5,136,52,81,3,N,N
+TRE,Tohoku,Eagles,2006,P,6,136,47,85,4,N,N
+YMG,Yomiuri,Giants,2007,C,1,144,80,63,1,N,N
+CDR,Chunichi,Dragons,2007,C,2,144,78,64,2,Y,N
+HAN,Hanshin,Tigers,2007,C,3,144,74,66,4,N,N
+YOK,Yokohama,Bay Stars,2007,C,4,144,71,72,1,N,N
+HIR,Hiroshima,Carp,2007,C,5,144,60,82,2,N,N
+TYS,Yakult,Swallows,2007,C,6,144,60,84,0,N,N
+NIP,Nippon Ham,Fighters,2007,P,1,144,79,60,5,N,Y
+CLM,Lotte,Marines,2007,P,2,144,76,61,7,N,N
+FUK,Fukuoka,Hawks,2007,P,3,144,73,66,5,N,N
+TRE,Tohoku,Eagles,2007,P,4,144,67,75,2,N,N
+SSL,Seibu,Lions,2007,P,5,144,66,76,2,N,N
+BUF,Orix,Buffaloes,2007,P,6,144,62,77,2,N,N
+YMG,Yomiuri,Giants,2008,C,1,144,84,57,3,N,Y
+HAN,Hanshin,Tigers,2008,C,2,144,82,59,3,N,N
+CDR,Chunichi,Dragons,2008,C,3,144,71,68,5,N,N
+HIR,Hiroshima,Carp,2008,C,4,144,69,70,5,N,N
+TYS,Yakult,Swallows,2008,C,5,144,66,74,4,N,N
+YOK,Yokohama,Bay Stars,2008,C,6,144,48,94,2,N,N
+SSL,Seibu,Lions,2008,P,1,144,76,64,4,Y,N
+BUF,Orix,Buffaloes,2008,P,2,144,75,68,1,N,N
+NIP,Nippon Ham,Fighters,2008,P,3,144,73,69,2,N,N
+CLM,Lotte,Marines,2008,P,4,144,73,70,1,N,N
+TRE,Tohoku,Eagles,2008,P,5,144,65,76,3,N,N
+FUK,Fukuoka,Hawks,2008,P,6,144,64,77,3,N,N
+YMG,Yomiuri,Giants,2009,C,1,144,89,46,9,Y,N
+CDR,Chunichi,Dragons,2009,C,2,144,81,62,1,N,N
+TYS,Yakult,Swallows,2009,C,3,144,71,72,1,N,N
+HAN,Hanshin,Tigers,2009,C,4,144,67,73,4,N,N
+HIR,Hiroshima,Carp,2009,C,5,144,65,75,4,N,N
+YOK,Yokohama,Bay Stars,2009,C,6,144,51,93,0,N,N
+NIP,Nippon Ham,Fighters,2009,P,1,144,82,60,2,N,Y
+TRE,Tohoku,Eagles,2009,P,2,144,77,66,1,N,N
+FUK,Fukuoka,Hawks,2009,P,3,144,74,65,5,N,N
+SSL,Seibu,Lions,2009,P,4,144,70,70,4,N,N
+CLM,Lotte,Marines,2009,P,5,144,62,77,5,N,N
+BUF,Orix,Buffaloes,2009,P,6,144,56,86,2,N,N
+CDR,Chunichi,Dragons,2010,C,1,144,79,62,3,N,Y
+HAN,Hanshin,Tigers,2010,C,2,144,78,63,3,N,N
+YMG,Yomiuri,Giants,2010,C,3,144,79,64,1,N,N
+TYS,Yakult,Swallows,2010,C,4,144,72,68,4,N,N
+HIR,Hiroshima,Carp,2010,C,5,144,58,84,2,N,N
+YOK,Yokohama,Bay Stars,2010,C,6,144,48,95,1,N,N
+FUK,Fukuoka,Hawks,2010,P,1,144,76,63,5,N,N
+SSL,Seibu,Lions,2010,P,2,144,78,65,1,N,N
+CLM,Lotte,Marines,2010,P,3,144,75,67,2,Y,N
+NIP,Nippon Ham,Fighters,2010,P,4,144,74,67,3,N,N
+BUF,Orix,Buffaloes,2010,P,5,144,69,71,4,N,N
+TRE,Tohoku,Eagles,2010,P,6,144,62,79,3,N,N
+CDR,Chunichi,Dragons,2011,C,1,144,75,59,10,N,Y
+TYS,Yakult,Swallows,2011,C,2,144,70,59,15,N,N
+YMG,Yomiuri,Giants,2011,C,3,144,71,62,11,N,N
+HAN,Hanshin,Tigers,2011,C,4,144,68,70,6,N,N
+HIR,Hiroshima,Carp,2011,C,5,144,60,76,8,N,N
+YOK,Yokohama,Bay Stars,2011,C,6,144,47,86,11,N,N
+FUK,Fukuoka,Hawks,2011,P,1,144,88,46,10,Y,N
+NIP,Nippon Ham,Fighters,2011,P,2,144,72,65,7,N,N
+SSL,Seibu,Lions,2011,P,3,144,68,67,9,N,N
+BUF,Orix,Buffaloes,2011,P,4,144,69,68,7,N,N
+TRE,Tohoku,Eagles,2011,P,5,144,66,71,7,N,N
+CLM,Lotte,Marines,2011,P,6,144,54,79,11,N,N
+YMG,Yomiuri,Giants,2012,C,1,144,86,43,15,Y,N
+CDR,Chunichi,Dragons,2012,C,2,144,75,53,16,N,N
+TYS,Yakult,Swallows,2012,C,3,144,68,65,11,N,N
+HIR,Hiroshima,Carp,2012,C,4,144,61,71,12,N,N
+HAN,Hanshin,Tigers,2012,C,5,144,55,75,14,N,N
+YOK,Yokohama,Bay Stars,2012,C,6,144,46,85,13,N,N
+NIP,Nippon Ham,Fighters,2012,P,1,144,74,59,11,N,Y
+SSL,Seibu,Lions,2012,P,2,144,72,63,9,N,N
+FUK,Fukuoka,Hawks,2012,P,3,144,67,65,12,N,N
+TRE,Tohoku,Eagles,2012,P,4,144,67,67,10,N,N
+CLM,Lotte,Marines,2012,P,5,144,62,67,15,N,N
+BUF,Orix,Buffaloes,2012,P,6,144,57,77,10,N,N
+YMG,Yomiuri,Giants,2013,C,1,144,84,53,7,N,Y
+HAN,Hanshin,Tigers,2013,C,2,144,73,67,4,N,N
+HIR,Hiroshima,Carp,2013,C,3,144,69,72,3,N,N
+CDR,Chunichi,Dragons,2013,C,4,144,64,77,3,N,N
+YOK,Yokohama,Bay Stars,2013,C,5,144,64,79,1,N,N
+TYS,Yakult,Swallows,2013,C,6,144,57,83,4,N,N
+TRE,Tohoku,Eagles,2013,P,1,144,82,59,3,Y,N
+SSL,Seibu,Lions,2013,P,2,144,74,66,4,N,N
+CLM,Lotte,Marines,2013,P,3,144,74,68,2,N,N
+FUK,Fukuoka,Hawks,2013,P,4,144,73,69,2,N,N
+BUF,Orix,Buffaloes,2013,P,5,144,66,73,5,N,N
+NIP,Nippon Ham,Fighters,2013,P,6,144,64,78,2,N,N
+YMG,Yomiuri,Giants,2014,C,1,144,82,61,1,N,N
+HAN,Hanshin,Tigers,2014,C,2,144,75,68,1,N,Y
+HIR,Hiroshima,Carp,2014,C,3,144,74,68,2,N,N
+CDR,Chunichi,Dragons,2014,C,4,144,67,73,4,N,N
+YOK,Yokohama,Bay Stars,2014,C,5,144,67,75,2,N,N
+TYS,Yakult,Swallows,2014,C,6,144,60,81,3,N,N
+FUK,Fukuoka,Hawks,2014,P,1,144,78,60,6,Y,N
+BUF,Orix,Buffaloes,2014,P,2,144,80,62,2,N,N
+NIP,Nippon Ham,Fighters,2014,P,3,144,73,68,3,N,N
+CLM,Lotte,Marines,2014,P,4,144,66,76,2,N,N
+SSL,Seibu,Lions,2014,P,5,144,63,77,4,N,N
+TRE,Tohoku,Eagles,2014,P,6,144,64,80,0,N,N
+TYS,Yakult,Swallows,2015,C,1,143,76,65,2,N,Y
+YMG,Yomiuri,Giants,2015,C,2,143,75,67,1,N,N
+HAN,Hanshin,Tigers,2015,C,3,143,70,71,2,N,N
+HIR,Hiroshima,Carp,2015,C,4,143,69,71,3,N,N
+CDR,Chunichi,Dragons,2015,C,5,143,62,77,4,N,N
+YOK,Yokohama,Bay Stars,2015,C,6,143,62,80,1,N,N
+FUK,Fukuoka,Hawks,2015,P,1,143,90,49,4,Y,N
+NIP,Nippon Ham,Fighters,2015,P,2,143,79,62,2,N,N
+CLM,Lotte,Marines,2015,P,3,143,73,69,1,N,N
+SSL,Seibu,Lions,2015,P,4,143,69,69,5,N,N
+BUF,Orix,Buffaloes,2015,P,5,143,61,80,2,N,N
+TRE,Tohoku,Eagles,2015,P,6,143,57,83,3,N,N
+HIR,Hiroshima,Carp,2016,C,1,143,89,52,2,N,Y
+YMG,Yomiuri,Giants,2016,C,2,143,71,69,3,N,N
+YOK,Yokohama,Bay Stars,2016,C,3,143,69,71,3,N,N
+HAN,Hanshin,Tigers,2016,C,4,143,64,76,3,N,N
+TYS,Yakult,Swallows,2016,C,5,143,64,78,1,N,N
+CDR,Chunichi,Dragons,2016,C,6,143,58,82,3,N,N
+NIP,Nippon Ham,Fighters,2016,P,1,143,87,53,3,Y,N
+FUK,Fukuoka,Hawks,2016,P,2,143,83,54,6,N,N
+CLM,Lotte,Marines,2016,P,3,143,72,68,3,N,N
+SSL,Seibu,Lions,2016,P,4,143,64,76,3,N,N
+TRE,Tohoku,Eagles,2016,P,5,143,62,78,3,N,N
+BUF,Orix,Buffaloes,2016,P,6,143,57,83,3,N,N
+HIR,Hiroshima,Carp,2017,C,1,143,88,51,4,N,N
+HAN,Hanshin,Tigers,2017,C,2,143,78,61,4,N,N
+YOK,Yokohama,Bay Stars,2017,C,3,143,73,65,5,N,Y
+YMG,Yomiuri,Giants,2017,C,4,143,72,68,3,N,N
+CDR,Chunichi,Dragons,2017,C,5,143,59,79,5,N,N
+TYS,Yakult,Swallows,2017,C,6,143,45,96,2,N,N
+FUK,Fukuoka,Hawks,2017,P,1,143,94,49,0,Y,N
+SSL,Seibu,Lions,2017,P,2,143,79,61,3,N,N
+TRE,Tohoku,Eagles,2017,P,3,143,77,63,3,N,N
+BUF,Orix,Buffaloes,2017,P,4,143,63,79,1,N,N
+NIP,Nippon Ham,Fighters,2017,P,5,143,60,83,0,N,N
+CLM,Lotte,Marines,2017,P,6,143,54,87,2,N,N
+HIR,Hiroshima,Carp,2018,C,1,143,82,59,2,N,Y
+TYS,Yakult,Swallows,2018,C,2,143,75,66,2,N,N
+YMG,Yomiuri,Giants,2018,C,3,143,67,71,5,N,N
+YOK,Yokohama,Bay Stars,2018,C,4,143,67,74,2,N,N
+CDR,Chunichi,Dragons,2018,C,5,143,63,78,2,N,N
+HAN,Hanshin,Tigers,2018,C,6,143,62,79,2,N,N
+SSL,Seibu,Lions,2018,P,1,143,88,53,2,N,N
+FUK,Fukuoka,Hawks,2018,P,2,143,82,60,1,Y,N
+NIP,Nippon Ham,Fighters,2018,P,3,143,74,66,3,N,N
+BUF,Orix,Buffaloes,2018,P,4,143,65,73,5,N,N
+CLM,Lotte,Marines,2018,P,5,143,59,81,3,N,N
+TRE,Tohoku,Eagles,2018,P,6,143,58,82,3,N,N
+YMG,Yomiuri,Giants,2019,C,1,143,77,64,2,N,Y
+YOK,Yokohama,Bay Stars,2019,C,2,143,71,69,3,N,N
+HAN,Hanshin,Tigers,2019,C,3,143,69,68,6,N,N
+HIR,Hiroshima,Carp,2019,C,4,143,70,70,3,N,N
+CDR,Chunichi,Dragons,2019,C,5,143,68,73,2,N,N
+TYS,Yakult,Swallows,2019,C,6,143,59,82,2,N,N
+SSL,Seibu,Lions,2019,P,1,143,80,62,1,N,N
+FUK,Fukuoka,Hawks,2019,P,2,143,76,62,5,Y,N
+TRE,Tohoku,Eagles,2019,P,3,143,71,68,4,N,N
+CLM,Lotte,Marines,2019,P,4,143,69,70,4,N,N
+NIP,Nippon Ham,Fighters,2019,P,5,143,65,73,5,N,N
+BUF,Orix,Buffaloes,2019,P,6,143,61,75,7,N,N
+YMG,Yomiuri,Giants,2020,C,1,120,67,45,8,N,Y
+HAN,Hanshin,Tigers,2020,C,2,120,60,53,7,N,N
+CDR,Chunichi,Dragons,2020,C,3,120,60,55,5,N,N
+YOK,Yokohama,Bay Stars,2020,C,4,120,56,58,6,N,N
+HIR,Hiroshima,Carp,2020,C,5,120,52,56,12,N,N
+TYS,Yakult,Swallows,2020,C,6,120,41,69,10,N,N
+FUK,Fukuoka,Hawks,2020,P,1,120,73,42,5,Y,N
+CLM,Lotte,Marines,2020,P,2,120,60,57,3,N,N
+SSL,Seibu,Lions,2020,P,3,120,58,58,4,N,N
+TRE,Tohoku,Eagles,2020,P,4,120,55,57,8,N,N
+NIP,Nippon Ham,Fighters,2020,P,5,120,53,62,5,N,N
+BUF,Orix,Buffaloes,2020,P,6,120,45,68,7,N,N
+TYS,Yakult,Swallows,2021,C,1,143,73,52,18,Y,N
+HAN,Hanshin,Tigers,2021,C,2,143,77,56,10,N,N
+YMG,Yomiuri,Giants,2021,C,3,143,61,62,20,N,N
+HIR,Hiroshima,Carp,2021,C,4,143,63,68,12,N,N
+CDR,Chunichi,Dragons,2021,C,5,143,55,71,17,N,N
+YOK,Yokohama,Bay Stars,2021,C,6,143,54,73,16,N,N
+BUF,Orix,Buffaloes,2021,P,1,143,70,55,18,N,Y
+CLM,Lotte,Marines,2021,P,2,143,67,57,19,N,N
+TRE,Tohoku,Eagles,2021,P,3,143,66,62,15,N,N
+FUK,Fukuoka,Hawks,2021,P,4,143,60,62,21,N,N
+NIP,Nippon Ham,Fighters,2021,P,5,143,55,68,20,N,N
+SSL,Seibu,Lions,2021,P,6,143,55,70,18,N,N

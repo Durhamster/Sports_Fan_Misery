@@ -129,6 +129,26 @@ $white: #ffffff;
   }
 }
 
+#cpbl_team_options {
+  #ELE {
+    color: #ffb612;
+    background-color: #132257;
+  }
+  #BER {
+    background-color: #034694;
+  }
+  #MON {
+    background-color: #6c1d45;
+  }
+  #LIO {
+    color: #f15524;
+    background-color: $black;
+  }
+  #DRA {
+    background-color: #c8102e;
+  }
+}
+
 #epl_team_options {
   #Aston_Villa {
     color: #670e36;
@@ -736,6 +756,108 @@ $white: #ffffff;
   }
 }
 
+#nfl_team_options {
+  #ARZ {
+    background-color: #97233f;
+  }
+  #ATL {
+    background-color: #a71930;
+  }
+  #BAL {
+    background-color: #241773;
+  }
+  #BUF {
+    background-color: #00338d;
+  }
+  #CAR {
+    background-color: #0085ca;
+  }
+  #CHI {
+    background-color: #0b162a;
+  }
+  #CIN {
+    color: $black;
+    background-color: #fb4f14;
+  }
+  #CLE {
+    background-color: #311d00;
+  }
+  #DAL {
+    background-color: #041e42;
+  }
+  #DEN {
+    background-color: #002244;
+  }
+  #DET {
+    background-color: #0076b6;
+  }
+  #GBP {
+    background-color: #203731;
+  }
+  #HOU {
+    background-color: #03202f;
+  }
+  #IND {
+    background-color: #002c5f;
+  }
+  #JAX {
+    background-color: #006778;
+  }
+  #KCC {
+    background-color: #e31837;
+  }
+  #LVR {
+    background-color: $black;
+  }
+  #LAC {
+    background-color: #0080c6;
+  }
+  #LAR {
+    background-color: #003594;
+  }
+  #MIA {
+    background-color: #008e97;
+  }
+  #MIN {
+    background-color: #4f2683;
+  }
+  #NEP {
+    background-color: #002244;
+  }
+  #NOS {
+    color: $black;
+    background-color: #d3bc8d;
+  }
+  #NYG {
+    background-color: #0b2265;
+  }
+  #NYJ {
+    background-color: #125740;
+  }
+  #PHI {
+    background-color: #004c54;
+  }
+  #PIT {
+    background-color: $black;
+  }
+  #SFC {
+    background-color: #aa0000;
+  }
+  #SEA {
+    background-color: #002244;
+  }
+  #TBB {
+    background-color: #d50a0a;
+  }
+  #TEN {
+    background-color: #0c2340;
+  }
+  #WAS {
+    color: #ffb612;
+    background-color: #5a1414;
+  }
+}
+
 #nhl_team_options {
   #ANA {
     background-color: $black;
@@ -838,105 +960,46 @@ $white: #ffffff;
   }
 }
 
-#nfl_team_options {
-  #ARZ {
-    background-color: #97233f;
+#npb_team_options {
+  #CLM {
+    background-color: $black;
   }
-  #ATL {
-    background-color: #a71930;
+  #CDR {
+    background-color: #003377;
   }
-  #BAL {
-    background-color: #241773;
+  #FUK {
+    color: #f6c801;
+    background-color: $black;
+  }
+  #HAN {
+    background-color: $black;
+  }
+  #HIR {
+    background-color: #e70012;
+  }
+  #HNF {
+    background-color: #196797;
   }
   #BUF {
-    background-color: #00338d;
-  }
-  #CAR {
-    background-color: #0085ca;
-  }
-  #CHI {
-    background-color: #0b162a;
-  }
-  #CIN {
-    color: $black;
-    background-color: #fb4f14;
-  }
-  #CLE {
-    background-color: #311d00;
-  }
-  #DAL {
-    background-color: #041e42;
-  }
-  #DEN {
-    background-color: #002244;
-  }
-  #DET {
-    background-color: #0076b6;
-  }
-  #GBP {
-    background-color: #203731;
-  }
-  #HOU {
-    background-color: #03202f;
-  }
-  #IND {
-    background-color: #002c5f;
-  }
-  #JAX {
-    background-color: #006778;
-  }
-  #KCC {
-    background-color: #e31837;
-  }
-  #LVR {
+    color: #a47e10;
     background-color: $black;
   }
-  #LAC {
-    background-color: #0080c6;
+  #SSL {
+    background-color: #102960;
   }
-  #LAR {
-    background-color: #003594;
+  #TRE {
+    color: #f3b52e;
+    background-color: #84111c;
   }
-  #MIA {
-    background-color: #008e97;
+  #TYS {
+    background-color: #001443;
   }
-  #MIN {
-    background-color: #4f2683;
+  #YOK {
+    background-color: #004090;
   }
-  #NEP {
-    background-color: #002244;
-  }
-  #NOS {
-    color: $black;
-    background-color: #d3bc8d;
-  }
-  #NYG {
-    background-color: #0b2265;
-  }
-  #NYJ {
-    background-color: #125740;
-  }
-  #PHI {
-    background-color: #004c54;
-  }
-  #PIT {
+  #YMG {
+    color: #f79727;
     background-color: $black;
-  }
-  #SFC {
-    background-color: #aa0000;
-  }
-  #SEA {
-    background-color: #002244;
-  }
-  #TBB {
-    background-color: #d50a0a;
-  }
-  #TEN {
-    background-color: #0c2340;
-  }
-  #WAS {
-    color: #ffb612;
-    background-color: #5a1414;
   }
 }
 

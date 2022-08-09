@@ -1,9 +1,24 @@
 // Data
+import cpbl_data from "../data/json/cpbl.json";
 import kbo_data from "../data/json/kbo_data.json";
 import mlb_data from "../data/json/mlb_data.json";
+import npb_data from "../data/json/npb_data.json";
 import { TeamData } from "./all_sports";
 
 // Drop-downs
+export const cpbl_dropdown = `<select
+name="cpbl_options"
+class="drop_down"
+id="cpbl_team_options"
+autocomplete="off">
+  <option class="team_selection" id="default" value="default" selected="selected">Choose your CPBL Team</option>
+  <option class="team_selection" id="ELE" value="ELE">CTBC Brothers</option>
+  <option class="team_selection" id="BER" value="BER">Fubon Guardians</option>
+  <option class="team_selection" id="MON" value="MON">Rakuten Monkeys</option>
+  <option class="team_selection" id="LIO" value="LIO">Uni-President 7-Eleven Lions</option>
+  <option class="team_selection" id="DRA" value="DRA">Wei Chuan Dragons</option>
+  </select>`;
+
 export const kbo_dropdown = `<select
 name="kbo_options"
 class="drop_down"
@@ -60,12 +75,55 @@ autocomplete="off">
   <option class="team_selection" id="WSN" value="WSN">Washington Nationals</option>
 </select>`;
 
+export const npb_dropdown = `<select
+name="npb_options"
+class="drop_down"
+id="npb_team_options"
+autocomplete="off">
+  <option class="team_selection" id="default" value="default" selected="selected">Choose your NPB Team</option>
+  <option class="team_selection" id="CLM" value="CLM">Chiba Lotte Marines</option>
+  <option class="team_selection" id="CDR" value="CDR">Chunichi Dragons</option>
+  <option class="team_selection" id="FUK" value="FUK">Fukuoka SoftBank Hawks</option>
+  <option class="team_selection" id="HAN" value="HAN">Hanshin Tigers</option>
+  <option class="team_selection" id="HIR" value="HIR">Hiroshima Toyo Carp</option>
+  <option class="team_selection" id="HNF" value="HNF">Hokkaido Nippon-Ham Fighters</option>
+  <option class="team_selection" id="BUF" value="BUF">Orix Buffaloes</option>
+  <option class="team_selection" id="SSL" value="SSL">Saitama Seibu Lions</option>
+  <option class="team_selection" id="TRE" value="TRE">Tohoku Rakuten Golden Eagles</option>
+  <option class="team_selection" id="TYS" value="TYS">Tokyo Yakult Swallows</option>
+  <option class="team_selection" id="YOK" value="YOK">Yokohama DeNA BayStars</option>
+  <option class="team_selection" id="YMG" value="YMG">Yomirui Giants</option>
+  </select>`;
+
 // Team Data Funcs
+export const CPBLTeamData = function (birth_year: any, franchiseID: any) {
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "baseball",
+      "CPBL",
+      birth_year,
+      franchiseID,
+      cpbl_data,
+      "Cwin",
+      "Y",
+      "CRU",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
+};
+
 export const KBOTeamData = function (birth_year: any, franchiseID: any) {
   let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
     TeamData(
       "baseball",
-      "MLB",
+      "KBO",
       birth_year,
       franchiseID,
       kbo_data,
@@ -95,6 +153,29 @@ export const MLBTeamData = function (birth_year: any, franchiseID: any) {
       "WSWin",
       "Y",
       "LgWin",
+      "Y"
+    );
+  return {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+  };
+};
+
+export const NPBTeamData = function (birth_year: any, franchiseID: any) {
+  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
+    TeamData(
+      "baseball",
+      "NPB",
+      birth_year,
+      franchiseID,
+      npb_data,
+      "Cwin",
+      "Y",
+      "CRU",
       "Y"
     );
   return {

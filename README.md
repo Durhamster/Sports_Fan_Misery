@@ -11,6 +11,7 @@ That's what this sets out to do, using the power of data!
 - Big Bash League (2011 - 2021)
 - Bundesliga (1996 - 2022, more dates to come)
 - Canadian Football League (1945 - 2021)
+- Chinese Professional Baseball League - Taiwan (1990 - 2021)
 - Indian Premier League (2008 - 2021)
 - Indian Super League (2014 - 2021)
 - KBO League (1982 - 2021)
@@ -22,6 +23,7 @@ That's what this sets out to do, using the power of data!
 - National Football League (1932 - 2021)
 - National Hockey League (1918 - 2021)
 - National Women's Soccer League (2013 - 2021)
+- Nippon Professional Baseball (1950 - 2021)
 - Premier league (1996 - 2022, more dates to come)
 - Serie A (1996 - 2022, more dates to come)
 - Women's National Basketball Association (1997 - 2021)
@@ -36,7 +38,6 @@ That's what this sets out to do, using the power of data!
 - National Rugby League (1998 - 2022)
 - NCAA Basketball (Dates vary by Conference)
 - NCAA Football (Dates vary by Conference)
-- Nippon Professional Baseball (1950 - 2021)
 
 ## Leagues With No Current Plans to be added in Future Updates
 
