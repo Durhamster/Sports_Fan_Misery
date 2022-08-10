@@ -15,6 +15,7 @@ import nba_url from "./img/nba.png";
 import nhl_url from "./img/nhl.png";
 import nfl_url from "./img/nfl.png";
 import npb_url from "./img/npb.png";
+import nrl_url from "./img/nrl.png";
 import nwsl_url from "./img/nwsl.png";
 import serie_a_url from "./img/serie_a.png";
 import wnba_url from "./img/wnba.png";
@@ -78,6 +79,7 @@ import {
 } from "./components/football";
 import { nhl_dropdown, NHLTeamData } from "./components/hockey";
 import { misery_calculation } from "./components/misery";
+import { nrl_dropdown, NRLTeamData } from "./components/rugby";
 
 // HTML Section
 const main_app = document.querySelector<HTMLDivElement>("#main_app")!;
@@ -156,6 +158,10 @@ main_app.innerHTML =
     <label id="npb_label" for="npb"><img id="npb_logo" /></label>
   </li>
   <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nrl" value="nrl"/>
+    <label id="nrl_label" for="nrl"><img id="nrl_logo" /></label>
+  </li>
+  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="nwsl" value="nwsl"/>
     <label id="nwsl_label" for="nwsl"><img id="nwsl_logo" /></label>
   </li>
@@ -208,6 +214,7 @@ document.getElementById("nba_logo")!.setAttribute("src", nba_url);
 document.getElementById("nfl_logo")!.setAttribute("src", nfl_url);
 document.getElementById("nhl_logo")!.setAttribute("src", nhl_url);
 document.getElementById("npb_logo")!.setAttribute("src", npb_url);
+document.getElementById("nrl_logo")!.setAttribute("src", nrl_url);
 document.getElementById("nwsl_logo")!.setAttribute("src", nwsl_url);
 document.getElementById("serie_a_logo")!.setAttribute("src", serie_a_url);
 document.getElementById("wnba_logo")!.setAttribute("src", wnba_url);
@@ -348,6 +355,9 @@ const sports_check = function () {
       if (checked_sports.includes("npb")) {
         misery_div_items = misery_div_items + npb_dropdown;
       }
+      if (checked_sports.includes("nrl")) {
+        misery_div_items = misery_div_items + nrl_dropdown;
+      }
       if (checked_sports.includes("nwsl")) {
         misery_div_items = misery_div_items + nwsl_dropdown;
       }
@@ -396,6 +406,7 @@ const misery = function () {
   let nfl_DD = document.querySelector<HTMLElement>("#nfl_team_options")!;
   let nhl_DD = document.querySelector<HTMLElement>("#nhl_team_options")!;
   let npb_DD = document.querySelector<HTMLElement>("#npb_team_options")!;
+  let nrl_DD = document.querySelector<HTMLElement>("#nrl_team_options")!;
   let nwsl_DD = document.querySelector<HTMLElement>("#nwsl_team_options")!;
   let serie_a_DD = document.querySelector<HTMLElement>(
     "#serie_a_team_options"
@@ -434,6 +445,7 @@ const misery = function () {
       league == "NBA" ||
       league == "NFL" ||
       league == "NPB" ||
+      league == "NRL" ||
       league == "NWSL" ||
       league == "NHL" ||
       league == "WNBA"
@@ -541,6 +553,11 @@ const misery = function () {
   // NPB
   if (npb_DD != null) {
     get_team_selections("npb_team_options", NPBTeamData, "NPB");
+  }
+
+  // NRL
+  if (nrl_DD != null) {
+    get_team_selections("nrl_team_options", NRLTeamData, "NRL");
   }
 
   // NWSL

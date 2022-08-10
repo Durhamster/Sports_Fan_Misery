@@ -1,0 +1,381 @@
+rank,franchID,team,P,W,L,D,yearID,Cwin,CRU
+1,BRI,Brisbane,24,18,5,1,1998,Y,N
+2,NEC,Newcastle,24,18,5,1,1998,N,N
+3,MEL,Melbourne,24,17,6,1,1998,N,N
+4,PAR,Parramatta,24,17,6,1,1998,N,N
+5,NSY,North Sydney,24,17,7,-,1998,N,N
+6,SYD,Sydney City,24,16,8,-,1998,N,N
+7,CAN,Canberra,24,15,9,-,1998,N,N
+8,STG,St George,24,13,10,1,1998,N,N
+9,BUL,Canterbury,24,13,11,-,1998,N,Y
+10,MAN,Manly,24,13,11,-,1998,N,N
+11,CRO,Cronulla,24,12,11,1,1998,N,N
+12,STE,Illawarra,24,11,12,1,1998,N,N
+13,BAL,Balmain,24,9,14,1,1998,N,N
+14,PEN,Penrith,24,8,14,2,1998,N,N
+15,WAR,Auckland,24,9,15,-,1998,N,N
+16,NOQ,North Queensland,24,9,15,-,1998,N,N
+17,RAM,Adelaide,24,7,17,-,1998,N,N
+18,SSY,South Sydney,24,5,19,-,1998,N,N
+19,COA,Gold Coast,24,4,20,-,1998,N,N
+20,WSU,Western Suburbs,24,4,20,-,1998,N,N
+1,CRO,Sharks,24,18,6,-,1999,N,N
+2,PAR,Parramatta,24,17,7,-,1999,N,N
+3,MEL,Melbourne,24,16,8,-,1999,Y,N
+4,SYD,Sydney City,24,16,8,-,1999,N,N
+5,BUL,Canterbury,24,15,8,1,1999,N,Y
+6,STG,St George Illawarra,24,15,9,-,1999,N,N
+7,NEC,Newcastle,24,14,9,1,1999,N,N
+8,BRI,Brisbane,24,13,9,2,1999,N,N
+9,CAN,Canberra,24,13,10,1,1999,N,N
+10,PEN,Penrith,24,11,12,1,1999,N,N
+11,WAR,Auckland,24,10,14,-,1999,N,N
+12,SSY,South Sydney,24,10,14,-,1999,N,N
+13,MAN,Manly,24,9,14,1,1999,N,N
+14,NSY,North Sydney,24,8,16,-,1999,N,N
+15,BAL,Balmain,24,8,16,-,1999,N,N
+16,NOQ,North Queensland,24,4,19,1,1999,N,N
+17,WSU,Western Suburbs,24,3,21,-,1999,N,N
+1,BRI,Brisbane,26,18,6,2,2000,Y,N
+2,SYD,Sydney,26,16,10,-,2000,N,Y
+3,NEC,Newcastle,26,15,10,1,2000,N,N
+4,CAN,Canberra,26,15,11,-,2000,N,N
+5,PEN,Penrith,26,15,11,-,2000,N,N
+6,MEL,Melbourne,26,14,11,1,2000,N,N
+7,PAR,Parramatta,26,14,11,1,2000,N,N
+8,CRO,Sharks,26,13,13,-,2000,N,N
+9,STG,St George Illawarra,26,12,14,-,2000,N,N
+10,TIG,Wests Tigers,26,11,13,2,2000,N,N
+11,BUL,Bulldogs,26,10,15,1,2000,N,N
+12,NOE,Northern Eagles,26,9,17,-,2000,N,N
+13,WAR,Auckland,26,8,16,2,2000,N,N
+14,NOQ,North Queensland,26,7,19,-,2000,N,N
+1,PAR,Parramatta,26,20,4,2,2001,N,Y
+2,BUL,Bulldogs,26,17,6,3,2001,N,N
+3,NEC,Newcastle,26,16,9,1,2001,Y,N
+4,CRO,Sharks,26,15,9,2,2001,N,N
+5,BRI,Brisbane,26,14,11,1,2001,N,N
+6,SYD,Sydney,26,13,12,1,2001,N,N
+7,STG,St George Illawarra,26,12,12,2,2001,N,N
+8,WAR,New Zealand,26,12,12,2,2001,N,N
+9,MEL,Melbourne,26,11,14,1,2001,N,N
+10,NOE,Northern Eagles,26,11,14,1,2001,N,N
+11,CAN,Canberra,26,9,16,1,2001,N,N
+12,TIG,Wests Tigers,26,9,16,1,2001,N,N
+13,NOQ,North Queensland,26,6,18,2,2001,N,N
+14,PEN,Penrith,26,7,19,-,2001,N,N
+1,WAR,Warriors,24,17,7,-,2002,N,Y
+2,NEC,Newcastle,24,17,7,-,2002,N,N
+3,BRI,Brisbane,24,16,7,1,2002,N,N
+4,SYD,Sydney,24,15,8,1,2002,Y,N
+5,CRO,Sharks,24,15,9,-,2002,N,N
+6,PAR,Parramatta,24,10,12,2,2002,N,N
+7,STG,St George Illawarra,24,9,12,3,2002,N,N
+8,CAN,Canberra,24,10,13,1,2002,N,N
+9,NOE,Northern Eagles,24,10,14,-,2002,N,N
+10,MEL,Melbourne,24,9,14,1,2002,N,N
+11,NOQ,North Queensland,24,8,16,-,2002,N,N
+12,PEN,Penrith,24,7,17,-,2002,N,N
+13,TIG,Wests Tigers,24,7,17,-,2002,N,N
+14,SSY,South Sydney,24,5,19,-,2002,N,N
+15,BUL,Bulldogs,24,20,3,1,2002,N,N
+1,PEN,Penrith,24,18,6,-,2003,Y,N
+2,SYD,Sydney,24,17,7,-,2003,N,Y
+3,BUL,Bulldogs,24,16,8,-,2003,N,N
+4,CAN,Canberra,24,16,8,-,2003,N,N
+5,MEL,Melbourne,24,15,9,-,2003,N,N
+6,WAR,Warriors,24,15,9,-,2003,N,N
+7,NEC,Newcastle,24,14,10,-,2003,N,N
+8,BRI,Brisbane,24,12,12,-,2003,N,N
+9,PAR,Parramatta,24,11,13,-,2003,N,N
+10,STG,St George Illawarra,24,11,13,-,2003,N,N
+11,NOQ,North Queensland,24,10,14,-,2003,N,N
+12,CRO,Cronulla,24,8,16,-,2003,N,N
+13,TIG,Wests Tigers,24,7,17,-,2003,N,N
+14,MAN,Manly,24,7,17,-,2003,N,N
+15,SSY,South Sydney,24,3,21,-,2003,N,N
+1,SYD,Sydney,24,19,5,-,2004,N,Y
+2,BUL,Bulldogs,24,19,5,-,2004,Y,N
+3,BRI,Brisbane,24,16,7,1,2004,N,N
+4,PEN,Penrith,24,15,9,-,2004,N,N
+5,STG,St George Illawarra,24,14,10,-,2004,N,N
+6,MEL,Melbourne,24,13,11,-,2004,N,N
+7,NOQ,North Queensland,24,12,11,1,2004,N,N
+8,CAN,Canberra,24,11,13,-,2004,N,N
+9,TIG,Wests Tigers,24,10,14,-,2004,N,N
+10,NEC,Newcastle,24,10,14,-,2004,N,N
+11,CRO,Cronulla,24,10,14,-,2004,N,N
+12,PAR,Parramatta,24,9,15,-,2004,N,N
+13,MAN,Manly,24,9,15,-,2004,N,N
+14,WAR,Warriors,24,6,18,-,2004,N,N
+15,SSY,South Sydney,24,5,17,2,2004,N,N
+1,PAR,Parramatta,24,16,8,-,2005,N,N
+2,STG,St George Illawarra,24,16,8,-,2005,N,N
+3,BRI,Brisbane,24,15,9,-,2005,N,N
+4,TIG,Wests Tigers,24,14,10,-,2005,Y,N
+5,NOQ,North Queensland,24,14,10,-,2005,N,Y
+6,MEL,Melbourne,24,13,11,-,2005,N,N
+7,CRO,Cronulla,24,12,12,-,2005,N,N
+8,MAN,Manly,24,12,12,-,2005,N,N
+9,SYD,Sydney,24,11,13,-,2005,N,N
+10,PEN,Penrith,24,11,13,-,2005,N,N
+11,WAR,Warriors,24,10,14,-,2005,N,N
+12,BUL,Bulldogs,24,9,14,1,2005,N,N
+13,SSY,South Sydney,24,9,14,1,2005,N,N
+14,CAN,Canberra,24,9,15,-,2005,N,N
+15,NEC,Newcastle,24,8,16,-,2005,N,N
+1,MEL,Melbourne,24,20,4,-,2006,N,Y
+2,BUL,Bulldogs,24,16,8,-,2006,N,N
+3,BRI,Brisbane,24,14,10,-,2006,Y,N
+4,NEC,Newcastle,24,14,10,-,2006,N,N
+5,MAN,Manly,24,14,10,-,2006,N,N
+6,STG,St George Illawarra,24,14,10,-,2006,N,N
+7,CAN,Canberra,24,13,11,-,2006,N,N
+8,PAR,Parramatta,24,12,12,-,2006,N,N
+9,NOQ,North Queensland,24,11,13,-,2006,N,N
+10,WAR,Warriors,24,12,12,-,2006,N,N
+11,TIG,Wests Tigers,24,10,14,-,2006,N,N
+12,PEN,Penrith,24,10,14,-,2006,N,N
+13,CRO,Cronulla,24,9,15,-,2006,N,N
+14,SYD,Sydney,24,8,16,-,2006,N,N
+15,SSY,South Sydney,24,3,21,-,2006,N,N
+1,MEL,Melbourne,24,21,3,-,2007,Y,N
+2,MAN,Manly,24,18,6,-,2007,N,Y
+3,NOQ,North Queensland,24,15,9,-,2007,N,N
+4,WAR,Warriors,24,13,10,1,2007,N,N
+5,PAR,Parramatta,24,13,11,-,2007,N,N
+6,BUL,Bulldogs,24,12,12,-,2007,N,N
+7,SSY,South Sydney,24,12,12,-,2007,N,N
+8,BRI,Brisbane,24,11,13,-,2007,N,N
+9,TIG,Wests Tigers,24,11,13,-,2007,N,N
+10,SYD,Sydney,24,10,13,1,2007,N,N
+11,CRO,Cronulla,24,10,14,-,2007,N,N
+12,GOL,Gold Coast,24,10,14,-,2007,N,N
+13,STG,St George Illawarra,24,9,15,-,2007,N,N
+14,CAN,Canberra,24,9,15,-,2007,N,N
+15,NEC,Newcastle,24,9,15,-,2007,N,N
+16,PEN,Penrith,24,8,16,-,2007,N,N
+1,MEL,Melbourne,24,17,7,-,2008,N,Y
+2,MAN,Manly,24,17,7,-,2008,Y,N
+3,CRO,Cronulla,24,17,7,-,2008,N,N
+4,SYD,Sydney,24,15,9,-,2008,N,N
+5,BRI,Brisbane,24,14,9,1,2008,N,N
+6,CAN,Canberra,24,13,11,-,2008,N,N
+7,STG,St George Illawarra,24,13,11,-,2008,N,N
+8,WAR,Warriors,24,13,11,-,2008,N,N
+9,NEC,Newcastle,24,12,12,-,2008,N,N
+10,TIG,Wests Tigers,24,11,13,-,2008,N,N
+11,PAR,Parramatta,24,11,13,-,2008,N,N
+12,PEN,Penrith,24,10,13,1,2008,N,N
+13,GOL,Gold Coast,24,10,14,-,2008,N,N
+14,SSY,South Sydney,24,8,16,-,2008,N,N
+15,NOQ,North Queensland,24,5,19,-,2008,N,N
+16,BUL,Bulldogs,24,5,19,-,2008,N,N
+1,STG,St George Illawarra,24,17,7,-,2009,N,N
+2,BUL,Bulldogs,24,18,6,-,2009,N,N
+3,GOL,Gold Coast,24,16,8,-,2009,N,N
+4,MEL,Melbourne,24,14,9,1,2009,Y,N
+5,MAN,Manly,24,14,10,-,2009,N,N
+6,BRI,Brisbane,24,14,10,-,2009,N,N
+7,NEC,Newcastle,24,13,11,-,2009,N,N
+8,PAR,Parramatta,24,12,11,1,2009,N,Y
+9,TIG,Wests Tigers,24,12,12,-,2009,N,N
+10,SSY,South Sydney,24,11,12,1,2009,N,N
+11,PEN,Penrith,24,11,12,1,2009,N,N
+12,NOQ,North Queensland,24,11,13,-,2009,N,N
+13,CAN,Canberra,24,9,15,-,2009,N,N
+14,WAR,Warriors,24,7,15,2,2009,N,N
+15,CRO,Cronulla,24,5,19,-,2009,N,N
+16,SYD,Sydney,24,5,19,-,2009,N,N
+1,STG,St George Illawarra,24,17,7,-,2010,Y,N
+2,PEN,Penrith,24,15,9,-,2010,N,N
+3,TIG,Wests Tigers,24,15,9,-,2010,N,N
+4,GOL,Gold Coast,24,15,9,-,2010,N,N
+5,WAR,Warriors,24,14,10,-,2010,N,N
+6,SYD,Sydney,24,14,10,-,2010,N,Y
+7,CAN,Canberra,24,13,11,-,2010,N,N
+8,MAN,Manly,24,12,12,-,2010,N,N
+9,SSY,South Sydney,24,11,13,-,2010,N,N
+10,BRI,Brisbane,24,11,13,-,2010,N,N
+11,NEC,Newcastle,24,10,14,-,2010,N,N
+12,PAR,Parramatta,24,10,14,-,2010,N,N
+13,BUL,Canterbury,24,9,15,-,2010,N,N
+14,CRO,Cronulla,24,7,17,-,2010,N,N
+15,NOQ,North Queensland,24,5,19,-,2010,N,N
+16,MEL,Melbourne,24,14,10,-,2010,N,N
+1,MEL,Melbourne,24,19,5,-,2011,N,N
+2,MAN,Manly,24,18,6,-,2011,Y,N
+3,BRI,Brisbane,24,18,6,-,2011,N,N
+4,TIG,Wests Tigers,24,15,9,-,2011,N,N
+5,STG,St George Illawarra,24,14,9,1,2011,N,N
+6,WAR,Warriors,24,14,10,-,2011,N,Y
+7,NOQ,North Queensland,24,14,10,-,2011,N,N
+8,NEC,Newcastle,24,12,12,-,2011,N,N
+9,BUL,Canterbury,24,12,12,-,2011,N,N
+10,SSY,South Sydney,24,11,13,-,2011,N,N
+11,SYD,Sydney,24,10,14,-,2011,N,N
+12,PEN,Penrith,24,9,15,-,2011,N,N
+13,CRO,Cronulla,24,7,17,-,2011,N,N
+14,PAR,Parramatta,24,6,17,1,2011,N,N
+15,CAN,Canberra,24,6,18,-,2011,N,N
+16,GOL,Gold Coast,24,6,18,-,2011,N,N
+1,BUL,Canterbury,24,18,6,-,2012,N,Y
+2,MEL,Melbourne,24,17,7,-,2012,Y,N
+3,SSY,South Sydney,24,16,8,-,2012,N,N
+4,MAN,Manly,24,16,8,-,2012,N,N
+5,NOQ,North Queensland,24,15,9,-,2012,N,N
+6,CAN,Canberra,24,13,11,-,2012,N,N
+7,CRO,Cronulla,24,12,11,1,2012,N,N
+8,BRI,Brisbane,24,12,12,-,2012,N,N
+9,STG,St George Illawarra,24,11,13,-,2012,N,N
+10,TIG,Wests Tigers,24,11,13,-,2012,N,N
+11,GOL,Gold Coast,24,10,14,-,2012,N,N
+12,NEC,Newcastle,24,10,14,-,2012,N,N
+13,SYD,Sydney,24,8,15,1,2012,N,N
+14,WAR,Warriors,24,8,16,-,2012,N,N
+15,PEN,Penrith,24,8,16,-,2012,N,N
+16,PAR,Parramatta,24,6,18,-,2012,N,N
+1,SYD,Sydney,24,18,6,-,2013,Y,N
+2,SSY,South Sydney,24,18,6,-,2013,N,N
+3,MEL,Melbourne,24,16,7,1,2013,N,N
+4,MAN,Manly,24,15,8,1,2013,N,Y
+5,CRO,Cronulla,24,14,10,-,2013,N,N
+6,BUL,Canterbury,24,13,11,-,2013,N,N
+7,NEC,Newcastle,24,12,11,1,2013,N,N
+8,NOQ,North Queensland,24,12,12,-,2013,N,N
+9,GOL,Gold Coast,24,11,13,-,2013,N,N
+10,PEN,Penrith,24,11,13,-,2013,N,N
+11,WAR,Warriors,24,11,13,-,2013,N,N
+12,BRI,Brisbane,24,10,13,1,2013,N,N
+13,CAN,Canberra,24,10,14,-,2013,N,N
+14,STG,St George Illawarra,24,7,17,-,2013,N,N
+15,TIG,Wests Tigers,24,7,17,-,2013,N,N
+16,PAR,Parramatta,24,5,19,-,2013,N,N
+1,SYD,Sydney,24,16,8,-,2014,N,N
+2,MAN,Manly,24,16,8,-,2014,N,N
+3,SSY,South Sydney,24,15,9,-,2014,Y,N
+4,PEN,Penrith,24,15,9,-,2014,N,N
+5,NOQ,North Queensland,24,14,10,-,2014,N,N
+6,MEL,Melbourne,24,14,10,-,2014,N,N
+7,BUL,Canterbury,24,13,11,-,2014,N,Y
+8,BRI,Brisbane,24,12,12,-,2014,N,N
+9,WAR,Warriors,24,12,12,-,2014,N,N
+10,PAR,Parramatta,24,12,12,-,2014,N,N
+11,STG,St George Illawarra,24,11,13,-,2014,N,N
+12,NEC,Newcastle,24,10,14,-,2014,N,N
+13,TIG,Wests Tigers,24,10,14,-,2014,N,N
+14,GOL,Gold Coast,24,9,15,-,2014,N,N
+15,CAN,Canberra,24,8,16,-,2014,N,N
+16,CRO,Cronulla,24,5,19,-,2014,N,N
+1,SYD,Sydney,24,18,6,-,2015,N,N
+2,BRI,Brisbane,24,17,7,-,2015,N,Y
+3,NOQ,North Queensland,24,17,7,-,2015,Y,N
+4,MEL,Melbourne,24,14,10,-,2015,N,N
+5,BUL,Canterbury,24,14,10,-,2015,N,N
+6,CRO,Cronulla,24,14,10,-,2015,N,N
+7,SSY,South Sydney,24,13,11,-,2015,N,N
+8,STG,St George Illawarra,24,12,12,-,2015,N,N
+9,MAN,Manly,24,11,13,-,2015,N,N
+10,CAN,Canberra,24,10,14,-,2015,N,N
+11,PEN,Penrith,24,9,15,-,2015,N,N
+12,PAR,Parramatta,24,9,15,-,2015,N,N
+13,WAR,Warriors,24,9,15,-,2015,N,N
+14,GOL,Gold Coast,24,9,15,-,2015,N,N
+15,TIG,Wests Tigers,24,8,16,-,2015,N,N
+16,NEC,Newcastle,24,8,16,-,2015,N,N
+1,MEL,Melbourne,24,19,5,-,2016,N,Y
+2,CAN,Canberra,24,17,6,1,2016,N,N
+3,CRO,Cronulla,24,17,6,1,2016,Y,N
+4,NOQ,North Queensland,24,15,9,-,2016,N,N
+5,BRI,Brisbane,24,15,9,-,2016,N,N
+6,PEN,Penrith,24,14,10,-,2016,N,N
+7,BUL,Canterbury,24,14,10,-,2016,N,N
+8,GOL,Gold Coast,24,11,12,1,2016,N,N
+9,TIG,Wests Tigers,24,11,13,-,2016,N,N
+10,WAR,Warriors,24,10,14,-,2016,N,N
+11,STG,St George Illawarra,24,10,14,-,2016,N,N
+12,SSY,South Sydney,24,9,15,-,2016,N,N
+13,MAN,Manly,24,8,16,-,2016,N,N
+14,PAR,Parramatta,24,13,11,-,2016,N,N
+15,SYD,Sydney,24,6,18,-,2016,N,N
+16,NEC,Newcastle,24,1,22,1,2016,N,N
+1,MEL,Melbourne,24,20,4,-,2017,Y,N
+2,SYD,Sydney,24,17,7,-,2017,N,N
+3,BRI,Brisbane,24,16,8,-,2017,N,N
+4,PAR,Parramatta,24,16,8,-,2017,N,N
+5,CRO,Cronulla,24,15,9,-,2017,N,N
+6,MAN,Manly,24,14,10,-,2017,N,N
+7,PEN,Penrith,24,13,11,-,2017,N,N
+8,NOQ,North Queensland,24,13,11,-,2017,N,Y
+9,STG,St George Illawarra,24,12,12,-,2017,N,N
+10,CAN,Canberra,24,11,13,-,2017,N,N
+11,BUL,Canterbury,24,10,14,-,2017,N,N
+12,SSY,South Sydney,24,9,15,-,2017,N,N
+13,WAR,Warriors,24,7,17,-,2017,N,N
+14,TIG,Wests Tigers,24,7,17,-,2017,N,N
+15,GOL,Gold Coast,24,7,17,-,2017,N,N
+16,NEC,Newcastle,24,5,19,-,2017,N,N
+1,SYD,Sydney,24,16,8,-,2018,Y,N
+2,MEL,Melbourne,24,16,8,-,2018,N,Y
+3,SSY,South Sydney,24,16,8,-,2018,N,N
+4,CRO,Cronulla,24,16,8,-,2018,N,N
+5,BRI,Brisbane,24,15,9,-,2018,N,N
+,PEN,Penrith,24,15,9,-,2018,N,N
+7,STG,St George Illawarra,24,15,9,-,2018,N,N
+8,WAR,Warriors,24,15,9,-,2018,N,N
+9,TIG,Wests Tigers,24,12,12,-,2018,N,N
+10,CAN,Canberra,24,10,14,-,2018,N,N
+11,NEC,Newcastle,24,9,15,-,2018,N,N
+12,BUL,Canterbury,24,8,16,-,2018,N,N
+13,NOQ,North Queensland,24,8,16,-,2018,N,N
+14,GOL,Gold Coast,24,8,16,-,2018,N,N
+15,MAN,Manly,24,7,17,-,2018,N,N
+16,PAR,Parramatta,24,6,18,-,2018,N,N
+1,MEL,Melbourne,24,20,4,-,2019,N,N
+2,SYD,Sydney,24,17,7,-,2019,Y,N
+3,SSY,South Sydney,24,16,8,-,2019,N,N
+4,CAN,Canberra,24,15,9,-,2019,N,Y
+5,PAR,Parramatta,24,14,10,-,2019,N,N
+6,MAN,Manly,24,14,10,-,2019,N,N
+7,CRO,Cronulla,24,12,12,-,2019,N,N
+8,BRI,Brisbane,24,11,12,1,2019,N,N
+9,TIG,Wests Tigers,24,11,13,-,2019,N,N
+10,PEN,Penrith,24,11,13,-,2019,N,N
+11,NEC,Newcastle,24,10,14,-,2019,N,N
+12,BUL,Canterbury,24,10,14,-,2019,N,N
+13,WAR,Warriors,24,9,14,1,2019,N,N
+14,NOQ,North Queensland,24,9,15,-,2019,N,N
+15,STG,St George Illawarra,24,8,16,-,2019,N,N
+16,GOL,Gold Coast,24,4,20,-,2019,N,N
+1,PEN,Penrith,20,18,1,1,2020,N,Y
+2,MEL,Melbourne,20,16,4,-,2020,Y,N
+3,PAR,Parramatta,20,15,5,-,2020,N,N
+4,SYD,Sydney,20,14,6,-,2020,N,N
+5,CAN,Canberra,20,14,6,-,2020,N,N
+6,SSY,South Sydney,20,12,8,-,2020,N,N
+7,NEC,Newcastle,20,11,8,1,2020,N,N
+8,CRO,Cronulla,20,10,10,-,2020,N,N
+9,GOL,Gold Coast,20,9,11,-,2020,N,N
+10,WAR,Warriors,20,8,12,-,2020,N,N
+11,TIG,Wests Tigers,20,7,13,-,2020,N,N
+12,STG,St George Illawarra,20,7,13,-,2020,N,N
+13,MAN,Manly,20,7,13,-,2020,N,N
+14,NOQ,North Queensland,20,5,15,-,2020,N,N
+15,BUL,Canterbury,20,3,17,-,2020,N,N
+16,BRI,Brisbane,20,3,17,-,2020,N,N
+1,MEL,Melbourne,24,21,3,-,2021,N,N
+2,PEN,Penrith,24,21,3,-,2021,Y,N
+3,SSY,South Sydney,24,20,4,-,2021,N,Y
+4,MAN,Manly,24,16,8,-,2021,N,N
+5,SYD,Sydney,24,16,8,-,2021,N,N
+6,PAR,Parramatta,24,15,9,-,2021,N,N
+7,NEC,Newcastle,24,12,12,-,2021,N,N
+8,GOL,Gold Coast,24,10,14,-,2021,N,N
+9,CRO,Cronulla,24,10,14,-,2021,N,N
+10,CAN,Canberra,24,10,14,-,2021,N,N
+11,STG,St George Illawarra,24,8,16,-,2021,N,N
+12,WAR,Warriors,24,8,16,-,2021,N,N
+13,TIG,Wests Tigers,24,8,16,-,2021,N,N
+14,BRI,Brisbane,24,7,17,-,2021,N,N
+15,NOQ,North Queensland,24,7,17,-,2021,N,N
+16,BUL,Canterbury,24,3,21,-,2021,N,N

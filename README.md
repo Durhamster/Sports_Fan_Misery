@@ -22,6 +22,7 @@ That's what this sets out to do, using the power of data!
 - National Basketball Association (1947 - 2021)
 - National Football League (1932 - 2021)
 - National Hockey League (1918 - 2021)
+- National Rugby League (1998 - 2021)
 - National Women's Soccer League (2013 - 2021)
 - Nippon Professional Baseball (1950 - 2021)
 - Premier league (1996 - 2022, more dates to come)
@@ -35,7 +36,6 @@ That's what this sets out to do, using the power of data!
 - Eredivisie (1956 - 2021)
 - Liga MX (1943 - 2021)
 - Primeira Liga (Dates TBD)
-- National Rugby League (1998 - 2022)
 - NCAA Basketball (Dates vary by Conference)
 - NCAA Football (Dates vary by Conference)
 
