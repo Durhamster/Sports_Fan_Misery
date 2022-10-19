@@ -572,7 +572,7 @@ const misery = function () {
 
   // WNBA
   if (wnba_DD != null) {
-    get_team_selections("bbl_team_options", WNBATeamData, "BBL");
+    get_team_selections("wnba_team_options", WNBATeamData, "BBL");
   }
 
   // Adds up all the wins, draws, and championships

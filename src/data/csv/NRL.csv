@@ -379,3 +379,19 @@ rank,franchID,team,P,W,L,D,yearID,Cwin,CRU
 14,BRI,Brisbane,24,7,17,-,2021,N,N
 15,NOQ,North Queensland,24,7,17,-,2021,N,N
 16,BUL,Canterbury,24,3,21,-,2021,N,N
+1,PEN,Penrith,24,20,4,-,2022,Y,N
+2,CRO,Cronulla,24,18,6,-,2022,N,N
+3,NOQ,North Queensland,24,17,7,-,2022,N,N
+4,PAR,Parramatta,24,16,8,-,2022,N,Y
+5,MEL,Melbourne,24,15,9,-,2022,N,N
+6,SYD,Sydney,24,15,9,-,2022,N,N
+7,SSY,South Sydney,24,14,10,-,2022,N,N
+8,CAN,Canberra,24,14,10,-,2022,N,N
+9,BRI,Brisbane,24,13,11,-,2022,N,N
+10,STG,St George Illawarra,24,12,12,-,2022,N,N
+11,MAN,Manly,24,9,15,-,2022,N,N
+12,BUL,Canterbury,24,7,17,-,2022,N,N
+13,GOL,Gold Coast,24,6,18,-,2022,N,N
+14,NEC,Newcastle,24,6,18,-,2022,N,N
+15,WAR,Warriors,24,6,18,-,2022,N,N
+16,TIG,Wests Tigers,24,4,20,-,2022,N,N
