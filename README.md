@@ -22,12 +22,12 @@ That's what this sets out to do, using the power of data!
 - National Basketball Association (1947 - 2021)
 - National Football League (1932 - 2021)
 - National Hockey League (1918 - 2021)
-- National Rugby League (1998 - 2021)
+- National Rugby League (1998 - 2022)
 - National Women's Soccer League (2013 - 2021)
 - Nippon Professional Baseball (1950 - 2021)
 - Premier league (1996 - 2022, more dates to come)
 - Serie A (1996 - 2022, more dates to come)
-- Women's National Basketball Association (1997 - 2021)
+- Women's National Basketball Association (1997 - 2022)
 
 ## Leagues to Be Added in Future Updates
 
