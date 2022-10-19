@@ -43,7 +43,7 @@ export const footer_content =
   cr_yr +
   `</p>` +
   `<p>Not affiliated with or endorsed by any sports league.` +
-  `<p>All data is up to date as of June ` +
+  `<p>All data is up to date as of October ` +
   data_year +
   `</p> <p>*Seasons are not added until they are completed</p>` +
   `<p><a href="about.html">About</a> | <a href="about.html#contact">Contact</a> | <a href="sources.html">Sources</a></p>`;
