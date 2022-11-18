@@ -26,6 +26,7 @@ export const misery_calculation = function (
     "Mumbai Indians",
     // MLB
     "Boston Red Sox",
+    "Houston Astros",
     "New York Yankees",
     "San Francisco Giants",
     // MLS
@@ -90,7 +91,7 @@ export const misery_calculation = function (
       " Good luck buddy, you and your team(s) are gonna need it.</p>";
   }
   // Once a Decade Dan
-  else if (ch_wins >= 2 && time_per_ch > 10 && time_per_ch < 13) {
+  else if (ch_wins >= 2 && time_per_ch >= 10 && time_per_ch < 13) {
     var misery_level =
       "<h2>Misery Level: Once a Decade Dan/Danielle</h2><p>About once every decade your team(s) bring one home." +
       " You savor those moments because you know the next time you get that feeling, the world will be a different place." +
@@ -100,11 +101,11 @@ export const misery_calculation = function (
   // The Patient One
   else if (ch_wins >= 2 && time_per_ch >= 13 && time_per_ch < 22) {
     var misery_level =
-      "<h2>Misery Level: The Patient One</h2><p>About once every other decade your team(s) bring one home." +
+      "<h2>Misery Level: The Patient One</h2><p>Championships are but a fleeting memories for you." +
       " You savor those moments because you know the next time you get that feeling may not be until your toddler is putting you in debt with their college tuition" +
       " There's probably something the Dali Lama once said that is supposed to make you feel better, but let's be honest," +
       " no buddhist zen is going to stop you from yelling at your team(s) when they choke in the playoffs, if they even manage to qualify." +
-      " Here's to you oh loyal fan. </p>";
+      " Here's to you, oh loyal fan.</p>";
   }
   // The One Realizing It's Not a Phase
   else if (ch_wins >= 2 && time_per_ch >= 22 && time_per_ch <= 65) {
@@ -116,13 +117,21 @@ export const misery_calculation = function (
       " enough to pay off all the debts and time spent since the last big win.</p>";
   }
   // Moderately Happy
-  else if (ch_wins >= 2 && time_per_ch >= 5 && time_per_ch <= 10) {
+  else if (ch_wins >= 2 && time_per_ch >= 5 && time_per_ch < 7.5) {
     var misery_level =
       "<h2>Misery Level: Moderately Happy</h2><p>About once every 5-7 years your team(s) bring one home." +
       " They're not the best, but they're relatively dependable." +
       " They hurt you occasionally and let you down a lot of the time, but you know they only need to make a few adjustments and they'll win it all again." +
       " <br>You picked good team(s) to follow or maybe your parents chose the right place to raise a family." +
       " Sports misery is often a factor, along with quality of schools, that good parents consider when they settle down and raise a family.</p>";
+  }
+  // Fairly Miserable
+  else if (ch_wins >= 2 && time_per_ch >= 7.5 && time_per_ch < 10) {
+    var misery_level =
+      "<h2>Misery Level: Fairly Miserable</h2><p>About once every 8 or 9 years your team(s) finally win one." +
+      " Not great, but only slightly less than a decade." +
+      " Most of the time, they let you down, but you know they only need to make a few adjustments and they'll win it all again." +
+      " <br>You get to bask in that glory for a brief moment, then the wait begins again.</p>";
   }
   // Happy Sports Fan
   else if (ch_wins >= 2 && time_per_ch >= 0 && time_per_ch < 5) {

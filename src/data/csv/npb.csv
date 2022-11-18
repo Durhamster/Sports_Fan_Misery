@@ -878,3 +878,15 @@ TRE,Tohoku,Eagles,2021,P,3,143,66,62,15,N,N
 FUK,Fukuoka,Hawks,2021,P,4,143,60,62,21,N,N
 NIP,Nippon Ham,Fighters,2021,P,5,143,55,68,20,N,N
 SSL,Seibu,Lions,2021,P,6,143,55,70,18,N,N
+TYS,Yakult,Swallows,2022,C,1,143,80,59,4,N,Y
+HAN,Hanshin,Tigers,2022,C,3,143,68,71,4,N,N
+YMG,Yomiuri,Giants,2022,C,4,143,68,72,3,N,N
+HIR,Hiroshima,Carp,2022,C,5,143,66,75,2,N,N
+CDR,Chunichi,Dragons,2022,C,6,143,66,75,2,N,N
+YOK,Yokohama,Bay Stars,2022,C,2,143,73,68,2,N,N
+BUF,Orix,Buffaloes,2022,P,1,143,76,65,2,Y,N
+CLM,Lotte,Marines,2022,P,5,143,69,73,1,N,N
+TRE,Tohoku,Eagles,2022,P,4,143,69,71,3,N,N
+FUK,Fukuoka,Hawks,2022,P,2,143,76,65,2,N,N
+NIP,Nippon Ham,Fighters,2022,P,6,143,59,81,3,N,N
+SSL,Seibu,Lions,2022,P,3,143,72,68,3,N,N

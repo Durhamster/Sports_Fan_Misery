@@ -1558,5 +1558,55 @@
     "T": 3,
     "Cwin": "N",
     "CRU": "N"
+  },
+  {
+    "franchID": "ELE",
+    "name": "CTBC Brothers",
+    "yearID": 2022,
+    "W": 69,
+    "L": 47,
+    "T": 4,
+    "Cwin": "Y",
+    "CRU": "N"
+  },
+  {
+    "franchID": "LIO",
+    "name": "Uni-President Lions",
+    "yearID": 2022,
+    "W": 48,
+    "L": 69,
+    "T": 3,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "MON",
+    "name": "Rakuten Monkeys",
+    "yearID": 2022,
+    "W": 70,
+    "L": 46,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "Y"
+  },
+  {
+    "franchID": "BER",
+    "name": "Fubon Guardians",
+    "yearID": 2022,
+    "W": 46,
+    "L": 70,
+    "T": 4,
+    "Cwin": "N",
+    "CRU": "N"
+  },
+  {
+    "franchID": "DRA",
+    "name": "Wei Chuan Dragons",
+    "yearID": 2022,
+    "W": 57,
+    "L": 58,
+    "T": 5,
+    "Cwin": "N",
+    "CRU": "N"
   }
 ]
