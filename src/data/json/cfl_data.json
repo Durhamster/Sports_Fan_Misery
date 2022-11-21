@@ -8026,5 +8026,113 @@
     "PA": 188,
     "CH": "Won Grey Cup",
     "yearID": 2021
+  },
+  {
+    "franchID": "BCL",
+    "Team": "BC Lions",
+    "W": 12,
+    "L": 6,
+    "T": 0,
+    "Pct.": 0.667,
+    "PF": 525,
+    "PA": 405,
+    "CH": "Lost Division Semifinal",
+    "yearID": 2022
+  },
+  {
+    "franchID": "CAL",
+    "Team": "Calgary Stampeders",
+    "W": 12,
+    "L": 6,
+    "T": 0,
+    "Pct.": 0.667,
+    "PF": 533,
+    "PA": 373,
+    "CH": "",
+    "yearID": 2022
+  },
+  {
+    "franchID": "EDM",
+    "Team": "Edmonton Elks",
+    "W": 4,
+    "L": 14,
+    "T": 0,
+    "Pct.": 0.222,
+    "PF": 354,
+    "PA": 599,
+    "CH": "",
+    "yearID": 2022
+  },
+  {
+    "franchID": "HAM",
+    "Team": "Hamilton Tiger-Cats",
+    "W": 8,
+    "L": 10,
+    "T": 0,
+    "Pct.": 0.444,
+    "PF": 421,
+    "PA": 473,
+    "CH": "",
+    "yearID": 2022
+  },
+  {
+    "franchID": "MON",
+    "Team": "Montreal Alouettes",
+    "W": 9,
+    "L": 9,
+    "T": 0,
+    "Pct.": 0.5,
+    "PF": 471,
+    "PA": 466,
+    "CH": "Lost Division Semifinal",
+    "yearID": 2022
+  },
+  {
+    "franchID": "OTT",
+    "Team": "Ottawa RedBlacks",
+    "W": 4,
+    "L": 14,
+    "T": 0,
+    "Pct.": 0.222,
+    "PF": 370,
+    "PA": 475,
+    "CH": "",
+    "yearID": 2022
+  },
+  {
+    "franchID": "SAK",
+    "Team": "Saskatchewan Roughriders",
+    "W": 6,
+    "L": 12,
+    "T": 0,
+    "Pct.": 0.333,
+    "PF": 370,
+    "PA": 440,
+    "CH": "",
+    "yearID": 2022
+  },
+  {
+    "franchID": "TOR",
+    "Team": "Toronto Argonauts",
+    "W": 11,
+    "L": 7,
+    "T": 0,
+    "Pct.": 0.611,
+    "PF": 443,
+    "PA": 415,
+    "CH": "Won Grey Cup",
+    "yearID": 2022
+  },
+  {
+    "franchID": "WIN",
+    "Team": "Winnipeg Blue Bombers",
+    "W": 15,
+    "L": 3,
+    "T": 0,
+    "Pct.": 0.833,
+    "PF": 538,
+    "PA": 370,
+    "CH": "Lost Grey Cup",
+    "yearID": 2022
   }
 ]
