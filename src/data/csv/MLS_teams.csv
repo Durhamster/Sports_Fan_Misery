@@ -4,7 +4,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 1996,CLM,Columbus Crew,32,11,0,17,4,59,60,-1,37,,Y,N,N,N
 1996,DAL,Dallas Burn,32,12,0,15,5,50,48,2,41,,Y,N,N,N
 1996,SKC,Kansas City Wiz,32,12,0,15,5,61,63,-2,41,,Y,N,N,N
-1996,LAF,Los Angeles Galaxy,32,15,0,13,4,59,49,10,49,1997 CONCACAF Champions' Cup[a],Y,Y,N,N
+1996,LAG,Los Angeles Galaxy,32,15,0,13,4,59,49,10,49,1997 CONCACAF Champions' Cup[a],Y,Y,N,N
 1996,NER,New England Revolution,32,9,0,17,6,43,56,-13,33,,N,N,N,N
 1996,NYB,NY/NJ MetroStars,32,12,0,17,3,45,47,-2,39,,Y,N,N,N
 1996,SJE,San Jose Clash,32,12,0,17,3,50,50,0,39,,Y,N,N,N
@@ -14,7 +14,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 1997,CLM,Columbus Crew,32,12,0,17,3,42,41,1,39,,Y,N,N,N
 1997,DAL,Dallas Burn,32,13,0,16,3,55,49,6,42,,Y,N,N,N
 1997,SKC,Kansas City Wizards,32,14,0,11,7,57,51,6,49,,Y,N,N,N
-1997,LAF,Los Angeles Galaxy,32,14,0,16,2,55,44,11,44,,Y,N,N,N
+1997,LAG,Los Angeles Galaxy,32,14,0,16,2,55,44,11,44,,Y,N,N,N
 1997,NER,New England Revolution,32,11,0,17,4,40,53,-13,37,,N,N,N,N
 1997,NYB,NY/NJ MetroStars,32,11,0,19,2,43,53,-10,35,,N,N,N,N
 1997,SJE,San Jose Clash,32,9,0,20,3,55,59,-4,30,,N,N,N,N
@@ -25,7 +25,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 1998,DCU,D.C. United,32,24,3,8,7,74,48,26,58,,Y,Y,N,N
 1998,DAL,Dallas Burn,32,15,2,17,4,43,59,-16,37,,Y,N,N,N
 1998,SKC,Kansas City Wizards,32,12,4,20,2,45,50,-5,32,,N,N,N,N
-1998,LAF,Los Angeles Galaxy,32,24,2,8,2,85,44,41,68,,N,N,N,Y
+1998,LAG,Los Angeles Galaxy,32,24,2,8,2,85,44,41,68,,N,N,N,Y
 1998,NYB,MetroStars,32,15,4,17,3,54,63,-9,39,,Y,N,N,N
 1998,MIF,Miami Fusion,32,15,0,17,5,46,68,-22,35,,N,N,N,N
 1998,NER,New England Revolution,32,11,4,21,2,53,66,-13,29,,N,N,N,N
@@ -37,7 +37,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 1999,DCU,D.C. United,32,23,3,9,6,65,43,22,57,,Y,Y,Y,Y
 1999,DAL,Dallas Burn,32,19,6,13,3,54,35,19,51,,Y,N,N,N
 1999,SKC,Kansas City Wizards,32,8,6,24,2,33,53,-20,20,,N,N,N,N
-1999,LAF,Los Angeles Galaxy,32,20,4,12,3,49,29,20,54,,Y,Y,N,N
+1999,LAG,Los Angeles Galaxy,32,20,4,12,3,49,29,20,54,,Y,Y,N,N
 1999,NYB,MetroStars,32,7,5,25,3,32,64,-32,15,,N,N,N,N
 1999,MIF,Miami Fusion,32,13,4,19,5,42,59,-17,29,,Y,N,N,N
 1999,NER,New England Revolution,32,12,7,20,5,38,53,-15,26,,N,N,N,N
@@ -49,7 +49,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2000,SKC,Kansas City Wizards,32,16,9,7,,47,29,18,57,"2000 MLS Cup Playoffs, 2002 CONCACAF Champions' Cup",Y,Y,Y,Y
 2000,DCU,D.C. United,32,8,6,18,,44,63,-19,30,,N,N,N,N
 2000,DAL,Dallas Burn,32,14,4,14,,54,54,0,46,2000 MLS Cup Playoffs,Y,N,N,N
-2000,LAF,Los Angeles Galaxy,32,14,8,10,,47,37,10,50,2000 MLS Cup Playoffs,Y,N,N,N
+2000,LAG,Los Angeles Galaxy,32,14,8,10,,47,37,10,50,2000 MLS Cup Playoffs,Y,N,N,N
 2000,NYB,MetroStars,32,17,3,12,,64,56,8,54,2000 MLS Cup Playoffs,Y,N,N,N
 2000,MIF,Miami Fusion,32,12,5,15,,54,56,-2,41,,N,N,N,N
 2000,NER,New England Revolution,32,13,6,13,,47,49,-2,45,2000 MLS Cup Playoffs,Y,N,N,N
@@ -62,7 +62,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2001,DCU,D.C. United,26,8,2,16,,42,50,-8,26,,N,N,N,N
 2001,DAL,Dallas Burn,26,10,5,11,,48,47,1,35,,Y,N,N,N
 2001,SKC,Kansas City Wizards,27,11,3,13,,33,53,-20,36,,Y,N,N,N
-2001,LAF,Los Angeles Galaxy,26,14,5,7,,52,36,16,47,,Y,Y,N,N
+2001,LAG,Los Angeles Galaxy,26,14,5,7,,52,36,16,47,,Y,Y,N,N
 2001,NYB,MetroStars,26,13,3,10,,38,35,3,42,,Y,N,N,N
 2001,MIF,Miami Fusion,26,16,5,5,,57,36,21,53,,Y,N,N,Y
 2001,NER,New England Revolution,27,7,6,14,,35,52,-17,27,,N,N,N,N
@@ -70,7 +70,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2002,CHI,Chicago Fire,28,11,4,13,,43,38,5,37,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
 2002,COL,Colorado Rapids,28,13,4,11,,43,48,-5,43,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
 2002,CLM,Columbus Crew,28,11,5,12,,44,43,1,38,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
-2002,LAF,Los Angeles Galaxy,28,16,3,9,,44,33,11,51,"2003 CONCACAF Champions Cup, 2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,Y,Y,Y
+2002,LAG,Los Angeles Galaxy,28,16,3,9,,44,33,11,51,"2003 CONCACAF Champions Cup, 2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,Y,Y,Y
 2002,DCU,D.C. United,28,9,5,14,,31,40,-9,32,,N,N,N,N
 2002,DAL,Dallas Burn,28,12,7,9,,44,43,1,43,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
 2002,SKC,Kansas City Wizards,28,9,9,10,,37,45,-8,36,"2002 MLS Cup Playoffs, 2003 U.S. Open Cup",Y,N,N,N
@@ -84,7 +84,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2003,DCU,D.C. United,30,10,9,11,,38,36,2,39,,Y,N,N,N
 2003,DAL,Dallas Burn,30,6,5,19,,35,64,-29,23,,N,N,N,N
 2003,SKC,Kansas City Wizards,30,11,9,10,,48,44,4,42,,Y,N,N,N
-2003,LAF,Los Angeles Galaxy,30,9,9,12,,35,35,0,36,,Y,N,N,N
+2003,LAG,Los Angeles Galaxy,30,9,9,12,,35,35,0,36,,Y,N,N,N
 2003,NYB,MetroStars,30,11,9,10,,40,40,0,42,,Y,N,N,N
 2003,NER,New England Revolution,30,12,9,9,,55,47,8,45,,Y,N,N,N
 2004,CHI,Chicago Fire,30,8,9,13,,36,44,-8,33,,N,N,N,N
@@ -93,7 +93,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2004,DCU,D.C. United,30,11,9,10,,43,42,1,42,MLS Cup champion,Y,Y,Y,N
 2004,DAL,Dallas Burn,30,10,6,14,,34,45,-11,36,,N,N,N,N
 2004,SKC,Kansas City Wizards,30,14,7,9,,38,30,8,49,Lamar Hunt U.S. Open Cup champion,Y,Y,N,N
-2004,LAF,Los Angeles Galaxy,30,11,10,9,,42,40,2,43,,Y,N,N,N
+2004,LAG,Los Angeles Galaxy,30,11,10,9,,42,40,2,43,,Y,N,N,N
 2004,NYB,MetroStars,30,11,7,12,,47,49,-2,40,,Y,N,N,N
 2004,NER,New England Revolution,30,8,9,13,,42,43,-1,33,,Y,N,N,N
 2004,SJE,San Jose Earthquakes,30,9,11,10,,41,35,6,38,,Y,N,N,N
@@ -103,7 +103,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2005,CLM,Columbus Crew,32,11,5,16,,34,45,-11,38,,N,N,N,N
 2005,DCU,D.C. United,32,16,6,10,,58,37,21,54,,Y,N,N,N
 2005,DAL,FC Dallas,32,13,9,10,,52,44,8,48,,Y,N,N,N
-2005,LAF,Los Angeles Galaxy,32,13,6,13,,44,45,-1,45,,Y,Y,Y,N
+2005,LAG,Los Angeles Galaxy,32,13,6,13,,44,45,-1,45,,Y,Y,Y,N
 2005,SKC,Kansas City Wizards,32,11,12,9,,52,44,8,45,,N,N,N,N
 2005,NYB,MetroStars,32,12,11,9,,53,49,4,47,,Y,N,N,N
 2005,NER,New England Revolution,32,17,8,7,,55,37,18,59,,Y,Y,N,N
@@ -117,7 +117,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2006,DAL,FC Dallas,32,16,4,12,,48,44,4,52,2007 North American SuperLiga,Y,N,N,N
 2006,HOU,Houston Dynamo,32,11,13,8,,44,40,4,46,2007 CONCACAF Champions' Cup,Y,Y,Y,N
 2006,SKC,Kansas City Wizards,32,10,8,14,,43,45,-2,38,,N,N,N,N
-2006,LAG,LA Galaxy,32,11,6,15,,37,37,0,39,2007 North American SuperLiga,N,N,N,N
+2006,LAG,Los Angeles Galaxy,32,11,6,15,,37,37,0,39,2007 North American SuperLiga,N,N,N,N
 2006,NER,New England Revolution,32,12,12,8,,39,35,4,48,2007 North American SuperLiga,Y,Y,N,N
 2006,NYB,New York Red Bulls,32,9,12,11,,41,41,0,39,2006 MLS Cup Playoffs,Y,N,N,N
 2006,RSL,Real Salt Lake,32,10,9,13,,45,49,-4,39,,N,N,N,N
@@ -129,7 +129,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2007,DAL,FC Dallas,30,13,5,12,,37,44,-7,44,2007 MLS Cup Playoffs,Y,N,N,N
 2007,HOU,Houston Dynamo,30,15,7,8,,43,23,20,52,2008–09 CONCACAF Champions League Group Stage 2,Y,Y,N,N
 2007,SKC,Kansas City Wizards,30,11,7,12,,45,45,0,40,2007 MLS Cup Playoffs,Y,N,N,N
-2007,LAG,LA Galaxy,30,9,7,14,,38,48,-10,34,,N,N,N,N
+2007,LAG,Los Angeles Galaxy,30,9,7,14,,38,48,-10,34,,N,N,N,N
 2007,NER,New England Revolution,30,14,8,8,,51,43,8,50,2008–09 CONCACAF Champions League Preliminary Round 2,Y,Y,Y,N
 2007,NYB,New York Red Bulls,30,12,7,11,,47,45,2,43,2007 MLS Cup Playoffs,Y,N,N,N
 2007,RSL,Real Salt Lake,30,6,9,15,,31,45,-14,27,,N,N,N,N
@@ -141,7 +141,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2008,DAL,FC Dallas,30,8,12,10,,45,41,4,36,,N,N,N,N
 2008,HOU,Houston Dynamo,30,13,12,5,,45,32,13,51,2009–10 CONCACAF Champions League Group Stage 2,Y,N,N,N
 2008,SKC,Kansas City Wizards,30,11,9,10,,37,39,-2,42,2009 North American SuperLiga 4,Y,N,N,N
-2008,LAG,LA Galaxy,30,8,9,13,,55,62,-7,33,,N,N,N,N
+2008,LAG,Los Angeles Galaxy,30,8,9,13,,55,62,-7,33,,N,N,N,N
 2008,CLM,Columbus Crew,30,17,6,7,,50,36,14,57,2009–10 CONCACAF Champions League Group Stage 2,Y,Y,Y,Y
 2008,NER,New England Revolution,30,12,7,11,,40,43,-3,43,2009 North American SuperLiga 4,Y,N,N,N
 2008,NYB,New York Red Bulls,30,10,9,11,,42,48,-6,39,2009–10 CONCACAF Champions League Preliminary Round 3,Y,Y,N,N
@@ -156,7 +156,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2009,DAL,FC Dallas,30,11,6,13,,50,47,3,39,,N,N,N,N
 2009,HOU,Houston Dynamo,30,13,9,8,,39,29,10,48,2010 North American SuperLiga 3,Y,N,N,N
 2009,SKC,Kansas City Wizards,30,8,9,13,,33,42,-9,33,,N,N,N,N
-2009,LAG,LA Galaxy,30,12,12,6,,36,31,5,48,2010–11 CONCACAF Champions League Preliminary Round 2,Y,Y,N,N
+2009,LAG,Los Angeles Galaxy,30,12,12,6,,36,31,5,48,2010–11 CONCACAF Champions League Preliminary Round 2,Y,Y,N,N
 2009,RSL,Real Salt Lake,30,11,7,12,,43,35,8,40,2010–11 CONCACAF Champions League Group Stage 2,Y,Y,Y,N
 2009,NER,New England Revolution,30,11,9,10,,33,37,-4,42,2010 North American SuperLiga 3,Y,N,N,N
 2009,NYB,New York Red Bulls,30,5,6,19,,27,47,-20,21,,N,N,N,N
@@ -170,7 +170,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2010,DAL,FC Dallas,30,12,14,4,,42,28,14,50,2011–12 CONCACAF Champions League Preliminary Round 2,Y,Y,N,N
 2010,HOU,Houston Dynamo,30,9,6,15,,40,49,-9,33,,N,N,N,N
 2010,SKC,Kansas City Wizards,30,11,6,13,,36,35,1,39,,N,N,N,N
-2010,LAG,LA Galaxy,30,18,5,7,,44,26,18,59,2011–12 CONCACAF Champions League Group Stage 2,Y,N,N,Y
+2010,LAG,Los Angeles Galaxy,30,18,5,7,,44,26,18,59,2011–12 CONCACAF Champions League Group Stage 2,Y,N,N,Y
 2010,COL,Colorado Rapids,30,12,10,8,,44,32,12,46,2011–12 CONCACAF Champions League Group Stage 2,Y,Y,Y,N
 2010,NER,New England Revolution,30,9,5,16,,32,50,-18,32,,N,N,N,N
 2010,NYB,New York Red Bulls,30,15,6,9,,38,29,9,51,2011 North American SuperLiga 3,Y,N,N,N
@@ -186,7 +186,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2011,DCU,D.C. United,34,9,12,13,,49,52,-3,39,,N,N,N,N
 2011,DAL,FC Dallas,34,15,7,12,,42,39,3,52,,Y,N,N,N
 2011,HOU,Houston Dynamo,34,12,13,9,,45,41,4,49,2012–13 CONCACAF Champions League Group Stage 2,Y,Y,N,N
-2011,LAG,LA Galaxy,34,19,10,5,,48,28,20,67,2012–13 CONCACAF Champions League Group Stage 2,Y,Y,Y,Y
+2011,LAG,Los Angeles Galaxy,34,19,10,5,,48,28,20,67,2012–13 CONCACAF Champions League Group Stage 2,Y,Y,Y,Y
 2011,NER,New England Revolution,34,5,13,16,,38,58,-20,28,,N,N,N,N
 2011,NYB,New York Red Bulls,34,10,16,8,,50,44,6,46,,Y,N,N,N
 2011,PHI,Philadelphia Union,34,11,15,8,,44,36,8,48,,Y,N,N,N
@@ -205,7 +205,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2012,DAL,FC Dallas,34,9,12,13,,42,47,-5,39,,N,N,N,N
 2012,HOU,Houston Dynamo,34,14,11,9,,48,41,7,53,2013–14 CONCACAF Champions League 1,Y,Y,N,N
 2012,MON,Montreal Impact,34,12,6,16,,45,51,-6,42,,N,N,N,N
-2012,LAG,LA Galaxy,34,16,6,12,,59,47,12,54,2013–14 CONCACAF Champions League 1,Y,Y,Y,N
+2012,LAG,Los Angeles Galaxy,34,16,6,12,,59,47,12,54,2013–14 CONCACAF Champions League 1,Y,Y,Y,N
 2012,NER,New England Revolution,34,9,8,17,,39,44,-5,35,,N,N,N,N
 2012,NYB,New York Red Bulls,34,16,9,9,,57,46,11,57,,Y,N,N,N
 2012,PHI,Philadelphia Union,34,10,6,18,,37,45,-8,36,,N,N,N,N
@@ -223,7 +223,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2013,DCU,D.C. United,34,3,7,24,,22,59,-37,16,2014–15 CONCACAF Champions League 1,N,N,N,N
 2013,DAL,FC Dallas,34,11,11,12,,48,52,-4,44,,N,N,N,N
 2013,HOU,Houston Dynamo,34,14,9,11,,41,41,0,51,,Y,N,N,N
-2013,LAG,LA Galaxy,34,15,8,11,,53,38,15,53,,Y,N,N,N
+2013,LAG,Los Angeles Galaxy,34,15,8,11,,53,38,15,53,,Y,N,N,N
 2013,MON,Montreal Impact,34,14,7,13,,50,49,1,49,2013–14 CONCACAF Champions League 2,N,N,N,N
 2013,NER,New England Revolution,34,14,9,11,,49,38,11,51,,Y,N,N,N
 2013,NYB,New York Red Bulls,34,17,8,9,,58,41,17,59,2014–15 CONCACAF Champions League 1,Y,N,N,Y
@@ -247,7 +247,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2014,NYB,New York Red Bulls,34,13,11,10,,55,50,5,50,,Y,N,N,N
 2014,PHI,Philadelphia Union,34,10,12,12,,51,51,0,42,,N,N,N,N
 2014,POR,Portland Timbers,34,12,13,9,,61,52,9,49,,N,N,N,N
-2014,LAG,LA Galaxy,34,17,10,7,,69,37,32,61,2015–16 CONCACAF Champions League 2,Y,Y,Y,N
+2014,LAG,Los Angeles Galaxy,34,17,10,7,,69,37,32,61,2015–16 CONCACAF Champions League 2,Y,Y,Y,N
 2014,RSL,Real Salt Lake,34,15,11,8,,54,39,15,56,2015–16 CONCACAF Champions League 5,Y,N,N,N
 2014,SJE,San Jose Earthquakes,34,6,12,16,,35,50,-15,30,,N,N,N,N
 2014,SEA,Seattle Sounders FC,34,20,4,10,,65,50,15,64,2015–16 CONCACAF Champions League 1 4,Y,N,N,Y
@@ -260,7 +260,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2015,DCU,D.C. United,34,15,6,13,,43,45,-2,51,,Y,N,N,N
 2015,DAL,FC Dallas,34,18,6,10,,52,39,13,60,2016–17 CONCACAF Champions League,Y,N,N,N
 2015,HOU,Houston Dynamo,34,11,9,14,,42,49,-7,42,,N,N,N,N
-2015,LAG,LA Galaxy,34,14,9,11,,56,46,10,51,,Y,N,N,N
+2015,LAG,Los Angeles Galaxy,34,14,9,11,,56,46,10,51,,Y,N,N,N
 2015,MON,Montreal Impact,34,15,6,13,,48,44,4,51,,Y,N,N,N
 2015,NER,New England Revolution,34,14,8,12,,48,47,1,50,,Y,N,N,N
 2015,NYF,New York City FC,34,10,7,17,,49,58,-9,37,,N,N,N,N
@@ -280,7 +280,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2016,DCU,D.C. United,34,11,13,10,,53,47,6,46,,Y,N,N,N
 2016,DAL,FC Dallas,34,17,9,8,,50,40,10,60,2018 CONCACAF Champions League,Y,N,N,Y
 2016,HOU,Houston Dynamo,34,7,13,14,,39,45,-6,34,,N,N,N,N
-2016,LAG,LA Galaxy,34,12,16,6,,54,39,15,52,,Y,N,N,N
+2016,LAG,Los Angeles Galaxy,34,12,16,6,,54,39,15,52,,Y,N,N,N
 2016,MON,Montreal Impact,34,11,12,11,,49,53,-4,45,,Y,N,N,N
 2016,NER,New England Revolution,34,11,9,14,,44,54,-10,42,,N,N,N,N
 2016,NYF,New York City FC,34,15,9,10,,62,57,5,54,,Y,N,N,N
@@ -301,7 +301,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2017,DCU,D.C. United,34,9,5,20,,31,60,-29,32,,N,N,N,N
 2017,DAL,FC Dallas,34,11,13,10,,48,48,0,46,,N,N,N,N
 2017,HOU,Houston Dynamo,34,13,11,10,,57,45,12,50,,Y,N,N,N
-2017,LAG,LA Galaxy,34,8,8,18,,45,67,-22,32,,N,N,N,N
+2017,LAG,Los Angeles Galaxy,34,8,8,18,,45,67,-22,32,,N,N,N,N
 2017,MIN,Minnesota United FC,34,10,6,18,,47,70,-23,36,,N,N,N,N
 2017,MON,Montreal Impact,34,11,6,17,,52,58,-6,39,,N,N,N,N
 2017,NER,New England Revolution,34,13,6,15,,53,61,-8,45,,N,N,N,N
@@ -322,7 +322,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2018,DCU,D.C. United,34,14,9,11,,60,50,10,51,,Y,N,N,N
 2018,DAL,FC Dallas,34,16,9,9,,52,44,8,57,,Y,N,N,N
 2018,HOU,Houston Dynamo,34,10,8,16,,58,58,0,38,2019 CONCACAF Champions League,N,N,N,N
-2018,LAG,LA Galaxy,34,13,9,12,,66,64,2,48,,N,N,N,N
+2018,LAG,Los Angeles Galaxy,34,13,9,12,,66,64,2,48,,N,N,N,N
 2018,LAF,Los Angeles FC,34,16,9,9,,68,52,16,57,,Y,N,N,N
 2018,MIN,Minnesota United FC,34,11,3,20,,49,71,-22,36,,N,N,N,N
 2018,MON,Montreal Impact,34,14,4,16,,47,53,-6,46,,N,N,N,N
@@ -347,7 +347,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2019,CIN,FC Cincinnati,34,6,6,22,,31,75,-44,24,,N,N,N,N
 2019,DAL,FC Dallas,34,13,9,12,,54,46,8,48,,Y,N,N,N
 2019,HOU,Houston Dynamo,34,12,4,18,,49,59,-10,40,,N,N,N,N
-2019,LAG,LA Galaxy,34,16,3,15,,58,59,-1,51,,Y,N,N,N
+2019,LAG,Los Angeles Galaxy,34,16,3,15,,58,59,-1,51,,Y,N,N,N
 2019,LAF,Los Angeles FC,34,21,9,4,,85,37,48,72,2020 CONCACAF Champions League[a],Y,N,N,Y
 2019,MIN,Minnesota United FC,34,15,8,11,,52,43,9,53,,Y,N,N,N
 2019,MON,Montreal Impact,34,12,5,17,,47,60,-13,41,2020 CONCACAF Champions League[e],N,N,N,N
@@ -371,7 +371,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2020,DAL,FC Dallas,22,9,7,6,,28,24,4,34,,N,N,N,N
 2020,HOU,Houston Dynamo,23,4,9,10,,30,40,-10,21,,N,N,N,N
 2020,MIA,Inter Miami CF,23,7,3,13,,25,35,-10,24,,N,N,N,N
-2020,LAG,LA Galaxy,22,6,4,12,,27,46,-19,22,,N,N,N,N
+2020,LAG,Los Angeles Galaxy,22,6,4,12,,27,46,-19,22,,N,N,N,N
 2020,LAF,Los Angeles FC,22,9,5,8,,47,39,8,32,,N,N,N,N
 2020,MIN,Minnesota United FC,21,9,7,5,,36,26,10,34,,N,N,N,N
 2020,MON,Montreal Impact,23,8,2,13,,33,43,-10,26,,N,N,N,N
@@ -400,7 +400,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2021,DAL,FC Dallas,34,7,12,15,,47,56,-9,33,,N,N,N,N
 2021,HOU,Houston Dynamo FC,34,6,12,16,,36,54,-18,30,,N,N,N,N
 2021,MIA,Inter Miami CF,34,12,5,17,,36,53,-17,41,,N,N,N,N
-2021,LAG,LA Galaxy,34,13,9,12,,50,54,-4,48,,N,N,N,N
+2021,LAG,Los Angeles Galaxy,34,13,9,12,,50,54,-4,48,,N,N,N,N
 2021,LAF,Los Angeles FC,34,12,9,13,,53,51,2,45,,N,N,N,N
 2021,MIN,Minnesota United FC,34,13,10,11,,42,44,-2,49,,Y,N,N,N
 2021,NAS,Nashville SC,34,12,18,4,,55,33,22,54,,Y,N,N,N
@@ -428,7 +428,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2022,DAL,FC Dallas,34,14,11,9,,48,37,11,53,,Y,N,N,N
 2022,HOU,Houston Dynamo FC,34,10,6,18,,43,56,-13,36,,N,N,N,N
 2022,MIA,Inter Miami CF,34,14,6,14,,47,56,-9,48,,Y,N,N,N
-2022,LAG,LA Galaxy,34,14,8,12,,58,51,7,50,,Y,N,N,N
+2022,LAG,Los Angeles Galaxy,34,14,8,12,,58,51,7,50,,Y,N,N,N
 2022,LAF,Los Angeles FC,34,21,4,9,,66,38,28,67,,Y,Y,Y,Y
 2022,MIN,Minnesota United FC,34,14,6,14,,48,51,-3,48,,Y,N,N,N
 2022,NAS,Nashville SC,34,13,11,10,,52,41,11,50,,Y,N,N,N

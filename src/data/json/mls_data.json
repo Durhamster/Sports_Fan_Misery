@@ -96,7 +96,7 @@
   },
   {
     "yearID": 1996,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 15,
@@ -286,7 +286,7 @@
   },
   {
     "yearID": 1997,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 14,
@@ -495,7 +495,7 @@
   },
   {
     "yearID": 1998,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 24,
@@ -723,7 +723,7 @@
   },
   {
     "yearID": 1999,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 20,
@@ -951,7 +951,7 @@
   },
   {
     "yearID": 2000,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 14,
@@ -1198,7 +1198,7 @@
   },
   {
     "yearID": 2001,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 26,
     "W": 14,
@@ -1350,7 +1350,7 @@
   },
   {
     "yearID": 2002,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 28,
     "W": 16,
@@ -1616,7 +1616,7 @@
   },
   {
     "yearID": 2003,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 9,
@@ -1787,7 +1787,7 @@
   },
   {
     "yearID": 2004,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 11,
@@ -1977,7 +1977,7 @@
   },
   {
     "yearID": 2005,
-    "franchID": "LAF",
+    "franchID": "LAG",
     "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 13,
@@ -2244,7 +2244,7 @@
   {
     "yearID": 2006,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 32,
     "W": 11,
     "D": 6,
@@ -2472,7 +2472,7 @@
   {
     "yearID": 2007,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 9,
     "D": 7,
@@ -2700,7 +2700,7 @@
   {
     "yearID": 2008,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 8,
     "D": 9,
@@ -2985,7 +2985,7 @@
   {
     "yearID": 2009,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 12,
     "D": 12,
@@ -3251,7 +3251,7 @@
   {
     "yearID": 2010,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 30,
     "W": 18,
     "D": 5,
@@ -3555,7 +3555,7 @@
   {
     "yearID": 2011,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 19,
     "D": 10,
@@ -3916,7 +3916,7 @@
   {
     "yearID": 2012,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 16,
     "D": 6,
@@ -4258,7 +4258,7 @@
   {
     "yearID": 2013,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 15,
     "D": 8,
@@ -4714,7 +4714,7 @@
   {
     "yearID": 2014,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 17,
     "D": 10,
@@ -4961,7 +4961,7 @@
   {
     "yearID": 2015,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 14,
     "D": 9,
@@ -5341,7 +5341,7 @@
   {
     "yearID": 2016,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 12,
     "D": 16,
@@ -5740,7 +5740,7 @@
   {
     "yearID": 2017,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 8,
     "D": 8,
@@ -6139,7 +6139,7 @@
   {
     "yearID": 2018,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 13,
     "D": 9,
@@ -6614,7 +6614,7 @@
   {
     "yearID": 2019,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 16,
     "D": 3,
@@ -7070,7 +7070,7 @@
   {
     "yearID": 2020,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 22,
     "W": 6,
     "D": 4,
@@ -7621,7 +7621,7 @@
   {
     "yearID": 2021,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 13,
     "D": 9,
@@ -8153,7 +8153,7 @@
   {
     "yearID": 2022,
     "franchID": "LAG",
-    "Team": "LA Galaxy",
+    "Team": "Los Angeles Galaxy",
     "GP": 34,
     "W": 14,
     "D": 8,

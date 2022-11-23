@@ -30,7 +30,7 @@ export const misery_calculation = function (
     "New York Yankees",
     "San Francisco Giants",
     // MLS
-    "Los Angeles Galaxy",
+    "Los Angeles FC",
     "New York City FC",
     // NBA
     "Los Angles Lakers",

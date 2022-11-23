@@ -29,18 +29,25 @@ autocomplete="off">
 
 // Team Data Funcs
 export const NRLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "rugby",
-      "NRL",
-      birth_year,
-      franchiseID,
-      nrl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "rugby",
+    "NRL",
+    birth_year,
+    franchiseID,
+    nrl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -48,5 +55,6 @@ export const NRLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };

@@ -97,18 +97,25 @@ autocomplete="off">
 
 // Team Data Funcs
 export const CPBLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "baseball",
-      "CPBL",
-      birth_year,
-      franchiseID,
-      cpbl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "baseball",
+    "CPBL",
+    birth_year,
+    franchiseID,
+    cpbl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -116,22 +123,30 @@ export const CPBLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const KBOTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "baseball",
-      "KBO",
-      birth_year,
-      franchiseID,
-      kbo_data,
-      "ch_win",
-      "Y",
-      "ch_app",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "baseball",
+    "KBO",
+    birth_year,
+    franchiseID,
+    kbo_data,
+    "ch_win",
+    "Y",
+    "ch_app",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -139,22 +154,30 @@ export const KBOTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const MLBTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "baseball",
-      "MLB",
-      birth_year,
-      franchiseID,
-      mlb_data,
-      "WSWin",
-      "Y",
-      "LgWin",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "baseball",
+    "MLB",
+    birth_year,
+    franchiseID,
+    mlb_data,
+    "WSWin",
+    "Y",
+    "LgWin",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -162,22 +185,30 @@ export const MLBTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const NPBTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "baseball",
-      "NPB",
-      birth_year,
-      franchiseID,
-      npb_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "baseball",
+    "NPB",
+    birth_year,
+    franchiseID,
+    npb_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -185,5 +216,6 @@ export const NPBTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };

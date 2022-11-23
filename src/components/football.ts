@@ -226,18 +226,25 @@ autocomplete="off">
 
 // Team Data Funcs
 export const BUNDESLIGATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "BUNDESLIGA",
-      birth_year,
-      franchiseID,
-      bundesliga_data,
-      "LgRk",
-      "1",
-      "LgRK",
-      "2"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "BUNDESLIGA",
+    birth_year,
+    franchiseID,
+    bundesliga_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
   return {
     total_games,
     total_wins,
@@ -245,22 +252,30 @@ export const BUNDESLIGATeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const EPLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "PREMIER",
-      birth_year,
-      franchiseID,
-      epl_data,
-      "LgRk",
-      "1",
-      "LgRK",
-      "2"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "PREMIER",
+    birth_year,
+    franchiseID,
+    epl_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
   return {
     total_games,
     total_wins,
@@ -268,22 +283,30 @@ export const EPLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const LALIGATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "LALIGA",
-      birth_year,
-      franchiseID,
-      laliga_data,
-      "LgRk",
-      "1",
-      "LgRK",
-      "2"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "LALIGA",
+    birth_year,
+    franchiseID,
+    laliga_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
   return {
     total_games,
     total_wins,
@@ -291,22 +314,30 @@ export const LALIGATeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const LIGUE1TeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "LIGUE1",
-      birth_year,
-      franchiseID,
-      ligue1_data,
-      "LgRk",
-      "1",
-      "LgRK",
-      "2"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "LIGUE1",
+    birth_year,
+    franchiseID,
+    ligue1_data,
+    "LgRk",
+    "1",
+    "LgRK",
+    "2"
+  );
   return {
     total_games,
     total_wins,
@@ -314,22 +345,30 @@ export const LIGUE1TeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const ISLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "ISL",
-      birth_year,
-      franchiseID,
-      isl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "ISL",
+    birth_year,
+    franchiseID,
+    isl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -337,22 +376,30 @@ export const ISLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const MLSTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "MLS",
-      birth_year,
-      franchiseID,
-      mls_data,
-      "ch_win",
-      "Y",
-      "ch_app",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "MLS",
+    birth_year,
+    franchiseID,
+    mls_data,
+    "ch_win",
+    "Y",
+    "ch_app",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -360,22 +407,30 @@ export const MLSTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const NWSLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "NWSL",
-      birth_year,
-      franchiseID,
-      nwsl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "NWSL",
+    birth_year,
+    franchiseID,
+    nwsl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -383,22 +438,30 @@ export const NWSLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const SERIEATeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "football",
-      "SERIEA",
-      birth_year,
-      franchiseID,
-      serie_a_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "football",
+    "SERIEA",
+    birth_year,
+    franchiseID,
+    serie_a_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -406,6 +469,7 @@ export const SERIEATeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 

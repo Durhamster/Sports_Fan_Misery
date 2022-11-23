@@ -79,6 +79,7 @@ export const TeamData = function (
     total_losses += losses;
   }
 
+  // Championship wins & losses
   let ch_win_years: any = team_ch_wins.map((o: any) => o.yearID);
   let ch_wins = Object.keys(ch_win_years).length;
 
@@ -86,7 +87,7 @@ export const TeamData = function (
   let ch_rus = Object.keys(ch_ru_years).length;
 
   // Checks for league. Some data sets use runners up while others count appearances
-  if (league == "MLB") {
+  if (league == "MLB" || league == "MLS") {
     var ch_apps = ch_rus - ch_wins;
   } else {
     var ch_apps = ch_rus;
@@ -94,6 +95,28 @@ export const TeamData = function (
 
   // Total games played & win rate
   let total_games = total_wins + total_draws + total_losses;
+
+  // Checks for Supporters & NWSL Shields (MLS & NWSL)
+  if (league == "MLS") {
+    var shields_won: any = team_year_dict.filter(
+      (o: any) => o["supporters_shield"] == "Y"
+    );
+
+    var shield_years: any = shields_won.map((o: any) => o.yearID);
+    var shields = Object.keys(shield_years).length;
+  } else if (league == "NWSL") {
+    var shields_won: any = team_year_dict.filter(
+      (o: any) => o["NWSL_Shield"] == "Y"
+    );
+
+    var shield_years: any = shields_won.map((o: any) => o.yearID);
+    var shields: number = Object.keys(shield_years).length;
+  } else {
+    var shields: number = 0;
+  }
+
+  console.log(shields);
+
   return {
     total_games,
     total_wins,
@@ -101,5 +124,6 @@ export const TeamData = function (
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };

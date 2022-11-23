@@ -64,18 +64,25 @@ export const nfl_dropdown = `<select
 
 // Team Data Funcs
 export const CFLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "am_football",
-      "CFL",
-      birth_year,
-      franchiseID,
-      cfl_data,
-      "CH",
-      "Won Grey Cup",
-      "CH",
-      "Lost Grey Cup"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "am_football",
+    "CFL",
+    birth_year,
+    franchiseID,
+    cfl_data,
+    "CH",
+    "Won Grey Cup",
+    "CH",
+    "Lost Grey Cup"
+  );
   return {
     total_games,
     total_wins,
@@ -83,22 +90,30 @@ export const CFLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const NFLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "am_football",
-      "NFL",
-      birth_year,
-      franchiseID,
-      nfl_data,
-      "ch_sb_win",
-      "Y",
-      "ch_sb_app",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "am_football",
+    "NFL",
+    birth_year,
+    franchiseID,
+    nfl_data,
+    "ch_sb_win",
+    "Y",
+    "ch_sb_app",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -106,5 +121,6 @@ export const NFLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };

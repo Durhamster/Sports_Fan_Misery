@@ -421,6 +421,7 @@ const misery = function () {
   let grand_champs_apps: any = [];
   let grand_champs_wins: any = [];
   let grand_total_losses: any = [];
+  let grand_total_shields: any = [];
   // Names of chosen teams
   let fav_teams: any = [];
 
@@ -461,8 +462,10 @@ const misery = function () {
       total_losses,
       ch_wins,
       ch_apps,
+      shields,
     } = team_data(birth_year, franchiseID);
 
+    console.log(shields);
     selected_leagues.push(league);
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
@@ -470,6 +473,8 @@ const misery = function () {
     grand_champs_apps.push(ch_apps);
     grand_champs_wins.push(ch_wins);
     grand_total_losses.push(total_losses);
+    grand_total_shields.push(shields);
+    console.log(grand_total_shields);
   };
   // BBL
   if (bbl_DD != null) {
@@ -606,6 +611,11 @@ const misery = function () {
     total_champs_wins += grand_champs_wins[i];
   }
 
+  let total_shields = 0;
+  for (let i = 0; i < grand_total_shields.length; i++) {
+    total_shields += grand_total_shields[i];
+  }
+
   let win_rate = (total_wins / total_games) * 100;
 
   let draw_rate = (total_draws / total_games) * 100;
@@ -651,44 +661,93 @@ const misery = function () {
   }
 
   // Writes results/misery
-  misery_result.innerHTML =
-    "<p>Since you were born in " +
-    birth_year +
-    "...</p>" +
-    "<p>Out of <b>" +
-    total_games.toLocaleString("en-US") +
-    " games played</b> your team(s), have won <b>" +
-    total_wins.toLocaleString("en-US") +
-    " (" +
-    roundNumber(win_rate) +
-    "%)</b> games" +
-    ", tied <b>" +
-    total_draws.toLocaleString("en-US") +
-    " (" +
-    roundNumber(draw_rate) +
-    "%)" +
-    "</b>, and lost <b>" +
-    total_losses.toLocaleString("en-US") +
-    " (" +
-    roundNumber(loss_rate) +
-    "%)" +
-    "</b>.</p>" +
-    "<p>During this time they been the runner-up <b>" +
-    total_champs_apps +
-    "</b> time(s) and have won <b>" +
-    total_champs_wins +
-    " championships.</b>" +
-    asterisk +
-    "</p>" +
-    "<p id='asterisk_note'>" +
-    "<i>" +
-    asterisk_note +
-    "</i>" +
-    "</p>" +
-    years_line +
-    "<div id='misery_level'>" +
-    misery_level +
-    "</div>";
+  // Checks for sports without draws/ties
+  if (total_draws == 0) {
+    var misery_result_p1 =
+      "<p>Since you were born in " +
+      birth_year +
+      "...</p>" +
+      "<p>Out of <b>" +
+      total_games.toLocaleString("en-US") +
+      " games played</b> your team(s), have won <b>" +
+      total_wins.toLocaleString("en-US") +
+      " (" +
+      roundNumber(win_rate) +
+      "%)</b> games" +
+      " and lost <b>" +
+      total_losses.toLocaleString("en-US") +
+      " (" +
+      roundNumber(loss_rate) +
+      "%)" +
+      "</b>.</p>";
+  } else {
+    var misery_result_p1 =
+      "<p>Since you were born in " +
+      birth_year +
+      "...</p>" +
+      "<p>Out of <b>" +
+      total_games.toLocaleString("en-US") +
+      " games played</b> your team(s), have won <b>" +
+      total_wins.toLocaleString("en-US") +
+      " (" +
+      roundNumber(win_rate) +
+      "%)</b> games" +
+      ", tied <b>" +
+      total_draws.toLocaleString("en-US") +
+      " (" +
+      roundNumber(draw_rate) +
+      "%)" +
+      "</b>, and lost <b>" +
+      total_losses.toLocaleString("en-US") +
+      " (" +
+      roundNumber(loss_rate) +
+      "%)" +
+      "</b>.</p>";
+  }
+
+  if (total_shields > 0) {
+    var misery_results_p2 =
+      "<p>During this time they been the runner-up <b>" +
+      total_champs_apps +
+      "</b> time(s) and have won <b>" +
+      total_champs_wins +
+      " championships</b>" +
+      asterisk +
+      " and <b>" +
+      total_shields +
+      " Shields. </b>" +
+      "</p>" +
+      "<p id='asterisk_note'>" +
+      "<i>" +
+      asterisk_note +
+      "</i>" +
+      "</p>" +
+      years_line +
+      "<div id='misery_level'>" +
+      misery_level +
+      "</div>";
+  } else {
+    var misery_results_p2 =
+      "<p>During this time they been the runner-up <b>" +
+      total_champs_apps +
+      "</b> time(s) and have won <b>" +
+      total_champs_wins +
+      " championships.</b>" +
+      asterisk +
+      "</p>" +
+      "<p id='asterisk_note'>" +
+      "<i>" +
+      asterisk_note +
+      "</i>" +
+      "</p>" +
+      years_line +
+      "<div id='misery_level'>" +
+      misery_level +
+      "</div>";
+  }
+
+  // Final Result
+  misery_result.innerHTML = misery_result_p1 + misery_results_p2;
   // Checks values and displays the result
   check_values(birth_year, fav_teams);
 };

@@ -38,18 +38,25 @@ autocomplete="off">
 </select>`;
 
 export const BBLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "cricket",
-      "BBL",
-      birth_year,
-      franchiseID,
-      bbl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "cricket",
+    "BBL",
+    birth_year,
+    franchiseID,
+    bbl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -57,22 +64,30 @@ export const BBLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
 
 export const IPLTeamData = function (birth_year: any, franchiseID: any) {
-  let { total_games, total_wins, total_draws, total_losses, ch_wins, ch_apps } =
-    TeamData(
-      "cricket",
-      "IPL",
-      birth_year,
-      franchiseID,
-      ipl_data,
-      "Cwin",
-      "Y",
-      "CRU",
-      "Y"
-    );
+  let {
+    total_games,
+    total_wins,
+    total_draws,
+    total_losses,
+    ch_wins,
+    ch_apps,
+    shields,
+  } = TeamData(
+    "cricket",
+    "IPL",
+    birth_year,
+    franchiseID,
+    ipl_data,
+    "Cwin",
+    "Y",
+    "CRU",
+    "Y"
+  );
   return {
     total_games,
     total_wins,
@@ -80,5 +95,6 @@ export const IPLTeamData = function (birth_year: any, franchiseID: any) {
     total_losses,
     ch_wins,
     ch_apps,
+    shields,
   };
 };
