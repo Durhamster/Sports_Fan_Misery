@@ -419,6 +419,7 @@ yearID,franchID,Team,GP,W,D,L,SOW,GF,GA,GD,Pts,Qualification,playoffs,ch_app,ch_
 2022,ATL,Atlanta United FC,34,10,10,14,,48,54,-6,40,,N,N,N,N
 2022,AUT,Austin FC,34,16,8,10,,65,49,16,56,,Y,N,N,N
 2022,MON,CF Montreal,34,20,5,9,,63,50,13,65,,Y,N,N,N
+2022,CHR,Charlotte FC,34,13,3,18,,44,52,-8,42,,N,N,N,N
 2022,CHI,Chicago Fire FC,34,10,9,15,,39,48,-9,39,,N,N,N,N
 2022,COL,Colorado Rapids,34,11,10,13,,46,57,-11,43,,N,N,N,N
 2022,CLM,Columbus Crew,34,10,16,8,,46,41,5,46,,N,N,N,N
