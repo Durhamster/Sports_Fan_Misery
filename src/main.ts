@@ -12,6 +12,7 @@ import ligue1_url from "./img/ligue1.png";
 import mlb_url from "./img/mlb.png";
 import mls_url from "./img/mls.png";
 import nba_url from "./img/nba.png";
+import ncaaf_url from "./img/ncaaf.png";
 import nhl_url from "./img/nhl.png";
 import nfl_url from "./img/nfl.png";
 import npb_url from "./img/npb.png";
@@ -44,6 +45,8 @@ import {
 import {
   cfl_dropdown,
   CFLTeamData,
+  ncaaf_dropdown,
+  NCAAFTeamData,
   nfl_dropdown,
   NFLTeamData,
 } from "./components/am_football";
@@ -134,16 +137,20 @@ main_app.innerHTML =
     <label id="ligue1_label" for="ligue1"><img id="ligue1_logo" /></label>
   </li>
   <li>
-    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nba" value="nba"/>
-    <label id="nba_label" for="nba"><img id="nba_logo" /></label>
-  </li>
-  <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="mlb" value="mlb"/>
     <label id="mlb_label" for="mlb"><img id="mlb_logo" /></label>
   </li>
   <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="mls" value="mls"/>
     <label id="mls_label" for="mls"><img id="mls_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="nba" value="nba"/>
+    <label id="nba_label" for="nba"><img id="nba_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="ncaaf" value="ncaaf"/>
+    <label id="ncaaf_label" for="ncaaf"><img id="ncaaf_logo" /></label>
   </li>
   <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="nfl" value="nfl"/>
@@ -211,6 +218,7 @@ document.getElementById("ligue1_logo")!.setAttribute("src", ligue1_url);
 document.getElementById("mlb_logo")!.setAttribute("src", mlb_url);
 document.getElementById("mls_logo")!.setAttribute("src", mls_url);
 document.getElementById("nba_logo")!.setAttribute("src", nba_url);
+document.getElementById("ncaaf_logo")!.setAttribute("src", ncaaf_url);
 document.getElementById("nfl_logo")!.setAttribute("src", nfl_url);
 document.getElementById("nhl_logo")!.setAttribute("src", nhl_url);
 document.getElementById("npb_logo")!.setAttribute("src", npb_url);
@@ -346,6 +354,9 @@ const sports_check = function () {
       if (checked_sports.includes("mls")) {
         misery_div_items = misery_div_items + mls_dropdown;
       }
+      if (checked_sports.includes("ncaaf")) {
+        misery_div_items = misery_div_items + ncaaf_dropdown;
+      }
       if (checked_sports.includes("nfl")) {
         misery_div_items = misery_div_items + nfl_dropdown;
       }
@@ -403,6 +414,7 @@ const misery = function () {
   let mlb_DD = document.querySelector<HTMLElement>("#mlb_team_options")!;
   let mls_DD = document.querySelector<HTMLElement>("#mls_team_options")!;
   let nba_DD = document.querySelector<HTMLElement>("#nba_team_options")!;
+  let ncaaf_DD = document.querySelector<HTMLElement>("#ncaaf_team_options")!;
   let nfl_DD = document.querySelector<HTMLElement>("#nfl_team_options")!;
   let nhl_DD = document.querySelector<HTMLElement>("#nhl_team_options")!;
   let npb_DD = document.querySelector<HTMLElement>("#npb_team_options")!;
@@ -444,6 +456,7 @@ const misery = function () {
       league == "MLB" ||
       league == "MLS" ||
       league == "NBA" ||
+      league == "NCAAF" ||
       league == "NFL" ||
       league == "NPB" ||
       league == "NRL" ||
@@ -465,7 +478,6 @@ const misery = function () {
       shields,
     } = team_data(birth_year, franchiseID);
 
-    console.log(shields);
     selected_leagues.push(league);
     grand_total_games.push(total_games);
     grand_total_wins.push(total_wins);
@@ -474,7 +486,6 @@ const misery = function () {
     grand_champs_wins.push(ch_wins);
     grand_total_losses.push(total_losses);
     grand_total_shields.push(shields);
-    console.log(grand_total_shields);
   };
   // BBL
   if (bbl_DD != null) {
@@ -543,6 +554,11 @@ const misery = function () {
   // NBA
   if (nba_DD != null) {
     get_team_selections("nba_team_options", NBATeamData, "NBA");
+  }
+
+  // NCAAF
+  if (ncaaf_DD != null) {
+    get_team_selections("ncaaf_team_options", NCAAFTeamData, "NCAAF");
   }
 
   // NFL

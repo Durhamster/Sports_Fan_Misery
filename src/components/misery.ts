@@ -36,6 +36,12 @@ export const misery_calculation = function (
     "Los Angles Lakers",
     "Golden State Warriors",
     "Miami Heat",
+    // NCAAF
+    "Alabama",
+    "Clemson",
+    "Michigan",
+    "Ohio State",
+    "USC",
     // NFL
     "Dallas Cowboys",
     "New England Patriots",
@@ -131,7 +137,7 @@ export const misery_calculation = function (
       "<h2>Misery Level: Fairly Miserable</h2><p>About once every 8 or 9 years your team(s) finally win one." +
       " Not great, but only slightly less than a decade." +
       " Most of the time, they let you down, but you know they only need to make a few adjustments and they'll win it all again." +
-      " <br>You get to bask in that glory for a brief moment, then the wait begins again.</p>";
+      " <br>When they do, you'll get to bask in that glory for a brief moment, then the wait begins again.</p>";
   }
   // Happy Sports Fan
   else if (ch_wins >= 2 && time_per_ch >= 0 && time_per_ch < 5) {

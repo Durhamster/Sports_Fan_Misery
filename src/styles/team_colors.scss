@@ -756,6 +756,436 @@ $white: #ffffff;
   }
 }
 
+#ncaaf_team_options {
+  /* ACC */
+  #Boston_College {
+    background-color: #8c2232;
+  }
+  #Clemson {
+    background-color: #f56600;
+  }
+  #Duke {
+    background-color: #003087;
+  }
+  #Florida_State {
+    background-color: #782f40;
+  }
+  #Georgia_Tech {
+    background-color: #003057;
+  }
+  #Louisville {
+    background-color: #ad0000;
+  }
+  #Miami_FL {
+    color: #f47321;
+    background-color: #005030;
+  }
+  #North_Carolina {
+    color: #7bafd4;
+    background-color: #13294b;
+  }
+  #North_Carolina_State {
+    background-color: #cc0000;
+  }
+  #Pitt {
+    background-color: #003594;
+  }
+  #Syracuse {
+    color: #f76900;
+    background-color: #000e54;
+  }
+  #Virginia {
+    background-color: #232d4b;
+  }
+  #Virginia_Tech {
+    background-color: #630031;
+  }
+  #Wake_Forest {
+    background-color: #9e7e38;
+  }
+  /* AAC */
+  #Cincinnati {
+    background-color: $black;
+  }
+  #East_Carolina {
+    background-color: #582c83;
+  }
+  #Houston {
+    background-color: #c92a39;
+  }
+  #Memphis {
+    background-color: #0d3182;
+  }
+  #Navy {
+    color: #b4a87e;
+    background-color: #000048;
+  }
+  #SMU {
+    background-color: #c8102e;
+  }
+  #South_Florida {
+    background-color: #006747;
+  }
+  #Temple {
+    background-color: #981e32;
+  }
+  #Tulane {
+    background-color: #005837;
+  }
+  #Tulsa {
+    background-color: #003366;
+  }
+  #UCF {
+    color: #b7a369;
+    background-color: $black;
+  }
+  /* Big 12 */
+  #Baylor {
+    background-color: #003015;
+  }
+  #Iowa_State {
+    background-color: #c8102e;
+  }
+  #Kansas {
+    background-color: #0051ba;
+  }
+  #Kansas_State {
+    background-color: #512888;
+  }
+  #Oklahoma {
+    background-color: #841617;
+  }
+  #Oklahoma_State {
+    color: $black;
+    background-color: #ff7300;
+  }
+  #Texas {
+    background-color: #bf5700;
+  }
+  #Texas_Christian {
+    background-color: #4d1979;
+  }
+  #Texas_Tech {
+    background-color: #cc0000;
+  }
+  #West_Virginia {
+    color: #eaaa00;
+    background-color: #002855;
+  }
+  /* Big 10 */
+  #Illinois {
+    color: #e84a27;
+    background-color: #13294b;
+  }
+  #Indiana {
+    background-color: #990000;
+  }
+  #Iowa {
+    color: #fcd116;
+    background-color: $black;
+  }
+  #Maryland {
+    background-color: #cf102d;
+  }
+  #Michigan {
+    color: #ffcb05;
+    background-color: #00274c;
+  }
+  #Michigan_State {
+    background-color: #18453b;
+  }
+  #Minnesota {
+    background-color: #862334;
+  }
+  #Nebraska {
+    background-color: #e41c38;
+  }
+  #Northwestern {
+    background-color: #59118e;
+  }
+  #Ohio_State {
+    background-color: #ce0f3d;
+  }
+  #Penn_State {
+    background-color: #002d62;
+  }
+  #Purdue {
+    color: #ceb888;
+    background-color: $black;
+  }
+  #Rutgers {
+    background-color: #cc0033;
+  }
+  #Wisconsin {
+    background-color: #c4012f;
+  }
+  /* Conference USA */
+  #Charolotte {
+    background-color: #00573a;
+  }
+  #Florida_Atlantic {
+    background-color: #003366;
+  }
+  #Florida_International {
+    background-color: #081e3f;
+  }
+  #Louisiana_Tech {
+    background-color: #002f8b;
+  }
+  #Marshall {
+    color: $black;
+    background-color: #00b140;
+  }
+  #Middle_Tennessee_State {
+    background-color: #0066cc;
+  }
+  #North_Texas {
+    background-color: #00853e;
+  }
+  #Old_Dominion {
+    color: #7c878e;
+    background-color: #003057;
+  }
+  #Rice {
+    background-color: #00205b;
+  }
+  #Southern_Mississippi {
+    color: #ffd046;
+    background-color: $black;
+  }
+  #UAB {
+    background-color: #006341;
+  }
+  #UTEP {
+    background-color: #041e42;
+  }
+  #UTSA {
+    background-color: #0c2340;
+  }
+  #Western_Kentucky {
+    background-color: #b01e24;
+  }
+  /* Independent */
+  #Army {
+    color: #d4bf91;
+    background-color: $black;
+  }
+  #BYU {
+    background-color: #002e5d;
+  }
+  #Connecticut {
+    background-color: #000e2f;
+  }
+  #Liberty {
+    background-color: #002d62;
+  }
+  #Massachusetts {
+    background-color: #971b2f;
+  }
+  #New_Mexico_State {
+    background-color: #861f41;
+  }
+  #Notre_Dame {
+    background-color: #0c2340;
+  }
+  /* Mid-American Conference */
+  #Akron {
+    background-color: #041e42;
+  }
+  #Ball_State {
+    background-color: #ba0c2f;
+  }
+  #Bowling_Green_State {
+    background-color: #4f2c1d;
+  }
+  #Buffalo {
+    background-color: #005bbb;
+  }
+  #Central_Michigan {
+    background-color: #6a0032;
+  }
+  #Eastern_Michigan {
+    background-color: #006633;
+  }
+  #Kent_State {
+    background-color: #002664;
+  }
+  #Miami_OH {
+    background-color: #b61e2e;
+  }
+  #Northern_Illinois {
+    background-color: #ba0c2f;
+  }
+  #Ohio {
+    background-color: #00694e;
+  }
+  #Toledo {
+    background-color: #15397f;
+  }
+  #Western_Michigan {
+    background-color: #6c4023;
+  }
+  /* Mountain West Conference */
+  #Air_Force {
+    background-color: #00458b;
+  }
+  #Boise_State {
+    background-color: #0033a0;
+  }
+  #Colorado_State {
+    background-color: #1e4d2b;
+  }
+  #Fresno_State {
+    color: #002e6d;
+    background-color: #db0032;
+  }
+  #Hawaii {
+    background-color: #024731;
+  }
+  #Nevada {
+    background-color: #003366;
+  }
+  #Nevada-Las_Vegas {
+    background-color: #cf0a2c;
+  }
+  #New_Mexico {
+    background-color: #ba0c2f;
+  }
+  #San_Diego_State {
+    color: #a6192e;
+    background-color: $black;
+  }
+  #San_Jose_State {
+    background-color: #0055a2;
+  }
+  #Utah_State {
+    background-color: #0f2439;
+  }
+  #Wyoming {
+    background-color: #492f24;
+  }
+  /* PAC-12 */
+  #Arizona {
+    color: #002147;
+    background-color: #ab0520;
+  }
+  #Arizona_State {
+    color: #ffc72c;
+    background-color: #8e0c3a;
+  }
+  #California {
+    background-color: #041e42;
+  }
+  #Colorado {
+    color: #cfb87c;
+    background-color: $black;
+  }
+  #Oregon {
+    background-color: #154733;
+  }
+  #Oregon_State {
+    color: #dc4405;
+    background-color: $black;
+  }
+  #Stanford {
+    background-color: #8c1515;
+  }
+  #UCLA {
+    background-color: #2d68c4;
+  }
+  #USC {
+    background-color: #990000;
+  }
+  #Utah {
+    background-color: #cc0000;
+  }
+  #Washington {
+    color: #e8d3a2;
+    background-color: #330066;
+  }
+  #Washington_State {
+    background-color: #981e32;
+  }
+  /* Southeastern Conference */
+  #Alabama {
+    background-color: #9e1b32;
+  }
+  #Arkansas {
+    background-color: #9d2235;
+  }
+  #Auburn {
+    color: #e87722;
+    background-color: #0c2340;
+  }
+  #Florida {
+    background-color: #0021a5;
+  }
+  #Georgia {
+    background-color: #ba0c2f;
+  }
+  #Kentucky {
+    background-color: #0033a0;
+  }
+  #LSU {
+    background-color: #461d7c;
+  }
+  #Missouri {
+    background-color: $black;
+  }
+  #Mississippi_State {
+    background-color: #660000;
+  }
+  #Ole_Miss {
+    color: #ce1126;
+    background-color: #14213d;
+  }
+  #South_Carolina {
+    background-color: #73000a;
+  }
+  #Tennessee {
+    background-color: #ff8200;
+  }
+  #Texas_AM {
+    background-color: #500000;
+  }
+  #Vanderbilt {
+    color: #866d4b;
+    background-color: $black;
+  }
+  /* Sun Belt */
+  #Appalachian_State {
+    background-color: $black;
+  }
+  #Arkansas_State {
+    background-color: #cc092f;
+  }
+  #Coastal_Carolina {
+    background-color: #006f71;
+  }
+  #Georgia_Southern {
+    background-color: #011e41;
+  }
+  #Georgia_State {
+    background-color: #0039a6;
+  }
+  #Louisiana {
+    background-color: #ce181e;
+  }
+  #Louisiana-Monroe {
+    color: #fdb913;
+    background-color: #840029;
+  }
+  #South_Alabama {
+    background-color: #00205b;
+  }
+  #Texas_State {
+    background-color: #501214;
+  }
+  #Troy {
+    background-color: #6d0017;
+  }
+}
+
 #nfl_team_options {
   #ARZ {
     background-color: #97233f;

@@ -115,8 +115,6 @@ export const TeamData = function (
     var shields: number = 0;
   }
 
-  console.log(shields);
-
   return {
     total_games,
     total_wins,

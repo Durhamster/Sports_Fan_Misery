@@ -6,9 +6,9 @@ That's what this sets out to do, using the power of data!
 
 [Demo Link](https://durhamster.github.io/Sports_Fan_Misery/)
 
-## Leagues Currently Available*
+## Leagues Currently Available\*
 
-### *Results are not added for a season until completion
+### \*Results are not added for a season until completion
 
 - Big Bash League (2011 - 2021)
 - Bundesliga (1996 - 2022, more dates to come)
@@ -26,6 +26,7 @@ That's what this sets out to do, using the power of data!
 - National Hockey League (1918 - 2021)
 - National Rugby League (1998 - 2022)
 - National Women's Soccer League (2013 - 2022)
+- NCAA Football (Dates vary by Conference)
 - Nippon Professional Baseball (1950 - 2022)
 - Premier league (1996 - 2022, more dates to come)
 - Serie A (1996 - 2022, more dates to come)
@@ -36,10 +37,12 @@ That's what this sets out to do, using the power of data!
 - Australian Football League (Dates TBD)
 - Brasileirão (Dates TBD)
 - Eredivisie (1956 - Present)
+- J1 League (1992 - Present)
+- K1 League (1992 - Present)
 - Liga MX (1943 - Present)
 - Primeira Liga (Dates TBD)
 - NCAA Basketball (Dates vary by Conference)
-- NCAA Football (Dates vary by Conference)
+- Super League (1996 - Present)
 
 ## Leagues With No Current Plans to be added in Future Updates
 

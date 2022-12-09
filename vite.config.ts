@@ -5,7 +5,7 @@ const { resolve } = require("path");
 module.exports = defineConfig({
   base: "/Sports_Fan_Misery/",
   build: {
-    chunkSizeWarningLimit: 2000,
+    chunkSizeWarningLimit: 4000,
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
