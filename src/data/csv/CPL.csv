@@ -1,0 +1,61 @@
+yearID,franchID,Rank,W,L,NR,Playoffs,Cwin,CRU
+2013,Antigua Hawksbills,5,2,5,0,N,N,N
+2013,Barbados Royals,3,4,3,0,Y,N,N
+2013,Guyana Amazon Warriors,1,5,2,0,Y,N,Y
+2013,Jamaica Tallawahs,2,5,2,0,Y,Y,N
+2013,St Lucia Kings,6,2,5,0,N,N,N
+2013,Trinbago Knight Riders,4,3,4,0,Y,N,N
+2014,Antigua Hawksbills,6,1,8,0,N,N,N
+2014,Barbados Royals,1,6,3,0,Y,Y,N
+2014,Guyana Amazon Warriors,2,6,3,0,Y,N,Y
+2014,Jamaica Tallawahs,4,6,3,0,Y,N,N
+2014,St Lucia Kings,5,2,7,0,N,N,N
+2014,Trinbago Knight Riders,3,6,3,0,Y,N,N
+2015,Barbados Royals,1,6,4,0,Y,N,Y
+2015,Guyana Amazon Warriors,2,5,4,1,Y,N,N
+2015,Jamaica Tallawahs,4,4,5,1,Y,N,N
+2015,St Kitts & Nevis Patriots,6,4,6,0,N,N,N
+2015,St Lucia Kings,5,4,5,0,N,N,N
+2015,Trinbago Knight Riders,3,5,4,1,Y,Y,N
+2016,Barbados Royals,5,3,6,1,N,N,N
+2016,Guyana Amazon Warriors,1,7,4,0,Y,N,Y
+2016,Jamaica Tallawahs,2,6,3,1,Y,Y,N
+2016,St Kitts & Nevis Patriots,6,2,8,0,N,N,N
+2016,St Lucia Kings,3,6,4,0,Y,N,N
+2016,Trinbago Knight Riders,4,5,5,0,Y,N,N
+2017,Barbados Royals,5,4,6,0,N,N,N
+2017,Guyana Amazon Warriors,4,5,5,0,Y,N,N
+2017,Jamaica Tallawahs,3,6,4,0,Y,N,N
+2017,St Kitts & Nevis Patriots,2,6,3,1,Y,N,Y
+2017,St Lucia Kings,6,0,9,1,N,N,N
+2017,Trinbago Knight Riders,1,8,2,0,Y,Y,N
+2018,Barbados Royals,6,2,8,0,N,N,N
+2018,Guyana Amazon Warriors,2,6,4,0,Y,N,Y
+2018,Jamaica Tallawahs,3,6,4,0,Y,N,N
+2018,St Kitts & Nevis Patriots,4,5,4,1,Y,N,N
+2018,St Lucia Kings,5,3,6,1,N,N,N
+2018,Trinbago Knight Riders,1,7,3,0,Y,Y,N
+2019,Barbados Royals,2,5,5,0,Y,Y,N
+2019,Guyana Amazon Warriors,1,10,0,0,Y,N,Y
+2019,Jamaica Tallawahs,6,2,8,0,N,N,N
+2019,St Kitts & Nevis Patriots,3,5,5,0,Y,N,N
+2019,St Lucia Kings,5,3,6,1,N,N,N
+2019,Trinbago Knight Riders,4,4,5,1,Y,N,N
+2020,Barbados Royals,5,2,7,0,N,N,N
+2020,Guyana Amazon Warriors,2,6,4,0,Y,N,N
+2020,Jamaica Tallawahs,4,3,6,1,Y,N,N
+2020,St Kitts & Nevis Patriots,6,1,8,1,N,N,N
+2020,St Lucia Kings,3,6,4,0,Y,N,Y
+2020,Trinbago Knight Riders,1,10,0,0,Y,Y,N
+2021,Barbados Royals,6,3,7,0,N,N,N
+2021,Guyana Amazon Warriors,2,6,4,0,Y,N,N
+2021,Jamaica Tallawahs,5,4,6,0,N,N,N
+2021,St Kitts & Nevis Patriots,3,6,4,0,Y,Y,N
+2021,St Lucia Kings,4,5,5,0,Y,N,Y
+2021,Trinbago Knight Riders,1,6,4,0,Y,N,N
+2022,Barbados Royals,1,8,2,0,Y,N,Y
+2022,Guyana Amazon Warriors,2,5,4,1,Y,N,N
+2022,Jamaica Tallawahs,4,4,5,1,Y,Y,N
+2022,St Kitts & Nevis Patriots,5,3,5,2,N,N,N
+2022,St Lucia Kings,3,4,5,1,Y,N,N
+2022,Trinbago Knight Riders,6,3,6,1,N,N,N

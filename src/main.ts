@@ -2,6 +2,7 @@
 import bbl_url from "./img/bbl.png";
 import bungesliga_url from "./img/bundesliga.png";
 import cfl_url from "./img/cfl.png";
+import cpl_url from "./img/cpl.png";
 import cpbl_url from "./img/cpbl.png";
 import epl_url from "./img/epl.png";
 import ipl_url from "./img/ipl.png";
@@ -59,6 +60,8 @@ import {
 import {
   bbl_dropdown,
   BBLTeamData,
+  cpl_dropdown,
+  CPLTeamData,
   ipl_dropdown,
   IPLTeamData,
 } from "./components/cricket";
@@ -107,6 +110,10 @@ main_app.innerHTML =
   <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="cfl" value="cfl"/>
     <label id="cfl_label" for="cfl"><img id="cfl_logo" /></label>
+  </li>
+  <li>
+    <input class="sports_checkbox" type="checkbox" name="sports_check" id="cpl" value="cpl"/>
+    <label id="cpl_label" for="cpl"><img id="cpl_logo" /></label>
   </li>
   <li>
     <input class="sports_checkbox" type="checkbox" name="sports_check" id="cpbl" value="cpbl"/>
@@ -208,6 +215,7 @@ footer.innerHTML = footer_content;
 document.getElementById("bbl_logo")!.setAttribute("src", bbl_url);
 document.getElementById("bundesliga_logo")!.setAttribute("src", bungesliga_url);
 document.getElementById("cfl_logo")!.setAttribute("src", cfl_url);
+document.getElementById("cpl_logo")!.setAttribute("src", cpl_url);
 document.getElementById("cpbl_logo")!.setAttribute("src", cpbl_url);
 document.getElementById("epl_logo")!.setAttribute("src", epl_url);
 document.getElementById("ipl_logo")!.setAttribute("src", ipl_url);
@@ -324,6 +332,9 @@ const sports_check = function () {
       if (checked_sports.includes("cfl")) {
         misery_div_items = misery_div_items + cfl_dropdown;
       }
+      if (checked_sports.includes("cpl")) {
+        misery_div_items = misery_div_items + cpl_dropdown;
+      }
       if (checked_sports.includes("cpbl")) {
         misery_div_items = misery_div_items + cpbl_dropdown;
       }
@@ -404,6 +415,7 @@ const misery = function () {
     "#bundesliga_team_options"
   )!;
   let cfl_DD = document.querySelector<HTMLElement>("#cfl_team_options")!;
+  let cpl_DD = document.querySelector<HTMLElement>("#cpl_team_options")!;
   let cpbl_DD = document.querySelector<HTMLElement>("#cpbl_team_options")!;
   let epl_DD = document.querySelector<HTMLElement>("#epl_team_options")!;
   let ipl_DD = document.querySelector<HTMLElement>("#ipl_team_options")!;
@@ -449,6 +461,7 @@ const misery = function () {
 
     if (
       league == "CFL" ||
+      league == "CPL" ||
       league == "CPBL" ||
       league == "IPL" ||
       league == "ISL" ||
@@ -504,6 +517,11 @@ const misery = function () {
   // CFL
   if (cfl_DD != null) {
     get_team_selections("cfl_team_options", CFLTeamData, "CFL");
+  }
+
+  // CPL
+  if (cpl_DD != null) {
+    get_team_selections("cpl_team_options", CPLTeamData, "CPL");
   }
 
   // CPBL

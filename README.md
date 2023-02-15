@@ -13,6 +13,7 @@ That's what this sets out to do, using the power of data!
 - Big Bash League (2011 - 2021)
 - Bundesliga (1996 - 2022, more dates to come)
 - Canadian Football League (1945 - 2022)
+- Caribbean Premier League (2013 - 2022)
 - Chinese Professional Baseball League - Taiwan (1990 - 2022)
 - Indian Premier League (2008 - 2022)
 - Indian Super League (2014 - 2021)
