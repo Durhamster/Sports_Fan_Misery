@@ -1,4 +1,5 @@
 ﻿yearID,franchID,Lg,Tm,W,L,T,Div. Finish,Playoffs,ch_sb_win,ch_sb_app
+2022,ARZ,NFL,Arizona Cardinals,4,13,0,4th of 4,,N,N
 2021,ARZ,NFL,Arizona Cardinals,11,6,0,2nd of 4,Lost WC,N,N
 2020,ARZ,NFL,Arizona Cardinals,8,8,0,3rd of 4,,N,N
 2019,ARZ,NFL,Arizona Cardinals,5,10,1,4th of 4,,N,N
@@ -101,6 +102,7 @@
 1922,ARZ,NFL,Chicago Cardinals,8,3,0,3rd of 18,,N,N
 1921,ARZ,APFA,Chicago Cardinals,3,3,2,8th of 21,,N,N
 1920,ARZ,APFA,Chicago Cardinals,6,2,2,4th of 14,,N,N
+2022,ATL,NFL,Atlanta Falcons,7,10,0,4th of 4,,N,N
 2021,ATL,NFL,Atlanta Falcons,7,10,0,3rd of 4,,N,N
 2020,ATL,NFL,Atlanta Falcons,4,12,0,4th of 4,,N,N
 2019,ATL,NFL,Atlanta Falcons,7,9,0,2nd of 4,,N,N
@@ -157,6 +159,7 @@
 1968,ATL,NFL,Atlanta Falcons,2,12,0,4th of 4,,N,N
 1967,ATL,NFL,Atlanta Falcons,1,12,1,4th of 4,,N,N
 1966,ATL,NFL,Atlanta Falcons,3,11,0,7th of 8,,N,N
+2022,BAL,NFL,Baltimore Ravens,10,7,0,2nd of 4,Lost WC,N,N
 2021,BAL,NFL,Baltimore Ravens,8,9,0,4th of 4,,N,N
 2020,BAL,NFL,Baltimore Ravens,11,5,0,2nd of 4,Lost Div,N,N
 2019,BAL,NFL,Baltimore Ravens,14,2,0,1st of 4,Lost Div,N,N
@@ -183,6 +186,7 @@
 1998,BAL,NFL,Baltimore Ravens,6,10,0,4th of 5,,N,N
 1997,BAL,NFL,Baltimore Ravens,6,9,1,5th of 5,,N,N
 1996,BAL,NFL,Baltimore Ravens,4,12,0,5th of 5,,N,N
+2022,BUF,NFL,Buffalo Bills,13,3,0,1st of 4,Lost Div,N,N
 2021,BUF,NFL,Buffalo Bills,11,6,0,1st of 4,Lost Div,N,N
 2020,BUF,NFL,Buffalo Bills,13,3,0,1st of 4,Lost Conf,N,N
 2019,BUF,NFL,Buffalo Bills,10,6,0,2nd of 4,Lost WC,N,N
@@ -245,6 +249,7 @@
 1962,BUF,AFL,Buffalo Bills,7,6,1,3rd of 4,,N,N
 1961,BUF,AFL,Buffalo Bills,6,8,0,4th of 4,,N,N
 1960,BUF,AFL,Buffalo Bills,5,8,1,3rd of 4,,N,N
+2022,CAR,NFL,Carolina Panthers,7,10,0,2nd of 4,,N,N
 2021,CAR,NFL,Carolina Panthers,5,12,0,4th of 4,,N,N
 2020,CAR,NFL,Carolina Panthers,5,11,0,3rd of 4,,N,N
 2019,CAR,NFL,Carolina Panthers,5,11,0,4th of 4,,N,N
@@ -272,6 +277,7 @@
 1997,CAR,NFL,Carolina Panthers,7,9,0,2nd of 5,,N,N
 1996,CAR,NFL,Carolina Panthers,12,4,0,1st of 5,Lost Conf,N,N
 1995,CAR,NFL,Carolina Panthers,7,9,0,4th of 5,,N,N
+2022,CHI,NFL,Chicago Bears,6,11,0,3rd of 4,,N,N
 2021,CHI,NFL,Chicago Bears,6,11,0,3rd of 4,,N,N
 2020,CHI,NFL,Chicago Bears,8,8,0,2nd of 4,Lost WC,N,N
 2019,CHI,NFL,Chicago Bears,8,8,0,3rd of 4,,N,N
@@ -374,6 +380,7 @@
 1922,CHI,NFL,Chicago Bears,9,3,0,2nd of 18,,N,N
 1921,CHI,APFA,Chicago Staleys,9,1,1,1st of 21,Won Champ,Y,Y
 1920,CHI,APFA,Decatur Staleys,10,1,2,2nd of 14,,N,N
+2022,CIN,NFL,Cincinnati Bengals,12,4,0,1st of 4,Lost Conf,N,N
 2021,CIN,NFL,Cincinnati Bengals,10,7,0,1st of 4,Lost SB,N,Y
 2020,CIN,NFL,Cincinnati Bengals,4,11,1,4th of 4,,N,N
 2019,CIN,NFL,Cincinnati Bengals,2,14,0,4th of 4,,N,N
@@ -428,6 +435,7 @@
 1970,CIN,NFL,Cincinnati Bengals,8,6,0,1st of 4,Lost Div,N,N
 1969,CIN,AFL,Cincinnati Bengals,4,9,1,5th of 5,,N,N
 1968,CIN,AFL,Cincinnati Bengals,3,11,0,5th of 5,,N,N
+2022,CLE,NFL,Cleveland Browns,7,10,0,4th of 4,,N,N
 2021,CLE,NFL,Cleveland Browns,8,9,0,3rd of 4,,N,N
 2020,CLE,NFL,Cleveland Browns,11,5,0,3rd of 4,Lost Div,N,N
 2019,CLE,NFL,Cleveland Browns,6,10,0,3rd of 4,,N,N
@@ -501,6 +509,7 @@
 1948,CLE,AAFC,Cleveland Browns,14,0,0,1st of 4,Won Champ,Y,Y
 1947,CLE,AAFC,Cleveland Browns,12,1,1,1st of 4,Won Champ,Y,Y
 1946,CLE,AAFC,Cleveland Browns,12,2,0,1st of 4,Won Champ,Y,Y
+2022,DAL,NFL,Dallas Cowboys,12,5,0,2nd of 4,Lost Div,N,N
 2021,DAL,NFL,Dallas Cowboys,12,5,0,1st of 4,Lost WC,N,N
 2020,DAL,NFL,Dallas Cowboys,6,10,0,3rd of 4,,N,N
 2019,DAL,NFL,Dallas Cowboys,8,8,0,2nd of 4,,N,N
@@ -563,6 +572,7 @@
 1962,DAL,NFL,Dallas Cowboys,5,8,1,5th of 7,,N,N
 1961,DAL,NFL,Dallas Cowboys,4,9,1,6th of 7,,N,N
 1960,DAL,NFL,Dallas Cowboys,0,11,1,7th of 7,,N,N
+2022,DEN,NFL,Denver Broncos,5,12,0,4th of 4,,N,N
 2021,DEN,NFL,Denver Broncos,7,10,0,4th of 4,,N,N
 2020,DEN,NFL,Denver Broncos,5,11,0,4th of 4,,N,N
 2019,DEN,NFL,Denver Broncos,7,9,0,2nd of 4,,N,N
@@ -625,6 +635,7 @@
 1962,DEN,AFL,Denver Broncos,7,7,0,2nd of 4,,N,N
 1961,DEN,AFL,Denver Broncos,3,11,0,3rd of 4,,N,N
 1960,DEN,AFL,Denver Broncos,4,9,1,4th of 4,,N,N
+2022,DET,NFL,Detroit Lions,9,8,0,2nd of 4,,N,N
 2021,DET,NFL,Detroit Lions,3,13,1,4th of 4,,N,N
 2020,DET,NFL,Detroit Lions,5,11,0,4th of 4,,N,N
 2019,DET,NFL,Detroit Lions,3,12,1,4th of 4,,N,N
@@ -717,6 +728,7 @@
 1932,DET,NFL,Portsmouth Spartans,6,2,4,3rd of 8,,N,N
 1931,DET,NFL,Portsmouth Spartans,11,3,0,2nd of 10,,N,N
 1930,DET,NFL,Portsmouth Spartans,5,6,3,7th of 11,,N,N
+2022,GBP,NFL,Green Bay Packers,8,9,0,3rd of 4,,N,N
 2021,GBP,NFL,Green Bay Packers,13,4,0,1st of 4,Lost Div,N,N
 2020,GBP,NFL,Green Bay Packers,13,3,0,1st of 4,Lost Conf,N,N
 2019,GBP,NFL,Green Bay Packers,13,3,0,1st of 4,Lost Conf,N,N
@@ -818,6 +830,7 @@
 1923,GBP,NFL,Green Bay Packers,7,2,1,3rd of 20,,N,N
 1922,GBP,NFL,Green Bay Packers,4,3,3,7th of 18,,N,N
 1921,GBP,APFA,Green Bay Packers,3,2,1,6th of 21,,N,N
+2022,HOU,NFL,Houston Texans,3,13,1,4th of 4,,N,N
 2021,HOU,NFL,Houston Texans,4,13,0,3rd of 4,,N,N
 2020,HOU,NFL,Houston Texans,4,12,0,3rd of 4,,N,N
 2019,HOU,NFL,Houston Texans,10,6,0,1st of 4,Lost Div,N,N
@@ -838,6 +851,7 @@
 2004,HOU,NFL,Houston Texans,7,9,0,3rd of 4,,N,N
 2003,HOU,NFL,Houston Texans,5,11,0,4th of 4,,N,N
 2002,HOU,NFL,Houston Texans,4,12,0,4th of 4,,N,N
+2022,IND,NFL,Indianapolis Colts,4,12,1,3rd of 4,,N,N
 2021,IND,NFL,Indianapolis Colts,9,8,0,2nd of 4,,N,N
 2020,IND,NFL,Indianapolis Colts,11,5,0,2nd of 4,Lost WC,N,N
 2019,IND,NFL,Indianapolis Colts,7,9,0,3rd of 4,,N,N
@@ -907,6 +921,7 @@
 1955,IND,NFL,Baltimore Colts,5,6,1,4th of 6,,N,N
 1954,IND,NFL,Baltimore Colts,3,9,0,6th of 6,,N,N
 1953,IND,NFL,Baltimore Colts,3,9,0,5th of 6,,N,N
+2022,JAX,NFL,Jacksonville Jaguars,9,8,0,1st of 4,Lost Div,N,N
 2021,JAX,NFL,Jacksonville Jaguars,3,14,0,4th of 4,,N,N
 2020,JAX,NFL,Jacksonville Jaguars,1,15,0,4th of 4,,N,N
 2019,JAX,NFL,Jacksonville Jaguars,6,10,0,4th of 4,,N,N
@@ -934,6 +949,7 @@
 1997,JAX,NFL,Jacksonville Jaguars,11,5,0,2nd of 5,Lost WC,N,N
 1996,JAX,NFL,Jacksonville Jaguars,9,7,0,2nd of 5,Lost Conf,N,N
 1995,JAX,NFL,Jacksonville Jaguars,4,12,0,5th of 5,,N,N
+2022,KCC,NFL,Kansas City Chiefs,14,3,0,1st of 4,Won SB,Y,Y
 2021,KCC,NFL,Kansas City Chiefs,12,5,0,1st of 4,Lost Conf,N,N
 2020,KCC,NFL,Kansas City Chiefs,14,2,0,1st of 4,Lost SB,N,Y
 2019,KCC,NFL,Kansas City Chiefs,12,4,0,1st of 4,Won SB,Y,Y
@@ -996,68 +1012,7 @@
 1962,KCC,AFL,Dallas Texans,11,3,0,1st of 4,Won Champ,Y,Y
 1961,KCC,AFL,Dallas Texans,6,8,0,2nd of 4,,N,N
 1960,KCC,AFL,Dallas Texans,8,6,0,2nd of 4,,N,N
-2021,LVR,NFL,Las Vegas Raiders,10,7,0,2nd of 4,Lost WC,N,N
-2020,LVR,NFL,Las Vegas Raiders,8,8,0,2nd of 4,,N,N
-2019,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
-2018,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
-2017,LVR,NFL,Oakland Raiders,6,10,0,3rd of 4,,N,N
-2016,LVR,NFL,Oakland Raiders,12,4,0,2nd of 4,Lost WC,N,N
-2015,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
-2014,LVR,NFL,Oakland Raiders,3,13,0,4th of 4,,N,N
-2013,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
-2012,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
-2011,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
-2010,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
-2009,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
-2008,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
-2007,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
-2006,LVR,NFL,Oakland Raiders,2,14,0,4th of 4,,N,N
-2005,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
-2004,LVR,NFL,Oakland Raiders,5,11,0,4th of 4,,N,N
-2003,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
-2002,LVR,NFL,Oakland Raiders,11,5,0,1st of 4,Lost SB,N,Y
-2001,LVR,NFL,Oakland Raiders,10,6,0,1st of 5,Lost Div,N,N
-2000,LVR,NFL,Oakland Raiders,12,4,0,1st of 5,Lost Conf,N,N
-1999,LVR,NFL,Oakland Raiders,8,8,0,4th of 5,,N,N
-1998,LVR,NFL,Oakland Raiders,8,8,0,2nd of 5,,N,N
-1997,LVR,NFL,Oakland Raiders,4,12,0,4th of 5,,N,N
-1996,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
-1995,LVR,NFL,Oakland Raiders,8,8,0,5th of 5,,N,N
-1994,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,,N,N
-1993,LVR,NFL,Los Angeles Raiders,10,6,0,2nd of 5,Lost Div,N,N
-1992,LVR,NFL,Los Angeles Raiders,7,9,0,4th of 5,,N,N
-1991,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,Lost WC,N,N
-1990,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Conf,N,N
-1989,LVR,NFL,Los Angeles Raiders,8,8,0,3rd of 5,,N,N
-1988,LVR,NFL,Los Angeles Raiders,7,9,0,3rd of 5,,N,N
-1987,LVR,NFL,Los Angeles Raiders,5,10,0,4th of 5,,N,N
-1986,LVR,NFL,Los Angeles Raiders,8,8,0,4th of 5,,N,N
-1985,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Div,N,N
-1984,LVR,NFL,Los Angeles Raiders,11,5,0,3rd of 5,Lost WC,N,N
-1983,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Won SB,Y,Y
-1982,LVR,NFL,Los Angeles Raiders,8,1,0,1st of 5,Lost Div,N,N
-1981,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
-1980,LVR,NFL,Oakland Raiders,11,5,0,2nd of 5,Won SB,Y,Y
-1979,LVR,NFL,Oakland Raiders,9,7,0,4th of 5,,N,N
-1978,LVR,NFL,Oakland Raiders,9,7,0,2nd of 5,,N,N
-1977,LVR,NFL,Oakland Raiders,11,3,0,2nd of 5,Lost Conf,N,N
-1976,LVR,NFL,Oakland Raiders,13,1,0,1st of 5,Won SB,Y,Y
-1975,LVR,NFL,Oakland Raiders,11,3,0,1st of 4,Lost Conf,N,N
-1974,LVR,NFL,Oakland Raiders,12,2,0,1st of 4,Lost Conf,N,N
-1973,LVR,NFL,Oakland Raiders,9,4,1,1st of 4,Lost Conf,N,N
-1972,LVR,NFL,Oakland Raiders,10,3,1,1st of 4,Lost Div,N,N
-1971,LVR,NFL,Oakland Raiders,8,4,2,2nd of 4,,N,N
-1970,LVR,NFL,Oakland Raiders,8,4,2,1st of 4,Lost Conf,N,N
-1969,LVR,AFL,Oakland Raiders,12,1,1,1st of 5,Lost Conf,N,N
-1968,LVR,AFL,Oakland Raiders,12,2,0,1st of 5,Lost Conf,N,N
-1967,LVR,AFL,Oakland Raiders,13,1,0,1st of 4,Lost SB,N,Y
-1966,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
-1965,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
-1964,LVR,AFL,Oakland Raiders,5,7,2,3rd of 4,,N,N
-1963,LVR,AFL,Oakland Raiders,10,4,0,2nd of 4,,N,N
-1962,LVR,AFL,Oakland Raiders,1,13,0,4th of 4,,N,N
-1961,LVR,AFL,Oakland Raiders,2,12,0,4th of 4,,N,N
-1960,LVR,AFL,Oakland Raiders,6,8,0,3rd of 4,,N,N
+2022,LAC,NFL,Los Angeles Chargers,10,7,0,2nd of 4,Lost WC,N,N
 2021,LAC,NFL,Los Angeles Chargers,9,8,0,3rd of 4,,N,N
 2020,LAC,NFL,Los Angeles Chargers,7,9,0,3rd of 4,,N,N
 2019,LAC,NFL,Los Angeles Chargers,5,11,0,4th of 4,,N,N
@@ -1120,6 +1075,7 @@
 1962,LAC,AFL,San Diego Chargers,4,10,0,3rd of 4,,N,N
 1961,LAC,AFL,San Diego Chargers,12,2,0,1st of 4,Lost Champ,N,Y
 1960,LAC,AFL,Los Angeles Chargers,10,4,0,1st of 4,Lost Champ,N,Y
+2022,LAR,NFL,Los Angeles Rams,5,12,0,3rd of 4,,N,N
 2021,LAR,NFL,Los Angeles Rams,12,5,0,1st of 4,Won SB,Y,Y
 2020,LAR,NFL,Los Angeles Rams,10,6,0,2nd of 4,Lost Div,N,N
 2019,LAR,NFL,Los Angeles Rams,9,7,0,3rd of 4,,N,N
@@ -1204,6 +1160,70 @@
 1939,LAR,NFL,Cleveland Rams,5,5,1,4th of 5,,N,N
 1938,LAR,NFL,Cleveland Rams,4,7,0,4th of 5,,N,N
 1937,LAR,NFL,Cleveland Rams,1,10,0,5th of 5,,N,N
+2022,LVR,NFL,Las Vegas Raiders,6,11,0,3rd of 4,,N,N
+2021,LVR,NFL,Las Vegas Raiders,10,7,0,2nd of 4,Lost WC,N,N
+2020,LVR,NFL,Las Vegas Raiders,8,8,0,2nd of 4,,N,N
+2019,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
+2018,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2017,LVR,NFL,Oakland Raiders,6,10,0,3rd of 4,,N,N
+2016,LVR,NFL,Oakland Raiders,12,4,0,2nd of 4,Lost WC,N,N
+2015,LVR,NFL,Oakland Raiders,7,9,0,3rd of 4,,N,N
+2014,LVR,NFL,Oakland Raiders,3,13,0,4th of 4,,N,N
+2013,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2012,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
+2011,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
+2010,LVR,NFL,Oakland Raiders,8,8,0,3rd of 4,,N,N
+2009,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
+2008,LVR,NFL,Oakland Raiders,5,11,0,3rd of 4,,N,N
+2007,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2006,LVR,NFL,Oakland Raiders,2,14,0,4th of 4,,N,N
+2005,LVR,NFL,Oakland Raiders,4,12,0,4th of 4,,N,N
+2004,LVR,NFL,Oakland Raiders,5,11,0,4th of 4,,N,N
+2003,LVR,NFL,Oakland Raiders,4,12,0,3rd of 4,,N,N
+2002,LVR,NFL,Oakland Raiders,11,5,0,1st of 4,Lost SB,N,Y
+2001,LVR,NFL,Oakland Raiders,10,6,0,1st of 5,Lost Div,N,N
+2000,LVR,NFL,Oakland Raiders,12,4,0,1st of 5,Lost Conf,N,N
+1999,LVR,NFL,Oakland Raiders,8,8,0,4th of 5,,N,N
+1998,LVR,NFL,Oakland Raiders,8,8,0,2nd of 5,,N,N
+1997,LVR,NFL,Oakland Raiders,4,12,0,4th of 5,,N,N
+1996,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
+1995,LVR,NFL,Oakland Raiders,8,8,0,5th of 5,,N,N
+1994,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,,N,N
+1993,LVR,NFL,Los Angeles Raiders,10,6,0,2nd of 5,Lost Div,N,N
+1992,LVR,NFL,Los Angeles Raiders,7,9,0,4th of 5,,N,N
+1991,LVR,NFL,Los Angeles Raiders,9,7,0,3rd of 5,Lost WC,N,N
+1990,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Conf,N,N
+1989,LVR,NFL,Los Angeles Raiders,8,8,0,3rd of 5,,N,N
+1988,LVR,NFL,Los Angeles Raiders,7,9,0,3rd of 5,,N,N
+1987,LVR,NFL,Los Angeles Raiders,5,10,0,4th of 5,,N,N
+1986,LVR,NFL,Los Angeles Raiders,8,8,0,4th of 5,,N,N
+1985,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Lost Div,N,N
+1984,LVR,NFL,Los Angeles Raiders,11,5,0,3rd of 5,Lost WC,N,N
+1983,LVR,NFL,Los Angeles Raiders,12,4,0,1st of 5,Won SB,Y,Y
+1982,LVR,NFL,Los Angeles Raiders,8,1,0,1st of 5,Lost Div,N,N
+1981,LVR,NFL,Oakland Raiders,7,9,0,4th of 5,,N,N
+1980,LVR,NFL,Oakland Raiders,11,5,0,2nd of 5,Won SB,Y,Y
+1979,LVR,NFL,Oakland Raiders,9,7,0,4th of 5,,N,N
+1978,LVR,NFL,Oakland Raiders,9,7,0,2nd of 5,,N,N
+1977,LVR,NFL,Oakland Raiders,11,3,0,2nd of 5,Lost Conf,N,N
+1976,LVR,NFL,Oakland Raiders,13,1,0,1st of 5,Won SB,Y,Y
+1975,LVR,NFL,Oakland Raiders,11,3,0,1st of 4,Lost Conf,N,N
+1974,LVR,NFL,Oakland Raiders,12,2,0,1st of 4,Lost Conf,N,N
+1973,LVR,NFL,Oakland Raiders,9,4,1,1st of 4,Lost Conf,N,N
+1972,LVR,NFL,Oakland Raiders,10,3,1,1st of 4,Lost Div,N,N
+1971,LVR,NFL,Oakland Raiders,8,4,2,2nd of 4,,N,N
+1970,LVR,NFL,Oakland Raiders,8,4,2,1st of 4,Lost Conf,N,N
+1969,LVR,AFL,Oakland Raiders,12,1,1,1st of 5,Lost Conf,N,N
+1968,LVR,AFL,Oakland Raiders,12,2,0,1st of 5,Lost Conf,N,N
+1967,LVR,AFL,Oakland Raiders,13,1,0,1st of 4,Lost SB,N,Y
+1966,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
+1965,LVR,AFL,Oakland Raiders,8,5,1,2nd of 4,,N,N
+1964,LVR,AFL,Oakland Raiders,5,7,2,3rd of 4,,N,N
+1963,LVR,AFL,Oakland Raiders,10,4,0,2nd of 4,,N,N
+1962,LVR,AFL,Oakland Raiders,1,13,0,4th of 4,,N,N
+1961,LVR,AFL,Oakland Raiders,2,12,0,4th of 4,,N,N
+1960,LVR,AFL,Oakland Raiders,6,8,0,3rd of 4,,N,N
+2022,MIA,NFL,Miami Dolphins,9,8,0,2nd of 4,Lost WC,N,N
 2021,MIA,NFL,Miami Dolphins,9,8,0,3rd of 4,,N,N
 2020,MIA,NFL,Miami Dolphins,10,6,0,2nd of 4,,N,N
 2019,MIA,NFL,Miami Dolphins,5,11,0,4th of 4,,N,N
@@ -1260,6 +1280,7 @@
 1968,MIA,AFL,Miami Dolphins,5,8,1,3rd of 5,,N,N
 1967,MIA,AFL,Miami Dolphins,4,10,0,3rd of 5,,N,N
 1966,MIA,AFL,Miami Dolphins,3,11,0,4th of 5,,N,N
+2022,MIN,NFL,Minnesota Vikings,13,4,0,1st of 4,Lost WC,N,N
 2021,MIN,NFL,Minnesota Vikings,8,9,0,2nd of 4,,N,N
 2020,MIN,NFL,Minnesota Vikings,7,9,0,3rd of 4,,N,N
 2019,MIN,NFL,Minnesota Vikings,10,6,0,2nd of 4,Lost Div,N,N
@@ -1321,6 +1342,7 @@
 1963,MIN,NFL,Minnesota Vikings,5,8,1,4th of 7,,N,N
 1962,MIN,NFL,Minnesota Vikings,2,11,1,6th of 7,,N,N
 1961,MIN,NFL,Minnesota Vikings,3,11,0,7th of 7,,N,N
+2022,NEP,NFL,New England Patriots,8,9,0,3rd of 4,,N,N
 2021,NEP,NFL,New England Patriots,10,7,0,2nd of 4,Lost WC,N,N
 2020,NEP,NFL,New England Patriots,7,9,0,3rd of 4,,N,N
 2019,NEP,NFL,New England Patriots,12,4,0,1st of 4,Lost WC,N,N
@@ -1383,6 +1405,7 @@
 1962,NEP,AFL,Boston Patriots,9,4,1,2nd of 4,,N,N
 1961,NEP,AFL,Boston Patriots,9,4,1,2nd of 4,,N,N
 1960,NEP,AFL,Boston Patriots,5,9,0,4th of 4,,N,N
+2022,NOS,NFL,New Orleans Saints,7,10,0,3rd of 4,,N,N
 2021,NOS,NFL,New Orleans Saints,9,8,0,2nd of 4,,N,N
 2020,NOS,NFL,New Orleans Saints,12,4,0,1st of 4,Lost Div,N,N
 2019,NOS,NFL,New Orleans Saints,13,3,0,1st of 4,Lost WC,N,N
@@ -1438,6 +1461,7 @@
 1969,NOS,NFL,New Orleans Saints,5,9,0,3rd of 4,,N,N
 1968,NOS,NFL,New Orleans Saints,4,9,1,3rd of 4,,N,N
 1967,NOS,NFL,New Orleans Saints,3,11,0,4th of 4,,N,N
+2022,NYG,NFL,New York Giants,9,7,1,3rd of 4,Lost Div,N,N
 2021,NYG,NFL,New York Giants,4,13,0,4th of 4,,N,N
 2020,NYG,NFL,New York Giants,6,10,0,2nd of 4,,N,N
 2019,NYG,NFL,New York Giants,4,12,0,3rd of 4,,N,N
@@ -1535,6 +1559,7 @@
 1927,NYG,NFL,New York Giants,11,1,1,1st of 12,Won Champ,Y,Y
 1926,NYG,NFL,New York Giants,8,4,1,6th of 22,,N,N
 1925,NYG,NFL,New York Giants,8,4,0,4th of 20,,N,N
+2022,NYJ,NFL,New York Jets,7,10,0,4th of 4,,N,N
 2021,NYJ,NFL,New York Jets,4,13,0,4th of 4,,N,N
 2020,NYJ,NFL,New York Jets,2,14,0,4th of 4,,N,N
 2019,NYJ,NFL,New York Jets,7,9,0,3rd of 4,,N,N
@@ -1597,6 +1622,7 @@
 1962,NYJ,AFL,New York Titans,5,9,0,4th of 4,,N,N
 1961,NYJ,AFL,New York Titans,7,7,0,3rd of 4,,N,N
 1960,NYJ,AFL,New York Titans,7,7,0,2nd of 4,,N,N
+2022,PHI,NFL,Philadelphia Eagles,14,3,0,1st of 4,Lost SB,N,Y
 2021,PHI,NFL,Philadelphia Eagles,9,8,0,2nd of 4,Lost WC,N,N
 2020,PHI,NFL,Philadelphia Eagles,4,11,1,4th of 4,,N,N
 2019,PHI,NFL,Philadelphia Eagles,9,7,0,1st of 4,Lost WC,N,N
@@ -1686,6 +1712,7 @@
 1935,PHI,NFL,Philadelphia Eagles,2,9,0,5th of 5,,N,N
 1934,PHI,NFL,Philadelphia Eagles,4,7,0,3rd of 5,,N,N
 1933,PHI,NFL,Philadelphia Eagles,3,5,1,4th of 5,,N,N
+2022,PIT,NFL,Pittsburgh Steelers,9,8,0,3rd of 4,,N,N
 2021,PIT,NFL,Pittsburgh Steelers,9,7,1,2nd of 4,Lost WC,N,N
 2020,PIT,NFL,Pittsburgh Steelers,12,4,0,1st of 4,Lost WC,N,N
 2019,PIT,NFL,Pittsburgh Steelers,8,8,0,2nd of 4,,N,N
@@ -1773,6 +1800,54 @@
 1935,PIT,NFL,Pittsburgh Pirates,4,8,0,3rd of 5,,N,N
 1934,PIT,NFL,Pittsburgh Pirates,2,10,0,5th of 5,,N,N
 1933,PIT,NFL,Pittsburgh Pirates,3,6,2,5th of 5,,N,N
+2022,SEA,NFL,Seattle Seahawks,9,8,0,2nd of 4,Lost WC,N,N
+2021,SEA,NFL,Seattle Seahawks,7,10,0,4th of 4,,N,N
+2020,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost WC,N,N
+2019,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
+2018,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
+2017,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 4,,N,N
+2016,SEA,NFL,Seattle Seahawks,10,5,1,1st of 4,Lost Div,N,N
+2015,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost Div,N,N
+2014,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost SB,N,Y
+2013,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Won SB,Y,Y
+2012,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
+2011,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
+2010,SEA,NFL,Seattle Seahawks,7,9,0,1st of 4,Lost Div,N,N
+2009,SEA,NFL,Seattle Seahawks,5,11,0,3rd of 4,,N,N
+2008,SEA,NFL,Seattle Seahawks,4,12,0,3rd of 4,,N,N
+2007,SEA,NFL,Seattle Seahawks,10,6,0,1st of 4,Lost Div,N,N
+2006,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost Div,N,N
+2005,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Lost SB,N,Y
+2004,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost WC,N,N
+2003,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
+2002,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
+2001,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,,N,N
+2000,SEA,NFL,Seattle Seahawks,6,10,0,4th of 5,,N,N
+1999,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost WC,N,N
+1998,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1997,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1996,SEA,NFL,Seattle Seahawks,7,9,0,5th of 5,,N,N
+1995,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1994,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1993,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1992,SEA,NFL,Seattle Seahawks,2,14,0,5th of 5,,N,N
+1991,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
+1990,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1989,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
+1988,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost Div,N,N
+1987,SEA,NFL,Seattle Seahawks,9,6,0,2nd of 5,Lost WC,N,N
+1986,SEA,NFL,Seattle Seahawks,10,6,0,3rd of 5,,N,N
+1985,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
+1984,SEA,NFL,Seattle Seahawks,12,4,0,2nd of 5,Lost Div,N,N
+1983,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,Lost Conf,N,N
+1982,SEA,NFL,Seattle Seahawks,4,5,0,3rd of 5,,N,N
+1981,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
+1980,SEA,NFL,Seattle Seahawks,4,12,0,5th of 5,,N,N
+1979,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1978,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
+1977,SEA,NFL,Seattle Seahawks,5,9,0,4th of 5,,N,N
+1976,SEA,NFL,Seattle Seahawks,2,12,0,5th of 5,,N,N
+2022,SFC,NFL,San Francisco 49ers,13,4,0,1st of 4,Lost Div,N,N
 2021,SFC,NFL,San Francisco 49ers,10,7,0,3rd of 4,Lost Conf,N,N
 2020,SFC,NFL,San Francisco 49ers,6,10,0,4th of 4,,N,N
 2019,SFC,NFL,San Francisco 49ers,13,3,0,1st of 4,Lost SB,N,Y
@@ -1849,52 +1924,7 @@
 1948,SFC,AAFC,San Francisco 49ers,12,2,0,2nd of 4,,N,N
 1947,SFC,AAFC,San Francisco 49ers,8,4,2,2nd of 4,,N,N
 1946,SFC,AAFC,San Francisco 49ers,9,5,0,2nd of 4,,N,N
-2021,SEA,NFL,Seattle Seahawks,7,10,0,4th of 4,,N,N
-2020,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost WC,N,N
-2019,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
-2018,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
-2017,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 4,,N,N
-2016,SEA,NFL,Seattle Seahawks,10,5,1,1st of 4,Lost Div,N,N
-2015,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost Div,N,N
-2014,SEA,NFL,Seattle Seahawks,12,4,0,1st of 4,Lost SB,N,Y
-2013,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Won SB,Y,Y
-2012,SEA,NFL,Seattle Seahawks,11,5,0,2nd of 4,Lost Div,N,N
-2011,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
-2010,SEA,NFL,Seattle Seahawks,7,9,0,1st of 4,Lost Div,N,N
-2009,SEA,NFL,Seattle Seahawks,5,11,0,3rd of 4,,N,N
-2008,SEA,NFL,Seattle Seahawks,4,12,0,3rd of 4,,N,N
-2007,SEA,NFL,Seattle Seahawks,10,6,0,1st of 4,Lost Div,N,N
-2006,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost Div,N,N
-2005,SEA,NFL,Seattle Seahawks,13,3,0,1st of 4,Lost SB,N,Y
-2004,SEA,NFL,Seattle Seahawks,9,7,0,1st of 4,Lost WC,N,N
-2003,SEA,NFL,Seattle Seahawks,10,6,0,2nd of 4,Lost WC,N,N
-2002,SEA,NFL,Seattle Seahawks,7,9,0,3rd of 4,,N,N
-2001,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,,N,N
-2000,SEA,NFL,Seattle Seahawks,6,10,0,4th of 5,,N,N
-1999,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost WC,N,N
-1998,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
-1997,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
-1996,SEA,NFL,Seattle Seahawks,7,9,0,5th of 5,,N,N
-1995,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
-1994,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
-1993,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
-1992,SEA,NFL,Seattle Seahawks,2,14,0,5th of 5,,N,N
-1991,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
-1990,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
-1989,SEA,NFL,Seattle Seahawks,7,9,0,4th of 5,,N,N
-1988,SEA,NFL,Seattle Seahawks,9,7,0,1st of 5,Lost Div,N,N
-1987,SEA,NFL,Seattle Seahawks,9,6,0,2nd of 5,Lost WC,N,N
-1986,SEA,NFL,Seattle Seahawks,10,6,0,3rd of 5,,N,N
-1985,SEA,NFL,Seattle Seahawks,8,8,0,3rd of 5,,N,N
-1984,SEA,NFL,Seattle Seahawks,12,4,0,2nd of 5,Lost Div,N,N
-1983,SEA,NFL,Seattle Seahawks,9,7,0,2nd of 5,Lost Conf,N,N
-1982,SEA,NFL,Seattle Seahawks,4,5,0,3rd of 5,,N,N
-1981,SEA,NFL,Seattle Seahawks,6,10,0,5th of 5,,N,N
-1980,SEA,NFL,Seattle Seahawks,4,12,0,5th of 5,,N,N
-1979,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
-1978,SEA,NFL,Seattle Seahawks,9,7,0,3rd of 5,,N,N
-1977,SEA,NFL,Seattle Seahawks,5,9,0,4th of 5,,N,N
-1976,SEA,NFL,Seattle Seahawks,2,12,0,5th of 5,,N,N
+2022,TBB,NFL,Tampa Bay Buccaneers,8,9,0,1st of 4,Lost WC,N,N
 2021,TBB,NFL,Tampa Bay Buccaneers,13,4,0,1st of 4,Lost Div,N,N
 2020,TBB,NFL,Tampa Bay Buccaneers,11,5,0,2nd of 4,Won SB,Y,Y
 2019,TBB,NFL,Tampa Bay Buccaneers,7,9,0,3rd of 4,,N,N
@@ -1941,6 +1971,7 @@
 1978,TBB,NFL,Tampa Bay Buccaneers,5,11,0,5th of 5,,N,N
 1977,TBB,NFL,Tampa Bay Buccaneers,2,12,0,5th of 5,,N,N
 1976,TBB,NFL,Tampa Bay Buccaneers,0,14,0,5th of 5,,N,N
+2022,TEN,NFL,Tennessee Titans,7,10,0,2nd of 4,,N,N
 2021,TEN,NFL,Tennessee Titans,12,5,0,1st of 4,Lost Div,N,N
 2020,TEN,NFL,Tennessee Titans,11,5,0,1st of 4,Lost WC,N,N
 2019,TEN,NFL,Tennessee Titans,9,7,0,2nd of 4,Lost Conf,N,N
@@ -2003,6 +2034,7 @@
 1962,TEN,AFL,Houston Oilers,11,3,0,1st of 4,Lost Champ,N,Y
 1961,TEN,AFL,Houston Oilers,10,3,1,1st of 4,Won Champ,Y,Y
 1960,TEN,AFL,Houston Oilers,10,4,0,1st of 4,Won Champ,Y,Y
+2022,WAS,NFL,Washington Football Team,8,8,1,4th of 4,,N,N
 2021,WAS,NFL,Washington Football Team,7,10,0,3rd of 4,,N,N
 2020,WAS,NFL,Washington Football Team,7,9,0,1st of 4,Lost WC,N,N
 2019,WAS,NFL,Washington Redskins,3,13,0,4th of 4,,N,N

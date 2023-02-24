@@ -23,7 +23,7 @@ That's what this sets out to do, using the power of data!
 - Major League Baseball (1920 - 2022)
 - Major League Soccer (1996 - 2022)
 - National Basketball Association (1947 - 2021)
-- National Football League (1932 - 2021)
+- National Football League (1932 - 2022)
 - National Hockey League (1918 - 2021)
 - National Rugby League (1998 - 2022)
 - National Women's Soccer League (2013 - 2022)

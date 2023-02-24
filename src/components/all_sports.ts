@@ -87,7 +87,7 @@ export const TeamData = function (
   let ch_rus = Object.keys(ch_ru_years).length;
 
   // Checks for league. Some data sets use runners up while others count appearances
-  if (league == "MLB" || league == "MLS") {
+  if (league == "MLB" || league == "MLS" || league == "NFL") {
     var ch_apps = ch_rus - ch_wins;
   } else {
     var ch_apps = ch_rus;
