@@ -16,7 +16,7 @@ That's what this sets out to do, using the power of data!
 - Caribbean Premier League (2013 - 2022)
 - Chinese Professional Baseball League - Taiwan (1990 - 2022)
 - Indian Premier League (2008 - 2022)
-- Indian Super League (2014 - 2021)
+- Indian Super League (2014 - 2022)
 - KBO League (1982 - 2022)
 - La Liga (1996 - 2022, more dates to come)
 - Ligue 1 (1996 - 2022, more dates to come)

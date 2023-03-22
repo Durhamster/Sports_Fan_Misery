@@ -75,3 +75,14 @@ yearID,teamID,franchID,name,Rank,W,D,L,Playoffs,Cwin,CRU
 2021,MBC,MBC,Mumbai City FC,5,9,4,7,N,N,N
 2021,NEU,NEU,NorthEast United FC,10,3,5,12,N,N,N
 2021,DEL,DEL,Odisha FC,7,6,5,9,N,N,N
+2022,ATK,ATK,ATK Mohun Bagan,3,10,4,6,Y,Y,N
+2022,BFC,BFC,Bengaluru FC,4,11,1,8,Y,N,Y
+2022,CHE,CHE,Chennaiyin FC,8,7,6,7,N,N,N
+2022,EBG,EGE,East Bengal Club,9,6,1,13,N,N,N
+2022,GOA,GOA,FC Goa,7,8,3,9,N,N,N
+2022,HYD,HYD,Hyderabad FC,2,13,3,4,Y,N,N
+2022,JAM,JAM,Jamshedpur FC,10,5,4,11,N,N,N
+2022,KER,KER,Kerala Blasters FC,5,10,1,9,Y,N,N
+2022,MBC,MBC,Mumbai City FC,1,14,4,2,Y,N,N
+2022,NEU,NEU,NorthEast United FC,11,1,2,17,N,N,N
+2022,DEL,DEL,Odisha FC,6,9,3,8,Y,N,N

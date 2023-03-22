@@ -16,7 +16,7 @@ footer.innerHTML = footer_content;
 document.getElementById("flowchart")!.setAttribute("src", flowchart_url);
 
 // Checking for IE
-if (!!usingIE()) {
+if (usingIE?.()) {
   alert(
     "Hey there. It looks as though you are using Internet Explorer. You really should start using another browser (i.e. FireFox, Chrome, or Safari)."
   );
